@@ -1,0 +1,55 @@
+import torch
+from fairseq.models.roberta import RobertaModel
+import time
+import os
+import torch.nn as nn
+import pylcs
+import argparse
+import re
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import sent_tokenize, word_tokenize
+
+
+from transformers import pipeline
+question_answering=pipeline("question-answering")
+
+
+
+#python textblob.download_corpora
+from textblob import TextBlob
+
+soft = torch.nn.Softmax(dim=1)
+
+roberta = RobertaModel.from_pretrained(
+    '/content/drive/MyDrive/contradiction/RoBERTa_QQP_output/checkpoints/',
+    checkpoint_file='checkpoint_best.pt',
+    data_name_or_path='/content/drive/MyDrive/contradiction/RoBERTa_QQP_output/QQP-bin'
+)
+noun_1=" "
+noun_2=" "
+pair0="Okay.  Do you know who the person in the hard hat is next to that vehicle?"
+pair1= "No, that truck belongs to my supervisor."
+#noun0=TextBlob(pair0)
+#noun1=TextBlob(pair1)
+#noun_A=noun0.noun_phrases
+
+#noun_B=noun1.noun_phrases
+
+#for noun in noun_A:
+  #noun_1= noun_1+" "+noun
+
+#for noun in noun_B:
+  #noun_2=noun_2+" "+noun
+start_time = time.time()
+sent1 = pair0
+sent2 = pair1
+# roberta.cuda()
+roberta.eval()
+tokens = roberta.encode(sent1, sent2)
+prediction = roberta.predict('sentence_classification_head', tokens)
+softmax_prediction = soft(prediction)
+
+## similarity score out of 100%
+print('Similarity score : ',softmax_prediction[0][1].item()*100,'%')
+print('time : ',time.time() - start_time)
