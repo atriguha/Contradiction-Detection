@@ -1,0 +1,1173 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, examined and testified as follows:,,,symbols
+1,134,5,14,-  -  - EXAMINATION,symbols,,symbols
+2,136,5,16,-  -  -,symbols,,start_question
+3,138,5,18,"Mr. Robinson, good morning. My name is Rich Scholer, I'm an attorney with Farmers and I represent Mr. Edward Holt in a lawsuit that you filed in reference to a motor vehicle accident that I have occurred on August 27th, 2017, and we're here for your deposition today.  Have you ever had your deposition taken before for any reason?",q,MR. SCHOLER,start_answer
+4,149,6,3,No.,a,THE WITNESS,start_question
+5,150,6,4,"Okay.  Then I'm going to go over some guidelines to make it go as smoothly as possible.  I'm going to ask you some questions, you're hopefully going to provide some answers, at the end your Counsel may have questions for you. Seated to my left and your right is the court reporter.  Her job is to take everything that's said down accurately, so we want to try and make her job as easy as possible.  Because at the end, she's going to make a little booklet that will contain all of the questions and all of the answers, and we want that booklet to be as accurate as possible. So certain guidelines we like to follow.  I'm going to ask you a question, you may know exactly what I'm going to ask, but I'm going to ask you if you could let me finish the whole question before you start your answer. I'll give you the same courtesy, let you finish an entire answer before I start another question.  So she can look at me, take the question, look at you, take your answer. It's hard in our normal, everyday conversation.  We typically speak over each other.  If it happens, she will stop us and say, ""I can only take one person at a time.""  Not trying to be mean or nasty, just trying to get an accurate transcription. If I ask a question and you don't hear it, please say so, and I'll repeat it.  If I ask you a question and you don't understands it, please say so and I'll rephrase it.  Otherwise, if you answer it, I'll assume you heard it, you understood it, and you're giving me a truthful answer.  Because the first thing the court reporter did is give you an oath to be truthful.  Even though we're not in a courtroom setting, you still have that legal obligation to give truthful answers. If I ask a question and you have absolutely no idea, I don't want you to guess.  Although, if you can give an estimate or approximation; time, distance, anything like that, that's perfectly fine.  But if you are going to answer my question with, ""I have absolutely no idea, it's going to be a total guess,"" I'd rather you say, ""I don't know,"" or ""I don't recall,"" that's perfectly fine.  I'm only interested in finding out what you recall about the facts. All the answers have to be verbal.  If you respond with an uh-uh, uh-huh, shrug your shoulders, nod your head, everyone in the room is probably going to know what you mean, but for the purposes of the record, those things don't transcribe, they look the same.  So if you get prompted to say, ""Is that a yes,"" or ""Is that a no,"" that's for the benefit of the transcript. Hopefully we won't be here that long, but if you need a break for any reason, just let us know.  We can take a break, talk to Counsel, go to the restroom, get a drink, whatever you want. But I would ask if you could finish answering whatever question has been already been asked so the court reporter doesn't have to read it back when we come back from that break.  But otherwise, if you need a break just let us know. If you recall an answer to a question a couple questions down the way and you want to go back and say, ""Hey, I want to supplement that answer,"" no problem, just let us know.  ""Remember when you asked me that question back then?  I remembered something else."" That's perfectly fine.  Whatever you remember, whenever you remember, we can go back and supplement any answers that you have. Do you understand all of the instructions as I've given you?",q,MR. SCHOLER,start_answer
+6,252,10,2,Yup.,a,THE WITNESS,start_question
+7,253,10,3,"Are you currently right now under the influence of any drugs, alcohol, or medicine that would affect your ability to give truthful answers today?",q,MR. SCHOLER,start_answer
+8,258,10,8,No.,a,THE WITNESS,start_question
+9,259,10,9,Could you please state your full name and spell your last name?,q,MR. SCHOLER,start_answer
+10,261,10,11,"Ronald Robinson, R-O-B-I-N-S-O-N.",a,THE WITNESS,start_question
+11,263,10,13,Have you ever been known by any other names?,q,MR. SCHOLER,start_answer
+12,265,10,15,No.,a,THE WITNESS,start_question
+13,266,10,16,What is your date of birth?,q,MR. SCHOLER,start_answer
+14,267,10,17,12/4/77.,a,THE WITNESS,start_question
+15,268,10,18,And are you right handed or left handed?,q,MR. SCHOLER,start_answer
+16,270,10,20,Right handed.,a,THE WITNESS,start_question
+17,271,10,21,Your current address?,q,MR. SCHOLER,start_answer
+18,272,10,22,857 Bridge Street.,a,THE WITNESS,start_question
+19,273,10,23,That's in Philadelphia?,q,MR. SCHOLER,start_answer
+20,274,10,24,Yes.,a,THE WITNESS,start_question
+21,277,11,1,What's the zip; do you know?,q,MR. SCHOLER,start_answer
+22,278,11,2,19124.,a,THE WITNESS,start_question
+23,279,11,3,Is that a house or an apartment?,q,MR. SCHOLER,start_answer
+24,281,11,5,A house.,a,THE WITNESS,start_question
+25,282,11,6,How long have you been at that house?,q,MR. SCHOLER,start_answer
+26,284,11,8,Four years.,a,THE WITNESS,start_question
+27,285,11,9,Fair to say that was your residence on the date of this accident?,q,MR. SCHOLER,start_answer
+28,287,11,11,Mhmm.,a,THE WITNESS,start_question
+29,288,11,12,Is that a yes?,q,MR. SCHOLER,start_answer
+30,289,11,13,Yes.,a,THE WITNESS,start_question
+31,290,11,14,Perfect.  Do you own or rent it?,q,MR. SCHOLER,start_answer
+32,292,11,16,Own.,a,THE WITNESS,start_question
+33,293,11,17,Does anyone else currently reside with you?,q,MR. SCHOLER,start_answer
+34,295,11,19,My son.,a,THE WITNESS,start_question
+35,296,11,20,What's his name?,q,MR. SCHOLER,start_answer
+36,297,11,21,"Quron, Q-U-R-O-N, Robinson.",a,THE WITNESS,start_question
+37,298,11,22,And how old is Quron Robinson?,q,MR. SCHOLER,start_answer
+38,300,11,24,18.,a,THE WITNESS,start_question
+39,303,12,1,Does he have a driver's license?,q,MR. SCHOLER,start_answer
+40,305,12,3,Yes.,a,THE WITNESS,start_question
+41,306,12,4,Okay.  Have you ever been married?,q,MR. SCHOLER,start_answer
+42,308,12,6,No.,a,THE WITNESS,start_question
+43,309,12,7,Is Quron your only son?,q,MR. SCHOLER,start_answer
+44,310,12,8,No.,a,THE WITNESS,start_question
+45,311,12,9,Do you have any other children?,q,MR. SCHOLER,start_answer
+46,313,12,11,Yes.,a,THE WITNESS,start_question
+47,314,12,12,How many?,q,MR. SCHOLER,start_answer
+48,315,12,13,Three other.,a,THE WITNESS,start_question
+49,316,12,14,Can I just ballpark names and ages?,q,MR. SCHOLER,start_answer
+50,318,12,16,"Bayak, B-A-Y-A-K, 20, Tyeisha, 21, Sybair, S-Y-B-A-I-R, 6.",a,THE WITNESS,start_question
+51,320,12,18,Did any of those children live with you on the date of the accident?,q,MR. SCHOLER,start_answer
+52,323,12,21,No.,a,THE WITNESS,start_question
+53,324,12,22,Okay.,q,MR. SCHOLER,start_answer
+54,325,12,23,Just Quron.,a,THE WITNESS,start_question
+55,326,12,24,"Just Quron, I'm sorry.",q,MR. SCHOLER,start_chat
+56,329,13,1,Off the record.,side_chat,MR. SCHOLER,symbols
+57,331,13,3,-  -  -,symbols,,is brackets
+58,332,13,4,"(Whereupon, a brief discussion was held off the record.)",brackets,,symbols
+59,335,13,7,-  -  -,symbols,,start_question
+60,337,13,9,Have you ever served in the military?,q,MR. SCHOLER,start_answer
+61,339,13,11,No.,a,THE WITNESS,start_question
+62,340,13,12,"Have you ever had any health problems or issues that may affect your driving, anything with your eyes, seizures, brain disorders, diabetes?",q,MR. SCHOLER,start_answer
+63,344,13,16,No.,a,THE WITNESS,start_question
+64,345,13,17,Are you currently employed?,q,MR. SCHOLER,start_answer
+65,346,13,18,Yes.,a,THE WITNESS,start_question
+66,347,13,19,By who?,q,MR. SCHOLER,start_answer
+67,348,13,20,Myself.,a,THE WITNESS,start_question
+68,349,13,21,What do you do?,q,MR. SCHOLER,start_answer
+69,350,13,22,"Painting, residential and commercial.",a,THE WITNESS,start_question
+70,352,13,24,Does your business have a name?,q,MR. SCHOLER,start_answer
+71,356,14,2,Double R Painting.,a,THE WITNESS,start_question
+72,357,14,3,And how long have you owned Double R Painting?,q,MR. SCHOLER,start_answer
+73,359,14,5,Six years.,a,THE WITNESS,start_question
+74,360,14,6,Do you have any employees?,q,MR. SCHOLER,start_answer
+75,361,14,7,One.,a,THE WITNESS,start_question
+76,362,14,8,What's his or her name?,q,MR. SCHOLER,start_answer
+77,363,14,9,Joshua Thompson.,a,THE WITNESS,start_question
+78,364,14,10,"Does your business have any work vehicles, in other words vehicles that are registered in the business name?",q,MR. SCHOLER,start_answer
+79,367,14,13,One.,a,THE WITNESS,start_question
+80,368,14,14,What type of vehicle is that?,q,MR. SCHOLER,start_answer
+81,370,14,16,A cargo van.,a,THE WITNESS,start_question
+82,371,14,17,"At the time of the accident, you obviously were working, had your own business, Double R Painting?",q,MR. SCHOLER,start_answer
+83,374,14,20,Yes.,a,THE WITNESS,start_question
+84,375,14,21,Any other jobs at that time?,q,MR. SCHOLER,start_answer
+85,376,14,22,No.,a,THE WITNESS,start_chat
+86,377,14,23,"To be clear, it's my understanding no wage loss claim at this time?",side_chat,MR. SCHOLER,start_chat
+87,382,15,2,"I think we should go through the wage loss stuff.  Not from initial missed time, just from PT taking time off.",side_chat,MR. DOBSON,start_chat
+88,387,15,7,Okay.,side_chat,MR. SCHOLER,start_question
+89,389,15,9,"The vehicle that you were operating at the time of the accident, was that a personal vehicle or a business vehicle?",q,MR. SCHOLER,start_answer
+90,393,15,13,A business vehicle.,a,THE WITNESS,start_question
+91,394,15,14,Okay.  What type of vehicle was that?,q,MR. SCHOLER,start_answer
+92,396,15,16,"The company is called All Threes Cab Company, limousine and cab company.",a,THE WITNESS,start_question
+93,399,15,19,Were you employed by them at the time?,q,MR. SCHOLER,start_answer
+94,401,15,21,Yes.,a,THE WITNESS,start_question
+95,402,15,22,Okay.  How long had you worked for All Threes Cab Company at the time of the accident?,q,MR. SCHOLER,start_answer
+96,407,16,1,A year.,a,THE WITNESS,start_question
+97,408,16,2,What were your job duties?,q,MR. SCHOLER,start_answer
+98,409,16,3,To drive.,a,THE WITNESS,start_question
+99,410,16,4,Did you pick up fares on the street or did you have leads or call ins to pick up fares?,q,MR. SCHOLER,start_answer
+100,413,16,7,"Call ins, no street pick ups.",a,THE WITNESS,start_question
+101,415,16,9,Are you still employed by All Threes Cab Company?,q,MR. SCHOLER,start_answer
+102,417,16,11,"No, they let me go.",a,THE WITNESS,start_question
+103,418,16,12,Was that as a result of the accident?,q,MR. SCHOLER,start_answer
+104,420,16,14,Yes.,a,THE WITNESS,start_question
+105,421,16,15,And what was the timeframe after the accident that they let you go?,q,MR. SCHOLER,start_answer
+106,423,16,17,A month.,a,THE WITNESS,start_question
+107,424,16,18,"In that month time, did you continue to work for them after the accident before they let you go?",q,MR. SCHOLER,start_answer
+108,427,16,21,"Yeah.  Not as many days as I was driving before, you know, going to therapy and everything, but I worked a few days out the week until they let me go.",a,THE WITNESS,start_question
+109,434,17,2,"Okay.  So for All Threes Cab Company, did you have a salary?",q,MR. SCHOLER,start_answer
+110,436,17,4,No.,a,THE WITNESS,start_question
+111,437,17,5,How were you compensated?,q,MR. SCHOLER,start_answer
+112,438,17,6,With the money you make in the street.,a,THE WITNESS,start_question
+113,440,17,8,You get a percentage of that?,q,MR. SCHOLER,start_answer
+114,442,17,10,"I guess you can say that, yeah.  You pretty much keep everything after you make their money.",a,THE WITNESS,start_question
+115,445,17,13,Was there a set number that you had to make to turn over to the company?,q,MR. SCHOLER,start_answer
+116,448,17,16,Yes.,a,THE WITNESS,start_question
+117,449,17,17,And what was that?,q,MR. SCHOLER,start_answer
+118,450,17,18,$150 a day.,a,THE WITNESS,start_question
+119,451,17,19,How many days prior to the accident did you typically work in a week?,q,MR. SCHOLER,start_answer
+120,454,17,22,Every day.,a,THE WITNESS,start_question
+121,455,17,23,Seven days a week?,q,MR. SCHOLER,start_answer
+122,456,17,24,Every day.,a,THE WITNESS,start_question
+123,459,18,1,How many hours a day?,q,MR. SCHOLER,start_answer
+124,460,18,2,13.,a,THE WITNESS,start_question
+125,461,18,3,And do you know what your take-home pay was daily?,q,MR. SCHOLER,start_answer
+126,463,18,5,$100.,a,THE WITNESS,start_question
+127,464,18,6,"When you were operating their vehicle, were you required to put fuel in it on your own money, or did they give you money to put fuel in it?",q,MR. SCHOLER,start_answer
+128,468,18,10,I had to pay for my own fuel.,a,THE WITNESS,start_question
+129,470,18,12,"Did they charge you for a per mile depreciation of the vehicle, also?",q,MR. SCHOLER,start_answer
+130,473,18,15,No.,a,THE WITNESS,start_question
+131,474,18,16,So your only out-of-pocket expense would have been fuel?,q,MR. SCHOLER,start_answer
+132,476,18,18,Yes.,a,THE WITNESS,start_question
+133,477,18,19,Was there any benefits for the cab company as far as sick days or vacation days?,q,MR. SCHOLER,start_answer
+134,480,18,22,No.,a,THE WITNESS,start_question
+135,481,18,23,"So if you took off, you didn't get paid; is that fair?",q,MR. SCHOLER,start_answer
+136,485,19,1,Right.  And you got to get the cab back or you got to pay for it anyway.,a,THE WITNESS,start_question
+137,488,19,4,"So as long as you have the cab in your possession, you were responsible for that $150 a day fee?",q,MR. SCHOLER,start_answer
+138,491,19,7,Yes.,a,THE WITNESS,start_question
+139,492,19,8,"So when you were working seven days a week, did you always have possession of the same vehicle, that same cab?",q,MR. SCHOLER,start_answer
+140,496,19,12,Yes.,a,THE WITNESS,start_question
+141,497,19,13,Who was responsible for maintenance of that cab?,q,MR. SCHOLER,start_answer
+142,499,19,15,The cab company.,a,THE WITNESS,start_question
+143,500,19,16,"If the vehicle had to go in for service for any reason, did you get a different cab?",q,MR. SCHOLER,start_answer
+144,503,19,19,Yes.,a,THE WITNESS,start_question
+145,504,19,20,Did you have a supervisor at the cab company?,q,MR. SCHOLER,start_answer
+146,506,19,22,No.,a,THE WITNESS,start_question
+147,507,19,23,Was there an owner?,q,MR. SCHOLER,start_answer
+148,508,19,24,"It is, but I don't know who they are.",a,THE WITNESS,start_question
+149,512,20,2,"Do you know who you would report to to get jobs or turn the cab in, or was there someone there that you would talk to?",q,MR. SCHOLER,start_answer
+150,516,20,6,"I don't know who it is, whoever is at that window at the front desk, pass out keys and take the keys and the money.",a,THE WITNESS,start_question
+151,520,20,10,"If you had to call out sick or call out for a day, would you call the front desk and that person you would speak with?",q,MR. SCHOLER,start_answer
+152,524,20,14,Yes.,a,THE WITNESS,start_question
+153,525,20,15,"Assume majority of the job when you were driving the cab was sitting, correct?",q,MR. SCHOLER,start_answer
+154,528,20,18,Yes.,a,THE WITNESS,start_question
+155,529,20,19,Did you have to remove luggage from the vehicle on occasion when someone brought luggage into the cab?,q,MR. SCHOLER,start_answer
+156,532,20,22,Yes.,a,THE WITNESS,start_question
+157,533,20,23,"After the accident, how were you informed -- you said the number of days that you worked went down.  Did they tell you that, or did you -- because you had possession of the vehicles.  Did they tell you to turn in the car for certain days?  How come you didn't work so much?",q,MR. SCHOLER,start_answer
+158,542,21,6,"Because I had to go to therapy, and usually when I got to go to therapy, I just turn the cab back in and just take off that day.",a,THE WITNESS,start_question
+159,546,21,10,"And then the next day if you went to go back, was there a time when they said they didn't have a cab available for you so you couldn't work?",q,MR. SCHOLER,start_answer
+160,550,21,14,No.,a,THE WITNESS,start_question
+161,551,21,15,"So when you missed time, it was just to go to the physical therapy, you'd take off the whole day?",q,MR. SCHOLER,start_answer
+162,554,21,18,Yes.,a,THE WITNESS,start_question
+163,555,21,19,"So in that month after the accident, the time you missed was as a result of physical therapy from your injuries from the accident; is that fair to say?",q,MR. SCHOLER,start_answer
+164,560,21,24,Yes.,a,THE WITNESS,start_question
+165,563,22,1,"Okay.  So if you wanted to work the seven days a week continually, would you have had access to the car in that month after the accident to when they let you go?",q,MR. SCHOLER,start_answer
+166,568,22,6,Yes.,a,THE WITNESS,start_question
+167,569,22,7,What were your typical hours when you drove the cab?,q,MR. SCHOLER,start_answer
+168,571,22,9,12:00 to 12:00.,a,THE WITNESS,start_question
+169,572,22,10,Is that p.m. to a.m.?,q,MR. SCHOLER,start_answer
+170,573,22,11,Yes.,a,THE WITNESS,start_question
+171,574,22,12,Did you have a zone or an area which you stayed in or was it city wide or state wide; what was your range?,q,MR. SCHOLER,start_answer
+172,577,22,15,"I stayed like in the northeast.  I could have went anywhere, but I stayed more in the northeast area.",a,THE WITNESS,start_question
+173,580,22,18,Was there radio contact with base?,q,MR. SCHOLER,start_answer
+174,582,22,20,Yes.,a,THE WITNESS,start_question
+175,583,22,21,And would they communicate with you over the radio to direct you to where there was a fare?,q,MR. SCHOLER,start_answer
+176,586,22,24,Yes.,a,THE WITNESS,start_question
+177,589,23,1,Did you ever have to use your cellphone for that?,q,MR. SCHOLER,start_answer
+178,591,23,3,Yes.,a,THE WITNESS,start_question
+179,592,23,4,"What was the difference as far as when they would contact you via radio and when they would call you for a fare, if there was any?",q,MR. SCHOLER,start_answer
+180,596,23,8,Can you repeat that?,a,THE WITNESS,start_question
+181,597,23,9,"Sure.  Sometimes they contact you by radio, and that would be a handheld mic in the vehicle; is that correct?",q,MR. SCHOLER,start_answer
+182,601,23,13,Mhmm.,a,THE WITNESS,start_question
+183,602,23,14,Antennae on the back?,q,MR. SCHOLER,start_answer
+184,603,23,15,Yes.,a,THE WITNESS,start_question
+185,604,23,16,"And sometimes you said via cellphone.  If you had your cellphone, they'd call you on the cell to direct you to where to go?",q,MR. SCHOLER,start_answer
+186,608,23,20,"Only time that happened was when the radios was down, they were switching to a new system or whatever and we had to use our phones to call and get the jobs.",a,THE WITNESS,start_question
+187,615,24,1,"Okay.  So most of the time if everything was working properly, is it fair to say that the radio was the main source of communication?",q,MR. SCHOLER,start_answer
+188,619,24,5,Yes.,a,THE WITNESS,start_question
+189,620,24,6,Did they have any unions there by any chance in the cab company?,q,MR. SCHOLER,start_answer
+190,622,24,8,"Union, no.",a,THE WITNESS,start_question
+191,623,24,9,"In the month after the accident, can you estimate how many days you did not work because of physical therapy?",q,MR. SCHOLER,start_answer
+192,627,24,13,12.,a,THE WITNESS,start_question
+193,628,24,14,"So based upon your previous testimony about $100 a day, and you missed 12 days of work because of physical therapy, that's about $1,200 would you estimate out of pocket?",q,MR. SCHOLER,start_answer
+194,633,24,19,"Yeah, I would estimate.",a,THE WITNESS,start_question
+195,634,24,20,"How did they pay you, was it by check, was it by cash?",q,MR. SCHOLER,start_answer
+196,636,24,22,How did who pay me?,a,THE WITNESS,start_question
+197,637,24,23,"The cab company, sorry.",q,MR. SCHOLER,start_answer
+198,638,24,24,"I said I make my own money. I keep everything after the $150 I get them, so they never paid me.",a,THE WITNESS,start_question
+199,643,25,3,Was it always cash from the customers?,q,MR. SCHOLER,start_answer
+200,645,25,5,No.,a,THE WITNESS,start_question
+201,646,25,6,Did the cab have the ability to use credit cards?,q,MR. SCHOLER,start_answer
+202,648,25,8,"Yes.  That's the only way they would pay me if I take the receipts in there and get the cash back, or if I just use it to pay for the cab.",a,THE WITNESS,start_question
+203,652,25,12,"Okay.  So I'm clear, if you piked up a fare while you're working for the cab company and they paid by credit card and used the machine in the vehicle, you would take a copy of the receipt and get reimbursed by the cab company?",q,MR. SCHOLER,start_answer
+204,658,25,18,Yes.,a,THE WITNESS,start_question
+205,659,25,19,"But if they paid you in cash, you kept the cash on your person, you didn't have to turn that in other than paying the $150 fee for the car?",q,MR. SCHOLER,start_answer
+206,663,25,23,Right.,a,THE WITNESS,start_question
+207,664,25,24,Did any doctors that you were seeing after the accident tell you that you should not drive the cab?,q,MR. SCHOLER,start_answer
+208,669,26,3,No.,a,THE WITNESS,start_question
+209,670,26,4,"Did you have to make any modifications to the cab that you were driving after the accident, change the seat position?",q,MR. SCHOLER,start_answer
+210,674,26,8,"Well, I used a small pillow off the couch when I was driving for that month after.",a,THE WITNESS,start_question
+211,677,26,11,"Would you sit on the pillow, would you put it behind your back, shoulders?",q,MR. SCHOLER,start_answer
+212,680,26,14,I put it on my back on the back of the seat.,a,THE WITNESS,start_question
+213,682,26,16,"Okay.  Would that then kind of push your back forward in the seat, giving that pillow between the back of the seat and your actual physical back?",q,MR. SCHOLER,start_answer
+214,686,26,20,"No.  Because I had my seat back, so it just let pressure off the bottom of my back.",a,THE WITNESS,start_question
+215,689,26,23,Did you receive any unemployment compensation from the cab company?,q,MR. SCHOLER,start_answer
+216,694,27,2,No.,a,THE WITNESS,start_question
+217,695,27,3,Did you apply for any disability for the cab company?,q,MR. SCHOLER,start_answer
+218,697,27,5,No.,a,THE WITNESS,start_question
+219,698,27,6,Had you filed tax returns for the last five years before the motor vehicle accident?,q,MR. SCHOLER,start_answer
+220,701,27,9,"For what, for the cab company?",a,THE WITNESS,start_question
+221,703,27,11,Yes.,q,MR. SCHOLER,start_answer
+222,704,27,12,No.,a,THE WITNESS,start_question
+223,705,27,13,Did you include the income that you received from the cab company on any tax returns you did file?,q,MR. SCHOLER,start_answer
+224,708,27,16,No.,a,THE WITNESS,start_question
+225,709,27,17,"At the same time you were operating the cab, you were also working at Double R Painting?",q,MR. SCHOLER,start_answer
+226,712,27,20,Yes.,a,THE WITNESS,start_question
+227,713,27,21,And how many days a week would you work at Double R Painting?,q,MR. SCHOLER,start_answer
+228,715,27,23,"It varies.  Whenever jobs pop up, I'll do them.",a,THE WITNESS,start_question
+229,719,28,1,How do you get customers for the painting business?,q,MR. SCHOLER,start_answer
+230,721,28,3,"Online, word of mouth, yard signs.",a,THE WITNESS,start_question
+231,723,28,5,"Can you estimate your hourly salary, or is it easier to estimate say a monthly or yearly salary for the painting job only?",q,MR. SCHOLER,start_answer
+232,727,28,9,Can you repeat that?,a,THE WITNESS,start_question
+233,728,28,10,Sure.  How much did you make on average in a week?  Let's ask that.,q,MR. SCHOLER,start_answer
+234,730,28,12,Painting?,a,THE WITNESS,start_question
+235,731,28,13,"Yes, just painting.",q,MR. SCHOLER,start_answer
+236,732,28,14,"$2,500.",a,THE WITNESS,start_question
+237,733,28,15,Is that gross profits or out of that did you have to pay your employees and expenses?,q,MR. SCHOLER,start_answer
+238,736,28,18,Yes.  I got to pay my employees and expenses out of that.,a,THE WITNESS,start_question
+239,738,28,20,25 would be the gross number a week in which you might make --,q,MR. SCHOLER,start_answer
+240,740,28,22,"19 maybe, 18 take home.",a,THE WITNESS,start_question
+241,741,28,23,"Okay.  So out of $1,800 when you say take home, that would be money in your pocket, minus the expenses of about $700 a week.  Is that fair to say?",q,MR. SCHOLER,start_answer
+242,747,29,3,Yes.,a,THE WITNESS,start_question
+243,748,29,4,"What physical demands of the painting job were there?  Did you just do ceilings, walls, floors, everything, what type of painting did you do?",q,MR. SCHOLER,start_answer
+244,752,29,8,Interior and exterior.,a,THE WITNESS,start_question
+245,753,29,9,Did any of that painting require you to utilize ladders?,q,MR. SCHOLER,start_answer
+246,755,29,11,Yes.,a,THE WITNESS,start_question
+247,756,29,12,What type of ladders?,q,MR. SCHOLER,start_answer
+248,757,29,13,Extension ladders.,a,THE WITNESS,start_question
+249,758,29,14,What's the tallest one that you use routinely in your business?,q,MR. SCHOLER,start_answer
+250,760,29,16,40 foot.,a,THE WITNESS,start_question
+251,761,29,17,Is that mostly for outside then?,q,MR. SCHOLER,start_answer
+252,763,29,19,Yes.,a,THE WITNESS,start_question
+253,764,29,20,"Did you miss any days of work as a result of the motor vehicle accident we're here about today painting, in the painting business?",q,MR. SCHOLER,start_answer
+254,768,29,24,No.,a,THE WITNESS,start_question
+255,771,30,1,Did you have any jobs lined up on the day or the couple days after the accident for your painting business?,q,MR. SCHOLER,start_answer
+256,774,30,4,No.,a,THE WITNESS,start_question
+257,775,30,5,Did you have to turn down any jobs for the painting business as a result of the motor vehicle accident?,q,MR. SCHOLER,start_answer
+258,778,30,8,No.,a,THE WITNESS,start_question
+259,779,30,9,"Did you have any loss of income for the painting business?  In other words, were there days because you didn't work because of physical therapy, or were they things that those days could have been made up and paint the next day and still make the same amount, or did you lose any money?",q,MR. SCHOLER,start_answer
+260,787,30,17,"No.  I didn't lose any money from the accident, no.",a,THE WITNESS,start_question
+261,789,30,19,Do you still own the business today?,q,MR. SCHOLER,start_answer
+262,791,30,21,Yes.,a,THE WITNESS,start_question
+263,792,30,22,Is the income today as we sit here in the room today the same as it was immediately following the motor vehicle accident for the painting?,q,MR. SCHOLER,start_answer
+264,798,31,2,No.,a,THE WITNESS,start_question
+265,799,31,3,Has it increased or decreased?,q,MR. SCHOLER,start_answer
+266,801,31,5,Increased.,a,THE WITNESS,start_question
+267,802,31,6,Still have the one employee currently today?,q,MR. SCHOLER,start_answer
+268,804,31,8,Yes.,a,THE WITNESS,start_question
+269,805,31,9,"Did you file, and separate question, but did you file tax returns in general in the last five years?",q,MR. SCHOLER,start_answer
+270,808,31,12,Yes.,a,THE WITNESS,start_question
+271,809,31,13,Okay.  Did you include the income from the painting business in those tax filings?,q,MR. SCHOLER,start_answer
+272,812,31,16,That's all I filed for is the painting business.,a,THE WITNESS,start_question
+273,814,31,18,Is that in your name personally that you file tax returns or do you file it in the business name or both?,q,MR. SCHOLER,start_answer
+274,818,31,22,Both.,a,THE WITNESS,start_question
+275,819,31,23,Is there anything that you used to do in relation to your painting business that as a result of the accident you can't do?,q,MR. SCHOLER,start_answer
+276,825,32,3,No.,a,THE WITNESS,start_question
+277,826,32,4,Did any of the doctors you've seen as a result of the motor vehicle accident ever instruct you not to continue with the painting business?,q,MR. SCHOLER,start_answer
+278,830,32,8,No.,a,THE WITNESS,start_question
+279,831,32,9,Did any of the doctors you saw as a result of the motor vehicle accident instruct you to put yourself on limited duty as far as the painting business?,q,MR. SCHOLER,start_answer
+280,836,32,14,No.,a,THE WITNESS,start_question
+281,837,32,15,"Other than the painting business and the cab company, did you have any other sources of income immediately following the motor vehicle accident we're here about today?",q,MR. SCHOLER,start_answer
+282,842,32,20,No.,a,THE WITNESS,start_question
+283,843,32,21,Have you ever filed for any type of disability?,q,MR. SCHOLER,start_answer
+284,845,32,23,No.,a,THE WITNESS,start_question
+285,846,32,24,And what is your date of birth?,q,MR. SCHOLER,start_answer
+286,850,33,2,12/4/77.,a,THE WITNESS,start_question
+287,851,33,3,Do you currently have a driver's license?,q,MR. SCHOLER,start_answer
+288,853,33,5,Yes.,a,THE WITNESS,start_question
+289,854,33,6,And what state?,q,MR. SCHOLER,start_answer
+290,855,33,7,Pennsylvania.,a,THE WITNESS,start_question
+291,856,33,8,Have you ever had a driver's license in any other state other than Pennsylvania?,q,MR. SCHOLER,start_answer
+292,859,33,11,Vermont.,a,THE WITNESS,start_question
+293,860,33,12,When did you have your Vermont license?,q,MR. SCHOLER,start_answer
+294,862,33,14,A year ago.,a,THE WITNESS,start_question
+295,863,33,15,When did you first get your Pennsylvania driver's license?,q,MR. SCHOLER,start_answer
+296,865,33,17,I don't remember what year it was.,a,THE WITNESS,start_question
+297,867,33,19,"Do you remember how old you were; 16, 17, 18?",q,MR. SCHOLER,start_answer
+298,869,33,21,30.,a,THE WITNESS,start_question
+299,870,33,22,"Okay.  Are you currently 42, going to be 42?",q,MR. SCHOLER,start_answer
+300,872,33,24,"Going to be, yes.",a,THE WITNESS,start_question
+301,875,34,1,"When you obtained your Vermont license, did you surrender your Pennsylvania driver's license?",q,MR. SCHOLER,start_answer
+302,878,34,4,Yes.,a,THE WITNESS,start_question
+303,879,34,5,And you said currently you have a Pennsylvania driver's license?,q,MR. SCHOLER,start_answer
+304,881,34,7,Yeah.,a,THE WITNESS,start_question
+305,882,34,8,At what point did you switch it back from Vermont to Pennsylvania?,q,MR. SCHOLER,start_answer
+306,884,34,10,What you mean at what point?,a,THE WITNESS,start_question
+307,885,34,11,Did you surrender the Vermont license at some point?,q,MR. SCHOLER,start_answer
+308,887,34,13,No.  It just expired and I just got another Pennsylvania driver's license.,a,THE WITNESS,start_question
+309,890,34,16,Were you living in Vermont at some point?,q,MR. SCHOLER,start_answer
+310,892,34,18,Yes.,a,THE WITNESS,start_question
+311,893,34,19,And when were you living in Vermont?,q,MR. SCHOLER,start_answer
+312,895,34,21,2016.,a,THE WITNESS,start_question
+313,896,34,22,And what was the address you were living at?,q,MR. SCHOLER,start_answer
+314,898,34,24,85 Pine Grove Street.,a,THE WITNESS,start_question
+315,901,35,1,Do you remember the city?,q,MR. SCHOLER,start_answer
+316,902,35,2,Rutland.,a,THE WITNESS,start_question
+317,903,35,3,And how long did you live at that address?,q,MR. SCHOLER,start_answer
+318,905,35,5,Seven months.,a,THE WITNESS,start_question
+319,906,35,6,Was that with family?,q,MR. SCHOLER,start_answer
+320,907,35,7,"Yes, family.",a,THE WITNESS,start_question
+321,908,35,8,Were you working up there?,q,MR. SCHOLER,start_answer
+322,909,35,9,Yes.,a,THE WITNESS,start_question
+323,910,35,10,What type of job did you do up there?,q,MR. SCHOLER,start_answer
+324,912,35,12,I was doing landscaping up there.,a,THE WITNESS,start_question
+325,914,35,14,"Fair to say then in 2016, you were not working for the cab company when you were in Vermont?",q,MR. SCHOLER,start_answer
+326,917,35,17,I'm trying to think what year did I start working for that cab company.  I believe so.  I think I started driving for the cab company in 2017.,a,THE WITNESS,start_question
+327,922,35,22,"Okay.  How about the painting business, what happened with the painting business while you were in Vermont?",q,MR. SCHOLER,start_answer
+328,928,36,2,"I had just basically just started painting then, so it was still slow.",a,THE WITNESS,start_question
+329,931,36,5,"Were you painting up in Vermont as well, or was the painting business based here?",q,MR. SCHOLER,start_answer
+330,934,36,8,Just here in Philadelphia.,a,THE WITNESS,start_question
+331,935,36,9,Would you travel between Vermont and Philadelphia if you had a painting job to do?,q,MR. SCHOLER,start_answer
+332,938,36,12,I have.,a,THE WITNESS,start_question
+333,939,36,13,First let's start with the Pennsylvania driver's license.  Has that ever been suspended or revoked for any reason?,q,MR. SCHOLER,start_answer
+334,943,36,17,No.,a,THE WITNESS,start_question
+335,944,36,18,"How about your Vermont driver's license, was it ever suspended or revoked?",q,MR. SCHOLER,start_answer
+336,947,36,21,No.,a,THE WITNESS,start_question
+337,948,36,22,"And at the time of the accident we're here about today, you had a Pennsylvania driver's license?",q,MR. SCHOLER,start_answer
+338,953,37,1,Yes.,a,THE WITNESS,start_question
+339,954,37,2,"Okay.  What class was it, do you remember?  Was it just for motor vehicles or did you have a motorcycle or a CDL endorsement; if you recall?",q,MR. SCHOLER,start_answer
+340,958,37,6,"It was class A.  I did have a CDL endorsement, but I'm not sure if it was active at that time I was driving.",a,THE WITNESS,start_question
+341,961,37,9,Did the cab company require you to have a CDL endorsement?,q,MR. SCHOLER,start_answer
+342,963,37,11,No.,a,THE WITNESS,start_question
+343,964,37,12,"Do you happen to have it on you by any chance, the driver's license?",q,MR. SCHOLER,start_answer
+344,966,37,14,Yes.,a,THE WITNESS,start_question
+345,967,37,15,"If you could, show it to Counsel and I will take a look at it. Thank you very much.",q,MR. SCHOLER,start_chat
+346,970,37,18,"If the record could reelect that Mr. Robinson has graciously allowed me an opportunity to view his driver's license.  The number is 25 268 233.  It was issued on January 3rd, 2019 and doesn't expire until December 5th, 2022.  It is a class C license, and it has restrictions one, which is corrective lenses.",side_chat,MR. SCHOLER,start_question
+347,983,38,5,"Thank you very much.  Now, in that photograph you are wearing corrective lenses; is that correct, in the ID?",q,MR. SCHOLER,start_answer
+348,987,38,9,Yes.,a,THE WITNESS,start_question
+349,988,38,10,"Do you need them for everyday use or simply reading, or what you do use the glasses for?",q,MR. SCHOLER,start_answer
+350,991,38,13,Everyday use.,a,THE WITNESS,start_question
+351,992,38,14,"Okay.  Do you remember answering your questions, the interrogatory questions that were provided to you, written questions?",q,MR. SCHOLER,start_answer
+352,996,38,18,No.,a,THE WITNESS,start_question
+353,997,38,19,"Okay.  I'm going to show you, one is the actual questions themselves, I'm going to specifically go to number 62.  There's no answers on that, I received type out answers.  And I'm specifically referring to question 62.  It asked about your driver's license if there was any restrictions, and then the typed out answers I got if you could look at this, if you could read what 62 answer was.",q,MR. SCHOLER,start_answer
+354,1010,39,6,Okay.,a,THE WITNESS,start_question
+355,1011,39,7,Is that a no on answer 62?,q,MR. SCHOLER,start_answer
+356,1012,39,8,It says no.,a,THE WITNESS,start_question
+357,1013,39,9,Okay.  Is that a mistake then when you filled that out?,q,MR. SCHOLER,start_answer
+358,1015,39,11,Yes.,a,THE WITNESS,start_question
+359,1016,39,12,Do you ever wear contact lenses rather than your prescription glasses?,q,MR. SCHOLER,start_answer
+360,1019,39,15,Yes.,a,THE WITNESS,start_question
+361,1020,39,16,Do you have them in now?,q,MR. SCHOLER,start_answer
+362,1021,39,17,Yes.,a,THE WITNESS,start_question
+363,1022,39,18,What percentage do you use the contacts rather than the glasses?,q,MR. SCHOLER,start_answer
+364,1024,39,20,60 percent.,a,THE WITNESS,start_question
+365,1025,39,21,Is that 60 with the contacts?,q,MR. SCHOLER,start_answer
+366,1027,39,23,Yes.,a,THE WITNESS,start_question
+367,1028,39,24,Do you know if you're nearsighted or farsighted?,q,MR. SCHOLER,start_answer
+368,1032,40,2,Farsighted.,a,THE WITNESS,start_question
+369,1033,40,3,Are you currently taking any medications on a daily basis?,q,MR. SCHOLER,start_answer
+370,1035,40,5,No.,a,THE WITNESS,start_question
+371,1036,40,6,"Do you currently have a primary care physician, doctor you see on a daily basis?",q,MR. SCHOLER,start_answer
+372,1039,40,9,Yes.,a,THE WITNESS,start_question
+373,1040,40,10,And who is that?,q,MR. SCHOLER,start_answer
+374,1041,40,11,Gary Solsman.,a,THE WITNESS,start_question
+375,1042,40,12,And where is Dr. Solsman located?,q,MR. SCHOLER,start_answer
+376,1044,40,14,"1800 West Chelten Avenue, Philadelphia 19126.",a,THE WITNESS,start_question
+377,1046,40,16,How long has Dr. Solsman been your primary care physician?,q,MR. SCHOLER,start_answer
+378,1048,40,18,About six years.,a,THE WITNESS,start_question
+379,1049,40,19,"Prior to the motor vehicle accident we're here about today, had you ever been involved in any other motor vehicle accident or slip or trip and falls or any other accident requiring treatment?",q,MR. SCHOLER,start_answer
+380,1057,41,1,Yes.,a,THE WITNESS,start_question
+381,1058,41,2,Okay.  How many?,q,MR. SCHOLER,start_answer
+382,1059,41,3,Maybe two.,a,THE WITNESS,start_question
+383,1060,41,4,"What type of accident were they, car accident, slip and falls?",q,MR. SCHOLER,start_answer
+384,1062,41,6,"Yeah, auto accidents.",a,THE WITNESS,start_question
+385,1063,41,7,"Let's talk about the one furthest back, the earliest one.  Do you remember when that was?",q,MR. SCHOLER,start_answer
+386,1066,41,10,I believe it was 2009.,a,THE WITNESS,start_question
+387,1067,41,11,Were you a driver or passenger in a vehicle?,q,MR. SCHOLER,start_answer
+388,1069,41,13,Driver.,a,THE WITNESS,start_question
+389,1070,41,14,And do you remember where that accident occurred?,q,MR. SCHOLER,start_answer
+390,1072,41,16,No.,a,THE WITNESS,start_question
+391,1073,41,17,Was it in Philadelphia?,q,MR. SCHOLER,start_answer
+392,1074,41,18,Yes.,a,THE WITNESS,start_question
+393,1075,41,19,Did you sustain any injuries as a result of that 2009 accident?,q,MR. SCHOLER,start_answer
+394,1077,41,21,Yes.,a,THE WITNESS,start_question
+395,1078,41,22,What type of injuries?,q,MR. SCHOLER,start_answer
+396,1079,41,23,Back injuries.,a,THE WITNESS,start_question
+397,1080,41,24,Did you go to the hospital as a result of that 2009 accident?,q,MR. SCHOLER,start_answer
+398,1084,42,2,Yes.,a,THE WITNESS,start_question
+399,1085,42,3,What hospital?,q,MR. SCHOLER,start_answer
+400,1086,42,4,I believe it was Abington Memorial.,a,THE WITNESS,start_question
+401,1088,42,6,Do you remember what treatment you received at Abington?,q,MR. SCHOLER,start_answer
+402,1090,42,8,No.,a,THE WITNESS,start_question
+403,1091,42,9,Did they keep you overnight or did they release you?,q,MR. SCHOLER,start_answer
+404,1093,42,11,They released me.,a,THE WITNESS,start_question
+405,1094,42,12,Did you get any other medical treatment after the ER for that 2009 accident?,q,MR. SCHOLER,start_answer
+406,1097,42,15,Yes.  I went to physical therapy for a few months.,a,THE WITNESS,start_question
+407,1099,42,17,Do you remember where the physical therapy place was you went to?,q,MR. SCHOLER,start_answer
+408,1101,42,19,Dr. Boden I believe.,a,THE WITNESS,start_question
+409,1102,42,20,And did Dr. Boden send you for any diagnostic tests in 2009 for that accident?,q,MR. SCHOLER,start_answer
+410,1105,42,23,Yes.,a,THE WITNESS,start_question
+411,1106,42,24,What type of tests did you get?,q,MR. SCHOLER,start_answer
+412,1110,43,2,MRI.,a,THE WITNESS,start_question
+413,1111,43,3,"Do you know where you got the MRI, location?",q,MR. SCHOLER,start_answer
+414,1113,43,5,"No, I don't remember.",a,THE WITNESS,start_question
+415,1114,43,6,Do you remember what body part they took an MRI of?,q,MR. SCHOLER,start_answer
+416,1116,43,8,My back.,a,THE WITNESS,start_question
+417,1117,43,9,"Do you remember if it was upper, lower, middle, or all?",q,MR. SCHOLER,start_answer
+418,1119,43,11,"Lower, I believe.",a,THE WITNESS,start_question
+419,1120,43,12,Do you remember what the results of that MRI was?,q,MR. SCHOLER,start_answer
+420,1122,43,14,No.,a,THE WITNESS,start_question
+421,1123,43,15,"Other than the MRI, any other diagnostic tests as a result of the 2009 accident?",q,MR. SCHOLER,start_answer
+422,1126,43,18,No.,a,THE WITNESS,start_question
+423,1127,43,19,Did your lower back fully heal after the 2009 accident after the treatment?,q,MR. SCHOLER,start_answer
+424,1130,43,22,Yes.,a,THE WITNESS,start_question
+425,1131,43,23,"So that accident would have been before you started the painting business, fair to say?",q,MR. SCHOLER,start_answer
+426,1136,44,2,Yes.,a,THE WITNESS,start_question
+427,1137,44,3,Were you working at the time of the 2009 accident?,q,MR. SCHOLER,start_answer
+428,1139,44,5,I don't remember.,a,THE WITNESS,start_question
+429,1140,44,6,"How about the next one? After 2009, what type of accident was the next one?",q,MR. SCHOLER,start_answer
+430,1143,44,9,"I believe that was it, just that one.",a,THE WITNESS,start_question
+431,1145,44,11,Oh.  Just one before this?,q,MR. SCHOLER,start_answer
+432,1146,44,12,Yes.,a,THE WITNESS,start_question
+433,1147,44,13,"As a result of the 2009 accident, did you file a lawsuit?",q,MR. SCHOLER,start_answer
+434,1149,44,15,Yes.,a,THE WITNESS,start_question
+435,1150,44,16,Was that lawsuit filed in Philadelphia?,q,MR. SCHOLER,start_answer
+436,1152,44,18,Yes.,a,THE WITNESS,start_question
+437,1153,44,19,Was it resolved or did it go to trial?,q,MR. SCHOLER,start_answer
+438,1155,44,21,It was resolved.,a,THE WITNESS,start_question
+439,1156,44,22,How did you find Dr. Boden to go to physical therapy after the 2009 accident?,q,MR. SCHOLER,start_answer
+440,1161,45,1,Word of mouth.,a,THE WITNESS,start_question
+441,1162,45,2,Did you know Dr. Boden before 2009?,q,MR. SCHOLER,start_answer
+442,1164,45,4,No.,a,THE WITNESS,start_question
+443,1165,45,5,"After the accident we're here about today, any other motor vehicle accidents, slip and fall or any other incident which required medical treatment?",q,MR. SCHOLER,start_answer
+444,1170,45,10,No.,a,THE WITNESS,start_question
+445,1171,45,11,"Other than the lawsuit we're here about today and the lawsuit that stemmed from the 2009 case, any other lawsuits where you were either a plaintiff or a defendant in a civil matter?",q,MR. SCHOLER,start_answer
+446,1177,45,17,No.,a,THE WITNESS,start_question
+447,1178,45,18,Your highest level of education?,q,MR. SCHOLER,start_answer
+448,1180,45,20,11th grade.,a,THE WITNESS,start_question
+449,1181,45,21,Where did you go to high school?,q,MR. SCHOLER,start_answer
+450,1183,45,23,Martin Luther King.,a,THE WITNESS,start_question
+451,1184,45,24,"In the last ten years, have you pled guilty, convicted, or nolo contendere to any crimes of theft or dishonesty?",q,MR. SCHOLER,start_answer
+452,1190,46,4,No.,a,THE WITNESS,start_question
+453,1191,46,5,"Do you hold any other certifications, certificates, or degrees?",q,MR. SCHOLER,start_answer
+454,1193,46,7,Can you repeat that?,a,THE WITNESS,start_question
+455,1194,46,8,"Sure, let me rephrase the question.  Did you ever get your GED?",q,MR. SCHOLER,start_answer
+456,1196,46,10,No.,a,THE WITNESS,start_question
+457,1197,46,11,"Okay.  Did you have any other certificates, certifications, anything required for painting, courses after high school?",q,MR. SCHOLER,start_answer
+458,1201,46,15,"Not required for painting, no.  But I do have an asbestos and lead abatement certificate.",a,THE WITNESS,start_question
+459,1204,46,18,Where did you get those certificates?,q,MR. SCHOLER,start_answer
+460,1206,46,20,In Philadelphia.,a,THE WITNESS,start_question
+461,1207,46,21,When did you get them?,q,MR. SCHOLER,start_answer
+462,1208,46,22,2007.,a,THE WITNESS,start_question
+463,1209,46,23,And what was the purpose of obtaining those certificates?,q,MR. SCHOLER,start_answer
+464,1213,47,1,Employment.,a,THE WITNESS,start_question
+465,1214,47,2,Where were you working in 2007?,q,MR. SCHOLER,start_answer
+466,1216,47,4,I wasn't.  I went to school in 2007.,a,THE WITNESS,start_question
+467,1218,47,6,Did you ever use those certificates for employment purposes?,q,MR. SCHOLER,start_answer
+468,1220,47,8,Yeah.,a,THE WITNESS,start_question
+469,1221,47,9,And where at?,q,MR. SCHOLER,start_answer
+470,1222,47,10,"Hatfield Meats.  I think they call it something else now, but that's what they used to call it.",a,THE WITNESS,start_question
+471,1225,47,13,"Okay.  Before today's deposition, did you review any documents before we started?",q,MR. SCHOLER,start_answer
+472,1228,47,16,No.,a,THE WITNESS,start_question
+473,1229,47,17,"Did you have any personal cars in the household on the date of the accident, cars you used for personal use?",q,MR. SCHOLER,start_answer
+474,1232,47,20,No.,a,THE WITNESS,start_question
+475,1233,47,21,"So I have that the accident we're here about today occurred June 27th, 2017.  Is that correct to the best of your recollection?",q,MR. SCHOLER,start_answer
+476,1239,48,1,Yes.,a,THE WITNESS,start_question
+477,1240,48,2,Do you know what day of the week it was?,q,MR. SCHOLER,start_answer
+478,1242,48,4,No.,a,THE WITNESS,start_question
+479,1243,48,5,Do you know approximately the time the accident happened?,q,MR. SCHOLER,start_answer
+480,1245,48,7,Like 4:00 or 5:00 in the morning.,a,THE WITNESS,start_question
+481,1247,48,9,"And could you give me the year, make, and model of the vehicle you were operating at the time?",q,MR. SCHOLER,start_answer
+482,1250,48,12,A Chrysler 300.,a,THE WITNESS,start_question
+483,1251,48,13,"Is the cab company the registered owner of the vehicle, to your knowledge?",q,MR. SCHOLER,start_answer
+484,1254,48,16,Yes.,a,THE WITNESS,start_question
+485,1255,48,17,Do you know if it was registered in the State of Pennsylvania?,q,MR. SCHOLER,start_answer
+486,1257,48,19,"I believe it was registered in the State of New Jersey, but I could be wrong.",a,THE WITNESS,start_question
+487,1260,48,22,"On the date of the accident, did you experience any issues or problems with the brakes or steering or lighting, anything of that nature?",q,MR. SCHOLER,start_answer
+488,1266,49,2,No.,a,THE WITNESS,start_question
+489,1267,49,3,Was there any mechanical problem with the vehicle which you could point to caused or influenced this accident?,q,MR. SCHOLER,start_answer
+490,1271,49,7,No.,a,THE WITNESS,start_question
+491,1272,49,8,"And as of the date of the accident, how long had you had use of that specific vehicle?",q,MR. SCHOLER,start_answer
+492,1275,49,11,Three months.,a,THE WITNESS,start_question
+493,1276,49,12,"How did the cab company identify the different cars?  I mean, were there numbers associated --",q,MR. SCHOLER,start_answer
+494,1279,49,15,With numbers.,a,THE WITNESS,start_question
+495,1280,49,16,What number was the cab that you were involved in the accident with; do you recall?,q,MR. SCHOLER,start_answer
+496,1283,49,19,"No, I don't.",a,THE WITNESS,start_question
+497,1284,49,20,"Okay.  Do you know what happened to the vehicle after the accident, was it repaired or --",q,MR. SCHOLER,start_answer
+498,1287,49,23,It was repaired.,a,THE WITNESS,start_question
+499,1288,49,24,"Were you able to drive it again, that specific cab, for that month that you worked for the cab company after the accident?",q,MR. SCHOLER,start_answer
+500,1294,50,4,"No, they gave me a different one.",a,THE WITNESS,start_question
+501,1296,50,6,"When you had possession of the vehicle on any given day when you started work approximately 12:00 p.m., did you do any walk around of the vehicle or safety checks?",q,MR. SCHOLER,start_answer
+502,1301,50,11,Yes.,a,THE WITNESS,start_question
+503,1302,50,12,Was that required as part of the employment with the cab company?,q,MR. SCHOLER,start_answer
+504,1304,50,14,Yes.,a,THE WITNESS,start_question
+505,1305,50,15,"Did they have forms that you had to fill out every day, or was it just something you had to do?",q,MR. SCHOLER,start_answer
+506,1308,50,18,"You just had to look at it, check it out.",a,THE WITNESS,start_question
+507,1310,50,20,Did someone instruct you in the way to conduct that inspection when you started?,q,MR. SCHOLER,start_answer
+508,1313,50,23,No.,a,THE WITNESS,start_question
+509,1314,50,24,"How did you know to do that, the walk around?",q,MR. SCHOLER,start_answer
+510,1318,51,2,Common sense.,a,THE WITNESS,start_question
+511,1319,51,3,Okay.  Did you have to alert the cab company of any findings you made if there was any problems with it?,q,MR. SCHOLER,start_answer
+512,1322,51,6,Yes.,a,THE WITNESS,start_question
+513,1323,51,7,Who would you contact if there was a problem?,q,MR. SCHOLER,start_answer
+514,1325,51,9,Whoever answered the phone.,a,THE WITNESS,start_question
+515,1326,51,10,Is there ever an occasion in which you had an issue with the vehicle that you were driving for the cab company and you had to take it for maintenance personally?,q,MR. SCHOLER,start_answer
+516,1331,51,15,Yes.,a,THE WITNESS,start_question
+517,1332,51,16,How often did that happen?,q,MR. SCHOLER,start_answer
+518,1333,51,17,Every sixty days maybe I had to take it in for service.,a,THE WITNESS,start_question
+519,1335,51,19,"Was that general regular service, oil change, lube oil filter?",q,MR. SCHOLER,start_answer
+520,1337,51,21,"Yeah.  But it was something else I had to take it in for, I think it was tires or something.  Something was wrong with it, I had to take it to the shop.",a,THE WITNESS,start_question
+521,1344,52,2,Were you responsible to pay that bill --,q,MR. SCHOLER,start_answer
+522,1346,52,4,No.,a,THE WITNESS,start_question
+523,1347,52,5,-- or did the cab company pay it?,q,MR. SCHOLER,start_answer
+524,1349,52,7,The cab company paid it.,a,THE WITNESS,start_question
+525,1350,52,8,"When you walked around the vehicle before a shift, what did you look for?",q,MR. SCHOLER,start_answer
+526,1353,52,11,"Flat tires, scratches.",a,THE WITNESS,start_question
+527,1354,52,12,Would you personally be responsible for physical damage to the vehicle?,q,MR. SCHOLER,start_answer
+528,1357,52,15,No.,a,THE WITNESS,start_question
+529,1358,52,16,"Like you said scratches, if there was scratches on the vehicle, is that something just reported or something you had to have repaired?",q,MR. SCHOLER,start_answer
+530,1362,52,20,"I report it.  Unless it was an eye sore, then I would take it to them and let them fix it.",a,THE WITNESS,start_question
+531,1365,52,23,Do you know if the vehicle you were driving had a valid inspection sticker?,q,MR. SCHOLER,start_answer
+532,1370,53,2,Yes.,a,THE WITNESS,start_question
+533,1371,53,3,At the date of the accident?,q,MR. SCHOLER,start_answer
+534,1372,53,4,Yes.,a,THE WITNESS,start_question
+535,1373,53,5,"Yes, you know, or yes, it did?",q,MR. SCHOLER,start_answer
+536,1375,53,7,"Yes, it did.",a,THE WITNESS,start_question
+537,1376,53,8,Were you the one who had to take it for inspection?,q,MR. SCHOLER,start_answer
+538,1378,53,10,Yes.,a,THE WITNESS,start_question
+539,1379,53,11,Was that at a local repair facility or was there a specific place that you had to go for some reason?,q,MR. SCHOLER,start_answer
+540,1382,53,14,They had a specific place that we had to take the vehicles to for inspection and camera updates.,a,THE WITNESS,start_question
+541,1385,53,17,And where was that; do you remember?,q,MR. SCHOLER,start_answer
+542,1387,53,19,No.,a,THE WITNESS,start_question
+543,1388,53,20,Was that in Pennsylvania or New Jersey?,q,MR. SCHOLER,start_answer
+544,1390,53,22,It was in Pennsylvania.,a,THE WITNESS,start_question
+545,1391,53,23,Okay.  Do you remember what the weather was at the time of the accident?,q,MR. SCHOLER,start_answer
+546,1396,54,2,It might have been wet out from rain the night before.,a,THE WITNESS,start_question
+547,1398,54,4,Was the sun up yet at that hour?,q,MR. SCHOLER,start_answer
+548,1400,54,6,"Yeah, it was up.  It was light out, it just was gray and cloudy.",a,THE WITNESS,start_question
+549,1402,54,8,You indicated updates on a camera.  What type of camera were you referring to?,q,MR. SCHOLER,start_answer
+550,1405,54,11,Cameras inside the vehicles.,a,THE WITNESS,start_question
+551,1406,54,12,How many cameras were in the vehicle that you were operating on the date of the accident?,q,MR. SCHOLER,start_answer
+552,1409,54,15,One.,a,THE WITNESS,start_question
+553,1410,54,16,Where was it pointing?,q,MR. SCHOLER,start_answer
+554,1411,54,17,Front and back.,a,THE WITNESS,start_question
+555,1412,54,18,So where was it located?,q,MR. SCHOLER,start_answer
+556,1413,54,19,In the front.,a,THE WITNESS,start_question
+557,1414,54,20,"Would it be by the rearview mirror, did the vehicle have a rearview mirror?",q,MR. SCHOLER,start_answer
+558,1417,54,23,Yeah.,a,THE WITNESS,start_question
+559,1418,54,24,Was the camera located in that area?,q,MR. SCHOLER,start_answer
+560,1422,55,2,Yeah.,a,THE WITNESS,start_question
+561,1423,55,3,Did it have a lens pointing forward so it would show where you were driving to?,q,MR. SCHOLER,start_answer
+562,1426,55,6,Yes.,a,THE WITNESS,start_question
+563,1427,55,7,And did it have a lens pointing backwards towards the passenger compartment in the rear?,q,MR. SCHOLER,start_answer
+564,1430,55,10,Yeah.,a,THE WITNESS,start_question
+565,1431,55,11,And was the camera operating or functioning properly on the date of the accident?,q,MR. SCHOLER,start_answer
+566,1434,55,14,Yes.,a,THE WITNESS,start_question
+567,1435,55,15,Did you ever see a video from the date of the accident from your car?,q,MR. SCHOLER,start_answer
+568,1438,55,18,Just this morning.,a,THE WITNESS,start_question
+569,1439,55,19,Okay.,q,MR. SCHOLER,start_chat
+570,1440,55,20,"I don't think we received a copy of it, if I can request a copy.",side_chat,MR. SCHOLER,start_chat
+571,1443,55,23,Really?  Of course.,side_chat,MR. DOBSON,start_question
+572,1448,56,2,"When you reviewed the video, did it show the accident?",q,MR. SCHOLER,start_answer
+573,1450,56,4,Yes.,a,THE WITNESS,start_question
+574,1451,56,5,Did you have to save the video or did it save automatically in some type of system in the car?,q,MR. SCHOLER,start_answer
+575,1454,56,8,"I didn't have to save anything, it's inside the car.  I never even seen it until today.",a,THE WITNESS,start_question
+576,1457,56,11,Okay.,q,MR. SCHOLER,start_answer
+577,1458,56,12,I think they got an SD chip in them or something.  I never even bothered with them.,a,THE WITNESS,start_question
+578,1461,56,15,"Prior to the time of the accident, within six hours before, had you consumed any alcohol or drugs, legal, illegal, anything?",q,MR. SCHOLER,start_answer
+579,1465,56,19,"Not within six hours, no.",a,THE WITNESS,start_question
+580,1466,56,20,Where were you coming from when accident happened?,q,MR. SCHOLER,start_answer
+581,1468,56,22,I don't even know.,a,THE WITNESS,start_question
+582,1469,56,23,Did you have any passengers with you at the time of the accident?,q,MR. SCHOLER,start_answer
+583,1473,57,1,No.,a,THE WITNESS,start_question
+584,1474,57,2,Do you remember where you were going to?,q,MR. SCHOLER,start_answer
+585,1476,57,4,I was going to the cab company to cash out.,a,THE WITNESS,start_question
+586,1478,57,6,And what does that mean when you cash out?,q,MR. SCHOLER,start_answer
+587,1480,57,8,Pay for the cab and get any cash I can get.,a,THE WITNESS,start_question
+588,1482,57,10,"Okay.  Did you have to go to the cab company on a daily basis to give your $150 fee, or could you do it once a week or once a month, how did that work?",q,MR. SCHOLER,start_answer
+589,1486,57,14,"They wanted you to come in every 24 hours.  If you stretched it the 48, they wouldn't mind.",a,THE WITNESS,start_question
+590,1489,57,17,"Okay.  Was the business -- someone there always 24 hours a day, seven days a week?",q,MR. SCHOLER,start_answer
+591,1492,57,20,Yes.,a,THE WITNESS,start_question
+592,1493,57,21,"When you were on your way to the cab company, did you have to be there at a certain time?",q,MR. SCHOLER,start_answer
+593,1496,57,24,No.,a,THE WITNESS,start_question
+594,1499,58,1,Had you just finished a shift or were you still working at the time?,q,MR. SCHOLER,start_answer
+595,1502,58,4,I was just coming out.,a,THE WITNESS,start_question
+596,1503,58,5,Just coming out meaning just going onto work?,q,MR. SCHOLER,start_answer
+597,1505,58,7,"Yeah, yeah.",a,THE WITNESS,start_question
+598,1506,58,8,"So on this day you would have started -- you said the accident happened about 5:00 or 6:00, 4:00 or 5:00?",q,MR. SCHOLER,start_answer
+599,1510,58,12,"When you say started, it's different.  You know, I could just go in the house and sleep for a couple hours in the middle of my shift and come back out and get back into my shift.",a,THE WITNESS,start_question
+600,1515,58,17,Do you recall if that's what you did on this day?,q,MR. SCHOLER,start_answer
+601,1517,58,19,Yeah.  I had just came back out and I was going to pay the cab company and do the morning rush.,a,THE WITNESS,start_question
+602,1520,58,22,Do you remember where the accident occurred?,q,MR. SCHOLER,start_answer
+603,1522,58,24,"Bustleton and something, I'm not sure.  Unruh, maybe.",a,THE WITNESS,start_question
+604,1526,59,2,I'm just going from the police report.  It looks like it indicated the 1900 block of Tyson and Eastwood Street?,q,MR. SCHOLER,start_answer
+605,1530,59,6,Okay.,a,THE WITNESS,start_question
+606,1531,59,7,Does that refresh your memory?,q,MR. SCHOLER,start_answer
+607,1533,59,9,"Yeah, that's it, the same area.",a,THE WITNESS,start_question
+608,1535,59,11,Sort of like the Mayfair section of Philadelphia?,q,MR. SCHOLER,start_answer
+609,1537,59,13,Yeah.,a,THE WITNESS,start_question
+610,1538,59,14,"Were you familiar with that part of the road on Tyson Avenue, 1900 block of Tyson before the accident?",q,MR. SCHOLER,start_answer
+611,1541,59,17,Yes.,a,THE WITNESS,start_question
+612,1542,59,18,"Can you describe the road for me, how many lanes of travel in each direction?",q,MR. SCHOLER,start_answer
+613,1545,59,21,One in each direction.,a,THE WITNESS,start_question
+614,1546,59,22,"And is the road separated when the traffic in going each direction, is there a physical barrier or is it just lines in the road?",q,MR. SCHOLER,start_answer
+615,1552,60,2,Two double lines.,a,THE WITNESS,start_question
+616,1553,60,3,Is there any type of turning lane where the accident happened?,q,MR. SCHOLER,start_answer
+617,1555,60,5,No.,a,THE WITNESS,start_question
+618,1556,60,6,Is there any parking available on either side of the street at 1900 Tyson?,q,MR. SCHOLER,start_answer
+619,1559,60,9,Yes.,a,THE WITNESS,start_question
+620,1560,60,10,Do you remember if there were cars parked on that time?,q,MR. SCHOLER,start_answer
+621,1562,60,12,Yes.,a,THE WITNESS,start_question
+622,1563,60,13,"Did the accident happen at an intersection, or was it just driving down Tyson?",q,MR. SCHOLER,start_answer
+623,1566,60,16,In the middle of the road.,a,THE WITNESS,start_question
+624,1567,60,17,"Where was the closest intersection, how far physically from where impact occurred?",q,MR. SCHOLER,start_answer
+625,1570,60,20,200 feet away.,a,THE WITNESS,start_question
+626,1571,60,21,How long had you been on Tyson before the impact occurred?,q,MR. SCHOLER,start_answer
+627,1573,60,23,Three minutes.,a,THE WITNESS,start_question
+628,1574,60,24,Do you know what type of car my client was driving?,q,MR. SCHOLER,start_answer
+629,1578,61,2,A Jeep.,a,THE WITNESS,start_question
+630,1579,61,3,"When is the first time you recall seeing the Jeep before the accident, if at all?",q,MR. SCHOLER,start_answer
+631,1582,61,6,"30 seconds before, behind me.",a,THE WITNESS,start_question
+632,1584,61,8,"Did anything bring that to your attention, or was it just normal checking your mirrors?",q,MR. SCHOLER,start_answer
+633,1587,61,11,He brought it to my attention.,a,THE WITNESS,start_question
+634,1589,61,13,How did that happen?,q,MR. SCHOLER,start_answer
+635,1590,61,14,He was trying to force me to go faster.,a,THE WITNESS,start_question
+636,1592,61,16,How do you believe Mr. Holt was trying to force you to go faster?,q,MR. SCHOLER,start_answer
+637,1594,61,18,"Because he was tailgating. I assumed he was late for work or something.  I seen a uniform shirt and he was trying to speed up, and then he tried to go around me and that's when he hit me.",a,THE WITNESS,start_question
+638,1600,61,24,Can you estimate or do you know how close was he at any given point from the 30 seconds you saw him before the impact occurred?,q,MR. SCHOLER,start_answer
+639,1606,62,4,How close was he to me?,a,THE WITNESS,start_question
+640,1607,62,5,"Yeah, when you were driving the street.",q,MR. SCHOLER,start_answer
+641,1609,62,7,"I could see his eyes, he was that close.  He was right behind me.",a,THE WITNESS,start_question
+642,1611,62,9,Do you know what the speed limit is on Tyson at that area?,q,MR. SCHOLER,start_answer
+643,1613,62,11,"I believe 25, it's a regular street.",a,THE WITNESS,start_question
+644,1615,62,13,Do you recall how fast you were going prior to impact?,q,MR. SCHOLER,start_answer
+645,1617,62,15,"No, I don't.  I wasn't going fast enough for him.",a,THE WITNESS,start_question
+646,1619,62,17,"Okay.  When you saw him that close in your rearview mirror that you said you could see his eyes, did you get upset?",q,MR. SCHOLER,start_answer
+647,1623,62,21,No.,a,THE WITNESS,start_question
+648,1624,62,22,Did you honk your horn or hit your brakes?,q,MR. SCHOLER,start_answer
+649,1626,62,24,No.  I was used to it when I was driving the cab.,a,THE WITNESS,start_question
+650,1630,63,2,"So in other words, somebody driving their vehicle in close proximity to your bumper happened to you on a routine basis being a cabdriver?",q,MR. SCHOLER,start_answer
+651,1634,63,6,Yes.,a,THE WITNESS,start_question
+652,1635,63,7,"At the point where Mr. Holt struck the back of your vehicle, can you estimate at that time how fast you were going?",q,MR. SCHOLER,start_answer
+653,1639,63,11,Speed limit.,a,THE WITNESS,start_question
+654,1640,63,12,"Does the cab also in addition to recording video, did it have a let's say a black box or something that recorded data, vehicle speed and functions of the vehicle?",q,MR. SCHOLER,start_answer
+655,1645,63,17,I'm not sure.,a,THE WITNESS,start_question
+656,1646,63,18,Were you able to hit your brakes before impact?,q,MR. SCHOLER,start_answer
+657,1648,63,20,"No.  We was just traveling down the road driving, no reason to hit the brake because the stop sign is 200 feet away.",a,THE WITNESS,start_question
+658,1652,63,24,"Okay.  Can you describe traffic at that hour when you were driving; heavy, medium, light?",q,MR. SCHOLER,start_answer
+659,1657,64,3,None.,a,THE WITNESS,start_question
+660,1658,64,4,"In your own words, tell us what happened right before the accident, take us through the accident.",q,MR. SCHOLER,start_answer
+661,1661,64,7,"Like I said, I was driving too slow for him and he was trying to get me to go faster by getting close to me thinking I was going to move a little faster, and that didn't work.  So he tried to pull out and get around me, you know, go into oncoming traffic and get around me, and he didn't do it quick enough and he hit me.",a,THE WITNESS,start_question
+662,1670,64,16,"Okay.  Did he use his horn at any time before the accident, did you hear his horn?",q,MR. SCHOLER,start_answer
+663,1673,64,19,I don't remember.,a,THE WITNESS,start_question
+664,1674,64,20,"Okay.  Did you hear any screeching of tires stopping, skidding before the accident?",q,MR. SCHOLER,start_answer
+665,1677,64,23,"No, didn't hear nothing.",a,THE WITNESS,start_question
+666,1678,64,24,Did you hear any acceleration of the engine in his car before the accident?,q,MR. SCHOLER,start_answer
+667,1683,65,3,No.,a,THE WITNESS,start_question
+668,1684,65,4,"If you recall, did he get fully into the opposite of lane of travel before the impact?",q,MR. SCHOLER,start_answer
+669,1687,65,7,"No, he hit me first.",a,THE WITNESS,start_question
+670,1688,65,8,Okay.  What part of his vehicle struck your car?,q,MR. SCHOLER,start_answer
+671,1690,65,10,His front hit my back.,a,THE WITNESS,start_question
+672,1691,65,11,Was it a --,q,MR. SCHOLER,start_answer
+673,1692,65,12,"Like the passenger side headlight hit my driver-side taillight, I guess you could say that.  And when he went to pull out, he I guess pulled out too fast and hit me on the way to try to get into the other lane.",a,THE WITNESS,start_question
+674,1698,65,18,Okay.  You were still moving forward at the time of impact?,q,MR. SCHOLER,start_answer
+675,1700,65,20,Yup.,a,THE WITNESS,start_question
+676,1701,65,21,"And you said about 25 miles an hour, which would have been the speed limit?",q,MR. SCHOLER,start_answer
+677,1704,65,24,Yes.,a,THE WITNESS,start_question
+678,1707,66,1,Can you estimate --,q,MR. SCHOLER,start_answer
+679,1708,66,2,"I might have been doing 20, because I was going too slow for him. I'm not sure.",a,THE WITNESS,start_question
+680,1711,66,5,Can you estimate my client's car's speed at the time of impact?,q,MR. SCHOLER,start_answer
+681,1713,66,7,No.,a,THE WITNESS,start_question
+682,1714,66,8,"How many impacts did you feel, was it just the one?",q,MR. SCHOLER,start_answer
+683,1716,66,10,Just the one.,a,THE WITNESS,start_question
+684,1717,66,11,"And can you describe the impact; soft, medium, or harsh?",q,MR. SCHOLER,start_answer
+685,1719,66,13,Hard.,a,THE WITNESS,start_question
+686,1720,66,14,What happened to you physically inside your vehicle at the time of impact?,q,MR. SCHOLER,start_answer
+687,1723,66,17,"I slid into the steering wheel when he hit the back of the vehicle, and the door.",a,THE WITNESS,start_question
+688,1726,66,20,What part of your body hit the door?,q,MR. SCHOLER,start_answer
+689,1728,66,22,"My left arm hit the door and my chest hit the steering wheel, like I was sliding up under it, but I caught myself.",a,THE WITNESS,start_question
+690,1734,67,2,"What type of seats were in that vehicle, in the one you were driving; were they cloth, were they leather?",q,MR. SCHOLER,start_answer
+691,1738,67,6,Leather.,a,THE WITNESS,start_question
+692,1739,67,7,Did your head hit anything inside the vehicle at the time of impact?,q,MR. SCHOLER,start_answer
+693,1741,67,9,No.,a,THE WITNESS,start_question
+694,1742,67,10,Did the vehicle you were driving have airbags?,q,MR. SCHOLER,start_answer
+695,1744,67,12,Yes.,a,THE WITNESS,start_question
+696,1745,67,13,Did they deploy in this accident?,q,MR. SCHOLER,start_answer
+697,1747,67,15,No.,a,THE WITNESS,start_question
+698,1748,67,16,Were you able to bring your vehicle to a stop after the impact?,q,MR. SCHOLER,start_answer
+699,1750,67,18,Yes.,a,THE WITNESS,start_question
+700,1751,67,19,Did you do that by hitting your brakes?,q,MR. SCHOLER,start_answer
+701,1753,67,21,Yes.,a,THE WITNESS,start_question
+702,1754,67,22,Did your car as a result of being struck by my client's vehicle hit anything else?,q,MR. SCHOLER,start_answer
+703,1759,68,1,No.,a,THE WITNESS,start_question
+704,1760,68,2,"And at what point in the road on Tyson did your car stop, were you in the on the side of the road, were you still in the lane of travel, where was your car?",q,MR. SCHOLER,start_answer
+705,1765,68,7,"Still in the lane of travel. And I forget the name of that cross street, it was a little block that came out into Tyson, we pulled over right there.  I don't remember the name of it, though.",a,THE WITNESS,start_question
+706,1771,68,13,"After the impact, were you able to get out of your car?",q,MR. SCHOLER,start_answer
+707,1773,68,15,Yes.,a,THE WITNESS,start_question
+708,1774,68,16,And what did you do?,q,MR. SCHOLER,start_answer
+709,1775,68,17,Went to check out the damage.,a,THE WITNESS,start_question
+710,1777,68,19,Where was my client's Jeep after the impact?,q,MR. SCHOLER,start_answer
+711,1779,68,21,In the street.,a,THE WITNESS,start_question
+712,1780,68,22,Was it still touching your vehicle or had it --,q,MR. SCHOLER,start_answer
+713,1782,68,24,"No.  He pushed me far, he pushed me ahead.  And I guess he slammed on his brakes after that, so he was still back there where the accident happened at.  And, you know, he pushed me forward. And I believe -- no, I was able to get in the driver side.",a,THE WITNESS,start_question
+714,1791,69,7,Get in or you mean get out the driver side?,q,MR. SCHOLER,start_answer
+715,1793,69,9,"Well, get in and get out.",a,THE WITNESS,start_question
+716,1794,69,10,So the driver side door was still functioning?,q,MR. SCHOLER,start_answer
+717,1796,69,12,Yeah.,a,THE WITNESS,start_question
+718,1797,69,13,Did you ever speak to my client after the accident?,q,MR. SCHOLER,start_answer
+719,1799,69,15,"For a second when we was in the street, yeah.",a,THE WITNESS,start_question
+720,1801,69,17,"And what, if anything, did he say anything to you?",q,MR. SCHOLER,start_answer
+721,1803,69,19,He apologized.,a,THE WITNESS,start_question
+722,1804,69,20,Do you remember what he said?,q,MR. SCHOLER,start_answer
+723,1806,69,22,"""I'm sorry, I'm sorry.  Late for work.""",a,THE WITNESS,start_question
+724,1808,69,24,Did you say anything back to him?,q,MR. SCHOLER,start_answer
+725,1812,70,2,Yeah.,a,THE WITNESS,start_question
+726,1813,70,3,What did you say to him?,q,MR. SCHOLER,start_answer
+727,1814,70,4,"I said, ""It's an accident.""",a,THE WITNESS,start_question
+728,1815,70,5,What damage did you observe to the car you were driving?,q,MR. SCHOLER,start_answer
+729,1817,70,7,"The tail end was tore apart, the light was out, the trunk was in.",a,THE WITNESS,start_question
+730,1819,70,9,Was there debris or anything from either car on the ground at the accident scene?,q,MR. SCHOLER,start_answer
+731,1822,70,12,Yes.,a,THE WITNESS,start_question
+732,1823,70,13,Was it from your car or his; do you know?,q,MR. SCHOLER,start_answer
+733,1825,70,15,Both.,a,THE WITNESS,start_question
+734,1826,70,16,Did you call 911?,q,MR. SCHOLER,start_answer
+735,1827,70,17,Yes.,a,THE WITNESS,start_question
+736,1828,70,18,And you had a cellphone on that day?,q,MR. SCHOLER,start_answer
+737,1830,70,20,Yes.,a,THE WITNESS,start_question
+738,1831,70,21,Do you remember who the carrier was?,q,MR. SCHOLER,start_answer
+739,1833,70,23,Simple Mobile.,a,THE WITNESS,start_question
+740,1834,70,24,Did you take any photographs of the scene after the accident?,q,MR. SCHOLER,start_answer
+741,1838,71,2,Yes.,a,THE WITNESS,start_question
+742,1839,71,3,What did you take pictures of?,q,MR. SCHOLER,start_answer
+743,1841,71,5,The accident.,a,THE WITNESS,start_question
+744,1842,71,6,Okay.  Of your car?,q,MR. SCHOLER,start_answer
+745,1843,71,7,Both.,a,THE WITNESS,start_question
+746,1844,71,8,Both cars?,q,MR. SCHOLER,start_answer
+747,1845,71,9,Yes.,a,THE WITNESS,start_question
+748,1846,71,10,"Were you using your cellphone within the five minutes immediately proceeding the accident? I'll say used by either speaking to anyone, texting, Google Maps, any applications, Waze, anything like that?",q,MR. SCHOLER,start_answer
+749,1852,71,16,No.,a,THE WITNESS,start_question
+750,1853,71,17,How long did it take for first responders to arrive?,q,MR. SCHOLER,start_answer
+751,1855,71,19,20 minutes.,a,THE WITNESS,start_question
+752,1856,71,20,And was it police or fire or ambulance that arrived first?,q,MR. SCHOLER,start_answer
+753,1858,71,22,Just police.,a,THE WITNESS,start_question
+754,1859,71,23,Did an ambulance ever come to the scene?,q,MR. SCHOLER,start_answer
+755,1863,72,1,No.,a,THE WITNESS,start_question
+756,1864,72,2,And did you speak to the police officers that arrived?,q,MR. SCHOLER,start_answer
+757,1866,72,4,Yes.,a,THE WITNESS,start_question
+758,1867,72,5,Did you tell them what happened?,q,MR. SCHOLER,start_answer
+759,1869,72,7,Yes.,a,THE WITNESS,start_question
+760,1870,72,8,Did you see them speaking to my client?,q,MR. SCHOLER,start_answer
+761,1872,72,10,Yes.,a,THE WITNESS,start_question
+762,1873,72,11,And I say they.  Was it more than one officer came?,q,MR. SCHOLER,start_answer
+763,1875,72,13,It was one.,a,THE WITNESS,start_question
+764,1876,72,14,Do you remember if it was a male or a female?,q,MR. SCHOLER,start_answer
+765,1878,72,16,It was a man.,a,THE WITNESS,start_question
+766,1879,72,17,Was he in full uniform?,q,MR. SCHOLER,start_answer
+767,1880,72,18,Yes.,a,THE WITNESS,start_question
+768,1881,72,19,And a marked patrol car?,q,MR. SCHOLER,start_answer
+769,1882,72,20,Yes.,a,THE WITNESS,start_question
+770,1883,72,21,Did you see my client talk to anyone else at the accident scene other than the police officers and the brief conversation you had?,q,MR. SCHOLER,start_answer
+771,1889,73,1,No.,a,THE WITNESS,start_question
+772,1890,73,2,"Do you know of any other witnesses that were out there that came up and said, ""Hey, I saw the accident""?",q,MR. SCHOLER,start_answer
+773,1893,73,5,No.,a,THE WITNESS,start_question
+774,1894,73,6,Was your vehicle drivable after the accident?,q,MR. SCHOLER,start_answer
+775,1896,73,8,Yes.,a,THE WITNESS,start_question
+776,1897,73,9,"Did you see the Jeep, my client's Jeep leave the scene, was he able to drive it?",q,MR. SCHOLER,start_answer
+777,1900,73,12,I believe he waited for a tow truck.,a,THE WITNESS,start_question
+778,1902,73,14,Did you receive any tickets or citations as a result of the accident?,q,MR. SCHOLER,start_answer
+779,1904,73,16,No.,a,THE WITNESS,start_question
+780,1905,73,17,Did you see the officers give any tickets or citations to my client?,q,MR. SCHOLER,start_answer
+781,1908,73,20,I'm not sure.,a,THE WITNESS,start_question
+782,1909,73,21,"Other than the car you were driving and my client's Jeep, any other cars involved?",q,MR. SCHOLER,start_answer
+783,1912,73,24,No.,a,THE WITNESS,start_question
+784,1915,74,1,"Did you have to provide any statement, written or oral to any insurance companies as a result of the accident?",q,MR. SCHOLER,start_answer
+785,1919,74,5,Yes.,a,THE WITNESS,start_question
+786,1920,74,6,"Do you remember who, which company?",q,MR. SCHOLER,start_answer
+787,1922,74,8,"No.  I just gave it to the cab company, and they gave it to the insurance company.",a,THE WITNESS,start_question
+788,1925,74,11,So someone at the cab company ask you questions?,q,MR. SCHOLER,start_answer
+789,1927,74,13,Yeah.  Had to fill out an incident report.,a,THE WITNESS,start_question
+790,1929,74,15,Did you ever get a copy of that incident report?,q,MR. SCHOLER,start_answer
+791,1931,74,17,No.,a,THE WITNESS,start_chat
+792,1932,74,18,"Counsel, do you have a copy of the incident report?",side_chat,MR. SCHOLER,start_chat
+793,1935,74,21,No.,side_chat,MR. DOBSON,start_chat
+794,1936,74,22,"I'll just ask if you have one or happen to come into possession of it, if you could send me a copy.",side_chat,MR. SCHOLER,start_chat
+795,1942,75,2,Of course.,side_chat,MR. DOBSON,start_chat
+796,1943,75,3,Thank you.,side_chat,MR. SCHOLER,start_question
+797,1945,75,5,"Did someone at the cab company inform you that they were going to give that statement to the insurance company, or is that something you assumed?",q,MR. SCHOLER,start_answer
+798,1950,75,10,I assumed.,a,THE WITNESS,start_question
+799,1951,75,11,"Did anyone from the insurance company call you personally and say, ""I am from so and so insurance company, I want to ask you about the accident""?",q,MR. SCHOLER,start_answer
+800,1956,75,16,From Farmers.,a,THE WITNESS,start_question
+801,1957,75,17,Okay.  Did you give a statement to the Farmers representative who contacted you?,q,MR. SCHOLER,start_answer
+802,1960,75,20,"Not a statement, just briefly spoke.",a,THE WITNESS,start_question
+803,1962,75,22,"Did you tell that representative what happened, what you just told us today about the accident?",q,MR. SCHOLER,start_answer
+804,1967,76,1,"Yeah, in a short sentence, yeah.",a,THE WITNESS,start_question
+805,1969,76,3,Was there anything that you could have done differently on the date of the accident to have avoided the collision in your opinion?,q,MR. SCHOLER,start_answer
+806,1973,76,7,No.,a,THE WITNESS,start_question
+807,1974,76,8,"Okay.  What, if any, injuries did you sustain as a result of this car crash?",q,MR. SCHOLER,start_answer
+808,1977,76,11,Bulging in my lower lumbar.,a,THE WITNESS,start_question
+809,1978,76,12,Anything else other than the back injury?,q,MR. SCHOLER,start_answer
+810,1980,76,14,No.,a,THE WITNESS,start_question
+811,1981,76,15,Did you ever lose consciousness in the accident?,q,MR. SCHOLER,start_answer
+812,1983,76,17,No.,a,THE WITNESS,start_question
+813,1984,76,18,Did you have your seatbelt on?,q,MR. SCHOLER,start_answer
+814,1986,76,20,Yes.,a,THE WITNESS,start_question
+815,1987,76,21,Any bleeding or cuts as a result of the accident?,q,MR. SCHOLER,start_answer
+816,1989,76,23,No.,a,THE WITNESS,start_question
+817,1990,76,24,Any bruising that you observed on your body after the accident?,q,MR. SCHOLER,start_answer
+818,1994,77,2,"On my back, yes.",a,THE WITNESS,start_question
+819,1995,77,3,Did you ever take any pictures of the bruising or do you know of anyone who ever took any pictures of the bruises on your back?,q,MR. SCHOLER,start_answer
+820,1999,77,7,No.,a,THE WITNESS,start_question
+821,2000,77,8,"The lumbar injury, the part of the back that you hurt in this accident, was that the same as the 2009 area that you were hurt in the 2009 accident?",q,MR. SCHOLER,start_answer
+822,2005,77,13,I'm not sure.,a,THE WITNESS,start_question
+823,2006,77,14,Okay.  No scars as a result of this accident; fair to say?,q,MR. SCHOLER,start_answer
+824,2008,77,16,No.,a,THE WITNESS,start_question
+825,2009,77,17,Okay.  How long were you at the accident scene before you were able to drive away?,q,MR. SCHOLER,start_answer
+826,2012,77,20,An hour.,a,THE WITNESS,start_question
+827,2013,77,21,Did you ever request the police officer to call an ambulance?,q,MR. SCHOLER,start_answer
+828,2015,77,23,No.,a,THE WITNESS,start_question
+829,2016,77,24,"At some point after the accident, did you go to a hospital?",q,MR. SCHOLER,start_answer
+830,2020,78,2,The following morning.,a,THE WITNESS,start_question
+831,2021,78,3,Which hospital?,q,MR. SCHOLER,start_answer
+832,2022,78,4,Abington.,a,THE WITNESS,start_question
+833,2023,78,5,"So what happened after you drove away from the accident, where did go?",q,MR. SCHOLER,start_answer
+834,2026,78,8,I went to the cab company.,a,THE WITNESS,start_question
+835,2027,78,9,Is that the time you filled out the incident report?,q,MR. SCHOLER,start_answer
+836,2029,78,11,Yes.,a,THE WITNESS,start_question
+837,2030,78,12,And how long were you at the cab company after the accident?,q,MR. SCHOLER,start_answer
+838,2032,78,14,Two hours.,a,THE WITNESS,start_question
+839,2033,78,15,What did you do after that?,q,MR. SCHOLER,start_answer
+840,2034,78,16,After I left the cab company?,a,THE WITNESS,start_question
+841,2036,78,18,"Yes, sir.",q,MR. SCHOLER,start_answer
+842,2037,78,19,I went home.,a,THE WITNESS,start_question
+843,2038,78,20,And how were you feeling immediately after the accident?,q,MR. SCHOLER,start_answer
+844,2040,78,22,"I was feeling fine.  It's just the next morning when I got up, I had pain in my back, so then I went to the emergency room.",a,THE WITNESS,start_question
+845,2046,79,2,Do you remember what time you went to Abington?,q,MR. SCHOLER,start_answer
+846,2048,79,4,No.,a,THE WITNESS,start_question
+847,2049,79,5,And what did you tell them was wrong when you got to the hospital?,q,MR. SCHOLER,start_answer
+848,2051,79,7,That I was in a car accident and my back hurt.,a,THE WITNESS,start_question
+849,2053,79,9,And what did they do for you at the hospital?,q,MR. SCHOLER,start_answer
+850,2055,79,11,Nothing.,a,THE WITNESS,start_question
+851,2056,79,12,Did they examine you?,q,MR. SCHOLER,start_answer
+852,2057,79,13,Yeah.,a,THE WITNESS,start_question
+853,2058,79,14,"And did they give you any tests, any diagnostic tests at the hospital?",q,MR. SCHOLER,start_answer
+854,2061,79,17,"They told me to follow up with my primary, they gave me some Tylenol.",a,THE WITNESS,start_question
+855,2064,79,20,"Okay.  Now, the ER document that I have from Abington indicates triage time, Tuesday, June 27th, 2017, 17:02.  Are you sure you went the next day, or is it possible you went the date of the accident?",q,MR. SCHOLER,start_answer
+856,2072,80,2,What the papers say?  I'm not sure.,a,THE WITNESS,start_question
+857,2074,80,4,"Yeah, I'll show you a copy of what I have, that's the ER record that I have.  And I was looking at the top, the date, which says 17:02, which I relate to be about 5:02 p.m.",q,MR. SCHOLER,start_answer
+858,2079,80,9,What you asking?,a,THE WITNESS,start_question
+859,2080,80,10,You said you went to the hospital the next day.  Is it possible you went the same day?,q,MR. SCHOLER,start_answer
+860,2083,80,13,Possible.,a,THE WITNESS,start_question
+861,2084,80,14,"Okay.  When the text that they wrote said that you had indicated, it says, ""39-year-old patient comes to the emergency department after being involved in a motor vehicle accident at 111:00 a.m. today.""  Do you remember if you told them that, or is that something they wrote down?",q,MR. SCHOLER,start_answer
+862,2092,80,22,"That's what I told them, I was in an auto accident.",a,THE WITNESS,start_question
+863,2094,80,24,"But the 11:00, the accident happened a little earlier in the morning, correct, not 11:00?",q,MR. SCHOLER,start_answer
+864,2099,81,3,Right.,a,THE WITNESS,start_question
+865,2100,81,4,"So what I'm saying is do you remember telling them it was 11:00, or is that something they wrote down and it's not accurate to what you told them?",q,MR. SCHOLER,start_answer
+866,2104,81,8,"Well, is that the time that I got there, is that the time that I was there?",a,THE WITNESS,start_question
+867,2107,81,11,"This is what they wrote, I'm going by them.  And it indicates that you told them you were in an accident at 11:00 a.m. today.",q,MR. SCHOLER,start_answer
+868,2111,81,15,"Oh, I don't know, maybe that's wrong.  Because I wasn't in an accident at 11:00.",a,THE WITNESS,start_question
+869,2114,81,18,Okay.  Do you remember how long you were at the hospital on this day?,q,MR. SCHOLER,start_answer
+870,2117,81,21,A couple hours.,a,THE WITNESS,start_question
+871,2118,81,22,And then did you seek any further medical treatment after the accident?,q,MR. SCHOLER,start_answer
+872,2123,82,1,Yes.,a,THE WITNESS,start_question
+873,2124,82,2,"The Tylenol that they gave you, did they provide you with it?",q,MR. SCHOLER,start_answer
+874,2126,82,4,"I don't know if they gave me Tylenol, I don't remember.  I'm just saying that because my back was hurting. Usually they just give you Tylenol and kick you out, so that's why I'm saying that.",a,THE WITNESS,start_question
+875,2132,82,10,What did you do for the rest of the day?,q,MR. SCHOLER,start_answer
+876,2134,82,12,I don't know.,a,THE WITNESS,start_question
+877,2135,82,13,And you said you did get other treatment.  Where did you go next for medical treatment as a result of the accident?,q,MR. SCHOLER,start_answer
+878,2139,82,17,Physical therapy.,a,THE WITNESS,start_question
+879,2140,82,18,Who was the doctor?,q,MR. SCHOLER,start_answer
+880,2141,82,19,Boden.,a,THE WITNESS,start_question
+881,2142,82,20,Do you remember when you went to Dr. Boden for the first time after the accident?,q,MR. SCHOLER,start_answer
+882,2145,82,23,No.,a,THE WITNESS,start_question
+883,2146,82,24,"The first record I saw from Dr. Boden's office was about July 3rd, so somewhere around six days later.  Does that sound about right?",q,MR. SCHOLER,start_answer
+884,2152,83,4,Mhmm.,a,THE WITNESS,start_question
+885,2153,83,5,Is that a yes?,q,MR. SCHOLER,start_answer
+886,2154,83,6,Yes.,a,THE WITNESS,start_question
+887,2155,83,7,How many days a week did you go to see Dr. Boden after the accident?,q,MR. SCHOLER,start_answer
+888,2157,83,9,"In the beginning, it was three, then down to two at some point.",a,THE WITNESS,start_question
+889,2159,83,11,"What did they do for you at the office for physical therapy, what actually did they make you do, if anything?",q,MR. SCHOLER,start_answer
+890,2163,83,15,"Lay on a bed that massages your back, physical therapy on the treadmill, they got the warm towels that they put on your back after you lay on the bed.  I don't know the name of that thing, it like you do like this on it, I don't know what that is.",a,THE WITNESS,start_question
+891,2170,83,22,"For the record, the witness was making a hand motion sort of --",q,MR. SCHOLER,start_answer
+892,2172,83,24,"Some type of exercise machine, I don't know the name of it.",a,THE WITNESS,start_question
+893,2176,84,2,"Okay.  When you went on any given day, how long would you be at physical therapy?",q,MR. SCHOLER,start_answer
+894,2179,84,5,45 minutes.,a,THE WITNESS,start_question
+895,2180,84,6,"And I have records that you went about eight times in July, seven times in August, and then there's a gap, I have no visits for September.  Was there a period of time in September that you didn't go?",q,MR. SCHOLER,start_answer
+896,2186,84,12,"I don't know.  If that's what you got, that's what you got.",a,THE WITNESS,start_question
+897,2188,84,14,"The next one picks up October 2nd, and then you go about nine times, according to the records, nine times in October.  Does that sound about right?",q,MR. SCHOLER,start_answer
+898,2193,84,19,Okay.,a,THE WITNESS,start_question
+899,2194,84,20,"And I have a total of about 36 visits from July 3rd until the last one I had was January 12th, 2018.  Do you remember if you were discharged from the doctors or did you stop going?",q,MR. SCHOLER,start_answer
+900,2201,85,1,I was discharged from physical therapy and switched over to pain management that I attended for about a month or so.,a,THE WITNESS,start_question
+901,2205,85,5,"Okay.  When you were at physical therapy, did they send you for any diagnostic tests?",q,MR. SCHOLER,start_answer
+902,2208,85,8,MRI and some other testing. What was the name of that other testing?,a,THE WITNESS,start_question
+903,2210,85,10,EMG?,q,MR. SCHOLER,start_answer
+904,2211,85,11,Yeah.,a,THE WITNESS,start_question
+905,2212,85,12,"Okay.  The MRI, do you know where you went for that?",q,MR. SCHOLER,start_answer
+906,2214,85,14,"No, I don't remember.",a,THE WITNESS,start_question
+907,2215,85,15,"Okay.  The EMG test, I have it looks like around September, I have a date possibly September 13th, 2017.  Do you remember going to get an EMG test?",q,MR. SCHOLER,start_answer
+908,2219,85,19,"They actually did that one right there in Dr. Boden's office, somebody come into the room.",a,THE WITNESS,start_question
+909,2222,85,22,"What did they do for the EMG test, do you remember what they did?",q,MR. SCHOLER,start_answer
+910,2224,85,24,"Some type of electrical shock therapy treatment thing, put it on your hands and your knee.",a,THE WITNESS,start_question
+911,2229,86,3,There's a machine that I -- it's a TENs machine.  Did that ring a bill?,q,MR. SCHOLER,start_answer
+912,2232,86,6,"No, it's not that.",a,THE WITNESS,start_question
+913,2233,86,7,"Okay.  The EMG test, did they put needles in you or anything?",q,MR. SCHOLER,start_answer
+914,2235,86,9,Yeah.,a,THE WITNESS,start_question
+915,2236,86,10,Where did they put the needles?,q,MR. SCHOLER,start_answer
+916,2238,86,12,I don't remember.,a,THE WITNESS,start_question
+917,2239,86,13,Do you know how long the test took?,q,MR. SCHOLER,start_answer
+918,2241,86,15,"Five, ten minutes.",a,THE WITNESS,start_question
+919,2242,86,16,Did you ever discuss the results with anyone?,q,MR. SCHOLER,start_answer
+920,2244,86,18,No.,a,THE WITNESS,start_question
+921,2245,86,19,Does the name Dr. Gene Levenstein ring a bell?,q,MR. SCHOLER,start_answer
+922,2247,86,21,No.,a,THE WITNESS,start_question
+923,2248,86,22,"Have you ever been to Riverside Neurodiagnostics on 400 Third Avenue in Kingston, PA?",q,MR. SCHOLER,start_answer
+924,2253,87,1,No.,a,THE WITNESS,start_question
+925,2254,87,2,"So after you finish physical therapy, you said they discharged you and then you went to pain management.  Where did you go to pain management?",q,MR. SCHOLER,start_answer
+926,2258,87,6,Dr. Boden's office.,a,THE WITNESS,start_question
+927,2259,87,7,"Oh, so you stayed in Dr. Boden's office?",q,MR. SCHOLER,start_answer
+928,2261,87,9,Mhmm.,a,THE WITNESS,start_question
+929,2262,87,10,So did it change from not actually doing the physical things they did with the treadmill and the other exercise machines?,q,MR. SCHOLER,start_answer
+930,2266,87,14,Right.,a,THE WITNESS,start_question
+931,2267,87,15,"And what did they change to, what did they do then?",q,MR. SCHOLER,start_answer
+932,2269,87,17,Just coming in to pick up your pain meds.,a,THE WITNESS,start_question
+933,2271,87,19,Do you remember what medication he prescribed?,q,MR. SCHOLER,start_answer
+934,2273,87,21,Percocet.,a,THE WITNESS,start_question
+935,2274,87,22,Do you remember the prescription strength?,q,MR. SCHOLER,start_answer
+936,2276,87,24,15 milligram.,a,THE WITNESS,start_question
+937,2279,88,1,"And how often were you prescribed to take them, how often did they tell you to take them?",q,MR. SCHOLER,start_answer
+938,2282,88,4,Twice a day.,a,THE WITNESS,start_question
+939,2283,88,5,And how often did you take them?,q,MR. SCHOLER,start_answer
+940,2285,88,7,Twice a day.,a,THE WITNESS,start_question
+941,2286,88,8,"Do you know how long the prescription lasted for, was it a 30 day, 60, 90?",q,MR. SCHOLER,start_answer
+942,2289,88,11,It was 30 day.,a,THE WITNESS,start_question
+943,2290,88,12,Did you ever have to have it refilled?,q,MR. SCHOLER,start_answer
+944,2292,88,14,I would get it refilled every 30 days.,a,THE WITNESS,start_question
+945,2294,88,16,Okay.  For how long did you get the 30-day refills?,q,MR. SCHOLER,start_answer
+946,2296,88,18,Three months.,a,THE WITNESS,start_question
+947,2297,88,19,Where did you get them filled at?,q,MR. SCHOLER,start_answer
+948,2299,88,21,Somerdale Pharmacy.,a,THE WITNESS,start_question
+949,2300,88,22,Any other medication that you had to take other than the Percocets?,q,MR. SCHOLER,start_answer
+950,2302,88,24,No.,a,THE WITNESS,start_question
+951,2305,89,1,"As we sit here today, have you had any other physical therapy since January of 2018?",q,MR. SCHOLER,start_answer
+952,2308,89,4,No.,a,THE WITNESS,start_question
+953,2309,89,5,Do you have any plans to seek any further physical therapy as we sit here today?,q,MR. SCHOLER,start_answer
+954,2312,89,8,No.,a,THE WITNESS,start_question
+955,2313,89,9,Were you provided with any braces or crutches or splints or anything as a result of the accident?,q,MR. SCHOLER,start_answer
+956,2316,89,12,Yes.,a,THE WITNESS,start_question
+957,2317,89,13,What did you get?,q,MR. SCHOLER,start_answer
+958,2318,89,14,"A back brace, a TENs unit.",a,THE WITNESS,start_question
+959,2319,89,15,Who gave you the back brace?,q,MR. SCHOLER,start_answer
+960,2320,89,16,Some people Dr. Boden's office refer all their clients to.,a,THE WITNESS,start_question
+961,2322,89,18,"Okay.  And what type of brace was it, a soft brace, a hard brace?",q,MR. SCHOLER,start_answer
+962,2324,89,20,It was hard.,a,THE WITNESS,start_question
+963,2325,89,21,Like a hard plastic?,q,MR. SCHOLER,start_answer
+964,2326,89,22,No.  It was like a hard cotton type of back brace for driving.,a,THE WITNESS,start_question
+965,2328,89,24,"Okay.  How did you get it on, did it attach through Velcro or some type of attachment or did you have to step into it?",q,MR. SCHOLER,start_answer
+966,2334,90,4,"It attached with Velcro, strap around you.",a,THE WITNESS,start_question
+967,2336,90,6,How long did you wear it for?,q,MR. SCHOLER,start_answer
+968,2338,90,8,Three weeks.,a,THE WITNESS,start_question
+969,2339,90,9,Did that provide any relief when you were wearing it?,q,MR. SCHOLER,start_answer
+970,2341,90,11,Driving only.,a,THE WITNESS,start_question
+971,2342,90,12,Did you have to wear it when you weren't driving?,q,MR. SCHOLER,start_answer
+972,2344,90,14,It was for driving.,a,THE WITNESS,start_question
+973,2345,90,15,Okay.  Did you ever receive any injections as a result of the accident?,q,MR. SCHOLER,start_answer
+974,2348,90,18,No.,a,THE WITNESS,start_question
+975,2349,90,19,Did any doctor ever recommend to you that you should get injections?,q,MR. SCHOLER,start_answer
+976,2352,90,22,Yes.,a,THE WITNESS,start_question
+977,2353,90,23,Who recommended it?,q,MR. SCHOLER,start_answer
+978,2354,90,24,One of those doctors inside Dr. Boden's office.,a,THE WITNESS,start_question
+979,2358,91,2,Okay.  How come you did not get injections?,q,MR. SCHOLER,start_answer
+980,2360,91,4,Because I don't want nothing inside me.,a,THE WITNESS,start_question
+981,2362,91,6,Was that the needle was the reason or the medicine that would go in?,q,MR. SCHOLER,start_answer
+982,2364,91,8,Anything coming out of a needle.,a,THE WITNESS,start_question
+983,2366,91,10,Okay.  Have you ever had any surgeries as a result of the accident?,q,MR. SCHOLER,start_answer
+984,2368,91,12,No.,a,THE WITNESS,start_question
+985,2369,91,13,Did any doctor ever recommend any surgery to you?,q,MR. SCHOLER,start_answer
+986,2371,91,15,No.,a,THE WITNESS,start_question
+987,2372,91,16,"I want to shift gears to how this incident has affected your life. Have you ever gone out of state after the accident, any vacations?",q,MR. SCHOLER,start_answer
+988,2376,91,20,Yes.,a,THE WITNESS,start_question
+989,2377,91,21,Where did you go?,q,MR. SCHOLER,start_answer
+990,2378,91,22,New Jersey.,a,THE WITNESS,start_question
+991,2379,91,23,Like beach areas in New Jersey?,q,MR. SCHOLER,start_answer
+992,2383,92,1,Yes.,a,THE WITNESS,start_question
+993,2384,92,2,How often do you go to the shore?,q,MR. SCHOLER,start_answer
+994,2386,92,4,Every summer.,a,THE WITNESS,start_question
+995,2387,92,5,Are they day trips or do you spend a couple weeks down there?,q,MR. SCHOLER,start_answer
+996,2389,92,7,A few days.,a,THE WITNESS,start_question
+997,2390,92,8,"Did you used to do that before the accident, as well?",q,MR. SCHOLER,start_answer
+998,2392,92,10,Yes.,a,THE WITNESS,start_question
+999,2393,92,11,Did that routine of going to the shore for a few days every summer change as a result of the accident?,q,MR. SCHOLER,start_answer
+1000,2396,92,14,No.,a,THE WITNESS,start_question
+1001,2397,92,15,"Your typical day before the accident happened, could you describe what you would do?  Day before the accident, what did you do?",q,MR. SCHOLER,start_answer
+1002,2401,92,19,Get up and go to work.,a,THE WITNESS,start_question
+1003,2402,92,20,"Did that change, other than you indicated there was a few days when you had to go to physical therapy you didn't go to work, anything else in your routine change as a result of the accident?",q,MR. SCHOLER,start_answer
+1004,2410,93,2,"I ain't going to say change. But getting up in the morning, your back be hurting, so you got to wait for the medication to kick in and the pain to go away before you can start moving.  That's a bit of an inconvenience, but it ain't change, you know.",a,THE WITNESS,start_question
+1005,2417,93,9,Okay.  You still have to do what you have to do?,q,MR. SCHOLER,start_answer
+1006,2419,93,11,Yeah.,a,THE WITNESS,start_question
+1007,2420,93,12,"Are there any activities that you were able to do before the accident that we're here about today that since the accident, because of the accident you absolutely, positively can't do and haven't done since?",q,MR. SCHOLER,start_answer
+1008,2426,93,18,No.,a,THE WITNESS,start_question
+1009,2427,93,19,Are there any things that you did before the accident that as a result of the accident you do less often or you don't do or you're in pain when you do them?,q,MR. SCHOLER,start_answer
+1010,2432,93,24,"No, no.",a,THE WITNESS,start_question
+1011,2435,94,1,Okay.  Has any doctor restricted you from any type of physical activity?,q,MR. SCHOLER,start_answer
+1012,2438,94,4,No.,a,THE WITNESS,start_question
+1013,2439,94,5,"Household chores, cooking, cleaning, laundry, who does those in your home?",q,MR. SCHOLER,start_answer
+1014,2442,94,8,"We, we do.",a,THE WITNESS,start_question
+1015,2443,94,9,We as in who?,q,MR. SCHOLER,start_answer
+1016,2444,94,10,Me and my son.,a,THE WITNESS,start_question
+1017,2445,94,11,Okay.  Has that changed or did the household chore duty change or do you still split them evenly with your son?,q,MR. SCHOLER,start_answer
+1018,2449,94,15,We split them.,a,THE WITNESS,start_question
+1019,2450,94,16,Okay.  Were you ever a member of a gym?,q,MR. SCHOLER,start_answer
+1020,2452,94,18,Yes.,a,THE WITNESS,start_question
+1021,2453,94,19,Okay.  What gym?,q,MR. SCHOLER,start_answer
+1022,2454,94,20,Fitness 19.,a,THE WITNESS,start_question
+1023,2455,94,21,And when did you first become of a member of Fitness 19?,q,MR. SCHOLER,start_answer
+1024,2457,94,23,I don't remember.,a,THE WITNESS,start_question
+1025,2458,94,24,Was it before the accident?,q,MR. SCHOLER,start_answer
+1026,2461,95,1,Yes.,a,THE WITNESS,start_question
+1027,2462,95,2,Was the membership still valid at the time of the accident?,q,MR. SCHOLER,start_answer
+1028,2464,95,4,Yes.,a,THE WITNESS,start_question
+1029,2465,95,5,"And do you still go to Fitness 19, are you still going today?",q,MR. SCHOLER,start_answer
+1030,2467,95,7,No.,a,THE WITNESS,start_question
+1031,2468,95,8,When is the last time you went?,q,MR. SCHOLER,start_answer
+1032,2470,95,10,2017.,a,THE WITNESS,start_question
+1033,2471,95,11,After the accident?,q,MR. SCHOLER,start_answer
+1034,2472,95,12,Yes.,a,THE WITNESS,start_question
+1035,2473,95,13,And how come you don't go back to Fitness 19 anymore?,q,MR. SCHOLER,start_answer
+1036,2475,95,15,I don't want to.,a,THE WITNESS,start_question
+1037,2476,95,16,You don't want to?,q,MR. SCHOLER,start_answer
+1038,2477,95,17,No.,a,THE WITNESS,start_question
+1039,2478,95,18,Okay.  Have anything to do with the accident?,q,MR. SCHOLER,start_answer
+1040,2480,95,20,No.,a,THE WITNESS,start_question
+1041,2481,95,21,Okay.  Did you play any sports before the accident that changed after?,q,MR. SCHOLER,start_answer
+1042,2484,95,24,No.,a,THE WITNESS,start_question
+1043,2487,96,1,"Any counseling as a result of the motor vehicle accident, did it affect you mentally, the accident?",q,MR. SCHOLER,start_answer
+1044,2490,96,4,No.,a,THE WITNESS,start_question
+1045,2491,96,5,Just want to show you a couple pictures that I have and see if you can identify them.,q,MR. SCHOLER,symbols
+1046,2494,96,8,-  -  -,symbols,,is brackets
+1047,2495,96,9,"(Whereupon, Exhibit Robinson 1, Robinson 2 and Robinson 3 were marked for identification.)",brackets,,symbols
+1048,2498,96,12,-  -  -,symbols,,start_question
+1049,2500,96,14,I'm going to ask you if you recognize what's been marked as Robinson 1.  Do you recognize what's depicted in that picture?,q,MR. SCHOLER,start_answer
+1050,2504,96,18,"Well, what's that mean?",a,THE WITNESS,start_question
+1051,2505,96,19,What's the picture show; do you know?,q,MR. SCHOLER,start_answer
+1052,2507,96,21,Yeah.  It shows the Jeep.,a,THE WITNESS,start_question
+1053,2508,96,22,Is that my client's car?,q,MR. SCHOLER,start_answer
+1054,2509,96,23,Mhmm.,a,THE WITNESS,start_question
+1055,2510,96,24,Do you know if that picture was taken on the date of the accident?,q,MR. SCHOLER,start_answer
+1056,2514,97,2,I assume so.,a,THE WITNESS,start_question
+1057,2515,97,3,Was that a picture that you took?,q,MR. SCHOLER,start_answer
+1058,2517,97,5,I don't know.,a,THE WITNESS,start_question
+1059,2518,97,6,"Okay.  Now, do you know where just from looking at the picture where the vehicle was in the roadway?",q,MR. SCHOLER,start_answer
+1060,2521,97,9,Yeah.,a,THE WITNESS,start_question
+1061,2522,97,10,"Okay.  Because I'll submit that it looks like the right front, which would be the passenger side tire, is on a double yellow line.  Is that accurate?",q,MR. SCHOLER,start_answer
+1062,2526,97,14,Yup.,a,THE WITNESS,start_question
+1063,2527,97,15,Do you know if that's Tyson at the point where the accident happened?,q,MR. SCHOLER,start_answer
+1064,2529,97,17,It should be.,a,THE WITNESS,start_question
+1065,2530,97,18,"And there's a double yellow line to the driver side, as well.  Where this car is, is this in the middle between the two travel lanes?  In other words, if you know, is there a travel lane to the passenger side on the roadway and opposite traffic would be on the driver side?",q,MR. SCHOLER,start_answer
+1066,2540,98,2,Mhmm.,a,THE WITNESS,start_question
+1067,2541,98,3,Is that a yes?,q,MR. SCHOLER,start_answer
+1068,2542,98,4,Yes.,a,THE WITNESS,start_question
+1069,2543,98,5,"Do you know if this was the point of impact where my client's car was when this picture was taken, is that where he had hit your car?",q,MR. SCHOLER,start_answer
+1070,2547,98,9,It looks like it.,a,THE WITNESS,start_question
+1071,2548,98,10,And I'll ask you to take a look at what's been marked for identification as Robinson 2.  Can you tell us what's shown in that picture?,q,MR. SCHOLER,start_answer
+1072,2552,98,14,The cab.,a,THE WITNESS,start_question
+1073,2553,98,15,The cab you were driving?,q,MR. SCHOLER,start_answer
+1074,2554,98,16,Yeah.,a,THE WITNESS,start_question
+1075,2555,98,17,And do you know if you took this picture?,q,MR. SCHOLER,start_answer
+1076,2557,98,19,I don't know.,a,THE WITNESS,start_question
+1077,2558,98,20,"And it appears as if the license plate, would you agree it looks like a Pennsylvania license plate?",q,MR. SCHOLER,start_answer
+1078,2561,98,23,Yeah.,a,THE WITNESS,start_question
+1079,2562,98,24,"Does the damage that's reflected here on the driver side left rear and the bumper, does that accurately reflect the damage that you recall occurring as a result of this accident?",q,MR. SCHOLER,start_answer
+1080,2569,99,5,Yes.,a,THE WITNESS,start_question
+1081,2570,99,6,And it looks like your vehicle is pulled to the side of the road; is that accurate?,q,MR. SCHOLER,start_answer
+1082,2573,99,9,Yes.,a,THE WITNESS,start_question
+1083,2574,99,10,"Is that still in the lane of travel though, did cars have to kind of go around you when your car was stopped here?",q,MR. SCHOLER,start_answer
+1084,2578,99,14,No.  They didn't have to go around me because I'm like almost on the sidewalk.,a,THE WITNESS,start_question
+1085,2581,99,17,Is that a parking area where cars could park at?,q,MR. SCHOLER,start_answer
+1086,2583,99,19,Yes.,a,THE WITNESS,start_question
+1087,2584,99,20,And just I guess another picture which was marked as Robinson 3 for identification purposes.  Is that just another picture of the rear side of the vehicle you were driving?,q,MR. SCHOLER,start_answer
+1088,2591,100,1,Yes.,a,THE WITNESS,start_question
+1089,2592,100,2,"Okay.  And when you pulled the car there, is it fair to say you got hit and then you were able to drive your car, steer it over to the side of the road?",q,MR. SCHOLER,start_answer
+1090,2597,100,7,Yes.,a,THE WITNESS,start_question
+1091,2598,100,8,"So what's reflected in Robinson 2 and 3 is not the actual place where the impact occurred, it occurred behind the vehicle at some point, correct?",q,MR. SCHOLER,start_answer
+1092,2603,100,13,Yes.,a,THE WITNESS,start_question
+1093,2604,100,14,"The pictures don't reflect it to me, but do you know how far your car, the back of your car was in Robinson 3 and where my client's Jeep in Robinson 1, the distance between them when these pictures were taken?",q,MR. SCHOLER,start_answer
+1094,2610,100,20,About the distance of this table.,a,THE WITNESS,start_question
+1095,2612,100,22,So within eight feet maybe?,q,MR. SCHOLER,start_answer
+1096,2613,100,23,Yeah.,a,THE WITNESS,start_question
+1097,2614,100,24,Okay.  Were cars able to get between the driver side driving past the driver side of your car and the passenger side of the jeep while you were waiting there for police to come and for everything to happen?,q,MR. SCHOLER,start_answer
+1098,2622,101,6,"Yeah, yes, I believe so.",a,THE WITNESS,start_question
+1099,2623,101,7,"Did anyone else stop to render aide other than when the police came, did anyone else stop and say, ""Can I help?""",q,MR. SCHOLER,start_answer
+1100,2627,101,11,"Yeah, I think somebody walked up, heard the impact in their house and just walked down to see what was going on.  They wasn't trying to help, they just wanted to see.",a,THE WITNESS,start_question
+1101,2632,101,16,Okay.,q,MR. SCHOLER,symbols
+1102,2633,101,17,-  -  -,symbols,,is brackets
+1103,2634,101,18,"(Whereupon, a brief break was taken.)",brackets,,symbols
+1104,2636,101,20,-  -  -,symbols,,start_question
+1105,2638,101,22,"Mr. Robison, just a couple questions.  I don't know if you recall, I know you said you had the 2009 accident. I have a claim that looks like from August 24th, 2011.  Do you remember being in a motor vehicle accident back in August of 2011?",q,MR. SCHOLER,start_answer
+1106,2647,102,5,Yeah.,a,THE WITNESS,start_question
+1107,2648,102,6,Okay.  And do you remember what you hurt in that accident?,q,MR. SCHOLER,start_answer
+1108,2650,102,8,No.,a,THE WITNESS,start_question
+1109,2651,102,9,"Was that a car accident, as well?",q,MR. SCHOLER,start_answer
+1110,2653,102,11,Yes.,a,THE WITNESS,start_question
+1111,2654,102,12,"Okay.  It looks like a head, neck, and back according to the report that I have.  Do you remember anything about that accident at all?",q,MR. SCHOLER,start_answer
+1112,2658,102,16,No.,a,THE WITNESS,start_question
+1113,2659,102,17,Do you remember if any of the injuries that you had in that accident were still around in the car accident from 2017?,q,MR. SCHOLER,start_answer
+1114,2663,102,21,"No, I was all healed up and fine.",a,THE WITNESS,start_question
+1115,2665,102,23,"Okay.  Do you know of any other accidents that you can recall other than 2009 and 2011 that you were in, car accidents?",q,MR. SCHOLER,start_answer
+1116,2671,103,3,No.,a,THE WITNESS,start_question
+1117,2672,103,4,"It looks like there may have been one that I have, March 10th, 2016, which would have been a year before the car accident that we're here about today. Do you remember being injured in an accident on that date?",q,MR. SCHOLER,start_answer
+1118,2678,103,10,No.,a,THE WITNESS,start_question
+1119,2679,103,11,"So just to sum up, the injuries that you sustained as a result of this accident was your lower back?",q,MR. SCHOLER,start_answer
+1120,2682,103,14,Yes.,a,THE WITNESS,start_question
+1121,2683,103,15,"And as we sit here today, how does your lower back feel?",q,MR. SCHOLER,start_answer
+1122,2685,103,17,"Right now it feels fine, but in the morning is when it hurts.  I don't take the medication no more, I just move around until it feels better.",a,THE WITNESS,start_question
+1123,2689,103,21,Did Dr. Boden's office or any other doctor give any home therapy or home treatment to do?,q,MR. SCHOLER,start_answer
+1124,2692,103,24,No.,a,THE WITNESS,start_question
+1125,2695,104,1,"When you say get up and move around, is there any certain stretches you do or is it just the matter of when you get out of bed, standing up and just waiting --",q,MR. SCHOLER,start_answer
+1126,2700,104,6,"Oh, yeah, I do stretches.",a,THE WITNESS,start_question
+1127,2701,104,7,What type of stretches?,q,MR. SCHOLER,start_answer
+1128,2702,104,8,"Back stretches, leg stretches.  I like to go jogging, so I stretch before I do that.",a,THE WITNESS,start_question
+1129,2705,104,11,Okay.  Did you jog before the accident?,q,MR. SCHOLER,start_answer
+1130,2707,104,13,Yes.,a,THE WITNESS,start_question
+1131,2708,104,14,How far do you jog on any given day?,q,MR. SCHOLER,start_answer
+1132,2710,104,16,Two miles.,a,THE WITNESS,start_question
+1133,2711,104,17,Is it daily or couple times a week?,q,MR. SCHOLER,start_answer
+1134,2713,104,19,"About two, three times a week.",a,THE WITNESS,start_question
+1135,2715,104,21,"Did that change at all as a result of the accident, or are you still able to jog?",q,MR. SCHOLER,start_answer
+1136,2718,104,24,"Well, it changed because of the accident, but at this point, you know, I'm pretty much back.",a,THE WITNESS,start_question
+1137,2723,105,3,Was there a time after the accident that you didn't go jogging?,q,MR. SCHOLER,start_answer
+1138,2725,105,5,Yes.,a,THE WITNESS,start_question
+1139,2726,105,6,"How long, was it six months?",q,MR. SCHOLER,start_answer
+1140,2727,105,7,Eight months.,a,THE WITNESS,start_question
+1141,2728,105,8,"When you went to the gym when you belonged to the gym before, did you use the treadmill there and jog or is your jogging always kind of outside on the street?",q,MR. SCHOLER,start_answer
+1142,2733,105,13,Always outside.,a,THE WITNESS,start_chat
+1143,2734,105,14,Thank you.  I don't have any further questions for you.  I appreciate your time.,side_chat,MR. SCHOLER,start_chat
+1144,2737,105,17,Nothing from me.  Thanks.,side_chat,MR. DOBSON,symbols
+1145,2739,105,19,-  -  -,symbols,,is brackets
+1146,2740,105,20,"(Whereupon, the Witness was excused.)",brackets,,symbols
+1147,2742,105,22,-  -  -,symbols,,is brackets
+1148,2743,105,23,"(Whereupon, the deposition ended at 11:48 a.m.) CERTIFICATE I HEREBY CERTIFY that the Witness was duly sworn by me and that the deposition is a true record of the testimony given by the Witness.",brackets,,symbols
+1149,2756,106,10,_______________________________________ Date:  7/23/19 of this transcript does not apply to any unless under the direct control and/or LAWYER'S NOTES PAGE  LINE,symbols,,symbols
+1150,2779,107,3,____  ____  ____________________________,symbols,,symbols
+1151,2780,107,4,____  ____  ____________________________,symbols,,symbols
+1152,2781,107,5,____  ____  ____________________________,symbols,,symbols
+1153,2782,107,6,____  ____  ____________________________,symbols,,symbols
+1154,2783,107,7,____  ____  ____________________________,symbols,,symbols
+1155,2784,107,8,____  ____  ____________________________,symbols,,symbols
+1156,2785,107,9,____  ____  ____________________________,symbols,,symbols
+1157,2786,107,10,____  ____  ____________________________,symbols,,symbols
+1158,2787,107,11,____  ____  ____________________________,symbols,,symbols
+1159,2788,107,12,____  ____  ____________________________,symbols,,symbols
+1160,2789,107,13,____  ____  ____________________________,symbols,,symbols
+1161,2790,107,14,____  ____  ____________________________,symbols,,symbols
+1162,2791,107,15,____  ____  ____________________________,symbols,,symbols
+1163,2792,107,16,____  ____  ____________________________,symbols,,symbols
+1164,2793,107,17,____  ____  ____________________________,symbols,,symbols
+1165,2794,107,18,____  ____  ____________________________,symbols,,symbols
+1166,2795,107,19,____  ____  ____________________________,symbols,,symbols
+1167,2796,107,20,____  ____  ____________________________,symbols,,symbols
+1168,2797,107,21,____  ____  ____________________________,symbols,,symbols
+1169,2798,107,22,____  ____  ____________________________,symbols,,symbols
+1170,2799,107,23,____  ____  ____________________________,symbols,,symbols
+1171,2800,107,24,____  ____  ____________________________,symbols,,end

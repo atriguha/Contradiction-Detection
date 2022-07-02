@@ -1,0 +1,925 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," the deponent herein, having first been duly sworn on oath, was examined and testified as follows: EXAMINATION",,,start_question
+1,106,13,8,"Good afternoon, Mr. DiPietro.",q,MS. COLE,start_answer
+2,107,13,9,Hi.,a,THE WITNESS,start_question
+3,108,13,10,"My name is Sarah Cole.  Thank you for being here for your deposition today. You were present for your wife Cecilia -- I'm sorry. You were present for your wife's deposition, correct?",q,MS. COLE,start_answer
+4,114,13,16,Yes.,a,THE WITNESS,start_question
+5,115,13,17,And you also heard the instructions that I gave to her prior or as we started the deposition?,q,MS. COLE,start_answer
+6,118,13,20,Yes.,a,THE WITNESS,start_question
+7,119,13,21,"Okay.  Just in case, I'm going to go through them just briefly for you because it's been several hours since we went through them.",q,MS. COLE,start_answer
+8,124,14,1,Sure.,a,THE WITNESS,start_question
+9,125,14,2,"We have a court reporter here with us today and he's going to be writing down everything that's being stated in this room.  So any question I give, any response you provide, any objections that are made, everything is going to be encapsulated for all time in a book and someone might need to go back and read that transcript.  To make that process easier for that person, I want to make sure that the transcript is as clear as possible. For that to happen, I'm going to ask us to take turns speaking.  Wait for me to give my full question before you give a response. I'm also going to ask you to give your responses in the form of words as opposed to saying uh-huh, uh-uh or shaking your head. Also, if at any time you don't understand a question being posed to you, let me know.  That way I can fix it in some way or do whatever I can to make it more clear, whether it be restate it, rephrase it or change it in any way. If you give me an answer to a question without first telling me you didn't understand it, I'm going to believe that you understood the question and that the response you're giving is to that question. Okay?",q,MS. COLE,start_answer
+10,158,15,10,Okay.,a,THE WITNESS,start_question
+11,159,15,11,"All right.  If you need a break at any time, let me know.  As you've probably noticed, I need breaks on occasion.  I'm more than willing to take breaks at any time.",q,MS. COLE,start_answer
+12,164,15,16,Okay.  Thank you.,a,THE WITNESS,start_question
+13,165,15,17,"Let's get started with your full legal name, please.",q,MS. COLE,start_answer
+14,167,15,19,Dean Anthony DiPietro.,a,THE WITNESS,start_question
+15,168,15,20,What is your date of birth?,q,MS. COLE,start_answer
+16,169,15,21,"September 9, '82.",a,THE WITNESS,start_question
+17,170,15,22,What's your current address?,q,MS. COLE,start_answer
+18,171,15,23,"2815 Evarts Street, D.C.",a,THE WITNESS,start_question
+19,172,15,24,You live there with your wife Cecilia?,q,MS. COLE,start_answer
+20,175,16,2,That's right.,a,THE WITNESS,start_question
+21,176,16,3,Does she go by Ceci or Cecilia?,q,MS. COLE,start_answer
+22,177,16,4,A little bit of both.,a,THE WITNESS,start_question
+23,178,16,5,I've heard people call her both.,q,MS. COLE,start_answer
+24,179,16,6,Ceci is a little easier.,a,THE WITNESS,start_question
+25,180,16,7,Yeah.  Okay. You have lived there since June of 2016?,q,MS. COLE,start_answer
+26,183,16,10,That's right.,a,THE WITNESS,start_question
+27,184,16,11,And you agree with the brief summary that she provided regarding a description of your home?,q,MS. COLE,start_answer
+28,187,16,14,Absolutely.,a,THE WITNESS,start_question
+29,188,16,15,Are you currently employed?,q,MS. COLE,start_answer
+30,189,16,16,Yes.,a,THE WITNESS,start_question
+31,190,16,17,Where do you work?,q,MS. COLE,start_answer
+32,191,16,18,"I work for the U.S. Green Building Council in Washington, D.C.",a,THE WITNESS,start_question
+33,193,16,20,What is that?,q,MS. COLE,start_answer
+34,194,16,21,"You may have seen a plaque sometimes when you go into a big office building that said LEED on it, L-E-E-D.  So we're an environmental non-profit and we do an assessment of buildings and office spaces for environmental performance and we issue a rating to those buildings.",a,THE WITNESS,start_question
+35,202,17,4,Are you a government agency?,q,MS. COLE,start_answer
+36,203,17,5,No.  It's a 501(c)(3).,a,THE WITNESS,start_question
+37,204,17,6,Okay.  What is your title there currently?,q,MS. COLE,start_answer
+38,206,17,8,Director of operations.,a,THE WITNESS,start_question
+39,207,17,9,Give me a briefly summary as to your general responsibilities and tasks as the director of operations.,q,MS. COLE,start_answer
+40,210,17,12,"Sure.  I oversee business operations for the certification and credentialing functions of the company.  So we issue plaques to buildings and certificates to people based on their knowledge of green building and everything that goes into the general business planning for that, so technology planning, budgeting, resource management, those sorts of things.",a,THE WITNESS,start_question
+41,220,17,22,How long have you held the position of director of operations?,q,MS. COLE,start_answer
+42,222,17,24,"I mean I've been doing this sort of work for a long time.  I think I got the director title in early 2016, but I would have to check the records to be sure.",a,THE WITNESS,start_question
+43,227,18,4,Definitely before October 1st of 2016?,q,MS. COLE,start_answer
+44,229,18,6,Yes.,a,THE WITNESS,start_question
+45,230,18,7,"Who do you report to?  What's the title, not necessarily the name, but do you report to somebody else?",q,MS. COLE,start_answer
+46,233,18,10,The senior vice president of certification and credentialing.,a,THE WITNESS,start_question
+47,235,18,12,Who is your boss?,q,MS. COLE,start_answer
+48,236,18,13,The Vice President of Engineering.,a,THE WITNESS,start_question
+49,237,18,14,Do you report to work at an office?,q,MS. COLE,start_answer
+50,238,18,15,Yes.,a,THE WITNESS,start_question
+51,239,18,16,Do you report to work at an office every day?,q,MS. COLE,start_answer
+52,241,18,18,Yes.,a,THE WITNESS,start_question
+53,242,18,19,And is that office somewhere off site from your home?,q,MS. COLE,start_answer
+54,244,18,21,Yes.  Yeah.,a,THE WITNESS,start_question
+55,245,18,22,What are your general work hours?,q,MS. COLE,start_answer
+56,246,18,23,"About the same as Ceci, so maybe 9:30 to 6:00 Monday through Friday.",a,THE WITNESS,start_question
+57,249,19,1,And that would be in D.C.?,q,MS. COLE,start_answer
+58,250,19,2,"In D.C., yeah.  21st and L.",a,THE WITNESS,start_question
+59,251,19,3,Give me a brief summary of your educational background.,q,MS. COLE,start_answer
+60,253,19,5,"Sure.  So college, undergrad at St. Mary's College, I graduated in 2005, and then grad school at University of Maryland, got my M.B.A. in 2010.  And that was a two-year part-time program.",a,THE WITNESS,start_question
+61,258,19,10,Is that in College Park?,q,MS. COLE,start_answer
+62,259,19,11,"Well, they actually have three campuses.  There's one in College Park, one in downtown D.C. and one in like Shady Grove, but I only really took classes at the downtown D.C. location.",a,THE WITNESS,start_question
+63,264,19,16,"Oh, okay.  So they have a downtown D.C. location?",q,MS. COLE,start_answer
+64,266,19,18,It's just for the business school in the Reagan Center at 14th and E.  They have like the whole basement there is they have four classrooms and a lecture hall for the business school.,a,THE WITNESS,start_question
+65,271,19,23,That's a two-year program you said?,q,MS. COLE,start_answer
+66,272,19,24,"That's correct.  You don't have to do it in two years.  You don't have to get the credits.  You can stretch it out longer if you need to, but normally you can get it done in two years because it's a part-time program in the evenings.",a,THE WITNESS,start_question
+67,279,20,6,"What position did you hold immediately prior to -- well, let me strike that. When you began working in January of 2016, were you working as director of operations?",q,MS. COLE,start_answer
+68,285,20,12,When I began working in January of 2016?,a,THE WITNESS,start_question
+69,287,20,14,"Let me back up. For the employer that you currently have, did you start working there in January or early 2016?",q,MS. COLE,start_answer
+70,291,20,18,No.  And perhaps I could just give you a quick summary of my work history.,a,THE WITNESS,start_question
+71,293,20,20,Yes.,q,MS. COLE,start_answer
+72,294,20,21,Yes. I was hired at the U.S. Green Building Council in 2006.,a,THE WITNESS,is brackets
+73,296,20,23,(A discussion was held off the record),brackets,,start_chat
+74,299,21,1,So I was hired at the U.S. Green Building Council in 2006. It was my second job out of college.  And I began there as a program assistant in the certification department. And I've worked there ever since and I've had maybe four or five titles over the course of that time.,side_chat,THE WITNESS,start_question
+75,308,21,10,Got it.  So you worked your way up to director of operations which is a title you presumed in early 2016?,q,MS. COLE,start_answer
+76,311,21,13,That's correct.,a,THE WITNESS,start_question
+77,312,21,14,"And since October of 2016, minus any time that you may have missed from work as a result of this accident, have you generally been working at your office from around until 9:30 until 6:00 p.m. Monday through Friday?",q,MS. COLE,start_answer
+78,318,21,20,Yeah.  Absolutely.,a,THE WITNESS,start_question
+79,319,21,21,So that's typical?,q,MS. COLE,start_answer
+80,320,21,22,"Right.  Similar to Cecilia, if there's a snow day or something it's okay to telework or if there's a plumber coming to the house or something like that, but there's no regular schedule of anything other than going into the office every day.",a,THE WITNESS,start_question
+81,327,22,4,"Did you have a primary care physician before October 1st, 2016?",q,MS. COLE,start_answer
+82,329,22,6,Not really.  I had been going regularly to the Washington Medical Group. And I know you've got like ten providers that all sound exactly the same here. But my company changed insurance plans in the summer of 2016 and so I had to stop seeing that office generally and so I was sort of in limbo there for a while.,a,THE WITNESS,start_question
+83,338,22,15,"So you had to stop seeing a general care or a family doctor that was associated with the Washington Medical Group prior to October 1st, 2016 because your employer switched carriers or insurance?",q,MS. COLE,start_answer
+84,343,22,20,"That's right.  And honestly it was in August, so stop seeing I would put in quotes.",a,THE WITNESS,start_question
+85,346,22,23,Okay.  All right.  What was your doctor's name at Washington Medical Group?,q,MS. COLE,start_answer
+86,349,23,1,"It's sort of like a rotating shop. You call in and make an appointment, I'm sick, I got whatever and you talk to somebody who's working there. I saw Dr. Stephen Macedo a fair amount there, but they also have a rotating -- sorry.  Is it RN or PA?  One of those two.  I can't remember.  That you see when you go in with a cold or something like that.",a,THE WITNESS,start_question
+87,359,23,11,Who is the person you report to?,q,MS. COLE,start_answer
+88,361,23,13,The Director of Marketing,a,THE WITNESS,start_question
+89,362,23,14,"Prior to October 1st, 2016 had you ever been involved in any other motor vehicle accidents?",q,MS. COLE,start_answer
+90,365,23,17,"Just one really minor accident. And I'm not really sure on the dates.  I want to guess it was 2006-ish, but I'm not really sure.",a,THE WITNESS,start_question
+91,369,23,21,Were you injured as a result of that 2006-ish accident?,q,MS. COLE,start_answer
+92,371,23,23,No.,a,THE WITNESS,start_question
+93,372,23,24,"How about since October 1st, 2016, have you been involved in any additional accidents?",q,MS. COLE,start_answer
+94,376,24,3,No.,a,THE WITNESS,start_question
+95,377,24,4,"Have you been hospitalized for any reason prior to October 1st, 2016?",q,MS. COLE,start_answer
+96,379,24,6,Yeah.  So I had my tonsils out and wisdom teeth out when I was younger.  And in I want to say 2009 I had a surgery on my wrist.  I had a puncture into this wrist here (indicating) and I had to get a nerve repaired.,a,THE WITNESS,start_question
+97,385,24,12,That was your right wrist?,q,MS. COLE,start_answer
+98,386,24,13,Yeah.  That was my right wrist with the sweet scar.,a,THE WITNESS,start_question
+99,388,24,15,Was that related to some kind of injury or incident that occurred to you?,q,MS. COLE,start_answer
+100,390,24,17,It was.,a,THE WITNESS,start_question
+101,391,24,18,What did you do?,q,MS. COLE,start_answer
+102,392,24,19,"It's kind of a fun story.  You'll all get a good laugh here. I was taking a nap on the couch and I kicked the lamp over in the process here.  And then I was very frustrated because it was one of Ceci's favorite lamps. I cleaned up all of the broken glass and was left with the piece that the lamp shade connects to.  And I was a little lazy.  The trash can was more full than -- you know, it was sort of full.  And I was trying to get this piece of metal to go into the trash can and I was trying to bend it.  And it was brittle and it snapped and it went directly into my wrist. So completely self-imposed. There were many different steps I could have taken to not have that problem.",a,THE WITNESS,start_question
+103,412,25,14,Okay.,q,MS. COLE,start_answer
+104,413,25,15,"Maybe it's worth mentioning I had that surgery done at the National Hand Center, I think it's called, in Baltimore, which is where we ended up going for Ceci's finger.  That was the connection.",a,THE WITNESS,start_question
+105,418,25,20,"Got it. Had you ever seen any mental health providers prior to October 1st, 2016?",q,MS. COLE,start_answer
+106,422,25,24,"I've been trying to think about this.  I think the answer is no.  My parents got divorced when I was 11 and I think my brother and I went to like two counseling sessions, but it's the only thing that I can recall.",a,THE WITNESS,start_question
+107,429,26,6,"Have you ever been on any medication for any mental health concerns prior to October 1st, 2016?",q,MS. COLE,start_answer
+108,432,26,9,I take Adderall for ADD.  I'm not sure if that was mental behavioral or how you classify that.,a,THE WITNESS,start_question
+109,435,26,12,Okay.  Who prescribes that?,q,MS. COLE,start_answer
+110,436,26,13,"Well, it had been Dr. Stephen Macedo.  And I actually have paid out of pocket to get it renewed just because I haven't transferred over to another doctor, but just recently I switched over to I found a new primary care doctor so I will be switching to him.",a,THE WITNESS,start_question
+111,443,26,20,And was the Adderall helping with any particular diagnosis that you had received in the past?,q,MS. COLE,start_answer
+112,446,26,23,Outside of the ADD?,a,THE WITNESS,start_question
+113,447,26,24,Yes. You have ADD?,q,MS. COLE,start_answer
+114,449,27,1,Yes.  That's what it was for.,a,THE WITNESS,start_question
+115,450,27,2,Who has diagnosed you with ADD?,q,MS. COLE,start_answer
+116,451,27,3,That's Dr. Stephen Macedo from the Washington Medical Group.,a,THE WITNESS,start_question
+117,453,27,5,When were you first diagnosed with that?,q,MS. COLE,start_answer
+118,455,27,7,"'09 or 2010, in there.",a,THE WITNESS,start_question
+119,456,27,8,Somewhere around 2009-2010?,q,MS. COLE,start_answer
+120,457,27,9,Yeah.,a,THE WITNESS,start_question
+121,458,27,10,Remind me.  Which year were you and your wife married?,q,MS. COLE,start_answer
+122,460,27,12,2010.,a,THE WITNESS,start_question
+123,461,27,13,"Had you two traveled fairly extensively before October 1st, 2016?",q,MS. COLE,start_answer
+124,463,27,15,Yeah.  One or two trips per year and often interesting ones I like to think.,a,THE WITNESS,start_question
+125,465,27,17,"Where did you go for your honeymoon, if anywhere?",q,MS. COLE,start_answer
+126,467,27,19,"We went to Mexico.  We went to Oaxaca, a lovely town.",a,THE WITNESS,start_question
+127,469,27,21,"Were you on any medication on a routine basis leading up to October 1st, 2016?",q,MS. COLE,start_answer
+128,472,27,24,Just the Adderall.,a,THE WITNESS,start_question
+129,474,28,1,Let's talk about the injuries you believe you sustained in this accident.,q,MS. COLE,start_answer
+130,476,28,3,Sure.,a,THE WITNESS,start_question
+131,477,28,4,Can you give me a summary regarding what those injuries are?,q,MS. COLE,start_answer
+132,479,28,6,Yeah.  So banged up and bumps and bruises all over.  I had a particularly bad one on my left hand or left wrist area and then the three compression fractures in my back and a concussion.,a,THE WITNESS,start_question
+133,484,28,11,So generally bumps and bruises?,q,MS. COLE,start_answer
+134,485,28,12,Yeah.,a,THE WITNESS,start_question
+135,486,28,13,Throughout?,q,MS. COLE,start_answer
+136,487,28,14,Yeah.,a,THE WITNESS,start_question
+137,488,28,15,An injury to your left wrist?,q,MS. COLE,start_answer
+138,489,28,16,"Yeah.  I think the ER just referred to it as a contusion but a bruise, contusion, whatever.",a,THE WITNESS,start_question
+139,492,28,19,"A fracture to your thoracic spine, correct?",q,MS. COLE,start_answer
+140,494,28,21,Yeah.  There were three vertebrae.,a,THE WITNESS,start_question
+141,495,28,22,Any injuries did you say to your ribs?,q,MS. COLE,start_answer
+142,497,28,24,"No, nothing specific to my ribs. Everything is all sort of mixed up in the back, but this muscle here (indicating), I think they call it the lumbar, in my back right side was pretty badly strained.",a,THE WITNESS,start_question
+143,503,29,5,"So let me see if I got this right. You've mentioned to me the fractures to your thoracic spine and the vertebrae, three different locations, right?",q,MS. COLE,start_answer
+144,508,29,10,Yeah.,a,THE WITNESS,start_question
+145,509,29,11,A contusion to your left wrist and some bumps and bruises assorted through your body. Anything else that you believe you injured as a result of this accident?,q,MS. COLE,start_answer
+146,514,29,16,The concussion and the lumbar strain.,a,THE WITNESS,start_chat
+147,516,29,18,And you're just asking about physical injuries right now?,side_chat,MS. ORSI,start_chat
+148,518,29,20,Yes.,side_chat,MS. COLE,start_question
+149,520,29,22,Do you believe you sustained any mental health injuries as a result of this accident?,q,MS. COLE,start_answer
+150,524,30,1,Yes.  It would be difficult to understate the emotional impact that this trolley accident has had on me and my family.,a,THE WITNESS,start_question
+151,528,30,5,Have you been diagnosed with any mental health conditions as a result of the accident?,q,MS. COLE,start_answer
+152,531,30,8,"No, not that I'm aware of. Sorry.  The concussion, we're calling it physical or mental, and everything that falls from the concussion and the trauma, are we calling it physical or mental or are you looking for like a specific named disease or something?",a,THE WITNESS,start_question
+153,538,30,15,I mean I certainly understand that sometimes a concussion can result in additional stress.,q,MS. COLE,start_answer
+154,541,30,18,Yeah.,a,THE WITNESS,start_question
+155,542,30,19,"But sometimes -- I want to separate out the post-concussive syndrome and associated manifestations of that from any mental health concerns, to the extent you can.",q,MS. COLE,start_answer
+156,547,30,24,Okay.,a,THE WITNESS,start_question
+157,549,31,1,"Okay.  For example, do you believe that you had increased anxiety following this accident as a result of the accident?",q,MS. COLE,start_answer
+158,552,31,4,Yes.,a,THE WITNESS,start_question
+159,553,31,5,Did you have problems with depression following the accident as a result of the accident?,q,MS. COLE,start_answer
+160,556,31,8,Yes.,a,THE WITNESS,start_question
+161,557,31,9,Had anyone diagnosed you with either of those two conditions and advised that it was because of the accident?,q,MS. COLE,start_answer
+162,560,31,12,"I'm just getting tripped up on ""diagnosed.""  Everybody acknowledges that there's stress and trauma and anxiety coming from that. But did someone like write it on a certificate and say you have anxiety? Not that I recall.  But certainly yes, that happened to me and I talked about that with my medical providers.",a,THE WITNESS,start_question
+163,569,31,21,"Since October 1, 2016, have you taken any medication that you believe was prescribed to you because of either anxiety or depression?",q,MS. COLE,start_answer
+164,574,32,1,No.,a,THE WITNESS,start_question
+165,575,32,2,Or both?,q,MS. COLE,start_answer
+166,576,32,3,No.,a,THE WITNESS,start_question
+167,577,32,4,"Have you ever sought out since October 1st, 2016 any psychiatrists in order to explore options for medication to address anxiety or depression?",q,MS. COLE,start_answer
+168,581,32,8,We saw Dr. Fitzgerald a few times. And I wouldn't say that we went there with the intention of exploring medication. More that we absolutely needed to talk to somebody and we were open to whatever they recommended.,a,THE WITNESS,start_question
+169,587,32,14,Now let's go back and talk for a second.  I'm going to return to the mental health aspect in a little bit.,q,MS. COLE,start_answer
+170,590,32,17,Okay.,a,THE WITNESS,start_question
+171,591,32,18,"But before I get too far ahead on that avenue, I do want to talk a little bit about the physical injuries you sustained in the accident.",q,MS. COLE,start_answer
+172,595,32,22,Sure.,a,THE WITNESS,start_question
+173,596,32,23,"Immediately after the accident happened, did you have an opportunity to take a look at yourself and observe whether or not you had any obvious injuries?",q,MS. COLE,start_answer
+174,601,33,3,"Yeah.  I mean sort of like right when I came to I've got -- I'm on my back with my hips and my legs up in the air above me.  And I've got Ceci and Yaron both on top of my thighs and I'm not sure if I can move my legs.  I'm just pretty sure that I'm paralyzed. And I take some time for people to get untangled from one another, so in that process I was evaluating my body. Is that what you mean here?",a,THE WITNESS,start_question
+175,612,33,14,"And did you see any blood, for example, coming from any area of your body?",q,MS. COLE,start_answer
+176,614,33,16,No.  I don't think I had any skin breaks as a result of this accident.,a,THE WITNESS,start_question
+177,616,33,18,Did you see any deformities or swelling start to appear on your body at that time?,q,MS. COLE,start_answer
+178,619,33,21,"Yeah, for sure.  The wrist was really knotted up and the bruises take some time to come in, but my thighs were black and blue for days afterwards. I didn't take my pants down and check or anything.",a,THE WITNESS,start_question
+179,626,34,3,Did you strike your head as a result of the accident?,q,MS. COLE,start_answer
+180,628,34,5,Yes.,a,THE WITNESS,start_question
+181,629,34,6,What did you hit it on?,q,MS. COLE,start_answer
+182,630,34,7,"I mean whatever was behind me.  So I don't know if that's the road, the road with that little piece of plexiglass, some aspect of the trolley wall. I'm not 100 percent sure. Whatever was under me.",a,THE WITNESS,start_question
+183,636,34,13,Were you conscious when your head struck whatever it was that it hit?,q,MS. COLE,start_answer
+184,638,34,15,No.,a,THE WITNESS,start_question
+185,639,34,16,How do you know you hit something?,q,MS. COLE,start_answer
+186,640,34,17,"Well, I wasn't on that side of the trolley and then when I woke up I was.",a,THE WITNESS,start_question
+187,642,34,19,Did you see any physical manifestations of any head injuries at that time?,q,MS. COLE,start_answer
+188,645,34,22,I mean it would have been the back of my head so I don't think I could have seen them.,a,THE WITNESS,start_question
+189,649,35,1,What leads you to believe as you sit here today that you struck your head as a result of the accident?,q,MS. COLE,start_answer
+190,652,35,4,"Sorry.  Didn't I just cover that? So was the last answer not okay? We were on the one side and then I'm on the other side, so it would be impossible for that to happen without me making contact with the other side.",a,THE WITNESS,start_question
+191,658,35,10,"Well, like, for example, did you see any knots on your head or any gashes on your head?",q,MS. COLE,start_answer
+192,661,35,13,No.,a,THE WITNESS,start_question
+193,662,35,14,No?,q,MS. COLE,start_answer
+194,663,35,15,No.,a,THE WITNESS,start_question
+195,664,35,16,"And you don't have any personal recollection that you were conscious for striking anything on your head, correct?",q,MS. COLE,start_answer
+196,667,35,19,No.,a,THE WITNESS,start_question
+197,668,35,20,Okay.  Did you have any head pain after the accident happened?,q,MS. COLE,start_answer
+198,670,35,22,"Yeah.  I had a bad headache, I mean not immediately after.  The adrenaline is just surging.  Right? But yeah, I definitely had a headache later that day and then, you know, progressively worse over the next couple of weeks.",a,THE WITNESS,start_question
+199,678,36,5,You've said that your left wrist appeared to be knotting up on you at the scene of the accident.  Is that right?,q,MS. COLE,start_answer
+200,681,36,8,Yeah.,a,THE WITNESS,start_question
+201,682,36,9,Was it bleeding at all or --,q,MS. COLE,start_answer
+202,683,36,10,No.,a,THE WITNESS,start_question
+203,684,36,11,-- deformed in any way other than just what you could appreciate in terms of the swelling?,q,MS. COLE,start_answer
+204,687,36,14,The second thing you said.  Just what I could appreciate in terms of the swelling.,a,THE WITNESS,start_question
+205,690,36,17,At the time the accident happened did you hear any sounds or could you perceive any sounds that construed to you or indicated to you that you had injured yourself?  Cracks?  Crunches?,q,MS. COLE,start_answer
+206,695,36,22,"Yeah.  So it's difficult for me to back map this to the moment of the accident, but for weeks after I just kept coming back to this crack in my back and still until today.  You just remember a crash.  Right?",a,THE WITNESS,start_question
+207,702,37,4,But you personally can recall hearing a crack in your back at the time the accident happened?,q,MS. COLE,start_answer
+208,705,37,7,I recall thinking about a crack in my back each and every day after the accident.  I don't recall anything about the exact moment of impact.,a,THE WITNESS,start_question
+209,709,37,11,"So although you don't recall hearing the crack at the time the accident happened, it's something that you have recalled after the fact?",q,MS. COLE,start_answer
+210,713,37,15,Sure.  Yeah.  That's right.,a,THE WITNESS,start_question
+211,714,37,16,"How about your low back, was your low back bothering you immediately after the accident?",q,MS. COLE,start_answer
+212,717,37,19,Yes.,a,THE WITNESS,start_question
+213,718,37,20,At some point you extracted yourself from the trolley.  Is that right?,q,MS. COLE,start_answer
+214,720,37,22,Yeah.,a,THE WITNESS,start_question
+215,721,37,23,Did you stand up on your own?,q,MS. COLE,start_answer
+216,722,37,24,"It's possible that Ceci and I sort of helped each other up.  I might have grabbed on whatever was around.  Yaron was on top of me, so he may have helped me up. But, generally speaking, we made our way together to the exit.  It wasn't like I was on a stretcher or in a wheelchair or something like that.",a,THE WITNESS,start_question
+217,731,38,8,And you walked out of a location that you believe to be an exit for the trolley?,q,MS. COLE,start_answer
+218,734,38,11,"Well, I seem to remember like some sort of additional maneuvering required. It wasn't like you're stepping off a bus, for example. I remember Ken and Darrion were on the outside and offering hands and I feel like there was a step over or something, maybe it was a back window.  I'm sure looking at a picture you would know what exactly we went through. That's what I recall.",a,THE WITNESS,start_question
+219,745,38,22,Where did you go from there,q,MS. COLE,start_answer
+220,746,38,23,"We really just sort of milled about on the highway for -- I don't know -- maybe 20, 30 minutes.  It could have been longer. I don't think I looked at a clock.",a,THE WITNESS,start_question
+221,751,39,3,"So milling about like wandering, walking around type of thing?",q,MS. COLE,start_answer
+222,753,39,5,"Yeah.  I mean I don't think I was any further than a hundred feet from the trolley at any point until I was on the shuttle, the bus thing.",a,THE WITNESS,start_question
+223,757,39,9,At any point did any EMT's come up to you and ask whether you needed any medical attention?,q,MS. COLE,start_answer
+224,760,39,12,"Yeah.  Pretty shortly thereafter the first EMT's on the scene were doing this like initial triage thing.  They were getting everybody a wristband.  It was green, yellow or red, like how serious are you. And I think, I think Kat and Lauren and Wendy, Wendy I think is her name, all got either yellow or red and I think almost everybody else got green.",a,THE WITNESS,start_question
+225,770,39,22,"Okay.  What's your understanding, if you know, what it means to have a green wristband versus a yellow or a red?",q,MS. COLE,start_answer
+226,774,40,1,"You know, similar to a traffic light.  Right?  There's opposite ends and something in the middle. I would guess red is call the helicopter, but I'm not sure thereafter.",a,THE WITNESS,start_question
+227,779,40,6,Was a helicopter ever called to the scene?,q,MS. COLE,start_answer
+228,781,40,8,Not to my knowledge.,a,THE WITNESS,start_question
+229,782,40,9,"And nobody ever received a red wristband, to your knowledge?",q,MS. COLE,start_answer
+230,784,40,11,I don't know.  I couldn't answer one way or the other.,a,THE WITNESS,start_question
+231,786,40,13,"You received a green wristband, which on the range of colors would be the least severe.  Is that correct?",q,MS. COLE,start_answer
+232,789,40,16,"Yeah.  Of those three for sure, yeah.",a,THE WITNESS,start_question
+233,791,40,18,"I think the question that I was asking, I want to kind of circle back to it. Did the EMT's ever come up to you and ask if you needed medical attention at that time?",q,MS. COLE,start_answer
+234,797,40,24,"I don't recall that question being exactly posed to me, but I do recall the triage so it must have been.  That's the best I could do there.",a,THE WITNESS,start_question
+235,802,41,4,Did you ever ask to go to an emergency room in an ambulance?,q,MS. COLE,start_answer
+236,804,41,6,I mean Ceci's finger was pointing this way (indicating) so we needed to go there. Was it for me specifically or for her?  I don't know.  That's where we needed to go.,a,THE WITNESS,start_question
+237,810,41,12,How did you come to get to an emergency room?,q,MS. COLE,start_answer
+238,812,41,14,"We rode like a bus, like a shuttle sort of thing.  I think it was like a commuter setup, a commuter bus for the area.",a,THE WITNESS,start_question
+239,816,41,18,What were the circumstances under which you became the passenger on that shuttle?,q,MS. COLE,start_answer
+240,819,41,21,"So everybody was getting taken to get medical attention and they told us that there was not going to be any room for us at the Beebe place and so there was another vehicle that was going to take us to the Milford Memorial. And they told us that there were no more ambulances because all of the ambulances had been deployed for presumably others in the accident.  I'm not sure.  And so like it was the two of us, I think Sarah and an EMT and the bus driver got put on that shuttle and driven to Milford Memorial.",a,THE WITNESS,start_question
+241,834,42,11,The bus driver was on the shuttle with you?,q,MS. COLE,start_answer
+242,836,42,13,No. I'm sorry.  The shuttle driver.,a,THE WITNESS,start_question
+243,837,42,14,"Oh, okay.  So Mr. Dowd was not on the bus with you or the shuttle?",q,MS. COLE,start_answer
+244,839,42,16,Correct.,a,THE WITNESS,start_question
+245,840,42,17,So by the time you left in the shuttle the ambulances had already left the scene of the accident?,q,MS. COLE,start_answer
+246,843,42,20,I couldn't tell you for sure.,a,THE WITNESS,start_question
+247,844,42,21,"During the time frame after the accident but before you left in the shuttle, did anyone come up to you who had advised you that they had observed the accident such as a bystander or kind of a third-party witness to it?",q,MS. COLE,start_answer
+248,851,43,3,"Not me directly, no.",a,THE WITNESS,start_question
+249,852,43,4,"When you got to Milford Memorial Hospital, what happened next?",q,MS. COLE,start_answer
+250,854,43,6,"Well, there was like a pretty lengthy I don't know if you would call it triage or what process there.  I just remember like -- this is like a recurring theme as you're trying to get through providers throughout this whole process. It's like nobody wants anything to do with you once they hear it's an accident. So they were trying to get claim numbers from us before they would even see us despite the fact that we had insurance cards.  I remember there was a long discussion at that paperwork desk before we were able to even get back in there. They put one of these (indicating) cuffs on me.",a,THE WITNESS,start_question
+251,871,43,23,"A collar, a cervical collar?",q,MS. COLE,start_answer
+252,872,43,24,"Yeah.  Yeah.  Sorry.  A cervical collar on me. And yeah, I guess they set both Ceci and I up for X-rays.  I would have had my back X-rayed and then brought us back together where I think we saw Sparks, Sparks, Sean Sparks maybe, Mike Sparks.  I can't remember his first name.  Dr. Sparks there saw both of us together. And there was a lot of talk about what they were going to do about Ceci's finger so we can get into that if that would be helpful.",a,THE WITNESS,start_question
+253,886,44,13,"Well, tell me, at any point did anyone tell you the results of the X-ray to your back?",q,MS. COLE,start_answer
+254,889,44,16,"Yeah.  So he said, you know, ""I took a look at the X-ray and it looks okay.""  And he described what happened to me.  I will never forget this.  He said, ""It's as if you did an entire NFL preseason in one minute."" And I was like ""Okay.  But without any of the training, right?""  It was the weirdest thing that anyone has said.  So he didn't see the break, the compression fractures on the X-ray.",a,THE WITNESS,start_question
+255,901,45,3,"Oh, okay.  So you left Milford Memorial Hospital unaware that you may have broken certain vertebrae in your thoracic spine?",q,MS. COLE,start_answer
+256,905,45,7,Correct.,a,THE WITNESS,start_question
+257,906,45,8,Okay.  Did anyone do an X-ray of your left wrist?,q,MS. COLE,start_answer
+258,908,45,10,I think so.,a,THE WITNESS,start_question
+259,909,45,11,And what was the result of that X-ray?,q,MS. COLE,start_answer
+260,911,45,13,I don't think there was a fracture.,a,THE WITNESS,start_question
+261,912,45,14,Did anyone do a CT scan of your brain at that time?,q,MS. COLE,start_answer
+262,914,45,16,No.,a,THE WITNESS,start_question
+263,915,45,17,Did you tell medical providers that you thought you may have lost consciousness as a result of the accident?,q,MS. COLE,start_answer
+264,918,45,20,No.  I don't think so.  And we talked about this.  It's probably not correct to refer to a different deposition. I'm not sure.,a,THE WITNESS,start_question
+265,922,45,24,You can go ahead and just testify.,q,MS. COLE,start_answer
+266,924,46,1,"Yeah.  So similar questions, you know, what's your name, who's the president, that sort of thing, did you lose consciousness, which is reflecting on kind of a crazy question because how would you know if you did?",a,THE WITNESS,start_question
+267,930,46,7,So those types of questions were also posed to you in addition to your wife?,q,MS. COLE,start_answer
+268,932,46,9,Yes.,a,THE WITNESS,start_question
+269,933,46,10,And were you able to respond to those questions accurately?,q,MS. COLE,start_answer
+270,935,46,12,"Yeah.  I believe so, yes.",a,THE WITNESS,start_question
+271,936,46,13,At that time did you have any concerns that you were suffering from any problems with a concussion?,q,MS. COLE,start_answer
+272,939,46,16,That was not on my mind at the time.,a,THE WITNESS,start_question
+273,941,46,18,Were you prescribed medication by any of the doctors at Milford Memorial Hospital?,q,MS. COLE,start_answer
+274,944,46,21,Yes.  And I can't remember if it was a painkiller or a muscle relaxer from Dr. Sparks.  And it was filled that evening.,a,THE WITNESS,start_question
+275,949,47,1,Did you go to the CVS?,q,MS. COLE,start_answer
+276,950,47,2,"Yeah.  I think it was a Rite Aid actually, but yes.",a,THE WITNESS,start_question
+277,952,47,4,Did you take that medication?,q,MS. COLE,start_answer
+278,953,47,5,"I did, yes.",a,THE WITNESS,start_question
+279,954,47,6,That evening?,q,MS. COLE,start_answer
+280,955,47,7,Yes.,a,THE WITNESS,start_question
+281,956,47,8,Did you continue to take that medication?,q,MS. COLE,start_answer
+282,958,47,10,"I did, yeah.",a,THE WITNESS,start_question
+283,959,47,11,How did you get back to the Airbnb?,q,MS. COLE,start_answer
+284,960,47,12,"We took I think it was an Uber, not a Lyft.  But if it's important we can find the records.",a,THE WITNESS,start_question
+285,963,47,15,No.,q,MS. COLE,start_answer
+286,964,47,16,Okay.,a,THE WITNESS,start_question
+287,965,47,17,And did --,q,MS. COLE,start_answer
+288,966,47,18,I'm sorry.  We took an Uber or a Lyft to the Rite Aid where we met up with Rita and Leo and they gave us a ride back to the Airbnb.,a,THE WITNESS,start_question
+289,970,47,22,"And once back there, were there other people in the home that had been on the trolley?",q,MS. COLE,start_answer
+290,974,48,1,Absolutely.  Yeah.,a,THE WITNESS,start_question
+291,975,48,2,"And do you recall conversations you may have had with them, if any, regarding the accident?",q,MS. COLE,start_answer
+292,978,48,5,"I would describe the scene in there almost as if it was like an ER or a doctor's office itself.  Right?  Everybody is sitting on the ground with an ice pack or holding their bandage or whatever it is. And it's one of these beach houses, so there's a big ol' family room a giant wrap- around couch or whatever.  So of course we were talking about the accident sitting around there, are you okay, hugging each other, crying, all that stuff.",a,THE WITNESS,start_question
+293,989,48,16,What can you recall or tell me about your wife's mental health condition to the extent you observed it that night?,q,MS. COLE,start_answer
+294,992,48,19,"I mean that whole night is like a blur.  It's a complete shock.  Nobody's okay.  Everybody has darkest red eyes, just tears everywhere and shocked that we're not dead.  Happy to be together. Ceci had a cast.  She was a mess, yeah.",a,THE WITNESS,start_chat
+295,1000,49,2,Sorry.,side_chat,THE WITNESS,start_question
+296,1001,49,3,"You guys drove home the next day, right?",q,MS. COLE,start_answer
+297,1003,49,5,That's correct.,a,THE WITNESS,start_question
+298,1004,49,6,Were you present for when Stephanie Novak came over to the house?,q,MS. COLE,start_answer
+299,1006,49,8,"Yeah.  I think I saw Steph twice, on Saturday and Sunday. And a point of clarification for you.  So Saturday I think she came over to the house.  Actually, I'm not positive she came Saturday night.  I know some other guests from the wedding came on Saturday night, but I actually don't know if Steph did or not.  I'm not sure. Sunday there was a preplanned brunch for the wedding guests, which we did not go to brunch, but we did stop in and give her a hug and say --",a,THE WITNESS,start_question
+300,1019,49,21,So you went to the brunch location just to see her and say hello?,q,MS. COLE,start_answer
+301,1021,49,23,Exactly.,a,THE WITNESS,start_question
+302,1022,49,24,You didn't stay for any food?,q,MS. COLE,start_answer
+303,1024,50,1,"Correct.  We actually -- it was too much.  It was, you know, everybody who wasn't in the crash but was in the wedding was there.  And if you've ever been to a post-wedding brunch, it's like a raucous good time and that was not where we were. So I think four of us or maybe six of us went directly across the street and had a sandwich.  We had lunch at a cafe across the street, a sandwich I think is what I said a minute ago.  I remember there was a Ravens game on, so that's why I remember being there around 1:00 o'clock on a Sunday.",a,THE WITNESS,start_question
+304,1038,50,15,After having lunch did you leave at that point to go home?,q,MS. COLE,start_answer
+305,1040,50,17,"Yeah.  Because I remember we listened to a little bit of the game in the car, so this whole thing would have been between 1:00 and 4:00.",a,THE WITNESS,start_question
+306,1044,50,21,So you would have gotten back sometime later on Sunday?,q,MS. COLE,start_answer
+307,1046,50,23,That's right.,a,THE WITNESS,start_question
+308,1047,50,24,What was the first medical appointment you had for yourself personally after returning home to D.C.?,q,MS. COLE,start_answer
+309,1051,51,3,"I think we saw Ms. Milward together and I think that was very shortly after. We would have to check the records for the exact date, but it would have been that week. And, again, this was a new place to both of us that was recommended by a friend because of their -- again, a lot of these places in D.C. have rotating doctors so you can get in kind of quick if you don't mind who you're seeing.  So they were able to see us right away and we saw her a few times and always together.",a,THE WITNESS,start_question
+310,1064,51,16,At any point did you tell Ms. Milward that you were standing on a trolley at the time that the accident occurred?,q,MS. COLE,start_answer
+311,1068,51,20,"I don't recall specifying sitting, standing, one way or the other.",a,THE WITNESS,start_question
+312,1070,51,22,"What recommendations, if any, did Ms. Milward have for you in relationship to any injuries that you conveyed to her?",q,MS. COLE,start_answer
+313,1074,52,1,"Yeah.  So my back pain was really bad at the time and I was sort of just really tight and bent over and no strength in my back and the pain like wasn't going away.  I think she put me on Flexeril as a muscle relaxant to try to help with that. And we had seen her a couple of times in the intervening days there maybe. And the pain wasn't going away, the back pain wasn't going away.  And so I ended up getting the X-ray from Milford Memorial because I was able to call them and I guess they mailed me a CD, which I brought into Ms. Milward or put in their portal or something.  And she noticed the comments on the X-ray, which I guess -- this was all new to me at the time.  I didn't know that this is how it works, but the on-call doctor is not necessarily the specialist. So the on-call doctor looks and sees if it's like broken in half or whatever, but then the X-ray specialist reads it later.  And then that specialist comments like yeah, there's probably a fracture here; I recommend a MRI. And so that was her recommendation that I go get that MRI.",a,THE WITNESS,start_question
+314,1103,53,5,Okay.  And you eventually did that on October 17th.  Is that right?,q,MS. COLE,start_answer
+315,1105,53,7,"That sounds right, but I'm not 100 percent sure.",a,THE WITNESS,start_question
+316,1107,53,9,And at that point were you referred to an orthopedic doctor?,q,MS. COLE,start_answer
+317,1109,53,11,Yes.,a,THE WITNESS,start_question
+318,1110,53,12,Dr. Tannous?,q,MS. COLE,start_answer
+319,1111,53,13,Yeah.,a,THE WITNESS,start_question
+320,1112,53,14,And were you recommended to him by Ms. Milward or someone else?,q,MS. COLE,start_answer
+321,1114,53,16,I don't think she gave me his name specifically.  I think that I needed to get the MRI and follow up with an orthopedic specialist is probably what she said.  And that place is right around the corner from our house and appointments were queuing up there so...,a,THE WITNESS,start_question
+322,1121,53,23,So did Dr. Tannous review your MRI and discuss with you the results?,q,MS. COLE,start_answer
+323,1124,54,1,Yeah.,a,THE WITNESS,start_question
+324,1125,54,2,And what's your understanding of what the MRI showed?,q,MS. COLE,start_answer
+325,1127,54,4,"As I understand it, it's called a compression fracture of my T11, T12 and L1 vertebrae?  Vertebrae, yeah.",a,THE WITNESS,start_question
+326,1130,54,7,"And what, if any, treatment did he recommend to you at that time for that condition?",q,MS. COLE,start_answer
+327,1133,54,10,So immediately like right there that day they put this crazy back brace on sort of the shoulders with all these different pull straps to tighten it.  And the relief of getting that thing on was just like instant validation for the pain that I had been feeling for like three weeks. Sorry.  That's not what you asked. He recommended that I wear that brace for a period of I think six to eight weeks and then gradually wean myself off of the brace and then start a course of physical therapy for my back.,a,THE WITNESS,start_question
+328,1149,55,1,All right.  Did you have to wear that back brace 24/7?,q,MS. COLE,start_answer
+329,1151,55,3,"No. I didn't have to wear it to sleep or shower, but I wanted to.",a,THE WITNESS,start_question
+330,1153,55,5,"Okay.  So you received the brace, were instructed to wear it for six to eight weeks?",q,MS. COLE,start_answer
+331,1156,55,8,Yes.,a,THE WITNESS,start_question
+332,1157,55,9,You didn't necessarily have to wear it to shower or sleep.  Did the back brace help with the pain?,q,MS. COLE,start_answer
+333,1160,55,12,Absolutely.  So much.,a,THE WITNESS,start_question
+334,1161,55,13,All right.,q,MS. COLE,start_answer
+335,1162,55,14,"I mean I was having trouble getting out of bed.  Like I couldn't lay flat on my back and sit up.  I didn't have the muscle strength to do that or the back sturdiness, whatever it is.  I couldn't do that. I had to lean over, kick my legs off the side of the bed in order just to get myself up and out of bed.  And then as soon as you get that brace on, I could like stand up on my own.",a,THE WITNESS,start_question
+336,1172,55,24,Okay.  So your understanding was you would be wearing this brace for the next six to eight weeks and then would have to like undergo physical therapy at that point?,q,MS. COLE,start_answer
+337,1178,56,5,Yes.,a,THE WITNESS,start_question
+338,1179,56,6,Was there ever any conversation as to the potential need for surgery at all?,q,MS. COLE,start_answer
+339,1181,56,8,"He did not recommend surgery.  I don't remember discussing it.  I don't think we did. And his take was there's not a lot they can do for compression fractures. There's some weird experimental stuff where they are like squirting gel in your vertebrae but, otherwise, you just kind of let your back heal and then you should be good.",a,THE WITNESS,start_question
+340,1191,56,18,"Okay.  So after six to eight weeks you were able to remove or essentially stop using the back brace, correct?",q,MS. COLE,start_answer
+341,1194,56,21,Right.,a,THE WITNESS,start_question
+342,1195,56,22,And at that point you then started doing physical therapy.  Is that right?,q,MS. COLE,start_answer
+343,1197,56,24,That's right.,a,THE WITNESS,start_question
+344,1199,57,1,You went to MedStar PT?,q,MS. COLE,start_answer
+345,1200,57,2,"Yeah.  So two things.  One, there was some overlap with me wearing the back brace and me doing physical therapy.  It was sort of a wean yourself off of it kind of situation. And then I would say broadly about MedStar they have done a fantastic job of making you feel like you're at the same place every time and you're definitely not.  There's MedStar Lafayette, which also has -- like the MRI place is separate from the PT place is separate from the doctor's office. So I feel sorry for you guys of having to go through all of these records because there's like different billing offices that all have just the same front desk. So if you're going to ask me clarification on which specific MedStar, it's not even a location, but like which exact one, it's all over the map there for them.",a,THE WITNESS,start_question
+346,1224,58,1,The records that I have show that you attended about eight visits of physical therapy for your back.,q,MS. COLE,start_answer
+347,1227,58,4,"Yeah.  That sounds about right. And there was another course of therapy about a year later that hasn't made its way to the records yet, but it is mentioned in one of the write-ups in there.",a,THE WITNESS,start_question
+348,1232,58,9,And was that also at MedStar PT?,q,MS. COLE,start_answer
+349,1233,58,10,"Yeah, the same place, the Lafayette Center.",a,THE WITNESS,start_question
+350,1235,58,12,"As of January 6, 2017 it was noted that you were pain-free with activity, had met all your goals and are okay for discharge. Do you agree with that?",q,MS. COLE,start_answer
+351,1240,58,17,"I wouldn't say pain-free, no, definitely not.  But if you mean pain-free like with activity?  I don't know if that means with activity. Our goals for physical therapy were to get me to be able to use my back again, or at least that was my understanding of the goals, and I was able to do that. And the exercises that I learned and the routine that I got into there was very helpful for me and it was something that I was able to continue on my own. The time commitment required to continue to take an hour out of the workday to go to physical therapy was not sustainable, but most of the time you go there and it's the same sorts of exercises and they're just sort of standing there with you.  There's not a lot that you can't do at home.",a,THE WITNESS,start_question
+352,1263,59,15,"Explain to me the progress that you made with your back over a course of months from October through the end of the year, meaning October of 2016 to the end of 2016.",q,MS. COLE,start_answer
+353,1267,59,19,"Yeah.  So I mean first and foremost my primary focus during this entire period was Cecilia and helping her through everything.  So I'm not even sure that I focused on my injuries anywhere near the level I should have, so it's difficult. When I got into PT was like really the first time that I was even thinking about mapping my progress or anything like that.  I was just so happy to have this brace that I didn't have pain so that I could get her to all of the appointments that we had to get her to. And so October is fuzzy for me. Right?  And then November is fuzzy.  And then as we get into -- I don't know when PT starts.  Like mid-November I think is when I start to make a little bit progress because I'm actually paying attention to it and the time has passed enough so that the bones have healed enough and we can start to work on the muscles. It's sort of like you need the brace while you wait for the bones to heal but during that time all of the muscles die or atrophy in the process so then your next thing you need to do is get them back up to shape.",a,THE WITNESS,is brackets
+354,1296,60,23,(A discussion was held off the record.),brackets,,start_question
+355,1300,61,2,"When you stopped physical therapy at that point, early January of 2017, did you have periods of time where you did not experience pain in your back anymore?",q,MS. COLE,start_answer
+356,1304,61,6,"Yes.  Yeah.  It's not and it wasn't in January a 24-hour-a-day pain.  It's a pain that is triggered by a specific type of activity, and it's any activity that requires my back to independently support itself.  So the most common are standing at a counter for any reason, cutting vegetables, preparing food, whatever, doing dishes or gardening because your hands are sort of out in front of you with some tools.  Those are the most common and it's every time for those things.  Any time I'm doing any of those things for more than five minutes the pain is there, and that was the case in January 2016 as well. But what changed is I could actually get out of bed.  I could walk around without pain.  That was what we had got through in physical therapy.",a,THE WITNESS,start_question
+357,1324,62,1,"Okay.  So by January of 2017 you still experienced pain in your back, but it was more situational in nature, typically related to standing for a period of time?",q,MS. COLE,start_answer
+358,1328,62,5,"Yeah.  I wouldn't call it standing though.  It's really using my hands out in front of me, yeah.",a,THE WITNESS,start_question
+359,1331,62,8,All right.  You have already mentioned that you believe you sustained a concussion as a result of this accident. Tell me what symptoms you believe you had that were a result of that concussion and how long did they last for.,q,MS. COLE,start_answer
+360,1337,62,14,"So, you know, everything is very much mixed up in the days and weeks after the accident.  And, again, like I said, my number one goal was focus on Ceci at the time. I think I was immediately out of work for maybe two full weeks or a week and a half before I tried to go back.  And that's when it really hit home for me, that first day back at work.  I was on a call and I just had no idea what anybody was talking about and it was like my time to comment because it was like my area and there was no comment coming.  That's when I knew that something was wrong. I had been having headaches. That could have been.  I don't know.  That could have been.  But I know now later that that was the concussion.  I had headaches. I had fatigue.  But it wasn't until I got back to work that day when I realized there was like something going wrong in my brain.",a,THE WITNESS,start_question
+361,1360,63,12,"So headaches, fatigue and some sort of cognitive deficit?",q,MS. COLE,start_answer
+362,1362,63,14,Yes.,a,THE WITNESS,start_question
+363,1363,63,15,Okay.  Tell me about your headaches.  How frequently would you get them back then in October-November 2016?,q,MS. COLE,start_answer
+364,1366,63,18,"Daily.  Certainly in October.  And I got -- that went away much faster than it did for Cecilia, so I'm grateful for that but sorry for her.  But certainly daily in the weeks right after the accident and then less frequently thereafter and I would say that headaches were not really a thing certainly in January.",a,THE WITNESS,start_question
+365,1375,64,2,Of 2017?,q,MS. COLE,start_answer
+366,1376,64,3,Correct.,a,THE WITNESS,start_question
+367,1377,64,4,"How about the fatigue, for how long did you experience fatigue that you related to the concussion?",q,MS. COLE,start_answer
+368,1380,64,7,"Certainly all of October and most of November, yeah.",a,THE WITNESS,start_question
+369,1382,64,9,"The cognitive deficit that you've described, how long did you experience that symptom?",q,MS. COLE,start_answer
+370,1385,64,12,"For the rest of that year, yeah.  I mean it's not like it immediately turned off on December 31st or something, but those three months were bad.",a,THE WITNESS,start_question
+371,1389,64,16,But by 2017 you had noticed a significant improvement?,q,MS. COLE,start_answer
+372,1391,64,18,That's right.,a,THE WITNESS,start_question
+373,1392,64,19,Do you still have any problems with cognitive deficit that you believe was related to this accident?,q,MS. COLE,start_answer
+374,1395,64,22,I don't think so.,a,THE WITNESS,start_question
+375,1396,64,23,You told me that you returned to physical therapy for your back at some point more recently than January of 2017?,q,MS. COLE,start_answer
+376,1400,65,2,Yeah.,a,THE WITNESS,start_question
+377,1401,65,3,Tell me again.  When was that?,q,MS. COLE,start_answer
+378,1402,65,4,I believe it was the summer of 2018.,a,THE WITNESS,start_question
+379,1404,65,6,And why did you go back?,q,MS. COLE,start_answer
+380,1405,65,7,For those pains that I've described.  I think you called them situationally.,a,THE WITNESS,start_question
+381,1408,65,10,Situational back pain?,q,MS. COLE,start_answer
+382,1409,65,11,Situational back pain.  There it is.,a,THE WITNESS,start_question
+383,1411,65,13,And how long did you go to physical therapy at that time?,q,MS. COLE,start_answer
+384,1413,65,15,"It was another like ten or twelve session course.  You know, they dole them out in chunks.  That's how the insurance works.  They're sort of driving the show there, not the practitioners.",a,THE WITNESS,start_question
+385,1418,65,20,"Okay.  Your left wrist complaints, did those resolve fairly shortly after the accident?",q,MS. COLE,start_answer
+386,1421,65,23,Yeah.,a,THE WITNESS,start_question
+387,1422,65,24,"Your lumbar strain, did that resolve pretty soon after the accident?",q,MS. COLE,start_answer
+388,1425,66,2,"I kind of mixed that up with the back thing, so I think that's all related. I still get that pull right up my back sometimes.",a,THE WITNESS,start_question
+389,1429,66,6,"Okay.  You attended some therapy sessions with your wife at Therapy Group of D.C., right?",q,MS. COLE,start_answer
+390,1432,66,9,"Is that Dr. Fitzgerald?  I believe it is.  But if that's the one, then that's the one.  That's the only therapy we went to together so maybe that makes it easy.",a,THE WITNESS,start_question
+391,1436,66,13,"Okay.  Well, then that does.",q,MS. COLE,start_answer
+392,1437,66,14,Yeah.,a,THE WITNESS,start_question
+393,1438,66,15,That would be in October of 2016?,q,MS. COLE,start_answer
+394,1439,66,16,That's right.,a,THE WITNESS,start_question
+395,1440,66,17,Were you two there in order to address any type of problems that you were having as a couple following the accident?,q,MS. COLE,start_answer
+396,1443,66,20,"Like marital type, couple type problems?  Is that what you're asking?",a,THE WITNESS,start_question
+397,1445,66,22,Marital problems that you were having because of any conditions you sustained as a result of the accident.,q,MS. COLE,start_answer
+398,1449,67,1,The problem wasn't our connection to one another.  It was symptoms that we were both experiencing independently and concurrently as a result of the accident.,a,THE WITNESS,start_question
+399,1453,67,5,"Tell me, if you would, in your words what type of emotional problems were you having following this accident that were caused by this accident?",q,MS. COLE,start_answer
+400,1457,67,9,"I mean the accident itself was completely traumatic and upended your life in every way.  And when you throw on all of the stress of dealing with all of the medical stuff on top of that, you know, we needed help.  And Ceci's finger pointing in the wrong direction was kind of the focus because it's right there and it's sort of obvious and that's what you need to do. And then so we're dealing with that and they got to put her under and she's got surgery and all that.  And then okay, maybe she's like in a cast and maybe I had the back brace and a diagnosis by then.  So it's like okay, the physical stuff is maybe under control.  Let's like try to go to work or try to do some normal stuff after that.  And it's just not anywhere near the realm of possibility. Right? So unable to function like a normal human being when it comes to just any -- I don't know -- any task.  I'm sorry.  I guess I'm not really answering as to emotions. We had I think tried to go to that -- we went to the Ren Fest.  It was like the wrong thing.  And maybe -- I can't remember what the exact trigger was, but there were a couple of things that we had tried to do that were sort of normal life things, going to work being one of them. And then I remember just being in the house and, again, it's difficult to understate the impact of this.  But Ceci, she's a different person for months, for months after this.  And she just sort of, she had this sort of empty look, empty look in her eyes and she just wasn't there and she looked at me and she said, ""My brain is not the same,"" just right out there super honest.  Not like I think this thing might be wrong with me or whatever.  Just like factually ""My brain is not the same.  I need to see somebody.  I need to talk to somebody.  It's not just my finger. There's something else going on here."" And that's what prompted us to try to get that appointment.  And either from him directly or from Ms. Miller -- I can't remember who -- it was also recommended to go see the concussion specialist.  And they're really hard to get and that's why we don't end up seeing them for a couple of weeks after the accident and it's just really, really hard to get those appointments. Ceci mentioned an appointment with Jessica Clark and she was able to get that evaluation that fall, but her full-day evaluation wasn't until April, but I scheduled it on like October 5th.  I mean it was crazy.  That's how backed up those people are.  I don't know if it's a D.C. thing or if it's everywhere or what. So that's what prompted us to go there.  We know we needed help.  Like we didn't know at the time that it was concussion related, emotional related, just trauma generally.  We needed help because we weren't normal.  We weren't living our lives normally.  I wasn't -- you know, you just don't cry every day.  That's not normal.",a,THE WITNESS,start_question
+401,1534,70,11,"Aside from those three visits with Therapy Group of D.C., did you see any other mental health providers associated with the accident?",q,MS. COLE,start_answer
+402,1538,70,15,That's not the concussion people. Right?,a,THE WITNESS,start_question
+403,1540,70,17,Right.,q,MS. COLE,start_answer
+404,1541,70,18,"Mental health.  We're breaking that separate. So I would say no, I did not see any mental health professionals related to the accident or otherwise.",a,THE WITNESS,start_question
+405,1546,70,23,Have you and your wife ever been to couples therapy?,q,MS. COLE,start_answer
+406,1549,71,1,No.,a,THE WITNESS,start_question
+407,1550,71,2,"As a result of the accident, have you noticed any kind of fears, irrational fears related to public transportation or moving vehicles at all?",q,MS. COLE,start_answer
+408,1554,71,6,"I might have called them irrational prior to October 1st, 2016, but now I would call them perfectly rational and it has happened every single time since then.",a,THE WITNESS,start_question
+409,1558,71,10,Okay.  So every time you're in a vehicle or a public transportation you feel increased anxiety?,q,MS. COLE,start_answer
+410,1561,71,13,"Yeah.  Absolutely.  It's a little bit better in my own car or on my own bike because there's some semblance of control here, which is a big thing that you don't have in the Jolly Trolley or any of those other types of situations, but it's ever-present any time.",a,THE WITNESS,start_question
+411,1568,71,20,Has that fear ever prevented you or restricted you from doing something that you would have otherwise done?,q,MS. COLE,start_answer
+412,1571,71,23,"Doing or enjoying to the fullest? I would certainly say that.  One of the most recent severe events was this past Thanksgiving.  Ceci had some family in town from California who we don't see all that often, driving just up to Baltimore.  It's 45 minutes from the house, but it's Thanksgiving day so traffic is a little bigger. And it's just one of those days when everybody is a little jammed up on the highways and a little crazy and somebody did something dumb, like cut over.  I mean Ceci's in a full-blown panic attack, tears. Like I wasn't sure if I should pull over or not.  It was that serious.  That has happened a lot since the accident, but never -- this was a particularly bad one. And then the whole rest of Thanksgiving was colored by that because she immediately called her mother afterwards and then her aunts and uncles are there and saying what's going on?  You know how family is sometimes.  So half of Thanksgiving was colored by this moment in the car there. I could talk forever about anxiety on transit.  If it's helpful, I can give some more examples.",a,THE WITNESS,start_question
+413,1602,73,4,That's okay.  Thank you. When is the last time you saw Dr. Tannous?,q,MS. COLE,start_answer
+414,1605,73,7,"I mean he is the one who recommended the second course of physical therapy, which I believe was summer of 2018.",a,THE WITNESS,start_question
+415,1609,73,11,So you must have seen him more recently than December of 2016?,q,MS. COLE,start_answer
+416,1611,73,13,Yeah.  There's just that one chart that's missing there.,a,THE WITNESS,start_question
+417,1613,73,15,That's fine.,q,MS. COLE,start_answer
+418,1614,73,16,And that was one appointment with Dr. Tannous and he recommended the ten physical therapy sessions.,a,THE WITNESS,start_question
+419,1617,73,19,"Since having the X-ray at Milford Memorial and then the subsequent MRI with MedStar Imaging later that October, have you ever had any subsequent X-rays or MRI's to your back?",q,MS. COLE,start_answer
+420,1622,73,24,No.  I don't think so.,a,THE WITNESS,start_question
+421,1624,74,1,"As you sit here today, do you believe you will need any subsequent X-rays or MRI's to your back?",q,MS. COLE,start_answer
+422,1627,74,4,"The way that Dr. Tannous put it for me was that my back is a different shape. I got to retrain the muscles to get used to the new shape and it's going to be a daily exercise that I'm going to deal with and there's going to be a period of my life where I'm able to work at it with yoga and exercises and everything and generally get close to normal.  And then he indicated that it's going to get a lot worse when I get older. Does that mean I need to get more X-rays?  I'm not sure.  He didn't say you will need more X-rays, but he said this often comes back later in life is basically what he said.",a,THE WITNESS,start_question
+423,1643,74,20,Did he say that within a reasonable degree of medical certainty?,q,MS. COLE,start_answer
+424,1645,74,22,I couldn't answer that.  He told me that so I trust that he said it with a reasonable degree of medical certainty.,a,THE WITNESS,start_question
+425,1649,75,1,"Well, did he say it was a possibility or that it was something that was definitely going to happen?",q,MS. COLE,start_chat
+426,1652,75,4,Objection. You can answer.,side_chat,MS. ORSI,start_answer
+427,1654,75,6,I don't -- I wouldn't characterize it as he said 100 percent certain this is going to happen to you.  It was more like this always happens.,a,THE WITNESS,start_question
+428,1658,75,10,Okay.  Do you have any current plans to see Dr. Tannous/Tannos in the future?,q,MS. COLE,start_answer
+429,1661,75,13,"I trip up on it every time. And I don't have anything scheduled, no, but he's who I'll call if it gets worse.",a,THE WITNESS,start_question
+430,1665,75,17,Do you have any plans to return to physical therapy in the future?,q,MS. COLE,start_answer
+431,1667,75,19,"At his recommendation, but otherwise no, nothing on the calendar.",a,THE WITNESS,start_question
+432,1669,75,21,Do you have any plans to return for any type of mental health counseling in the future?,q,MS. COLE,start_answer
+433,1672,75,24,"If ""plans"" means like I scheduled it?  No.  But I'm sure it needs to come.",a,THE WITNESS,start_question
+434,1675,76,2,Do you believe that this accident has precluded you in any way from advancing in your career?,q,MS. COLE,start_answer
+435,1678,76,5,Yes.,a,THE WITNESS,start_question
+436,1679,76,6,In what way?,q,MS. COLE,start_answer
+437,1680,76,7,"I mean it's not like there are clear promotion or career advancement opportunities that you're actively rejecting or not going for, so maybe not like discretely like that. But I spent a year of my life distracted and engaged in other stuff.  I spent two months like not even there and then I spent the better part of the next ten months just dealing with this, right, dealing with this for myself, dealing with this for my wife and not being present at work and my performance at work suffered, absolutely. There are a whole lot more titles left to get at my work, but I've gotten a promotion every two or three years since I started in 2006 and it sure hasn't changed since the one that I have now. Yeah, that's frustrating.  And I fell like being more present and engaged during that period would have been helpful for career advancement. So can I explicitly point to an explicit opportunity?  No. But do I think it had an impact?  Yes.",a,THE WITNESS,start_question
+438,1707,77,9,"How about on a more personal level, do you believe that the accident and any effect from the accident has played a role in delaying, postponing or even canceling any type of other types of opportunities in your personal life?",q,MS. COLE,start_answer
+439,1713,77,15,"Yeah.  So I would point to two here and the one that we already talked about a little bit, which is having children. Absolutely this had an impact.  Ceci and I had talked about that off and on since we were married and we've always said we will have kids since we first started dating. And we weren't actively trying before the accident, but there was no chance on earth that we were going to try for the next year at least.  And then when we finally did get around to starting, super personal, like over a year and a half ago, we had an awful time with it.  And I just can't help but wonder -- they keep telling us that age is a factor in conception success.  And I can't help wonder had we started three years earlier, at least you get 36 more tries, right, I mean if nothing else, right?  Whether or not it's less possible because I'm older, I'm not the one to say.  But 36 more tries would have been nice, right?",a,THE WITNESS,start_question
+440,1737,78,14,Okay.  You said there were two.,q,MS. COLE,start_answer
+441,1738,78,15,"Sorry.  And the second is I am like a less active person, generally speaking, coming out of this accident than I was prior.  I was absolutely an avid cyclist prior to the accident and I would still consider myself a cycling enthusiast, but I haven't been on a single long ride since that accident.  And it was not uncommon for me to go five or six hours on a weekend, eighty miles or whatever.  I just love spending time on my bike. And it's not necessarily the back that has precluded me from that but it's just the over sense of fatigue and certainly for the first year there was so much going on in my life with all of the appointments and everything that we have to get to that there wasn't time for that sort of thing. I used to go rock climbing about two nights a week and that's the sort of thing that if you lose it, it's hard to get back.  Like every time you take a break, you come back and you never quite get to where you were and probably just because I'm getting older or whatever.  But I tried to go back to rock climbing in maybe February that following year and just didn't have the strength, was not having any fun with it and just brought all this screaming back -- streaming back to me that this used to be something that I did all the time and went on trips.  I've taken numerous overnight climbing trips, love it. And it stopped because of this.",a,THE WITNESS,start_question
+442,1775,80,2,And you were present for when your wife described some of the vacations that you both have been on since this accident. Are there any others that she may have forgotten to mention that stick out in your mind?,q,MS. COLE,start_answer
+443,1781,80,8,"No.  No.  I don't think so.  I mean I think once or twice we've gone somewhere for like one or two nights. We went to Kristlyn's birthday party in Virginia Beach.  We went to -- we tried to go to Yaron's and Lauren's wedding, which was canceled for a hurricane, but we got halfway, so a couple of those but that's about it.",a,THE WITNESS,start_question
+444,1790,80,17,Okay.  I want to ask some questions about the accident itself. Do you need a break at all?,q,MS. COLE,start_answer
+445,1793,80,20,No. I'm okay.,a,THE WITNESS,start_question
+446,1794,80,21,Okay.  What time did you arrive in Dewey Beach?,q,MS. COLE,start_answer
+447,1796,80,23,"Friday evening.  We did not take the day off work, so it would have been probably on the later side, closer to 10:00 would be my guess.",a,THE WITNESS,start_question
+448,1801,81,3,Had you ever been to Dewey Beach before?,q,MS. COLE,start_answer
+449,1803,81,5,Yeah.  I had a good friend in high school whose parents had a house there so we would go in the summer for a week or so at a time.,a,THE WITNESS,start_question
+450,1807,81,9,Had you ever ridden the Jolly Trolley before?,q,MS. COLE,start_answer
+451,1809,81,11,I don't think so.  I didn't really have any recollection of it or memory or knowledge of it until the wedding or the day of the accident.,a,THE WITNESS,start_question
+452,1813,81,15,And who is Stephanie Novak?,q,MS. COLE,start_answer
+453,1814,81,16,She's a good friend of mine from college.,a,THE WITNESS,start_question
+454,1816,81,18,She was the one that was going to get married that weekend?,q,MS. COLE,start_answer
+455,1818,81,20,"That's right, her and Andrew, who I have known for many years as well, but I met him through Stephanie.",a,THE WITNESS,start_question
+456,1821,81,23,Was he also a student at St. Mary's College?,q,MS. COLE,start_answer
+457,1824,82,1,"No.  They met afterwards in Baltimore, I believe.",a,THE WITNESS,start_question
+458,1826,82,3,"The day of the accident, what did you do that day, if you can recall?",q,MS. COLE,start_answer
+459,1828,82,5,"Yeah.  So we went and played disk golf in the morning, a number of the guys who were staying at that house.  I think it's called Cape Henlopen is the state park right there that has a disk golf course. So there was probably a dozen of us there.",a,THE WITNESS,start_question
+460,1834,82,11,Do you play disk golf at all?,q,MS. COLE,start_answer
+461,1835,82,12,"I do, yeah.",a,THE WITNESS,start_question
+462,1836,82,13,Is that something that you keep up with now?,q,MS. COLE,start_answer
+463,1838,82,15,"I do, yeah.",a,THE WITNESS,start_question
+464,1839,82,16,I notice you have a water bottle with you and there's a sticker there that says PDGA.,q,MS. COLE,start_answer
+465,1842,82,19,Can you guess?,a,THE WITNESS,start_question
+466,1843,82,20,Are you part of the Professional Disk Golf Association?,q,MS. COLE,start_answer
+467,1845,82,22,I am a proud member.,a,THE WITNESS,start_question
+468,1846,82,23,Do you have to do anything other than pay a membership fee to be a member?,q,MS. COLE,start_answer
+469,1849,83,1,Take it easy. No.  All you have to do is pay. It's a very welcoming club.,a,THE WITNESS,start_chat
+470,1852,83,4,That's why they give you a sticker.,side_chat,MS. ORSI,start_answer
+471,1854,83,6,That's right.,a,THE WITNESS,start_question
+472,1855,83,7,"I mean is disk golf something that you had frequently done before October 1st, 2016?",q,MS. COLE,start_answer
+473,1858,83,10,"Yeah.  There's a course at St. Mary's College, which is where I first got introduced to the sport.  And I played a lot of Ultimate Frisbee and I was on the Ultimate Frisbee team at St. Mary's.  So I played disk golf probably every day.",a,THE WITNESS,start_chat
+474,1864,83,16,It's a college thing.,side_chat,MS. ORSI,start_question
+475,1866,83,18,"Before we went on, I said I bet most people who play disk golf probably started out with Ultimate Frisbee in college.  That's just my theory.",q,MS. COLE,start_answer
+476,1870,83,22,"And I could easily burn the rest of the afternoon with the differences between the two, but I will spare you that.",a,THE WITNESS,start_question
+477,1874,84,1,That's fine. So you played disk golf with friends at Cape Henlopen State Park?,q,MS. COLE,start_answer
+478,1877,84,4,That's right.,a,THE WITNESS,start_question
+479,1878,84,5,And then returned to the bnb for lunch?,q,MS. COLE,start_answer
+480,1880,84,7,"Yeah.  Or to get ready.  I think we were a little late for lunch.  We might have -- either somebody had food with them or -- oh, we stopped at there's like a shopping center there that has a Brooks Brothers in it.  I remember because Pat and I bought new ties for the wedding and somebody might have grabbed food from a convenience or a grocery store that was in that shopping center, but then otherwise back to the Airbnb.",a,THE WITNESS,start_question
+481,1891,84,18,All right.  And then what was the weather like that day?,q,MS. COLE,start_answer
+482,1893,84,20,"I don't remember anything notable about the weather, so like a typical late September day in Dewey.  It could have been cloudy, but I don't really recall.  It certainly wasn't raining or any notable weather.",a,THE WITNESS,start_question
+483,1900,85,2,"Just to be clear, this is October 1st, 2016 I'm asking about.",q,MS. COLE,start_answer
+484,1902,85,4,Yes.  Yeah.,a,THE WITNESS,start_question
+485,1903,85,5,Any wind that day that you can recall?,q,MS. COLE,start_answer
+486,1905,85,7,Nothing more than usual at the beach.,a,THE WITNESS,start_question
+487,1907,85,9,All right.  Did you have anything alcoholic to drink that day?,q,MS. COLE,start_answer
+488,1909,85,11,"Yeah.  I had a few beers at disk golf, not more than three.",a,THE WITNESS,start_question
+489,1911,85,13,What kind of beers were they?,q,MS. COLE,start_answer
+490,1912,85,14,"I couldn't say with 100 percent certainty, but I bet a lot that they were National Bohemian.",a,THE WITNESS,start_question
+491,1915,85,17,National Bohemian.  Why would you bet a lot that they were National Bohemian? That's the beer you like?,q,MS. COLE,start_answer
+492,1918,85,20,That's the beer of choice.  It also happens to be the correct price for beer.,a,THE WITNESS,start_question
+493,1920,85,22,"Oh, okay.  When was the last time that you had a beer prior to getting on the trolley?",q,MS. COLE,start_answer
+494,1924,86,1,It would have been at disk golf.  I couldn't tell you what time.  Probably between 10:00 and 1:00.,a,THE WITNESS,start_question
+495,1927,86,4,When is the last time you had an alcoholic drink before getting on the trolley?  Is it the same?,q,MS. COLE,start_answer
+496,1930,86,7,"Oh, because the first one you said was beer.  And the same answer for all alcoholic beverages.",a,THE WITNESS,start_question
+497,1933,86,10,What was your understanding as to what time you were supposed to meet up with the Jolly Trolley?,q,MS. COLE,start_answer
+498,1936,86,13,"I was pretty disengaged from the schedule so I'm not really sure.  I just knew that transit, transport to the wedding had been arranged and it was a go with the flow thing for me.",a,THE WITNESS,start_chat
+499,1941,86,18,Unless Ceci told you.,side_chat,MS. ORSI,start_answer
+500,1943,86,20,"Yeah.  I mean you're all staying in a house together.  Everybody's like we're leaving in 20 minutes, that sort of thing, but I couldn't tell you what time it was.",a,THE WITNESS,start_question
+501,1947,86,24,"And you got to the location where you believed that you were supposed to pick up the trolley, right?",q,MS. COLE,start_answer
+502,1951,87,3,"It was pretty close.  We walked, so a block or two.",a,THE WITNESS,start_question
+503,1953,87,5,What time did you get there?,q,MS. COLE,start_answer
+504,1954,87,6,"I couldn't tell you.  Around 4:00, but it could have been 3:30 or 4:30, but I'm sure we have the records.  Right?",a,THE WITNESS,start_question
+505,1957,87,9,"When you got -- well, the Jolly Trolley eventually arrived, right?",q,MS. COLE,start_answer
+506,1959,87,11,Yeah.,a,THE WITNESS,start_question
+507,1960,87,12,And when it arrived was the trailer empty?,q,MS. COLE,start_answer
+508,1962,87,14,Yeah.,a,THE WITNESS,start_question
+509,1963,87,15,Like of people?,q,MS. COLE,start_answer
+510,1964,87,16,"Correct.  Yeah, there were no passengers.",a,THE WITNESS,start_question
+511,1966,87,18,There was a driver for the Jolly Trolley?,q,MS. COLE,start_answer
+512,1968,87,20,Yeah.,a,THE WITNESS,start_question
+513,1969,87,21,Did he or she get out of the vehicle?,q,MS. COLE,start_answer
+514,1971,87,23,I have a vague recollection of like one of these (witness demonstrating). I'm sorry.  I'm putting my hand up to say just sort go into the trolley.,a,THE WITNESS,start_question
+515,1976,88,3,So he was essentially directing you or ushering you into the trolley?,q,MS. COLE,start_answer
+516,1978,88,5,Yes.,a,THE WITNESS,start_question
+517,1979,88,6,At any point did he direct you as to where you were supposed to sit?,q,MS. COLE,start_answer
+518,1981,88,8,No.,a,THE WITNESS,start_question
+519,1982,88,9,At any point did he convey to you whether or not you could stand on the trolley?,q,MS. COLE,start_answer
+520,1985,88,12,No.,a,THE WITNESS,start_question
+521,1986,88,13,When you got on to the trolley did you sit?,q,MS. COLE,start_answer
+522,1988,88,15,Yes.,a,THE WITNESS,start_question
+523,1989,88,16,And where were you seated?,q,MS. COLE,start_answer
+524,1990,88,17,"Next to Cecilia for sure, which to the best of my recollection was the passenger side like more than halfway towards the front but close to halfway.",a,THE WITNESS,start_question
+525,1994,88,21,And who was on your right?,q,MS. COLE,start_answer
+526,1995,88,22,"My best guess is Yaron, but I'm not 100 percent certain.  And I'm only guessing that because he was on top of me afterwards so that would make sense.",a,THE WITNESS,start_question
+527,2000,89,2,Who was on your left?,q,MS. COLE,start_answer
+528,2001,89,3,My wife.,a,THE WITNESS,start_question
+529,2002,89,4,And she was seated next to you?,q,MS. COLE,start_answer
+530,2003,89,5,Yes.,a,THE WITNESS,start_question
+531,2004,89,6,Did you carry anything onto the Jolly Trolley?,q,MS. COLE,start_answer
+532,2006,89,8,No.,a,THE WITNESS,start_question
+533,2007,89,9,Did anybody bring any alcohol onto the Jolly Trolley?,q,MS. COLE,start_answer
+534,2009,89,11,"I think there may have been a beer on the trolley, but I'm not certain.  I've only heard it discussed afterwards, but I don't recall seeing it on the day of.",a,THE WITNESS,start_question
+535,2013,89,15,"Okay.  Do you know if anyone was struck in the head by a beer bottle, by any chance?",q,MS. COLE,start_answer
+536,2016,89,18,"No.  No. If anything, I think it was a can of Natty Boh.",a,THE WITNESS,start_question
+537,2019,89,21,Did the driver ever communicate verbally any information to you as you were getting onto the trolley at all?,q,MS. COLE,start_answer
+538,2022,89,24,The only things I remember the driver saying were the joke about going to a dry wedding and something about getting us there on time and that was as I recall through the intercom.,a,THE WITNESS,start_question
+539,2028,90,5,"At any point did you look around as you were getting on the trolley to identify how it was, if at all, you would be able to communicate with the driver?",q,MS. COLE,start_answer
+540,2032,90,9,No.,a,THE WITNESS,start_question
+541,2033,90,10,At any point as you were getting on the Jolly Trolley did you look around to see if there were any rules or instructions for what to do on the Jolly Trolley?,q,MS. COLE,start_answer
+542,2037,90,14,No.,a,THE WITNESS,start_question
+543,2038,90,15,What can you tell me about the trip between the time you left the location you got on the Jolly Trolley and the next time the vehicle came to a stop?,q,MS. COLE,start_answer
+544,2042,90,19,"Very little.  It was not notable. It was just a couple of minutes.  I recall being with my friends going to a wedding and everything that comes with that and the place we were was not a part of that, if that makes sense.",a,THE WITNESS,start_question
+545,2049,91,1,Did you have any concerns or fears once you got onto the Jolly Trolley and could observe the structure of the trolley and the components of the trolley around you?,q,MS. COLE,start_answer
+546,2054,91,6,"When it pulled up before we got on it, there was a little bit of a moment where -- this is not a technical term -- but that's a little jenky was sort of what went through my head and it was just a quick flash.  But being so excited to be there with my friends, I never gave it another pause, never another moment's thought.",a,THE WITNESS,start_question
+547,2063,91,15,"As you were proceeding from the location where you got onto the trolley to the point it stopped later on, did you have any concerns about the ride itself?",q,MS. COLE,start_answer
+548,2067,91,19,"I don't, I don't think so.  Not in that short in town period, no.",a,THE WITNESS,start_question
+549,2069,91,21,"And so when it stopped for the second time, well, for the first time after you got on it, did more passengers get on at that time?",q,MS. COLE,start_answer
+550,2074,92,1,Yes.,a,THE WITNESS,start_question
+551,2075,92,2,How many people would you say?,q,MS. COLE,start_answer
+552,2076,92,3,"I couldn't tell you the exact number.  I mean we know how many people were on the trolley, so I would say about a third of them got on at the second stop.",a,THE WITNESS,start_question
+553,2080,92,7,How many got on at the first stop?,q,MS. COLE,start_answer
+554,2081,92,8,"Well, two-thirds.  Two-thirds of 25 or 28, however many we are on the trolley. Can I guess 18?",a,THE WITNESS,start_question
+555,2084,92,11,"Okay.  When the additional people got on at the second stop, did anybody have to get up from their seat and stand in the trolley?",q,MS. COLE,start_answer
+556,2088,92,15,"There was sort of a move back, everybody moved back and reoriented.  And I'm not sure if anybody was standing. I don't recall. I heard afterwards that people were, but I couldn't say that I recall seeing them one way or the other.",a,THE WITNESS,start_question
+557,2095,92,22,Did you know any of the people that got on at the second stop?,q,MS. COLE,start_answer
+558,2097,92,24,No.,a,THE WITNESS,start_question
+559,2099,93,1,And did the driver get out of the vehicle at the second stop?,q,MS. COLE,start_answer
+560,2101,93,3,I don't recall.,a,THE WITNESS,start_question
+561,2102,93,4,And at some point after the individuals got on the trolley it started pulling forward again --,q,MS. COLE,start_answer
+562,2105,93,7,That's correct.,a,THE WITNESS,start_question
+563,2106,93,8,-- proceeding forward? Can you tell me what you can recall about the trip from that point forward?,q,MS. COLE,start_answer
+564,2110,93,12,"Yeah.  I mean -- and I wasn't like looking out the windows to know exactly where along the route we were, so I'm not going to have those details.  I'm sorry. But as the trolley began to accelerate, it became increasing aware that it was unstable and unsafe and problematic, bumpy, shaky, rocky and then eventually the sway. And the first sway there was a big laugh, like hey, this guy who made this dry wedding joke is having some fun with us and then the second sway or whatever number it was it's not a joke. And then they get progressively worse and then there's a moment where you know it's irrecoverable.  And -- sorry. Can you come back to the question?",a,THE WITNESS,start_question
+565,2128,94,5,Just a narrative of what you can recall about the trip itself from the point it proceeded from that stop to the time of the accident.,q,MS. COLE,start_answer
+566,2132,94,9,"Yeah.  Okay.  So I mean I remember the fishtailing starting.  I remember it getting progressively worse.  I remember thinking very clearly -- I'm not sure.  I may have said it to Ceci.  I don't know. I remember thinking this is irrevocable because it was just getting worse and then I remember looking out the front and seeing the back end of the van, the tires were skidding.  Right?  So the momentum of the trolley as part of the sway was pushing the back end of the van such that the tires were sliding sideways on the road.  And that happened for -- I don't know -- maybe two times. I think the accident reconstructionist has looked at the skid marks I'm guessing, so we could probably figure out exactly where that was if necessary.  But I recalled that.  I remember the swaying getting worse and then I remember the swaying getting so bad that the van was, you know, the back of the van was moving as opposed to the front of it doing the steering.",a,THE WITNESS,start_question
+567,2158,95,10,So you could observe fishtailing in the van as well as part of the trolley?,q,MS. COLE,start_answer
+568,2160,95,12,Yes.,a,THE WITNESS,start_question
+569,2161,95,13,I know you recall potentially saying something to Ceci about it being unrecoverable with respect to the sway.,q,MS. COLE,start_answer
+570,2164,95,16,Yeah.,a,THE WITNESS,start_question
+571,2165,95,17,Did anyone else say anything to you?,q,MS. COLE,start_answer
+572,2167,95,19,"I don't have any recollection of anybody saying anything to me.  I've since heard a lot of people say a lot of things that they said, but I really don't remember any of that.  And that's not to say it didn't happen.  I just don't remember it, yeah.",a,THE WITNESS,start_question
+573,2175,96,2,Do you recall any efforts by anyone in the vehicle to try to make contact with the driver at that point when the swaying was occurring?,q,MS. COLE,start_answer
+574,2179,96,6,No.  I don't recall anything like that.,a,THE WITNESS,start_question
+575,2181,96,8,I know you've described essentially what kind of proceeded as like a movement back and forth that eventually progressed over time. Are you able to give me an estimate regarding the amount of time that that trailer was moving back and forth?,q,MS. COLE,start_answer
+576,2188,96,15,I would just say that it would have been long enough that none of the cars that were behind us on the highway hit us.  I do remember like a pretty crazy traffic jam almost immediately after getting out of that and so all of those cars must have had enough time to observe what was happening and back off and not screaming directly into it. I have later heard that we were swaying for about half a minute.  Was I counting or looking at a stopwatch?  I don't know.  A half minute sounds just right to me. Is that enough?,a,THE WITNESS,start_question
+577,2204,97,6,Okay.  Did you ever see any vehicles pass the Jolly Trolley as you were experiencing that swaying?,q,MS. COLE,start_answer
+578,2207,97,9,"Not that I recall, no.",a,THE WITNESS,start_question
+579,2208,97,10,Did you see any other vehicles swerve in order to try to avoid the Jolly Trolley?,q,MS. COLE,start_answer
+580,2211,97,13,No.,a,THE WITNESS,start_question
+581,2212,97,14,At any point was there any conversation that you were a part of or heard about later about whether or not anybody else who had utilized the Jolly Trolley on other trips that day had experienced something similar to what happened to you?,q,MS. COLE,start_answer
+582,2219,97,21,Yes.,a,THE WITNESS,start_question
+583,2220,97,22,Tell me about that.,q,MS. COLE,start_answer
+584,2221,97,23,"Well, I think we first learned about it through a comment on a news article.  It was either a news article or maybe on the Jolly Trolley's Facebook page. I can't remember.  One of those two. We were in the local news, the accident was.  I don't think it got picked up wider than that, but Delaware -- I don't know what the newspaper is called.  We were in one of those and so there was an article online.  It might still be up. And it was either in somebody's comments on that or a comment on maybe their Facebook page directly about another wedding that had experienced something similar and the people had somehow managed to get off.  And I've since learned that we talked to them and got some more details on that, but that's how I heard about it.",a,THE WITNESS,start_question
+585,2241,98,18,"When you say ""we talked to them and got more details on that,"" do you mean you or anyone you know that are not attorneys?",q,MS. COLE,start_answer
+586,2244,98,21,"No.  No. I got this information from my attorneys, yeah.",a,THE WITNESS,start_question
+587,2246,98,23,Were there other people who attended the wedding that rode the Jolly Trolley that were not involved in the accident?,q,MS. COLE,start_answer
+588,2251,99,3,"Oh, like on a different trip for the Jolly Trolley?",a,THE WITNESS,start_question
+589,2253,99,5,Yes.,q,MS. COLE,start_answer
+590,2254,99,6,"I'm not sure.  Probably, but I don't know.  I couldn't say one way or the other.",a,THE WITNESS,start_question
+591,2257,99,9,Have you ever spoken with anyone else who attended the wedding regarding their experience on the Jolly Trolley?,q,MS. COLE,start_answer
+592,2260,99,12,"No, outside of the passengers on our ride, of course.",a,THE WITNESS,start_question
+593,2262,99,14,Outside of your group?,q,MS. COLE,start_answer
+594,2263,99,15,Yes.,a,THE WITNESS,start_question
+595,2264,99,16,And I apologize because sometimes I'm not able to separate whatever I asked you and what I asked your wife.,q,MS. COLE,start_answer
+596,2267,99,19,That's okay.,a,THE WITNESS,start_question
+597,2268,99,20,But after the accident happened do you recall anyone from the Jolly Trolley organization coming to the scene of the accident?,q,MS. COLE,start_answer
+598,2272,99,24,No.,a,THE WITNESS,start_question
+599,2274,100,1,Do you recall any other Jolly Trolley vehicles arriving at the scene of the accident?,q,MS. COLE,start_answer
+600,2277,100,4,No.,a,THE WITNESS,start_question
+601,2278,100,5,Do you recall anyone coming up to the scene of the accident and saying that they had observed the accident from behind the vehicle?,q,MS. COLE,start_answer
+602,2282,100,9,"I don't personally recall.  But a good friend of ours, Ned, I think was and I learned afterwards that he was, but I don't recall that from the moments right after.",a,THE WITNESS,start_question
+603,2286,100,13,"Have you ever had a conversation or heard secondhand about conversations that others have had with Ned regarding what he may have observed, if anything, about the accident itself?",q,MS. COLE,start_answer
+604,2291,100,18,"As in his direct recounting of the events?  No.  I believe that those conversations have happened, but I have not pressed for details or really remember any of them.",a,THE WITNESS,start_question
+605,2296,100,23,Did you ever reach out to anyone at the Jolly Trolley organization after this accident?,q,MS. COLE,start_answer
+606,2300,101,2,No.,a,THE WITNESS,start_question
+607,2301,101,3,Were you on a group text at all that may have involved people who were on that Jolly Trolley?,q,MS. COLE,start_answer
+608,2304,101,6,Yes.,a,THE WITNESS,start_question
+609,2305,101,7,What was discussed as part of that group text?,q,MS. COLE,start_answer
+610,2307,101,9,"Are you dead?  How are you?  Where are you?  Those sorts of things.  And then what hospital are you at?  What are your problems?  Throughout the course of the weekend. And then group support, that's what it's been mostly since then.  I'm having this problem.  I'm having that problem.  I love you guys.  Sorry about this tragic thing in the news, whatever it might be.  Glad we have each other.  That sort of stuff.  That's 90 percent of the content.",a,THE WITNESS,start_question
+611,2320,101,22,And has this group text essentially among the original people who are part of that when it started continued on over time?,q,MS. COLE,start_answer
+612,2325,102,2,"Yeah.  I mean it's been a mess.  I don't know if you have ever been in a group text that has a mix of iPhone users and non-iPhone users.  So sometimes it gets fragmented into a bunch of different texts when somebody who's not on iMessage responds, if you guys know that.  It's a mess. But yeah, we were in constant communication prior to the wedding and we are -- sorry.  Constant is an overstatement but we are a close group.  We were close prior.  We are close after.  The group text is a mechanism for that communication but, you know -- so yeah.",a,THE WITNESS,start_question
+613,2340,102,17,Do you still have the phone upon which you received these group texts?,q,MS. COLE,start_answer
+614,2342,102,19,Yes.,a,THE WITNESS,start_question
+615,2343,102,20,Do you still have the phone upon which you received these group texts back in October of 2016?,q,MS. COLE,start_answer
+616,2346,102,23,"Yes.  I think so, yes.  I don't think I have a new one since then.",a,THE WITNESS,start_question
+617,2349,103,1,"Can you look at your phone and identify whether or not you still have like the first, you know, two weeks of group texts?",q,MS. COLE,start_answer
+618,2353,103,5,"So if you've ever tried to scroll back on a long iMessage sometimes it doesn't work.  Eventually it hits a point where there's no cloud backup.  So I'm not sure.  Probably, but I'm not sure. It might be possible to get it either from AT&T or from the cloud directly.  We can work on that if we need to.",a,THE WITNESS,start_question
+619,2362,103,14,"We are going to request, we request that we be able to review the text messages that would have occurred among your group, the Jolly Trolley group, after this accident to the extent it deals with either the accident or injuries. Okay?",q,MS. COLE,start_answer
+620,2369,103,21,(The witness nodded.),a,THE WITNESS,start_question
+621,2370,103,22,"Did you ever keep a journal regarding any of the complaints, injuries or mental health concerns that you had as a result of the October 1st accident?",q,MS. COLE,start_answer
+622,2375,104,2,I did.,a,THE WITNESS,start_question
+623,2376,104,3,How many entries did you make in that?,q,MS. COLE,start_answer
+624,2378,104,5,A dozen or so.,a,THE WITNESS,start_question
+625,2379,104,6,Over what course of time?,q,MS. COLE,start_answer
+626,2380,104,7,"Mostly the months of October and November, with perhaps a bit of a recap, a final entry maybe a month or two after that.",a,THE WITNESS,start_question
+627,2384,104,11,And why did you keep a journal?,q,MS. COLE,start_answer
+628,2385,104,12,I was advised to.,a,THE WITNESS,start_question
+629,2386,104,13,By your attorney?,q,MS. COLE,start_answer
+630,2387,104,14,Yes.,a,THE WITNESS,start_question
+631,2388,104,15,Okay.  And did you review that journal in preparation for your deposition here today?,q,MS. COLE,start_answer
+632,2391,104,18,"I've actually reviewed it regularly in the times between the accident and now, but yes.",a,THE WITNESS,start_question
+633,2394,104,21,"Do you believe that the information contained in that journal is essentially the freshest recount of what you can, what you recalled from the incident itself?",q,MS. COLE,start_answer
+634,2399,105,1,As in like the moments of the accident and not my injuries afterwards when you say that?,a,THE WITNESS,start_question
+635,2402,105,4,"For example, if we were to review the information contained in your journal would it be the freshest and most accurate recounting of the accident and the injuries you sustained as a result?",q,MS. COLE,start_answer
+636,2407,105,9,"I think the freshest recounting of my injuries, whether physical, emotional or mental, would be through my medical providers.  I don't know that I've ever documented the accident itself anywhere other than that journal or my call with the policeman and I probably journaled after the policeman, so yes. Yes for the accident.  No for the injuries.",a,THE WITNESS,start_question
+637,2417,105,19,Okay.  Do you recall speaking with the police at the scene of the accident?,q,MS. COLE,start_answer
+638,2419,105,21,No.,a,THE WITNESS,start_question
+639,2420,105,22,Did you have a conversation with the police at some point thereafter about the accident?,q,MS. COLE,start_answer
+640,2424,106,1,Yes.,a,THE WITNESS,start_question
+641,2425,106,2,Tell me about that.,q,MS. COLE,start_answer
+642,2426,106,3,"I don't think my wife was on the call.  I know she wasn't on the call because we were at her hand surgeon.  I think she actually may have been in surgery when I took that call because he called -- oh, gosh.  I can't remember his name.  You guys have it I'm sure. Are you allowed to tell me?",a,THE WITNESS,start_question
+643,2434,106,11,"We have the police report, yeah.",q,MS. COLE,start_answer
+644,2435,106,12,"So one of the officers from the state trooper, I can't remember his name, he called me.  And I remember saying -- I don't know if she was about to go into surgery or she was about to get seen by the doctor, but we were at the hand center in Baltimore. And he said I'll call you right back or I'll call you back in an hour or something.  And then I took the call on the stairs outside there of the hand center in Baltimore. I very vividly remember sitting on the stairs talking to that guy on the phone.  I'm sorry.  I just don't remember his name.  If I saw it I would be able to say that's for sure him.",a,THE WITNESS,start_question
+645,2453,107,5,"And you said you saw news articles that came out about this incident or accident, correct?",q,MS. COLE,start_answer
+646,2456,107,8,Yeah.,a,THE WITNESS,start_question
+647,2457,107,9,Did you ever contact any reporters or media regarding the accident?,q,MS. COLE,start_answer
+648,2459,107,11,No.,a,THE WITNESS,start_question
+649,2460,107,12,Did any of them contact you?,q,MS. COLE,start_answer
+650,2461,107,13,No.,a,THE WITNESS,start_question
+651,2462,107,14,Have you ever met with Dr. Jeffrey Anderson?,q,MS. COLE,start_answer
+652,2464,107,16,Yes.,a,THE WITNESS,start_question
+653,2465,107,17,How many times?,q,MS. COLE,start_answer
+654,2466,107,18,Once.,a,THE WITNESS,start_question
+655,2467,107,19,And when was that?,q,MS. COLE,start_answer
+656,2468,107,20,That was in late winter of -- was it 2019?  I think it was late winter of 2019.  It was after my second course of physical therapy so I think it was late winter of 2019.,a,THE WITNESS,start_question
+657,2474,108,1,What is your understanding as to whether or not Dr. Anderson is preparing a life care plan for you?,q,MS. COLE,start_answer
+658,2477,108,4,"I believe he is preparing a life care plan for me, yeah.  That's my understanding.",a,THE WITNESS,start_question
+659,2480,108,7,Have you seen the life care plan?,q,MS. COLE,start_answer
+660,2481,108,8,No.,a,THE WITNESS,start_question
+661,2482,108,9,How long did you meet with Dr. Anderson?,q,MS. COLE,start_answer
+662,2484,108,11,"It was an afternoon, so three or four hours.",a,THE WITNESS,start_question
+663,2486,108,13,Did he conduct any examinations of you?,q,MS. COLE,start_answer
+664,2488,108,15,Yes.,a,THE WITNESS,start_question
+665,2489,108,16,Describe what those involved.,q,MS. COLE,start_answer
+666,2490,108,17,"Well, I think when we came in we had the standard stuff they do at a doctor's office, so blood pressure and temperature. And then we did a whole series of sort of like -- I don't know the terms for the exercises, but he's trying to get me to squeeze his hands in, pull his hands and push his hands.  He was getting at the strength in my upper body and in my back, so it was a very sort of push and pull type of exercise.  I'm sorry.  I don't know what it's called.",a,THE WITNESS,start_question
+667,2504,109,6,Did Dr. Anderson have your medical records in advance of his examination of you?,q,MS. COLE,start_answer
+668,2507,109,9,Yes.,a,THE WITNESS,start_question
+669,2508,109,10,Did you provide him personally with any medical records?,q,MS. COLE,start_answer
+670,2510,109,12,I have not personally provided anyone with any medical records that's a part of this.,a,THE WITNESS,start_question
+671,2513,109,15,Did Dr. Anderson convey to you what he believed you may need with respect to projected future medical treatment as a result of the accident?,q,MS. COLE,start_answer
+672,2517,109,19,Yeah.  We talked about it.  And we knew that there was more follow-up coming but he confirmed most of what Dr. Tannous had told me about expecting the back problems to recur later in life.,a,THE WITNESS,start_question
+673,2522,109,24,Is it your belief that you will need medication in the future in association with your back pain?,q,MS. COLE,start_answer
+674,2526,110,3,Yes.,a,THE WITNESS,start_question
+675,2527,110,4,What medication would that be?,q,MS. COLE,start_answer
+676,2528,110,5,I have no idea.,a,THE WITNESS,start_question
+677,2529,110,6,When is the last time you were on medication for your back pain?,q,MS. COLE,start_answer
+678,2531,110,8,I mean both the PT folks and Dr. Tannous and Dr. Anderson have told me it's okay to take ibuprofen for flare-ups. I would say the last time I took ibuprofen for back pain would have been sometime in December.  I did a big cleanup in the backyard.  I had to deal with a lot of leaves and debris and stuff like that.,a,THE WITNESS,start_question
+679,2540,110,17,Is that over-the-counter medication?,q,MS. COLE,start_answer
+680,2542,110,19,Yeah.  Yeah.,a,THE WITNESS,start_question
+681,2543,110,20,When is the last time you took prescription medication for back pain?,q,MS. COLE,start_answer
+682,2545,110,22,Not since probably October or November of 2016.,a,THE WITNESS,start_question
+683,2547,110,24,When is the last time you can recall taking ibuprofen for back pain?  I know you told me about the leaves in December of 2019.,q,MS. COLE,start_answer
+684,2552,111,4,Yeah.,a,THE WITNESS,start_question
+685,2553,111,5,Are there any other instances that you can recall in which you've had to take ibuprofen for back pain?,q,MS. COLE,start_answer
+686,2556,111,8,Since then?,a,THE WITNESS,start_question
+687,2557,111,9,Since the accident.,q,MS. COLE,start_answer
+688,2558,111,10,"Oh, gosh.  Yes.  Whenever I do something like that, like leaves or a big day of yard work or even just a small day of like picking peppers all day or something.  Most frequently just prior to that I remember we had a bunch of friends over for dinner in -- gosh, I don't know. That was probably, that was probably November.  Actually, maybe that was in January. We had some friends over for dinner and I was doing the dishes and I just remember they were giving me such a hard time for doing what they called dish dancing.  It's because when I do the dishes I have to like spread my legs out so wide so I can keep my back straight and I was just really looking funny when I was doing that. I took some ibuprofen that night because I had been at the sink for a prolonged period doing dishes.  I could find the exact date if needed.",a,THE WITNESS,start_question
+689,2582,112,9,Do you have any current plans to return to physical therapy?,q,MS. COLE,start_answer
+690,2584,112,11,"It's not on the schedule, but I will go if needed.",a,THE WITNESS,start_question
+691,2586,112,13,Do you use marijuana?,q,MS. COLE,start_answer
+692,2587,112,14,Very rarely but on occasion.,a,THE WITNESS,start_question
+693,2588,112,15,How frequently?,q,MS. COLE,start_chat
+694,2589,112,16,Just a standing Objection. You can answer.,side_chat,MS. ORSI,start_answer
+695,2592,112,19,Maybe once a month.,a,THE WITNESS,start_question
+696,2593,112,20,Is that for any condition that you believe was caused by the accident?,q,MS. COLE,start_answer
+697,2595,112,22,No.,a,THE WITNESS,start_question
+698,2596,112,23,Have you ever used marijuana in relation to any accident-related injuries?,q,MS. COLE,start_answer
+699,2599,113,1,No.  No.  I mean -- no.,a,THE WITNESS,start_chat
+700,2600,113,2,I think that's all I have. I'm going to hand it over to you.,side_chat,MS. COLE,start_chat
+701,2604,113,6,Going off the record at 5:35 p.m.,side_chat,THE VIDEOTAPE OPERATOR,is brackets
+702,2606,113,8,(A brief recess was taken.),brackets,,start_chat
+703,2607,113,9,Back on the record at approximately 5:40 p.m.,side_chat,THE VIDEOTAPE OPERATOR,start_question
+704,2610,113,12,"Mr. DiPietro, I know it's been a long day and we're going to try to get this wrapped up as quickly as we can and, like I told your wife, I'm going to jump around a bit so I apologize in advance if I do. Do you remember taking any photographs while people were seated on the trolley before the accident happened?",q,MR. BENNETT,start_answer
+705,2618,113,20,"I have a photo on my phone, but I'm seated in it so I think my phone took a picture, but I don't think I took it.",a,THE WITNESS,start_question
+706,2621,113,23,Do you know who took that photo?,q,MR. BENNETT,start_answer
+707,2622,113,24,I don't.  I was trying to think about it.  It might have been Mark or Becky because they're not in the picture and I think they were north of us on the trolley.,a,THE WITNESS,start_question
+708,2627,114,4,Have you provided that photo to your attorneys?,q,MR. BENNETT,start_answer
+709,2629,114,6,Yes.,a,THE WITNESS,start_chat
+710,2630,114,7,I don't know that that photo has been produced yet.  So I would just ask that any photographs of --,side_chat,MR. BENNETT,start_chat
+711,2633,114,10,Just resend all the photos just to make sure that you have them?,side_chat,MS. ORSI,start_chat
+712,2636,114,13,Just resend the photos that your clients took.  Not all of the police photos.,side_chat,MR. BENNETT,start_chat
+713,2639,114,16,Right.,side_chat,MS. ORSI,start_question
+714,2641,114,18,Do you recall any one taking photos in your group after the accident?,q,MR. BENNETT,start_answer
+715,2643,114,20,No.,a,THE WITNESS,start_question
+716,2644,114,21,"Going to Dr. Tannous, what was your understanding as to why you had to wear the back brace?",q,MR. BENNETT,start_answer
+717,2647,114,24,Because my back was broken.,a,THE WITNESS,start_question
+718,2649,115,1,But what was your understanding as to what the back brace would do?,q,MR. BENNETT,start_answer
+719,2651,115,3,Take the stress off of the bones so that they could heal.,a,THE WITNESS,start_question
+720,2653,115,5,So it was your understanding that by wearing the back brace the vertebrae would heal?,q,MR. BENNETT,start_answer
+721,2656,115,8,"I wasn't thinking about it.  I was putting it on because it helped with the pain honestly, but yes.",a,THE WITNESS,start_question
+722,2659,115,11,Did those vertebrae heal after a few months as a result of wearing the back brace?,q,MR. BENNETT,start_answer
+723,2662,115,14,"To my knowledge, yes.",a,THE WITNESS,start_question
+724,2663,115,15,"You haven't been told otherwise by Dr. Tannous or anybody else that there's any further problem with your thoracic vertebrae at T11, T12 or L1?",q,MR. BENNETT,start_answer
+725,2667,115,19,"""Further problem"" is a little ambiguous.  They've healed into a new shape.  They were crunched and now they are in a new shape and now my back is into a new shape, so that's problematic for me.",a,THE WITNESS,start_question
+726,2672,115,24,When was the first time you went back to work?,q,MR. BENNETT,start_answer
+727,2675,116,2,"I would have to check the records. My guess is like week, the first day of week three following the accident.  So I think I missed Monday through Friday, Monday through Friday and then went that Monday.",a,THE WITNESS,start_question
+728,2681,116,8,It would have been sometime near the end of October?,q,MR. BENNETT,start_answer
+729,2683,116,10,No.  I would guess mid-October.,a,THE WITNESS,start_question
+730,2684,116,11,The third week of October then?,q,MR. BENNETT,start_answer
+731,2685,116,12,Yeah.,a,THE WITNESS,start_question
+732,2686,116,13,Okay.  And when did you stop -- when did you start weaning off the back brace?,q,MR. BENNETT,start_answer
+733,2689,116,16,Late November is my guess.,a,THE WITNESS,start_question
+734,2690,116,17,When you did you stop wearing the back brace?,q,MR. BENNETT,start_answer
+735,2692,116,19,"I'm not sure of the exact date, but early November would be my best guess.",a,THE WITNESS,start_question
+736,2694,116,21,Do you remember wearing it in 2017 at all?,q,MR. BENNETT,start_answer
+737,2696,116,23,No.,a,THE WITNESS,start_question
+738,2697,116,24,One of your physical therapy notes from November 28th of 2016 says that you were having increased pain after raking leaves. Do you recall that occurring in the fall of 2016?,q,MR. BENNETT,start_answer
+739,2704,117,6,"I can't say that I recall that specific instance, but I recall pain every time I've raked the leaves since the accident.",a,THE WITNESS,start_question
+740,2708,117,10,So that would not be uncommon?,q,MR. BENNETT,start_answer
+741,2709,117,11,Correct.,a,THE WITNESS,start_question
+742,2710,117,12,Do you remember if you ever raked leaves while wearing your back brace?,q,MR. BENNETT,start_answer
+743,2712,117,14,"Yeah.  Yes, I have done that.",a,THE WITNESS,start_question
+744,2713,117,15,So I'll ask it this way:  Do you rake leaves more than once during the season?,q,MR. BENNETT,start_answer
+745,2716,117,18,"Two or three times, yeah.",a,THE WITNESS,start_question
+746,2717,117,19,"So it could have been several times during the fall of 2018 that you had raked leaves, but you know that on at least one of those occasions you were wearing your back brace?",q,MR. BENNETT,start_answer
+747,2722,117,24,"I'm going to say raking leaves as a broader cover for yard work generally, which I let languish immediately after the accident.  The backyard was a mess. I do think I tried to get out there one day in November.  Whether I was raking leaves or doing some other amount of upkeep, I'm not sure.",a,THE WITNESS,start_question
+748,2731,118,8,I know your wife mentioned that you have a relatively big backyard for D.C. How big is your backyard?,q,MR. BENNETT,start_answer
+749,2734,118,11,You guys will laugh.  It's like an eighth of an acre.,a,THE WITNESS,start_question
+750,2736,118,13,I'm sorry.  How big do you think your yard is?,q,MR. BENNETT,start_answer
+751,2738,118,15,"I want to say an eighth of an acre, maybe even smaller, but that's like a palace in D.C.",a,THE WITNESS,start_question
+752,2741,118,18,How many trees fit on that backyard for you to have leaves to rake?,q,MR. BENNETT,start_answer
+753,2743,118,20,What a good question this is. There are 20 fruit trees in the backyard.,a,THE WITNESS,start_question
+754,2746,118,23,And is that part of your larger garden that you have in your backyard?,q,MR. BENNETT,start_answer
+755,2749,119,1,Yes.,a,THE WITNESS,start_question
+756,2750,119,2,"And what's the size of your garden, if you know?  Or if you can just describe to me what you grow and the extent of your garden.",q,MR. BENNETT,start_answer
+757,2754,119,6,Okay.  There are three raised beds in the backyard.  I can probably math it out real quick.,a,THE WITNESS,start_question
+758,2757,119,9,Are those beds four foot by eight foot?,q,MR. BENNETT,start_answer
+759,2759,119,11,"Two of them are longer.  Two of them are closer to eight, I would say eight by four.  There are two eight by four beds and one six by four.  Those are approximate.",a,THE WITNESS,start_question
+760,2764,119,16,"And although your ability to do yard work was limited in the fall of 2016, were you able to resume your yard work activity and gardening in 2017?",q,MR. BENNETT,start_answer
+761,2768,119,20,"Yeah.  Well, when we first moved in my dad bought me a push mower, the kind that doesn't have an engine.  Right?  You push it to make it go because it's not a huge backyard. And that was really hard to use.  The next year I ended up buying an electric one because of how difficult it was.",a,THE WITNESS,start_question
+762,2778,120,5,Have you been able to use the electric mower since then?,q,MR. BENNETT,start_answer
+763,2780,120,7,"It's a breeze.  I think anybody could use it, but yes.",a,THE WITNESS,start_question
+764,2782,120,9,"As far as the gardening, have you been able to do the gardening since 2017?",q,MR. BENNETT,start_answer
+765,2784,120,11,"We have grown some things in the garden since 2017, yes.",a,THE WITNESS,start_question
+766,2786,120,13,More or less than what you did in the summer of 2016 or about the same?,q,MR. BENNETT,start_answer
+767,2788,120,15,"I for an unrelated reason have grown less in the garden.  We had a harlequin beetle infestation so we had switch to growing nightshades.  We had to stop all lettuces, all brassicas, anything that these beetles could live in.  And so we switched almost exclusively to peppers. We're getting a little deep here.  Sorry.",a,THE WITNESS,start_question
+768,2797,120,24,That's all right.,q,MR. BENNETT,start_answer
+769,2799,121,1,"So peppers take a lot less work, which has been nice, but the pain is there even when dealing with those.",a,THE WITNESS,start_question
+770,2802,121,4,"So the less work in the garden was not intentional.  It was related to the bug infestation, but it's become a blessing because it does require you to have to be in the garden less?",q,MR. BENNETT,start_answer
+771,2807,121,9,"Gardening is painful.  I do less of it, both, A, because there were beetles and, B, because it hurts to do it.",a,THE WITNESS,start_question
+772,2810,121,12,Are you on either Facebook or Instagram?,q,MR. BENNETT,start_answer
+773,2812,121,14,"I am on Instagram.  I have a Facebook account, but I haven't posted anything in five years probably.",a,THE WITNESS,start_question
+774,2815,121,17,Have you posted anything on Instagram about either the accident or your injuries?,q,MR. BENNETT,start_answer
+775,2818,121,20,No.,a,THE WITNESS,start_question
+776,2819,121,21,"Have you posted anything on Instagram about the vacations that you've taken since October 1st, 2016?",q,MR. BENNETT,start_answer
+777,2822,121,24,Certainly.,a,THE WITNESS,start_question
+778,2824,122,1,And what typically do you post on Instagram about your vacations?,q,MR. BENNETT,start_answer
+779,2826,122,3,"I'm sorry to say where we are in the day, but it's mostly food pictures.",a,THE WITNESS,start_question
+780,2828,122,5,Ms. Cole was asking you about your concussion symptoms and it seemed as though most of them had resolved before the end of the year in 2016. It would be fair to say that they had all resolved before your wife's January 2017 accident?,q,MR. BENNETT,start_answer
+781,2835,122,12,"100 percent resolved?  No, that wouldn't be fair.",a,THE WITNESS,start_question
+782,2837,122,14,What would you say still did not resolve by January 2017?,q,MR. BENNETT,start_answer
+783,2839,122,16,"I still had headaches, but just it felt so dwarfed in comparison to Ceci's.",a,THE WITNESS,start_question
+784,2841,122,18,You mentioned that you had no more than three beers while you were playing disk golf --,q,MR. BENNETT,start_answer
+785,2844,122,21,That's right.,a,THE WITNESS,start_question
+786,2845,122,22,-- that morning of the acccident?,q,MR. BENNETT,start_answer
+787,2846,122,23,That's correct.,a,THE WITNESS,start_question
+788,2847,122,24,You said there were about a dozen other people that joined you playing disk golf. Were the other eleven or so people drinking also while playing disk golf?,q,MR. BENNETT,start_answer
+789,2854,123,6,"It's my recollection that there was a twelve pack, so there were probably a few others drinking, yeah.",a,THE WITNESS,start_question
+790,2857,123,9,Do you remember who else was drinking while playing disk golf?,q,MR. BENNETT,start_answer
+791,2859,123,11,No.  I couldn't say for sure.,a,THE WITNESS,start_question
+792,2860,123,12,Do you believe that anybody had more than three?,q,MR. BENNETT,start_answer
+793,2862,123,14,No.,a,THE WITNESS,start_question
+794,2863,123,15,"Was anybody, when you went back to the Airbnb for lunch was anybody drinking during lunch?",q,MR. BENNETT,start_answer
+795,2866,123,18,I don't recall one way or the other.,a,THE WITNESS,start_question
+796,2868,123,20,Did you have cases of National Bohemian at the Airbnb?,q,MR. BENNETT,start_answer
+797,2870,123,22,"Probably, but I can't recall for sure.",a,THE WITNESS,start_question
+798,2872,123,24,Was there anybody who was in charge of stocking the refrigerator with beer at the Airbnb?,q,MR. BENNETT,start_answer
+799,2876,124,3,In charge?  No.,a,THE WITNESS,start_question
+800,2877,124,4,Do you know who did stock it?,q,MR. BENNETT,start_answer
+801,2878,124,5,No.,a,THE WITNESS,start_question
+802,2879,124,6,"With respect to the accident itself, do you remember the trolley tipping onto its side?",q,MR. BENNETT,start_answer
+803,2882,124,9,Do I remember like however long it took to physically turn onto its side?,a,THE WITNESS,start_question
+804,2884,124,11,Correct.,q,MR. BENNETT,start_answer
+805,2885,124,12,No.,a,THE WITNESS,start_question
+806,2886,124,13,What do you remember -- let me phrase it this way:  What do you remember when you were on the opposite side after it tipped over?,q,MR. BENNETT,start_answer
+807,2890,124,17,I remember coming to with my wife and Yaron on top of me.,a,THE WITNESS,start_question
+808,2892,124,19,What's the last thing you remember before then?,q,MR. BENNETT,start_answer
+809,2894,124,21,The back end of the van fishtailing.  I remember seeing the tires going the way that tires aren't supposed to go.,a,THE WITNESS,start_question
+810,2899,125,1,So you don't specifically have a recollection of it ultimately tipping over onto its side?,q,MR. BENNETT,start_answer
+811,2902,125,4,I mean I'm certain it happened but I do not recall flying through the air.,a,THE WITNESS,start_question
+812,2904,125,6,I didn't mean to suggest that you did.  I was just trying to figure out to what extent your memory goes to and where it picks up again.,q,MR. BENNETT,start_answer
+813,2908,125,10,"Right.  So Ceci recalls it bumping something.  I don't have any memory like that.  I don't remember it turning over, flying through the air or anything like that.",a,THE WITNESS,start_question
+814,2913,125,15,Were you aware that that specific van and trailer had been used earlier that day to take the wedding party to the wedding?,q,MR. BENNETT,start_answer
+815,2917,125,19,I don't recall being aware of that. I've been made aware of that after but I don't think I knew that before.,a,THE WITNESS,start_question
+816,2920,125,22,Did you review the police report by chance at any time since the accident to see what the police officer recorded as what his interview with you consisted of?,q,MR. BENNETT,start_answer
+817,2925,126,2,"I've read the complaint and I think the police report is part of the complaint, but I'm not sure I saw all of the attachments so I'm not sure.",a,THE WITNESS,start_question
+818,2929,126,6,Do you recall reading the summary of the interview with you before your deposition today?,q,MR. BENNETT,start_answer
+819,2932,126,9,"I didn't read it today but I have read it, yes.",a,THE WITNESS,start_question
+820,2934,126,11,Have you read it in the last three or four months?,q,MR. BENNETT,start_answer
+821,2936,126,13,Yes.,a,THE WITNESS,start_question
+822,2937,126,14,I just have a few questions about what the police has put down in terms of what you allegedly told to him.  I'm just going to read from the police report.,q,MR. BENNETT,start_answer
+823,2941,126,18,Sure.,a,THE WITNESS,start_question
+824,2942,126,19,"It says ""He"" -- and when it says ""he,"" it's meaning you -- ""He also explained that when the van started swerving back and forth it appeared as if the driver was trying to correct the situation by steering in either direction. However, the back end was still whipping out farther than the front."" Do you recall telling the police officer that?",q,MR. BENNETT,start_answer
+825,2953,127,5,Sure.  Yes.,a,THE WITNESS,start_question
+826,2954,127,6,Do you recall that happening?,q,MR. BENNETT,start_answer
+827,2955,127,7,I recall the back end of the van moving.  At the time I presumed it was due to things that the driver was doing.  I since -- I don't know.  We've talked a lot more about this and learned about fishtailing trailers and the effect that can have on the vehicle in front.  And now I can't say for sure whether or not the driver was taking any actions to make that happen.,a,THE WITNESS,start_question
+828,2965,127,17,Were you able to see the connection between the van and the trailer as it was swaying?,q,MR. BENNETT,start_answer
+829,2968,127,20,Not that I can recall.,a,THE WITNESS,start_question
+830,2969,127,21,Do you have any knowledge as to whether the trailer became unattached from the van before it tipped over?,q,MR. BENNETT,start_answer
+831,2972,127,24,I don't have any knowledge one way or the other.,a,THE WITNESS,start_question
+832,2975,128,2,"Reading again from the police report, the police officer writes ""When asked about the wind, Mr. DiPietro replied the wind was definitely not strong enough to blow the trailer sideways.  However, he was unsure how the wind affected his steering."" Do you remember telling the police officer that?",q,MR. BENNETT,start_answer
+833,2984,128,11,Sure.  Yes.,a,THE WITNESS,start_question
+834,2985,128,12,Can you elaborate on that statement at all?,q,MR. BENNETT,start_answer
+835,2987,128,14,"I mean if anybody has been there, there's always a little breeze coming off of the ocean.  But if it was strong enough to affect this trolley, it would have affected it each and every time they drive it.  So I don't think it was a big deal.",a,THE WITNESS,start_question
+836,2993,128,20,"The final sentence the police writes about the interview with you was ""In conclusion, Mr. DiPietro mentioned that when he boarded the trailer it appeared overloaded and the operator should have been able to activate the trailer brakes to try to control some of the swaying back and forth."" Did you tell the police officer that?",q,MR. BENNETT,start_answer
+837,3004,129,6,"I think so, yes.",a,THE WITNESS,start_question
+838,3005,129,7,What made you think that the trailer appeared to be overloaded?,q,MR. BENNETT,start_answer
+839,3007,129,9,There are a few guys that were in the accident that have direct experience on farms or otherwise towing trailers and we spent a lot of time talking about what could have gone wrong and I think that's where it came from.,a,THE WITNESS,start_question
+840,3013,129,15,So that would have been in the day or two following the accident that you talked to those people?,q,MR. BENNETT,start_answer
+841,3016,129,18,Sure.,a,THE WITNESS,start_question
+842,3017,129,19,And who were those people?,q,MR. BENNETT,start_answer
+843,3018,129,20,"The first two that come to mind are Joe and Mitch, Joe Johnson.",a,THE WITNESS,start_question
+844,3020,129,22,And Mitch Stanton?,q,MR. BENNETT,start_answer
+845,3021,129,23,"Yes, and Mitch Stanton.",a,THE WITNESS,start_question
+846,3022,129,24,And what familiarity do you know that Joe Johnson and Mitch Stanton have with respect to farm vehicles?,q,MR. BENNETT,start_answer
+847,3026,130,3,"Two good stories here.  Joe Johnson used to be the head landscaper for a summer house in St. Mary's.  And I worked for him for a summer, but he did that for multiple summers down there so he's very knowledgeable.  That was a big, big property.  It's Ted Koppel's summer house. So you can imagine there were all manners of trailers and farm equipment and that sort of thing at that property. Mitch, I just know that he grew up on a farm, but I couldn't tell you the extent.  He's got a lot of John Deere clothing.",a,THE WITNESS,start_question
+848,3040,130,17,"Did either Joe or Mitch mention to you that they believed that the trailer was overloaded, either at the time of entering into the trolley or after the accident?",q,MR. BENNETT,start_answer
+849,3044,130,21,"Certainly I don't recall anyone saying that as we were boarding or as we were on the accident.  And yes, we've talked about it a whole lot after the accident and now we have learned about the weight limits and everything else so it's all mixed together, but yes.",a,THE WITNESS,start_question
+850,3052,131,4,"And you told the police officer -- once again, this was only a couple of days after the accident -- that the operator should have been able to activate the trailer brakes. What did you mean by that?",q,MR. BENNETT,start_answer
+851,3058,131,10,"If it was possible to stop, he should have stopped.",a,THE WITNESS,start_question
+852,3060,131,12,What do you know about this vehicle and whether it had trailer brakes?,q,MR. BENNETT,start_answer
+853,3062,131,14,I don't know whether or not it did.,a,THE WITNESS,start_question
+854,3063,131,15,Did you know at the time that you spoke to the police officer?,q,MR. BENNETT,start_answer
+855,3065,131,17,"No.  And Joe had speculated, sorry, that there were trailer brakes because there was some wires.  He recalled seeing some wires.  I didn't see any of that, but he recalled seeing some wires that he thought would have gone to brakes.",a,THE WITNESS,start_question
+856,3071,131,23,"So, once again, is that information that you were relaying based upon your conversation with Joe?",q,MR. BENNETT,start_answer
+857,3075,132,2,"Yeah.  Sure, a combination of my own experiences and my conversations with others.",a,THE WITNESS,start_question
+858,3078,132,5,"Well, what's your experience with respect to trailer brakes?",q,MR. BENNETT,start_answer
+859,3080,132,7,I don't have any experience with trailer brakes.,a,THE WITNESS,start_question
+860,3082,132,9,And what do you mean based upon your own experience?,q,MR. BENNETT,start_answer
+861,3084,132,11,I mean I was on the trailer. Right?,a,THE WITNESS,start_question
+862,3086,132,13,Right.,q,MR. BENNETT,start_answer
+863,3087,132,14,So if there were brakes he should have been able to stop.,a,THE WITNESS,start_question
+864,3089,132,16,"I want to talk just briefly about your wife's injuries. From your perspective, how was your wife before October 2016 when it came to flying?",q,MR. BENNETT,start_answer
+865,3094,132,21,"Nothing like what she's like after, night and day.",a,THE WITNESS,start_question
+866,3096,132,23,I'm asking you what she was like before.,q,MR. BENNETT,start_answer
+867,3099,133,1,"She was normal on planes.  I think any sane human gets a little nervous when there's turbulence on a plane and certainly she had that.  We'd hold hands on the plane, but she was fine. She was not like I can't get on a plane or I'm terrified the whole time on a plane.  We went on lots of trips together and that was never in the cards.",a,THE WITNESS,start_question
+868,3108,133,10,And are you saying that that's how she is now?,q,MR. BENNETT,start_answer
+869,3110,133,12,Those increased.  Sorry.  She was fine before.  She's not fine now.  That's what I'm saying.  If you need me to clarify something specific.,a,THE WITNESS,start_question
+870,3114,133,16,What are her limitations now on getting on planes and how does she manifest the problems that she has while she's on a plane?,q,MR. BENNETT,start_answer
+871,3118,133,20,"There is an ever-present dread whenever she's on transit of any kind, not just a plane, but it could be a train, a bus and especially when we're in the back seat of a cab or a Lyft or Uber or someone else is driving.",a,THE WITNESS,start_question
+872,3125,134,2,"You mentioned while you were sitting in the median after the accident the EMT's were giving green bands, yellow bands and red bands?",q,MR. BENNETT,start_answer
+873,3129,134,6,Yes.,a,THE WITNESS,start_question
+874,3130,134,7,Did both you and Ceci get green bands?,q,MR. BENNETT,start_answer
+875,3132,134,9,"As far as I can recall, yes.",a,THE WITNESS,start_question
+876,3133,134,10,"In terms of Ceci's anxiety prior to the accident for which she was taking medication, can you describe for me what you saw in terms of her anxiety prior to October 1st, 2016?",q,MR. BENNETT,start_answer
+877,3138,134,15,"Yeah.  I mean the biggest symptom, the biggest manifestation of Ceci's anxiety is her sleep problems, like to a factor of 10 over any other symptoms that there might be. Ceci -- sorry, honey -- she's an overachiever and she's a rule follower, like won't even go to the order, to the pickup spot at a counter to order.  So she needs job and school and life to be going right and feels pressure to make sure that that's happening I think is fair to say. But her problems sleeping were so severe that she had to, just had to have that medicine.  I would sneak into her pill bottle after she got it refilled and take a couple and stick them in a Baggie in my sock drawer so that when we went on trips, even just to her parents for the weekend, I would bring a few with me in case she forgot because she would just not sleep and the whole weekend would be ruined. So that's where it mostly -- I mean she just couldn't sleep.  It started around the time that she had said earlier, which started during her grad school.  I forget the year.  And she just couldn't sleep without assistance.",a,THE WITNESS,start_question
+878,3167,135,19,Do you remember the counseling that she had with Christine Marr?,q,MR. BENNETT,start_answer
+879,3169,135,21,"I mean I didn't go.  I remember that she did go, but I wasn't there.",a,THE WITNESS,start_question
+880,3171,135,23,What do you remember her telling you about that or did she not discuss it with you?,q,MR. BENNETT,start_answer
+881,3175,136,2,I don't think we got into too much detail about it.  She's just trying to get the sleeping figured out.,a,THE WITNESS,start_question
+882,3178,136,5,"In terms of your own ADD or ADHD that was diagnosed around 2009-2010, what problems, if at all, did that cause you from doing activities?",q,MR. BENNETT,start_answer
+883,3182,136,9,"Sure.  It was really about attention span, just having the shortest attention span, like easily distracted, scattered when it comes to planning, to do lists, ordering of tasks,. And then -- and I think that had always been ever-present.  I never was great at homework or any of that stuff in school.  And I eventually talked to the doctor about it and Dr. Macedo happened to be at that practice where I went whenever I got like the flu or something and they did the test there.  They got this test where you look at the screen and something comes up and you're supposed to press it when you see it and I was like in the 10 percentile or something.",a,THE WITNESS,start_question
+884,3200,137,2,And did it affect your decision- making?,q,MR. BENNETT,start_answer
+885,3202,137,4,No.  I wouldn't say I was making bad decisions because of this.,a,THE WITNESS,start_question
+886,3204,137,6,I'm not saying you were making bad decisions but your inability to make decisions.,q,MR. BENNETT,start_answer
+887,3207,137,9,"There's some nuance there.  It's like the inability to pay attention and make the right to do list which affects decisions, but it's not like I'm making a decision that I would not have made. Does that make sense.",a,THE WITNESS,start_answer
+888,3213,137,15,I'm not talking about making a different decision or making a wrong decision.  I'm talking about not being able to make a decision itself.,a,THE WITNESS,start_answer
+889,3217,137,19,"To some extent, sure.",a,THE WITNESS,start_question
+890,3218,137,20,"And by taking Adderall, did that assist with your decision-making process?",q,MR. BENNETT,start_answer
+891,3220,137,22,"Yeah.  Yeah.  That one's really hard for me.  I think it was really about attention and planning and structure, which decision-making is kind of wrapped up in.",a,THE WITNESS,start_question
+892,3225,138,2,Do you continue to take the Adderall?,q,MR. BENNETT,start_answer
+893,3227,138,4,I do.,a,THE WITNESS,start_question
+894,3228,138,5,"And has your dosage changed at all since the October 1st, 2016 accident?",q,MR. BENNETT,start_answer
+895,3230,138,7,No. I stopped taking it for like a month right after the accident at Dr. Delasobera's recommendation but then eventually got back on it.,a,THE WITNESS,start_question
+896,3235,138,12,Why did he recommend you stop taking it for a month?,q,MR. BENNETT,start_answer
+897,3237,138,14,That's a she.,a,THE WITNESS,start_question
+898,3238,138,15,I'm sorry.,q,MR. BENNETT,start_answer
+899,3239,138,16,And she didn't want anything else mixing around with my brain while it was trying to heal.,a,THE WITNESS,start_chat
+900,3242,138,19,That's all the questions I have. Thank you.,side_chat,MR. BENNETT,start_chat
+901,3245,138,22,I don't have any questions. And we will read and sign both depositions.,side_chat,MS. ORSI,start_chat
+902,3250,139,2,This deposition is ending at 6:04 p.m.,side_chat,THE VIDEOTAPE OPERATOR,start_chat
+903,3252,139,4,Do counsel want to order both transcripts on a non- expedited basis?,side_chat,THE COURT REPORTER,start_chat
+904,3255,139,7,Yes.,side_chat,MR. BENNETT,start_chat
+905,3256,139,8,Yes.,side_chat,MS. COLE,start_chat
+906,3257,139,9,"Whatever Steve ordered, yes, go with that.",side_chat,MS. ORSI,is brackets
+907,3259,139,11,(Deposition concluded at 6:04 p.m.),brackets,,symbols
+908,3261,139,13,-  -  -  -  - I N D E X Examination by Mr. Bennett      104,symbols,,is brackets
+909,3280,140,5,"(There were no exhibits marked 14 105     7 ERRATA SHEET                       PAGE 133 READING AND SIGNING INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason therefor on the errata sheet that appears on the following page. DO NOT MAKE ANY MARKS OR NOTATIONS ON THE TRANSCRIPT ITSELF.  Please sign and date the errata sheet and return it to our office at the address indicated below.  Our office will distribute copies of the executed errata sheet to all counsel.  If necessary, you can make additional copies of the errata sheet. Rule 30(e) governing this procedure provides the deposition may be filed as transcribed if you do not return a signed errata sheet within 30 days. RETURN ORIGINAL ERRATA SHEET TO: Wilcox & Fetzer, Ltd. 1330 King Street, Wilmington, DE  19801 depos@wilfet.com - 302-655-0477 DEPONENT:  DEAN DiPIETRO CASE:      Bogel, et al. V Jolly Trolley ERRATA SHEET",brackets,,symbols
+910,3340,143,5,----/----/-----------------------------------,symbols,,symbols
+911,3342,143,6,----/----/-----------------------------------,symbols,,symbols
+912,3344,143,7,----/----/-----------------------------------,symbols,,symbols
+913,3346,143,8,----/----/-----------------------------------,symbols,,symbols
+914,3348,143,9,----/----/-----------------------------------,symbols,,symbols
+915,3350,143,10,----/----/-----------------------------------,symbols,,symbols
+916,3352,143,11,----/----/-----------------------------------,symbols,,symbols
+917,3354,143,12,----/----/-----------------------------------,symbols,,symbols
+918,3356,143,13,----/----/-----------------------------------,symbols,,symbols
+919,3358,143,14,----/----/-----------------------------------,symbols,,symbols
+920,3360,143,15,----/----/-----------------------------------,symbols,,symbols
+921,3362,143,16,----/----/-----------------------------------,symbols,,symbols
+922,3364,143,17,"----/----/----------------------------------- deposition and, except for any corrections to the transcript as an accurate record of Signature of Deponent State of Delaware    )",symbols,,symbols
+923,3379,144,2,") I, Kurt A. Fetzer, Registered Diplomate certify that there came before me on herein, DEAN DiPIETRO, who was duly sworn for the respective parties; that the answers given were taken down by me in by use of computer-aided transcription and a true and correct transcript of the witness. I further certify that I am not party, or otherwise interested in the event",symbols,,end

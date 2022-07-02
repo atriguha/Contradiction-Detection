@@ -1,0 +1,155 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," CHUN-MING CHEN, the witness herein, having first been duly sworn on oath, was examined and testified as follows:",,,start_question
+1,70,4,6,"Mr. Chen, this is Andrew Rahaim. I'm the attorney for the plaintiffs. Can you hear me okay?",q,MR. RAHAIM,start_answer
+2,73,4,9,Yes.,a,THE WITNESS,start_question
+3,74,4,10,All right.  Can you start by giving the court reporter your full name?,q,MR. RAHAIM,start_answer
+4,76,4,12,My name is Chun-Ming Chen.,a,THE WITNESS,start_question
+5,77,4,13,And can you spell that for us?,q,MR. RAHAIM,start_answer
+6,78,4,14,"Sure.  It's C, as in Charlie, H, as in Harry, U, as in umbrella, N, as in Nancy, hyphen, M, as in Michael, I, as in India, N, as in Nancy, G, as in George. Last name, C, as in Charlie, H, as in Harry, E, as in Edward, N, as in Nancy.",a,THE WITNESS,start_question
+7,84,4,20,All right.  And where do you live? What's your residence address right now?,q,MR. RAHAIM,start_answer
+8,86,4,22,I'm currently living in Texas.,a,THE WITNESS,start_question
+9,87,4,23,Okay.  We couldn't hear you.,q,MR. RAHAIM,start_chat
+10,88,4,24,Is somebody outside on a cell phone?,side_chat,MR. RAHAIM,start_chat
+11,91,5,2,I'm currently living in Texas.,side_chat,THE WITNESS,start_chat
+12,93,5,4,Okay.  We're getting a tremendous amount of distortion here.  It's almost like somebody is talking on a cell phone outdoors.,side_chat,MR. RAHAIM,start_chat
+13,97,5,8,Can you hear me now?,side_chat,THE WITNESS,start_chat
+14,99,5,10,Yeah.  We'll see how it goes.,side_chat,MR. RAHAIM,start_question
+15,102,5,13,So give us your current address.,q,MR. RAHAIM,start_answer
+16,103,5,14,3900 Woodchase Drive --,a,THE WITNESS,start_question
+17,104,5,15,Wait.  Say that again.  I'm sorry.,q,MR. RAHAIM,start_answer
+18,105,5,16,"3900 Woodchase Drive, Houston, Texas.",a,THE WITNESS,start_question
+19,107,5,18,What's the ZIP Code?,q,MR. RAHAIM,start_answer
+20,108,5,19,77042.,a,THE WITNESS,start_question
+21,109,5,20,And who do you reside there with?,q,MR. RAHAIM,start_answer
+22,110,5,21,Myself and my mother.,a,THE WITNESS,start_question
+23,111,5,22,How old are you?,q,MR. RAHAIM,start_answer
+24,112,5,23,Twenty-seven.,a,THE WITNESS,start_question
+25,113,5,24,"And what's your date of birth, sir?",q,MR. RAHAIM,start_answer
+26,115,6,1,10/31/92.,a,THE WITNESS,start_question
+27,116,6,2,Are you employed?,q,MR. RAHAIM,start_answer
+28,117,6,3,No.,a,THE WITNESS,start_question
+29,118,6,4,Can you tell us what your highest grade in school that you completed?,q,MR. RAHAIM,start_answer
+30,120,6,6,I completed a bachelor's degree.,a,THE WITNESS,start_question
+31,121,6,7,"And where did you go to school for that, sir?",q,MR. RAHAIM,start_answer
+32,123,6,9,Georgetown University.,a,THE WITNESS,start_question
+33,124,6,10,And what was the degree in?,q,MR. RAHAIM,start_answer
+34,125,6,11,Business administration.,a,THE WITNESS,start_question
+35,126,6,12,Fitness administration? Business administration.  Is that correct?,q,MR. RAHAIM,start_answer
+36,129,6,15,The degree was in business administration.,a,THE WITNESS,start_question
+37,131,6,17,"Thank you. We're here to ask you some questions about an accident that happened on August 19, 2017.  If you don't understand any of the questions that I ask, don't answer it.  Ask me to repeat the question.  Okay?  Because if you answer and you didn't understand it, the record is going to presume that you did.  Okay?",q,MR. RAHAIM,start_answer
+38,141,7,2,Okay.,a,THE WITNESS,start_question
+39,142,7,3,"All right.  You were involved in an accident on Saturday, August 19, 2017.  Is that correct?",q,MR. RAHAIM,start_answer
+40,145,7,6,Yes.,a,THE WITNESS,start_question
+41,146,7,7,The police report states that the accident happened at approximately 4:40 in the afternoon.  Does that sound correct to you?,q,MR. RAHAIM,start_answer
+42,150,7,11,It happened on that day in the afternoon.,a,THE WITNESS,start_question
+43,152,7,13,Okay.,q,MR. RAHAIM,start_answer
+44,153,7,14,The exact time I don't remember. But I think the police report should have the record.,a,THE WITNESS,start_question
+45,156,7,17,"Well, it does.  It says 1440.  So I guess that's 2:40 in the afternoon. No.  I'm sorry.  It says 1640.",q,MR. RAHAIM,start_chat
+46,159,7,20,It says 1640.,side_chat,MR. NOLTE,start_chat
+47,160,7,21,I got you.,side_chat,MR. RAHAIM,start_question
+48,162,7,23,So 1640.  So 4:40 in the afternoon. Do you dispute that it happened at about that time?,q,MR. RAHAIM,start_answer
+49,166,8,2,"I don't have -- I don't know the exact time.  But I think, according to the police report, it happened around that time.",a,THE WITNESS,start_question
+50,170,8,6,Have you read the police report?,q,MR. RAHAIM,start_answer
+51,171,8,7,"Yes, I have.",a,THE WITNESS,start_question
+52,172,8,8,Do you have a copy in front of you?,q,MR. RAHAIM,start_answer
+53,173,8,9,"No, I don't.",a,THE WITNESS,start_question
+54,174,8,10,All right.  So you were driving a rented car.  Is that correct?,q,MR. RAHAIM,start_answer
+55,176,8,12,I was driving a rental car.,a,THE WITNESS,start_question
+56,177,8,13,And that was through Enterprise. Correct?,q,MR. RAHAIM,start_answer
+57,179,8,15,Yes.  I rented a car through -- yes.  That's correct.,a,THE WITNESS,start_question
+58,181,8,17,Enterprise.  Correct?,q,MR. RAHAIM,start_answer
+59,182,8,18,Yes.,a,THE WITNESS,start_question
+60,183,8,19,Where did you rent the car?,q,MR. RAHAIM,start_answer
+61,184,8,20,I rented the car from one of the locations in New York.,a,THE WITNESS,start_question
+62,186,8,22,In New York City?,q,MR. RAHAIM,start_answer
+63,187,8,23,Yes.  That's correct.,a,THE WITNESS,start_question
+64,188,8,24,Did you rent it on the same day as the accident?,q,MR. RAHAIM,start_answer
+65,191,9,2,I have to double-check the receipts.,a,THE WITNESS,start_question
+66,193,9,4,Do you have the receipts with you?,q,MR. RAHAIM,start_answer
+67,194,9,5,"No, I don't.",a,THE WITNESS,start_question
+68,195,9,6,What was the purpose of renting the car?,q,MR. RAHAIM,start_answer
+69,197,9,8,It was to move my belongings from New York to my then residence in Virginia.,a,THE WITNESS,start_question
+70,199,9,10,Do you think you may have rented the car the same day or the day before?,q,MR. RAHAIM,start_answer
+71,201,9,12,I don't remember the exact date I rented the car.  So I have to double-check the receipts.,a,THE WITNESS,start_question
+72,204,9,15,Can you describe what kind of car you were driving?,q,MR. RAHAIM,start_answer
+73,206,9,17,Sure.  It was a black car.  A Hyundai Accent.  A hatch- -- it was -- I don't remember how many doors it had.  It was either a four-door hatchback or a two-door hatchback.,a,THE WITNESS,start_question
+74,211,9,22,Was anyone in the car with you?,q,MR. RAHAIM,start_answer
+75,212,9,23,No.,a,THE WITNESS,start_question
+76,213,9,24,The police report states that this accident happened in the southbound lanes of Interstate 295.  Does that sound correct?,q,MR. RAHAIM,start_answer
+77,218,10,4,Yes.,a,THE WITNESS,start_question
+78,219,10,5,"Can you, in your own words, just tell us how the accident happened?",q,MR. RAHAIM,start_answer
+79,221,10,7,"Sure.  So I was going southbound, like it was mentioned in the police report. It was in the afternoon.  I had already driven -- I started -- so I started driving from New York.  And by the time I got to the location of the accident, it was already in the afternoon.  And at the time near the accident it was stop-and-go traffic.  And by the -- and at that time it was -- I was a little bit fatigued. Because I was going down the Delaware Bridge -- so because I was already on the bridge, there was no exit until you get off the bridge.  So at the time I think I got a little bit fatigued.  And that's why I accidentally bump into the car in front of me.",a,THE WITNESS,start_question
+80,238,10,24,Where did the accident take place relative to the tollbooth at the Delaware Memorial Bridge?,q,MR. RAHAIM,start_answer
+81,242,11,3,"So the accident -- so the contact was made on the bridge.  We -- after we make contact, there was -- no one was hurt from first glance.  But once we got off the bridge, both of us pulled over to the side of the road.  And that was before the tollbooth.",a,THE WITNESS,start_question
+82,249,11,10,All right.  So I understand you were fatigued at the time.  Can you describe the weather conditions at the time of the accident?,q,MR. RAHAIM,start_answer
+83,253,11,14,At that time it was a clear day. It was sunny.  It was sunny and bright out.,a,THE WITNESS,start_question
+84,255,11,16,How about the traffic conditions? Can you tell us what they were?,q,MR. RAHAIM,start_answer
+85,257,11,18,I'm sorry.  Can you repeat the question?,a,THE WITNESS,start_question
+86,259,11,20,"The traffic conditions, can you describe them just prior to the accident?",q,MR. RAHAIM,start_answer
+87,261,11,22,Traffic condition was very bad.  It was stop-and-go traffic.,a,THE WITNESS,start_question
+88,263,11,24,So just before the collision what happened ahead of you?,q,MR. RAHAIM,start_answer
+89,266,12,2,"So before the collision I was going roughly about ten miles an hour.  And that was because -- due to the stop-and-go traffic.  By the time I noticed the car in front of me, I slammed the brakes.  And then -- but, then, that -- apparently that was not enough.  So that's why I made contact with the car in front of me.",a,THE WITNESS,start_question
+90,274,12,10,Can you tell us how far away from the car in front of you your car was at the point where you slammed on your brakes?,q,MR. RAHAIM,start_answer
+91,277,12,13,"I don't have the exact recollection or memory.  But if I had to estimate, I think it was a safe amount of distance.",a,THE WITNESS,start_question
+92,280,12,16,"Well, can you describe for me what ""a safe amount of distance"" means?  I mean, how many feet is that?",q,MR. RAHAIM,start_answer
+93,283,12,19,The distance that you would normally see during a stop-and-go traffic.,a,THE WITNESS,start_question
+94,285,12,21,Do you remember what the weather was like around the time of the accident,q,MR. RAHAIM,start_answer
+95,288,12,24,Lots of snow.,a,THE WITNESS,start_question
+96,290,13,1,The police report seems to indicate you were in the far right lane.  Do you have any reason to dispute that?,q,MR. RAHAIM,start_answer
+97,293,13,4,I don't remember which lane I was in.,a,THE WITNESS,start_question
+98,295,13,6,All right.  Did you stop at the accident scene or continue on immediately?,q,MR. RAHAIM,start_answer
+99,297,13,8,"So after I made contact with the car in front of me, the driver and I make -- we -- the driver made hand gestures for me to pull over to the side of the road.",a,THE WITNESS,start_question
+100,302,13,13,Did you have a discussion with the driver of the other car there?,q,MR. RAHAIM,start_answer
+101,304,13,15,We only had a discussion after we pulled to the side of the road -- after we got off the bridge and pulled over to the side of the road.,a,THE WITNESS,start_question
+102,308,13,19,Okay.  So you didn't pull over to the side of the road on the bridge itself. You got off the bridge and pulled over. Correct?,q,MR. RAHAIM,start_answer
+103,312,13,23,"So on the bridge there is -- so I don't remember whether there were shoulder lanes on the bridge or not.  But I think -- but, to my recollection, I believe there wasn't any shoulder lanes on the bridge. So you cannot pull over.  You can only pull over after you get off the bridge.",a,THE WITNESS,start_question
+104,320,14,6,Did you pull over on the western side of the toll plaza?,q,MR. RAHAIM,start_answer
+105,322,14,8,I'm sorry.  Can you repeat your question?,a,THE WITNESS,start_question
+106,324,14,10,Did you pull over after the toll plaza?,q,MR. RAHAIM,start_chat
+107,326,14,12,Asked and answered. You can answer.,side_chat,MR. NOLTE,start_answer
+108,328,14,14,Okay.  So I pulled over after I got off the bridge and before I reached the toll plaza.,a,THE WITNESS,start_question
+109,331,14,17,Okay.  So did you have a discussion with the other driver at that point?,q,MR. RAHAIM,start_answer
+110,333,14,19,"So after we pulled over, we both got out of the car and discussed what happened.",a,THE WITNESS,start_question
+111,336,14,22,Can you recall that conversation?,q,MR. RAHAIM,start_answer
+112,337,14,23,I apologized for making contact with the car in front of me.  And they decided to call the police.  So I complied and waited for the police to arrive.,a,THE WITNESS,start_question
+113,342,15,3,How long did it take the police to arrive?,q,MR. RAHAIM,start_answer
+114,344,15,5,It took a while.,a,THE WITNESS,start_question
+115,345,15,6,Did you have any more discussions with the driver of the other car after that?,q,MR. RAHAIM,start_answer
+116,348,15,9,I don't remember.,a,THE WITNESS,start_question
+117,349,15,10,How long did you have to wait for the police to arrive?,q,MR. RAHAIM,start_answer
+118,351,15,12,They showed up quickly.,a,THE WITNESS,start_question
+119,352,15,13,You don't remember?,q,MR. RAHAIM,start_answer
+120,353,15,14,I do not remember.,a,THE WITNESS,start_question
+121,354,15,15,Do you recall talking to the police officer?,q,MR. RAHAIM,start_answer
+122,356,15,17,What was your question?,a,THE WITNESS,start_question
+123,357,15,18,Did you talk with the police officer?,q,MR. RAHAIM,start_answer
+124,359,15,20,Yes.,a,THE WITNESS,start_question
+125,360,15,21,What did you tell the police officer?,q,MR. RAHAIM,start_answer
+126,362,15,23,"When the police arrived on the scene, they asked for my information, to which I complied.  And then they asked me what happened.  So I told them that I was -- I had started driving from -- I was fatigued and accidentally made contact with the car in front of me.",a,THE WITNESS,start_question
+127,370,16,6,Were you given a traffic summons or citation?  A ticket.,q,MR. RAHAIM,start_answer
+128,372,16,8,The police gave me a ticket.,a,THE WITNESS,start_question
+129,373,16,9,The police report says you were given a ticket for following too closely. Does that sound accurate?,q,MR. RAHAIM,start_answer
+130,376,16,12,Yes.,a,THE WITNESS,start_question
+131,377,16,13,And did you have a trial in the case or did you just plead guilty to it?,q,MR. RAHAIM,start_answer
+132,379,16,15,I do not go to trial for that case. I just paid the fine.,a,THE WITNESS,start_question
+133,381,16,17,All right.  So you didn't contest the fine or the ticket.,q,MR. RAHAIM,start_answer
+134,383,16,19,I did not contest.  I just paid the fine.,a,THE WITNESS,start_question
+135,385,16,21,Were you injured in the accident?,q,MR. RAHAIM,start_answer
+136,386,16,22,No.,a,THE WITNESS,start_question
+137,387,16,23,Did you discuss anybody else getting injured -- the passenger or the driver of the car that you struck?,q,MR. RAHAIM,start_answer
+138,391,17,2,I'm sorry.  Can you repeat your question?,a,THE WITNESS,start_question
+139,393,17,4,Did you discuss whether or not the driver of the other car or her passenger were injured?,q,MR. RAHAIM,start_answer
+140,396,17,7,I do not remember about that.,a,THE WITNESS,start_question
+141,397,17,8,All right.  Do you recall an ambulance showing up?,q,MR. RAHAIM,start_answer
+142,399,17,10,I remember an ambulance showed up.,a,THE WITNESS,start_question
+143,400,17,11,And did the paramedics treat anyone?,q,MR. RAHAIM,start_answer
+144,402,17,13,I don't recall seeing any paramedics.  I don't recall any paramedics providing treatment to anyone.,a,THE WITNESS,start_chat
+145,405,17,16,Thanks.  That's all I have.,side_chat,MR. RAHAIM,start_chat
+146,407,17,18,"I have no questions. Because it's a telephone, Rob, we will read.",side_chat,MR. NOLTE,start_chat
+147,411,17,22,"Would both counsel like an electronic transcript, then?",side_chat,THE REPORTER,start_chat
+148,415,18,1,I would.,side_chat,MR. NOLTE,start_chat
+149,416,18,2,Yes.,side_chat,MR. RAHAIM,is brackets
+150,417,18,3,(The deposition concluded at approximately 3:25 p.m. this same day.),brackets,,symbols
+151,420,18,6,- - - - - I N D E X,symbols,,is brackets
+152,431,18,14,"(There were no exhibits marked for identification.) DIRECTIONS NOT TO ANSWER      PAGE     LINE NONE REQUESTS MADE FOR DOCUMENTS   PAGE     LINE NONE READING AND SIGNING INSTRUCTIONS    PAGE 18 CERTIFICATE OF REPORTER             PAGE 20 READING AND SIGNING INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason therefor on the errata sheet that appears on the following page.  DO NOT MAKE ANY MARKS OR NOTATIONS ON THE TRANSCRIPT ITSELF.  Please sign and date the errata sheet and return it to our office at the address indicated below.  Our office will distribute copies of the executed errata sheet to all counsel.  If necessary, you can make additional copies of the errata sheet. Rule 30(e) governing this procedure provides the deposition may be filed as transcribed if you do not return a signed errata sheet within 30 days. RETURN ORIGINAL ERRATA SHEET TO: Wilcox & Fetzer, Ltd. 1330 King Street, Wilmington, DE  19801 depos@wilfet.com - 302-655-0477 DEPONENT:  Chun-Ming Chen CASE:  Dixon v. Chen ERRATA SHEET REASON deposition and, except for any corrections to the transcript an as accurate record of Signature of Deponent STATE OF DELAWARE )",brackets,,symbols
+153,516,21,2,") I, Robert Wayne Wilcox, Jr., Public, do hereby certify that there came herein, CHUN-MING CHEN, who was duly sworn for the respective parties; that the answers given were taken down by me in by use of computer-aided transcription and foregoing is a true and correct transcript of said witness. I further certify that I am not party, or otherwise interested in the event",symbols,,end

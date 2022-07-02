@@ -1,0 +1,416 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," the deponent herein, having first been duly sworn on oath, was examined and testified as follows: EXAMINATION",,,start_question
+1,70,5,7,"Hello, Ms. Dixon.",q,MR. NOLTE,start_answer
+2,71,5,8,Hello.,a,THE WITNESS,start_chat
+3,72,5,9,Can you hear okay?,side_chat,MR. RAHIAM,start_chat
+4,73,5,10,I'm sorry?,side_chat,THE WITNESS,start_chat
+5,74,5,11,Can you hear okay?,side_chat,MR. RAHAIM,start_chat
+6,75,5,12,Yes.,side_chat,THE WITNESS,start_chat
+7,76,5,13,Okay.,side_chat,MR. RAHAIM,start_question
+8,78,5,15,"Ms. Dixon, my name is Stokes Nolte. I'm an attorney in Wilmington, Delaware and I am representing Mr. Chen in the lawsuit that was filed on your behalf here in Delaware. Ma'am, can you state your full name and tell me where you live?",q,MR. NOLTE,start_answer
+9,85,5,22,"Jacqueline Dixon.  I live at 231 Mount Pleasant Avenue here in Newark, New Jersey.",a,THE WITNESS,start_question
+10,89,6,1,"Ma'am, can you tell us your date of birth and your occupation?",q,MR. NOLTE,start_answer
+11,91,6,3,My my date of birth is 9-16-60. I'm a clerk.,a,THE WITNESS,start_question
+12,93,6,5,"And then the next question, ma'am, is where are you a clerk?",q,MR. NOLTE,start_answer
+13,95,6,7,At the USPS.,a,THE WITNESS,start_question
+14,96,6,8,And what location?,q,MR. NOLTE,start_answer
+15,97,6,9,"It's Belleville, New Jersey.",a,THE WITNESS,start_question
+16,98,6,10,Thank you. Who lives with you at your address?,q,MR. NOLTE,start_answer
+17,101,6,13,"Myself, my husband and my son.",a,THE WITNESS,start_question
+18,102,6,14,"As you know, we're doing this deposition over the phone which is a little bit unusual.  So I need to ask you just a few questions about where you're currently located and who might be present with you in your location. So are you at home?",q,MR. NOLTE,start_answer
+19,109,6,21,"No, I'm not.",a,THE WITNESS,start_question
+20,110,6,22,Where are you?,q,MR. NOLTE,start_answer
+21,111,6,23,I'm in the parking lot at my job.,a,THE WITNESS,start_question
+22,112,6,24,Okay.  So today is a workday for you?,q,MR. NOLTE,start_answer
+23,115,7,2,"Yes, it is.",a,THE WITNESS,start_question
+24,116,7,3,And you are on your cell phone in the car?,q,MR. NOLTE,start_answer
+25,118,7,5,"Yes, I am.",a,THE WITNESS,start_question
+26,119,7,6,Is there anyone present with you in the car?,q,MR. NOLTE,start_answer
+27,121,7,8,"No, sir.",a,THE WITNESS,start_question
+28,122,7,9,"Ma'am, have you ever been deposed before?",q,MR. NOLTE,start_answer
+29,124,7,11,No.,a,THE WITNESS,start_question
+30,125,7,12,"Just a brief statement about this deposition.  The court reporter put you under oath and that would be the same oath that would be given to you if you were going to testify in a courtroom and, therefore, you're under the same requirements to tell the truth and to be under the same restrictions and obligations that a judge would put on you if he were to administer the oath. Do you understand that?",q,MR. NOLTE,start_answer
+31,136,7,23,"Yes, sir.",a,THE WITNESS,start_question
+32,137,7,24,"And before we started, before I started asking you questions, the court reporter asked you about making sure we try not to talk over each other.  Since you've not had your deposition taken before, there are a couple of other rules that can be very helpful and I just want to talk to you about them for just a minute. The first rule would be, ma'am, please don't guess at any of the questions that I ask you.  If I ask you a question and you don't know, providing the answer that you don't know is a perfectly acceptable response to the question. There may be some times that I might ask you to estimate something in terms of the number of feet between your car and Mr. Chen's car, something along those lines.  And in that instance, I will specifically ask that you estimate, but otherwise please don't guess at a response. Is that agreeable?",q,MR. NOLTE,start_answer
+33,160,8,22,It's agreeable.,a,THE WITNESS,start_question
+34,161,8,23,"Thank you. The other rule is that we're really just getting your knowledge. Sometimes it's human nature if you suddenly can't remember a particular date or a particular color or something of that nature that you want to ask someone else who might know the answer, but in this instance we really want to limit your responses to your own knowledge. Is that agreeable?",q,MR. NOLTE,start_answer
+35,173,9,10,It's agreeable.,a,THE WITNESS,start_question
+36,174,9,11,"Thank you. The next rule is if I ask a question and you're not sure that you heard the question correctly or you didn't understand the question, please ask me to repeat it and I'm happy to restate it so that when you give an answer we know that you're attempting to answer the question that I ask. When we get the transcript of this deposition back and we read my question and we read your answer, we have no way of knowing whether or not there was any confusion on your part so we have to assume that you were answering the question. So for any reason if you want me to repeat or rephrase the question, I'm happy to do that. Okay?",q,MR. NOLTE,start_answer
+37,195,10,7,All right.,a,THE WITNESS,start_question
+38,196,10,8,"Lastly, ma'am, is there any reason that you know of that would prevent you from being able to proceed with this deposition? For example, are you on any medication or under any conditions that would prevent you from going forward today?",q,MR. NOLTE,start_answer
+39,203,10,15,"No, sir.",a,THE WITNESS,start_question
+40,204,10,16,"Okay.  Great. Let's start with the date of this accident, August 19, 2017.  You were the driver of your vehicle.  Is that correct?",q,MR. NOLTE,start_answer
+41,209,10,21,Correct.,a,THE WITNESS,start_question
+42,210,10,22,And your daughter Siddiq Moore was the passenger.  Is that correct?,q,MR. NOLTE,start_answer
+43,212,10,24,Correct.,a,THE WITNESS,start_question
+44,214,11,1,Where was she seated?,q,MR. NOLTE,start_answer
+45,215,11,2,Front seat.,a,THE WITNESS,start_question
+46,216,11,3,Okay.  Was there anyone else in the car?,q,MR. NOLTE,start_answer
+47,218,11,5,No.  Just her.,a,THE WITNESS,start_question
+48,219,11,6,And you were driving a Honda CRV. Is that correct?,q,MR. NOLTE,start_answer
+49,221,11,8,That's correct.,a,THE WITNESS,start_question
+50,222,11,9,Okay.  And you were on the Delaware Memorial Bridge coming from New Jersey going into Delaware.  Is that correct?,q,MR. NOLTE,start_answer
+51,225,11,12,That's correct.,a,THE WITNESS,start_question
+52,226,11,13,"Describe for me the moments immediately before the impact and what you recall of the impact, please.",q,MR. NOLTE,start_answer
+53,229,11,16,Okay.  Coming -- can you hear me?,a,THE WITNESS,start_question
+54,230,11,17,Yes.,q,MR. NOLTE,start_answer
+55,231,11,18,"Okay.  Coming across the Delaware Memorial Bridge going south into Delaware, traffic was basically stop and go, stop and go.  As I drive, I notice the car behind me would be like feet behind me.  Then he'd speed up. And how I noticed, I noticed because I was looking out my mirror and I stopped.  So I noticed that he's also looking down at I'm assuming his phone.  So when we got almost off the bridge, he would drive and stop.  As traffic inched up, he would just wait and then gun it, you know, give a lot of gas. So that's how I believe he hit the back of my car.",a,THE WITNESS,start_chat
+56,248,12,10,"I couldn't hear that last part, Stokes.  She dropped off.",side_chat,THE COURT REPORTER,start_chat
+57,251,12,13,I'll ask some more questions.,side_chat,MR. NOLTE,start_question
+58,254,12,16,"Ma'am, you indicated that you noticed that the driver behind you, who was Mr. Chen, was was speeding up and slowing down as the traffic went to stop and go. Is that correct?",q,MR. NOLTE,start_answer
+59,259,12,21,That's correct.,a,THE WITNESS,start_question
+60,260,12,22,Okay.  And it happened several times until ultimately his car made contact with yours.  Is that correct?,q,MR. NOLTE,start_answer
+61,264,13,1,That's correct.,a,THE WITNESS,start_question
+62,265,13,2,"Okay.  You indicated that you noticed at one point he was looking down and you saw that through your rearview mirror, correct?",q,MR. NOLTE,start_answer
+63,269,13,6,Correct.,a,THE WITNESS,start_question
+64,270,13,7,Was the time that you looked in your rearview mirror and saw him looking down the time that he made contact with the back of your vehicle?,q,MR. NOLTE,start_answer
+65,274,13,11,No.,a,THE WITNESS,start_question
+66,275,13,12,"I think your answer was no.  Is that correct, ma'am?",q,MR. NOLTE,start_answer
+67,277,13,14,That's correct.,a,THE WITNESS,start_question
+68,278,13,15,And you indicated that your location at the point in time when the Chen vehicle made contact with your vehicle you were almost off the bridge but your memory is that you weren't entirely off the bridge onto land yet.  Is that correct?,q,MR. NOLTE,start_answer
+69,284,13,21,That's correct.,a,THE WITNESS,start_question
+70,285,13,22,Okay.  What happened after his vehicle made contact? Did you just remain where you were or did you pull off out of traffic?,q,MR. NOLTE,start_answer
+71,290,14,2,"I tried to pull out of traffic. But as I pulled forward to my right, he was pulling to his left because he was trying, now he was trying to go around me.",a,THE WITNESS,start_question
+72,294,14,6,Okay.,q,MR. NOLTE,start_answer
+73,295,14,7,I pulled forward to cut him off because I wanted him to get out.,a,THE WITNESS,start_question
+74,297,14,9,Were you successful at that?,q,MR. NOLTE,start_answer
+75,298,14,10,"Yes, sir.  He pulled over.  Someone else called the cops.  I didn't.  And that's when he pulled over, so I pulled over.",a,THE WITNESS,start_question
+76,302,14,14,Did you and Mr. Chen talk at all before the police arrived?,q,MR. NOLTE,start_answer
+77,304,14,16,Yes.,a,THE WITNESS,start_question
+78,305,14,17,And what do you recall was said?,q,MR. NOLTE,start_answer
+79,306,14,18,"When I got out of my car, he said to me he'll fix it. And said, ""Fix it?  You did it."" He said, ""I'll give you $50."" I said, ""This is a brand-new car.  You can't possibly give me $50 to fix this car."" But he -- this is before I knew the cops were coming.  I asked him did he have his license and insurance, and he stated yes.",a,THE WITNESS,start_chat
+80,319,15,6,Off the record.,side_chat,THE COURT REPORTER,is brackets
+81,321,15,8,(A discussion was held off the record.),brackets,,start_question
+82,324,15,11,"My recollection is -- and you can correct me, Mrs. Dixon, if I'm incorrect -- is that you asked him for his license and insurance and he said to you that he had it.  Is that correct?",q,MR. NOLTE,start_answer
+83,329,15,16,I asked him does he have a license and insurance and he said yes.,a,THE WITNESS,start_question
+84,331,15,18,He said yes or no?,q,MR. NOLTE,start_answer
+85,332,15,19,He said yes.,a,THE WITNESS,start_question
+86,333,15,20,Okay.  Did he provide it to you then or did you wait for the police to arrive?,q,MR. NOLTE,start_answer
+87,336,15,23,"He showed it to me, yes.",a,THE WITNESS,start_question
+88,337,15,24,"Okay.  Before we go any further, I want to go back. You indicated at one point when you were describing Mr. Chen looking down that you assumed he was looking at his phone.  Is that correct?",q,MR. NOLTE,start_answer
+89,344,16,6,That's correct.,a,THE WITNESS,start_question
+90,345,16,7,Can you tell me what it was about his actions that gave you the assumption that he was looking at his phone?,q,MR. NOLTE,start_answer
+91,348,16,10,"It was every time the traffic stopped and I looked in my mirror, he was looking down and he would not look up when the whole traffic was moving.  He was moving after.",a,THE WITNESS,start_question
+92,353,16,15,Did you see at any time while you were looking through your rearview mirror Mr. Chen holding his phone?,q,MR. NOLTE,start_answer
+93,356,16,18,"No, sir.",a,THE WITNESS,start_question
+94,357,16,19,Okay.  But what you did notice is there was a pattern of Mr. Chen not immediately proceeding with traffic; he would wait into a gap would open up and then he would close the gap?,q,MR. NOLTE,start_answer
+95,362,16,24,Yes.,a,THE WITNESS,start_question
+96,364,17,1,Let's go back to where we were. You had asked him whether or not he had his license and insurance and he said yes.  And we established that he had showed you his driver's license.  Did he show you insurance?,q,MR. NOLTE,start_answer
+97,370,17,7,He showed me some papers from the car place that he rented his car from.,a,THE WITNESS,start_question
+98,372,17,9,Did you-all have additional conversation after that point?,q,MR. NOLTE,start_answer
+99,374,17,11,"Yes, sir.",a,THE WITNESS,start_question
+100,375,17,12,At any time did your daughter get out of the car?,q,MR. NOLTE,start_answer
+101,377,17,14,"Yes, she got out.",a,THE WITNESS,start_question
+102,378,17,15,Did she participate in the conversation that was going on between you and Mr. Chen?,q,MR. NOLTE,start_answer
+103,381,17,18,No.,a,THE WITNESS,start_question
+104,382,17,19,Did she have any independent conversation with Mr. Chen?,q,MR. NOLTE,start_answer
+105,384,17,21,Not that I remember.,a,THE WITNESS,start_question
+106,385,17,22,Okay.  Once the police arrived they talked to each one of you independently. Is that correct?,q,MR. NOLTE,start_answer
+107,389,18,1,That's correct.,a,THE WITNESS,start_question
+108,390,18,2,Okay.  And my understanding is that you advised the police officer that you were in some pain and as a result an ambulance was required and took you to the Christiana Care emergency room.  Is that correct?,q,MR. NOLTE,start_answer
+109,396,18,8,No.,a,THE WITNESS,start_question
+110,397,18,9,Was that a yes or a no?,q,MR. NOLTE,start_answer
+111,398,18,10,That was a no.,a,THE WITNESS,start_question
+112,399,18,11,Okay.  I'm sorry then.  Tell me what happened.,q,MR. NOLTE,start_answer
+113,401,18,13,"When the police came they asked if I wanted to go to the hospital and the two of us said yes, we might as well be checked out. My daughter rode in the ambulance.  I had to drive my vehicle so I followed.",a,THE WITNESS,start_question
+114,408,18,20,I got it.  You followed the ambulance in your car?,q,MR. NOLTE,start_answer
+115,410,18,22,Yes.,a,THE WITNESS,start_question
+116,411,18,23,Okay.  Thank you for that clarification. And my understanding from looking at the Christiana Care emergency room records were that you complained to them of neck and right shoulder pain.  Is that correct?,q,MR. NOLTE,start_answer
+117,419,19,6,"No, my feet hurt.",a,THE WITNESS,start_question
+118,420,19,7,And you were there for approximately two to three hours while they checked you out and then they discharged you.  Is that correct?,q,MR. NOLTE,start_answer
+119,424,19,11,I want to say -- I'm not sure on the time so I can't say for sure.,a,THE WITNESS,start_question
+120,426,19,13,"That's fine.  I appreciate that. Thank you. Once you were discharged from the emergency room, did you then drive your car back home?",q,MR. NOLTE,start_answer
+121,431,19,18,I was closer to where I was going so I continued on to Maryland. After that I continued on to Maryland.  I was closer to Maryland than I was to New Jersey.,a,THE WITNESS,start_question
+122,436,19,23,"Okay.  And I didn't even ask you this question, but I should. On the date of the accident when you were traveling on I-95 where were you going?",q,MR. NOLTE,start_answer
+123,442,20,4,I was going to my daughter's house in Maryland.,a,THE WITNESS,start_question
+124,444,20,6,What part of your body hurt the most?,q,MR. NOLTE,start_answer
+125,445,20,7,My elbows and knees.,a,THE WITNESS,start_question
+126,446,20,8,Could you spell that?,q,MR. NOLTE,start_answer
+127,447,20,9,C-a-t-o-n-s-v-i-l-l-e.,a,THE WITNESS,start_question
+128,448,20,10,And I'm assuming this is a different daughter than the daughter that was in your car?,q,MR. NOLTE,start_answer
+129,451,20,13,"Yes, it is.",a,THE WITNESS,start_question
+130,452,20,14,And what's her name just so I don't have to refer to her as the other daughter?,q,MR. NOLTE,start_answer
+131,454,20,16,Her name is Raziya.,a,THE WITNESS,start_question
+132,455,20,17,"Would you spell that for the court reporter, please?",q,MR. NOLTE,start_answer
+133,457,20,19,R-a-z-i-y-a.,a,THE WITNESS,start_question
+134,458,20,20,And did your daughter Siddiq also travel with you in your car from the emergency room to your daughter's house in Maryland?,q,MR. NOLTE,start_answer
+135,462,20,24,"Yes, she did.",a,THE WITNESS,start_question
+136,464,21,1,And how long of a drive is it from Christiana Hospital to your daughter's house?,q,MR. NOLTE,start_answer
+137,467,21,4,I'm not sure.,a,THE WITNESS,start_question
+138,468,21,5,Is the town where she lives north of Baltimore or south of Baltimore?,q,MR. NOLTE,start_answer
+139,470,21,7,I use my GPS.  I'm not sure.,a,THE WITNESS,start_question
+140,471,21,8,Were you able to drive the entire way from Christiana Care to your daughter's house?,q,MR. NOLTE,start_answer
+141,474,21,11,"I had to.  I was shooken up, but yes, I had to.",a,THE WITNESS,start_question
+142,476,21,13,Okay.  And how long did stay at your daughter's house before returning home?,q,MR. NOLTE,start_answer
+143,479,21,16,Two days.,a,THE WITNESS,start_question
+144,480,21,17,Two days?,q,MR. NOLTE,start_answer
+145,481,21,18,Two days.,a,THE WITNESS,start_question
+146,482,21,19,Was there a particular purpose or just a general visit?,q,MR. NOLTE,start_answer
+147,484,21,21,There was a purpose.,a,THE WITNESS,start_question
+148,485,21,22,What was the purpose?,q,MR. NOLTE,start_answer
+149,486,21,23,It was my grandson's birthday.,a,THE WITNESS,start_question
+150,487,21,24,Okay.  And were you able to participate in the birthday festivities?,q,MR. NOLTE,start_answer
+151,490,22,2,No.,a,THE WITNESS,start_question
+152,491,22,3,What were the birthday festivities that you were not able to participate in?,q,MR. NOLTE,start_answer
+153,493,22,5,"Well, you know, his cake.  By the time I got there it was too late. There nothing that I could do.",a,THE WITNESS,start_question
+154,496,22,8,"Why don't you tell me when you left the emergency room before you got to your daughter's house in Maryland, how were you feeling?",q,MR. NOLTE,start_answer
+155,500,22,12,"I was feeling a bit shooken up.  I was never in a car accident at all, any kind of accident.  So I was a bit like nervous about it, so going to my daughter's house it took me longer to get there.",a,THE WITNESS,start_question
+156,505,22,17,Were you in pain after you left the emergency room?,q,MR. NOLTE,start_answer
+157,507,22,19,Yes.  The emergency room didn't do anything for me.,a,THE WITNESS,start_question
+158,509,22,21,And where were you having pain when you left the emergency room?,q,MR. NOLTE,start_answer
+159,511,22,23,"It was like behind my head, in the neck, that part.",a,THE WITNESS,start_question
+160,514,23,1,Okay.,q,MR. NOLTE,start_answer
+161,515,23,2,"And the shoulder was just stiff, but behind the neck was the pain itself.",a,THE WITNESS,start_question
+162,517,23,4,Okay.  And did they give you anything at the emergency room for the pain?,q,MR. NOLTE,start_answer
+163,520,23,7,No.,a,THE WITNESS,start_question
+164,521,23,8,"Okay.  When you got to your daughter's house, did you take anything for pain?",q,MR. NOLTE,start_answer
+165,524,23,11,Yes.  She gave me something.,a,THE WITNESS,start_question
+166,525,23,12,Do you remember what it was?,q,MR. NOLTE,start_answer
+167,526,23,13,No.,a,THE WITNESS,start_question
+168,527,23,14,Was it a prescription or was it over-the-counter?,q,MR. NOLTE,start_answer
+169,529,23,16,Like over-the-counter.,a,THE WITNESS,start_question
+170,530,23,17,Okay.  Like a Tylenol or --,q,MR. NOLTE,start_answer
+171,531,23,18,Advil or something like that.,a,THE WITNESS,start_question
+172,532,23,19,"Advil or something like that. Okay.  Great. Eventually it appears that you went to see a chiropractic physician by the name of Dr. Chesney at Affiliated Sports Clinic.  And from the medical records it looks like the date, first date you saw him was September 18th, 2017. Is that consistent with your memory?",q,MR. NOLTE,start_answer
+173,543,24,5,I'm not that sure.,a,THE WITNESS,start_question
+174,544,24,6,Do you remember seeing Dr. Chesney and you're just not sure what date it was?,q,MR. NOLTE,start_answer
+175,546,24,8,I'm not sure of the date.,a,THE WITNESS,start_question
+176,547,24,9,"Do you know how you got to see Dr. Chesney, how you found that particular chiropractor?",q,MR. NOLTE,start_answer
+177,550,24,12,I do.,a,THE WITNESS,start_question
+178,551,24,13,And can you tell me how?,q,MR. NOLTE,start_answer
+179,552,24,14,I went to another lawyer and he sent me to Chesney.,a,THE WITNESS,start_question
+180,554,24,16,Is that Mr. Kessler?,q,MR. NOLTE,start_answer
+181,555,24,17,"Yes, Kessler.",a,THE WITNESS,start_question
+182,556,24,18,Had you ever seen Attorney Kessler prior to the time you went to visit him after this accident?,q,MR. NOLTE,start_answer
+183,559,24,21,No.  I never knew him.,a,THE WITNESS,start_question
+184,560,24,22,Can you tell me when you went to see Dr. Chesney what kind of pain and problems you were having?,q,MR. NOLTE,start_answer
+185,564,25,1,"When I went to see Chesney, it was hard for me to hold my head down and if I laid down and I tried to prop my head up, that's when I felt pain.",a,THE WITNESS,start_question
+186,568,25,5,"Prior to seeing Dr. Chesney, did you have a personal physician?",q,MR. NOLTE,start_answer
+187,570,25,7,"Oh, I always did, yes.",a,THE WITNESS,start_question
+188,571,25,8,And was that Dr. Silva?,q,MR. NOLTE,start_answer
+189,572,25,9,"No, it wasn't.",a,THE WITNESS,start_question
+190,573,25,10,Okay.  Dr. Silva was a doctor that you were seeing for hypotension?,q,MR. NOLTE,start_answer
+191,575,25,12,No.  Dr. Silva is the doctor that I have now.,a,THE WITNESS,start_question
+192,577,25,14,"Oh, okay.",q,MR. NOLTE,start_answer
+193,578,25,15,"I had another doctor, but he dropped my insurance.",a,THE WITNESS,start_question
+194,580,25,17,Gotcha.  Was that doctor -- and I might not pronounce his name correctly -- Picciano?,q,MR. NOLTE,start_answer
+195,583,25,20,Picciano.  Dr. Picciano.,a,THE WITNESS,start_question
+196,584,25,21,He dropped your insurance so you had to switch to Dr. Silva?,q,MR. NOLTE,start_answer
+197,586,25,23,"So I had to switch, yes.",a,THE WITNESS,start_question
+198,587,25,24,Okay.  And do you remember that switch occurred sometime after the August 2017 accident?  Is that correct?,q,MR. NOLTE,start_answer
+199,591,26,3,Yes.,a,THE WITNESS,start_question
+200,592,26,4,"Okay.  Now, ma'am, we have some records for a bunch of doctors and I'm not going to go through all of those records individually, but I'm going to read off the names of the doctors that I'm aware of and then I'm going to ask if I missed any. Bear with me and we're going to try to go through this. I have records from a doctor by the name of Ghanekar.  Do you remember Dr. Ghanekar?",q,MR. NOLTE,start_answer
+201,603,26,15,Did he give a first name?,a,THE WITNESS,start_question
+202,604,26,16,"Well, there might be one in the records, but I don't have that in front of me.  Let me look and see what I can find. Hold on. How about Ramesh Ghanekar?",q,MR. NOLTE,start_answer
+203,609,26,21,I'm not sure on that doctor.,a,THE WITNESS,start_question
+204,610,26,22,"Okay.  So if you're not sure, you wouldn't remember the date that you first started treating with him.  Is that correct?",q,MR. NOLTE,start_answer
+205,615,27,2,That's correct.,a,THE WITNESS,start_question
+206,616,27,3,Okay.  And do you remember a Dr. Patel?,q,MR. NOLTE,start_answer
+207,618,27,5,"Yes. Oh, I know Ramesh.  Now I remember.  I still don't know his name. That was from the chiropractor.",a,THE WITNESS,start_question
+208,622,27,9,Okay.  So I want to make sure I understand. The chiropractor sent you to see Dr. Patel?,q,MR. NOLTE,start_answer
+209,626,27,13,"It was there, yes.",a,THE WITNESS,start_question
+210,627,27,14,I'm sorry.  Dr. Patel was at the chiropractor's office?,q,MR. NOLTE,start_answer
+211,629,27,16,I guess they're all affiliated.,a,THE WITNESS,start_question
+212,630,27,17,"Okay.  So when you went to see Dr. Patel, you saw him at the same place, that same office building that you went to see Dr. Chesney?",q,MR. NOLTE,start_answer
+213,634,27,21,Patel is in I want to say Clifton. I'm not sure exactly.,a,THE WITNESS,start_question
+214,636,27,23,Okay.,q,MR. NOLTE,start_answer
+215,637,27,24,He had an outside office.,a,THE WITNESS,start_question
+216,639,28,1,"You think it might have been in Clifton, New Jersey?",q,MR. NOLTE,start_answer
+217,641,28,3,Yes.,a,THE WITNESS,start_question
+218,642,28,4,And do you remember what you saw Dr. Patel for?,q,MR. NOLTE,start_answer
+219,644,28,6,Dr. Patel gave me some shots in the back of my neck.,a,THE WITNESS,start_question
+220,646,28,8,Okay.  Do you remember how many injections he gave you?,q,MR. NOLTE,start_answer
+221,648,28,10,I had two.,a,THE WITNESS,start_question
+222,649,28,11,All right.  Were they helpful at all?,q,MR. NOLTE,start_answer
+223,651,28,13,To some point.,a,THE WITNESS,start_question
+224,652,28,14,They helped a little bit but didn't relieve your pain entirely?,q,MR. NOLTE,start_answer
+225,654,28,16,Correct.,a,THE WITNESS,start_question
+226,655,28,17,"Okay.  You also saw a Dr. Datta, D-a-t-t-a.  Do you remember that doctor?",q,MR. NOLTE,start_answer
+227,657,28,19,(Pause).,a,THE WITNESS,start_question
+228,658,28,20,I'm sorry.  Did you answer that question?  I didn't hear it.,q,MR. NOLTE,start_answer
+229,660,28,22,I said no.,a,THE WITNESS,start_question
+230,661,28,23,"Oh, okay.  Do you remember getting injections from more than one doctor?",q,MR. NOLTE,start_answer
+231,664,29,1,"No, I didn't.",a,THE WITNESS,start_question
+232,665,29,2,Would you repeat that?,q,MR. NOLTE,start_answer
+233,666,29,3,I don't remember.  No.  The injections were only from Patel.,a,THE WITNESS,start_question
+234,668,29,5,"Now, you also had some testing done.  Do you remember having an EMG test?",q,MR. NOLTE,start_answer
+235,670,29,7,"That's electric shock, yes.",a,THE WITNESS,start_question
+236,671,29,8,"And you had that both in your arms and in your legs, correct?",q,MR. NOLTE,start_answer
+237,673,29,10,Correct.,a,THE WITNESS,start_question
+238,674,29,11,And you had some MRI's done.  Do you remember that?,q,MR. NOLTE,start_answer
+239,676,29,13,Correct.,a,THE WITNESS,start_question
+240,677,29,14,And you had MRI's done to your neck and to your low back?,q,MR. NOLTE,start_answer
+241,679,29,16,Correct.,a,THE WITNESS,start_question
+242,680,29,17,And the doctor that did the MRI's was a doctor named Dr. Pomerantz.  Do you recall that?,q,MR. NOLTE,start_answer
+243,683,29,20,I don't.,a,THE WITNESS,start_question
+244,684,29,21,Do you remember ever talking to the doctor that did the MRI's?,q,MR. NOLTE,start_answer
+245,686,29,23,They just did the MRI's and said that the MRI report would go to the chiropractor.,a,THE WITNESS,start_question
+246,690,30,2,Have you seen a copy of those reports at any point?,q,MR. NOLTE,start_answer
+247,692,30,4,I think they gave them to me.,a,THE WITNESS,start_question
+248,693,30,5,"Okay.  And then we have some records that appear to be prior to the August automobile accident from two doctors that you saw back in 2016 and 2017 for problems you were having in your right shoulder. You went to see a Dr. Sutain, Sutain, and a Dr. Ropiak, who performed a rotator cuff surgery on you in October of 2016 and March of 2017. Do you recall that?",q,MR. NOLTE,start_answer
+249,704,30,16,Correct.,a,THE WITNESS,start_question
+250,705,30,17,Okay.  So you had to have rotator cuff surgery in October and then you had to have it redone in March because of a frozen shoulder condition?,q,MR. NOLTE,start_answer
+251,709,30,21,Correct.,a,THE WITNESS,start_question
+252,710,30,22,"Okay.  After March of 2017, that second surgery that Dr. Ropiak did, do you recall how your shoulder felt?",q,MR. NOLTE,start_answer
+253,714,31,1,It was movable.  It was still no better.,a,THE WITNESS,start_question
+254,716,31,3,So it was better but not 100 percent?,q,MR. NOLTE,start_answer
+255,718,31,5,"No, not 100 percent better.",a,THE WITNESS,start_question
+256,719,31,6,"Okay.  I want to go back to your personal physician, Dr. Picciano. His records have an indication in July of 2016, so this is prior to the first right shoulder surgery, that you had a fall and you injured your right shoulder. Do you remember that?",q,MR. NOLTE,start_answer
+257,726,31,13,No.  I don't remember telling him that.,a,THE WITNESS,start_question
+258,728,31,15,Do you remember how your right shoulder came to be injured that required surgery?,q,MR. NOLTE,start_answer
+259,731,31,18,"No, I don't remember because I throw mail, I'm tossing packages.",a,THE WITNESS,start_question
+260,733,31,20,Your job required a lot of use of your arms?,q,MR. NOLTE,start_answer
+261,735,31,22,Correct.,a,THE WITNESS,start_question
+262,736,31,23,"Okay.  Now, in this case we have a second automobile accident that you were involved in that occurred on October 24th of 2017. You recall that, correct?",q,MR. NOLTE,start_answer
+263,742,32,4,Correct.,a,THE WITNESS,start_question
+264,743,32,5,That was approximately a little more than two months after the August accident.  Is that correct?,q,MR. NOLTE,start_answer
+265,746,32,8,It was in October.  I don't remember dates.,a,THE WITNESS,start_question
+266,748,32,10,Okay.  You were driving your car and you were hit broadside by another vehicle that ran a stop sign.  Is that correct?,q,MR. NOLTE,start_answer
+267,752,32,14,"He T-boned me, yes.",a,THE WITNESS,start_question
+268,753,32,15,And your daughter Siddiq Moore was in the car with you?,q,MR. NOLTE,start_answer
+269,755,32,17,Siddiq was in the car.,a,THE WITNESS,start_question
+270,756,32,18,"And she was in the passenger seat, the same passenger seat she was in when the August accident happened?",q,MR. NOLTE,start_answer
+271,759,32,21,Correct.,a,THE WITNESS,start_question
+272,760,32,22,Was it the same car?,q,MR. NOLTE,start_answer
+273,761,32,23,Which car?,a,THE WITNESS,start_question
+274,762,32,24,The Honda CRV.,q,MR. NOLTE,start_answer
+275,764,33,1,Same car.,a,THE WITNESS,start_question
+276,765,33,2,"Okay.  And I want to ask you questions a little bit about the doctors that your daughter and you went to see. They were the very same doctors, correct? You both went to see Dr. Chesney, you both went to see Dr. Patel, you both went to see Dr. Datta, you both went to see Dr. Ghanekar.",q,MR. NOLTE,start_answer
+277,773,33,10,Okay.,a,THE WITNESS,start_question
+278,774,33,11,Is that correct?  I should have asked you.  I'm sorry.,q,MR. NOLTE,start_answer
+279,776,33,13,We did see the same doctors.,a,THE WITNESS,start_question
+280,777,33,14,And you also in addition to seeing the same doctors you would go to the same doctors on the same dates.  Is that correct?,q,MR. NOLTE,start_answer
+281,781,33,18,"Sometimes.  No, I can't say correct.",a,THE WITNESS,start_question
+282,783,33,20,Sometimes but you don't recall whether it was all the time?,q,MR. NOLTE,start_answer
+283,785,33,22,I know it wasn't all the time.,a,THE WITNESS,start_question
+284,786,33,23,"Okay.  But, for example, the date that you had your EMG, which was November 10th of 2017, is the same date she had her EMG.  Is that correct?",q,MR. NOLTE,start_answer
+285,791,34,3,That's correct.  But one time she went without me.,a,THE WITNESS,start_question
+286,793,34,5,And the date that you had your MRI to your neck and to your lumbar spine is the date that she had her MRI to her neck. Is that correct?,q,MR. NOLTE,start_answer
+287,797,34,9,That's correct.,a,THE WITNESS,start_question
+288,798,34,10,And the date that you went and got your injections with Dr. Patel was the date that she got her injections?,q,MR. NOLTE,start_answer
+289,801,34,13,Correct.,a,THE WITNESS,start_question
+290,802,34,14,"Okay.  And I want to go back now and just kind of talk briefly about the types of treatment that -- well, strike that.  I apologize. In addition to the doctors that I have indicated, are there any other doctors that you went to and got treatment for related to this accident that you recall?",q,MR. NOLTE,start_answer
+291,811,34,23,No.,a,THE WITNESS,start_question
+292,812,34,24,"Okay.  Then I'll ask the question I started to ask. In looking at the types of medical treatment that you got for this accident, you went to see Dr. Chesney, a chiropractor, and you had chiropractic treatment.  Is that correct?",q,MR. NOLTE,start_answer
+293,820,35,7,That's correct.,a,THE WITNESS,start_question
+294,821,35,8,And you went to see Dr. Patel for some injections.  Is that correct?,q,MR. NOLTE,start_answer
+295,823,35,10,That's correct.,a,THE WITNESS,start_question
+296,824,35,11,"And you had some diagnostic tests, the EMG and the MRI's.  Is that correct?",q,MR. NOLTE,start_answer
+297,826,35,13,That's correct.,a,THE WITNESS,start_question
+298,827,35,14,Okay.  Do you recall any other types of medical care that you received following the August 2017 accident?,q,MR. NOLTE,start_answer
+299,830,35,17,No.,a,THE WITNESS,start_question
+300,831,35,18,"Okay.  Tell me, if you can, after the October 24, 2017 accident -- this is the second accident -- did you feel that you had pain -- strike that.  Let me ask it a different way.  I apologize. So after the August 2017 accident you were going to see to see Dr. Chesney and you had chiropractic care. Prior to the October 24, 2017 accident, the second accident, did you feel that you had recovered at all from the problems that the August accident gave you?",q,MR. NOLTE,start_answer
+301,844,36,6,No.,a,THE WITNESS,start_question
+302,845,36,7,Okay.  In that two-month period you hadn't gotten any better?,q,MR. NOLTE,start_answer
+303,847,36,9,No.,a,THE WITNESS,start_question
+304,848,36,10,Okay.  Tell me how you felt as a result of the October 2017 accident.  Did that make you feel the same or worse?,q,MR. NOLTE,start_answer
+305,851,36,13,The what accident?  Ask me again.,a,THE WITNESS,start_question
+306,852,36,14,"The second accident, the October accident.",q,MR. NOLTE,start_answer
+307,854,36,16,The second accident didn't change anything.,a,THE WITNESS,start_question
+308,856,36,18,Okay.  So you felt about the same in terms of your pain complaints the day before the October accident as you did after the October accident?,q,MR. NOLTE,start_answer
+309,860,36,22,Correct.,a,THE WITNESS,start_question
+310,861,36,23,I'm sorry.  I didn't hear that.,q,MR. NOLTE,start_answer
+311,862,36,24,Correct.,a,THE WITNESS,start_question
+312,864,37,1,Okay.  You went to an emergency room after the second accident that's listed and the name is the Clara Maass Medical Center.  Is that correct?,q,MR. NOLTE,start_answer
+313,868,37,5,Correct.,a,THE WITNESS,start_question
+314,869,37,6,And you went and reported the second accident to Dr. Chesney for treatment.  Is that correct?,q,MR. NOLTE,start_answer
+315,872,37,9,Correct.,a,THE WITNESS,start_question
+316,873,37,10,And do you remember or can you tell me if after you talked to Dr. Chesney about the second accident did he change the treatment that he was giving you in any way?,q,MR. NOLTE,start_answer
+317,878,37,15,They changed it.,a,THE WITNESS,start_question
+318,879,37,16,"How did they change it, if you recall?",q,MR. NOLTE,start_answer
+319,881,37,18,They now treated my back because they said they couldn't do both of them.,a,THE WITNESS,start_question
+320,883,37,20,All right.  So the focus from Dr. Chesney went from treating your neck prior to the October accident to treating your back after the October accident.  Is that correct?,q,MR. NOLTE,start_answer
+321,889,38,1,Correct.,a,THE WITNESS,start_question
+322,890,38,2,Okay.  And at some point after the October accident you stopped treating with Dr. Chesney.  Is that correct?,q,MR. NOLTE,start_answer
+323,893,38,5,That's correct.,a,THE WITNESS,start_question
+324,894,38,6,Do you remember when that was?,q,MR. NOLTE,start_answer
+325,895,38,7,No.,a,THE WITNESS,start_question
+326,896,38,8,Okay.  Do you recall whether you got any medical treatment from Dr. Chesney in the 2019 calendar year?,q,MR. NOLTE,start_answer
+327,899,38,11,Unsure.,a,THE WITNESS,start_question
+328,900,38,12,Do you recall whether you got medical treatment from Dr. Chesney in the second half of 2018?,q,MR. NOLTE,start_answer
+329,903,38,15,"I believe so, yes.",a,THE WITNESS,start_question
+330,904,38,16,"Have you gotten medical treatment from any of the other doctors, Dr. Ghanekar, Dr. Datta, Dr. Patel, in the 2019 calendar year?",q,MR. NOLTE,start_answer
+331,908,38,20,I'm not sure.,a,THE WITNESS,start_question
+332,909,38,21,"Can you tell me as you sit here today do you have complaints that you associate with the automobile accident of August 19, 2017?",q,MR. NOLTE,start_answer
+333,914,39,1,Can you repeat that?,a,THE WITNESS,start_question
+334,915,39,2,"I'll reask it again, yes. Can you tell me do you have complaints from your physical reaction of your body, is your body giving you problems that you believe were caused by the first accident in August of 2017?",q,MR. NOLTE,start_answer
+335,921,39,8,I want to say that off and on I still have pain in my neck.  Do I deal with it?  Yes.  Do I take anything?  Yes.,a,THE WITNESS,start_question
+336,924,39,11,Are you able to tell me how often you notice the neck pain?,q,MR. NOLTE,start_answer
+337,926,39,13,Like it comes and goes.  Like I may feel it now and then I won't feel it for like a week or two.  It all depends on which way I turn my head.,a,THE WITNESS,start_question
+338,930,39,17,"And when it comes, how long does it last?",q,MR. NOLTE,start_answer
+339,932,39,19,Sometimes it lasts a day.,a,THE WITNESS,start_question
+340,933,39,20,Are there times when it lasts for a period shorter than a day?,q,MR. NOLTE,start_answer
+341,935,39,22,Sometimes.,a,THE WITNESS,start_question
+342,936,39,23,"Does it respond to medication? For example, if you took some Advil, does it go away?",q,MR. NOLTE,start_answer
+343,940,40,2,Yes.,a,THE WITNESS,start_question
+344,941,40,3,Is it correct that when you feel these pains in your neck it isn't enough of a problem for you that you have decided to go back to see any medical healthcare professionals?,q,MR. NOLTE,start_answer
+345,946,40,8,"I haven't, no.",a,THE WITNESS,start_question
+346,947,40,9,"I'm sorry.  I'm not sure I heard that correctly. I thought I heard you say I have and then no or did you say I haven't, no?",q,MR. NOLTE,start_answer
+347,952,40,14,I haven't.,a,THE WITNESS,start_question
+348,953,40,15,"You have not.  All right. Can you tell me when the last time this happened to you?  Has it happened this week?  Did it happen this month, et cetera?",q,MR. NOLTE,start_answer
+349,958,40,20,"The last time it happened and I had taken something for it was like about a month ago, a month and a half.  It's starting to ease up I guess as time goes by.",a,THE WITNESS,start_question
+350,964,41,1,Are there activities that you were able to do prior to August of 2017 that you're no longer able to do that you believe results from the August 2017 accident?,q,MR. NOLTE,start_answer
+351,969,41,6,No.,a,THE WITNESS,start_question
+352,970,41,7,"Ma'am, as a result of the second accident, the October 24, 2017 accident, the insurance company that was involved in that case sent you to see some doctors that they selected. Do you recall that?",q,MR. NOLTE,start_answer
+353,976,41,13,"No, I don't recall that.",a,THE WITNESS,start_question
+354,977,41,14,"All right.  Do you recall going to see a doctor by the name of Craig Feder, F-e-d-e-r in Hopelawn, New Jersey?",q,MR. NOLTE,start_answer
+355,980,41,17,"I saw Feder, yes.",a,THE WITNESS,start_question
+356,981,41,18,"Okay.  And I have a report from Dr. Feder that says he saw you on July 27, 2018.  I don't know if you remember that date or not, but that's what his report says. Is that consistent with what time you thought you might have seen him?",q,MR. NOLTE,start_answer
+357,989,42,1,I don't recall.,a,THE WITNESS,start_question
+358,990,42,2,"Okay.  On the second page of his report -- and if we were all in the same room I would show it to you, but I apologize.  There's a paragraph called Present Complaints and the doctor wrote, quote, ""The claimant presents pain-free. She states she is fully recovered and is at pre-MVA status.  The claimant was having neck, upper back and lower back pain as a result of the MVA in August 2017 prior to the MVA in October of 2017.  She was still symptomatic with cervical-thoracic and lower back pain at the time of the October 24, 2017 accident.  Aside from occasional stiffness in her knees, the claimant denies any lower extremity involvement or complaints. ""Again"" -- I'm fast forwarding -- ""again all complaints are fully resolved."" Do you remember talking to Dr. Feder and telling him that you were pain-free?",q,MR. NOLTE,start_answer
+359,1012,42,24,No.,a,THE WITNESS,start_question
+360,1014,43,1,Okay.  Has there been a point in time after October 24th when you've been through two accidents that you were pain-free for a significant period of time?,q,MR. NOLTE,start_answer
+361,1018,43,5,"No. Actually, when they sent me to see him he hurt me more.",a,THE WITNESS,start_question
+362,1021,43,8,Okay.,q,MR. NOLTE,start_answer
+363,1022,43,9,"He hurt -- when I came out of there, I actually called the chiropractor to see them again because he hurt my neck. It was worse than it was.",a,THE WITNESS,start_question
+364,1026,43,13,All right.  So you remember going back in to see Dr. Chesney complaining that Dr. Feder had hurt your neck?,q,MR. NOLTE,start_answer
+365,1029,43,16,"Yes, I do.",a,THE WITNESS,start_question
+366,1030,43,17,All right.  I want to ask you a couple of questions about Dr. Chesney. Is it your understanding that Dr. Chesney is going to be a witness for you in your case and if the case goes to trial he will present testimony on your behalf?,q,MR. NOLTE,start_answer
+367,1037,43,24,I don't know.,a,THE WITNESS,start_question
+368,1039,44,1,Dr. Chesney has written several reports regarding your medical care.  Have you seen any of those reports?,q,MR. NOLTE,start_answer
+369,1042,44,4,No.,a,THE WITNESS,start_question
+370,1043,44,5,He's written reports that were addressed to Attorney Kessler. Have you seen reports in a letter form from Affiliated Sports Clinic to Attorney Kessler that are signed by Dr. Chesney?,q,MR. NOLTE,start_answer
+371,1049,44,11,"I'm unsure.  You know, I can't say.",a,THE WITNESS,start_question
+372,1050,44,12,All right.  That's fair enough. I'm focused on a letter report that is dated April of 2018.  And Dr. Chesney talks about in the very first paragraph that he treated you following your August 2017 accident and it indicates that when you came into his office you were complaining of neck pain radiating into the right shoulder and some right ring finger stiffness. Is that consistent with your recollection of what you were feeling when you went to see Dr. Chesney initially?,q,MR. NOLTE,start_answer
+373,1064,45,1,"I believe, yes.",a,THE WITNESS,start_question
+374,1065,45,2,And do you remember a point in time or maybe even more than once having Dr. Chesney ask you questions about your medical -- strike that. Was there a point in time after you had been treating with Dr. Chesney that he had you in for an examination and asked you questions about your physical activities?,q,MR. NOLTE,start_answer
+375,1074,45,11,I don't recall.,a,THE WITNESS,start_question
+376,1075,45,12,Okay.  Did he ever talk to you and explain to you that some of your injuries may be permanent in nature?,q,MR. NOLTE,start_answer
+377,1078,45,15,"I don't remember him saying that. He might have, but I don't remember.",a,THE WITNESS,start_question
+378,1080,45,17,Okay.  That's fair enough.  Thank you. Do you ever recall having a conversation with Dr. Chesney when he tried to describe for you what injuries you sustained in the August accident versus the injuries that you sustained in the October accident?,q,MR. NOLTE,start_answer
+379,1089,46,1,He did say something about that. What he said I can't remember.  It's been a while.,a,THE WITNESS,start_question
+380,1092,46,4,"No.  That's fine.  I'm only asking -- I'm not asking you for what he knows.  I'm just asking for what you can recall, so that's a perfectly acceptable answer. Let me just look over my notes quickly.  I think that may be all the questions I have, but just give me a moment and then I'll come back on and confirm.",q,MR. NOLTE,is brackets
+381,1101,46,13,(A brief recess was taken.),brackets,,start_question
+382,1103,46,15,"I'm back.  I've looked through my notes.  I do have one other area that I want to ask you some questions about. The MRI results that you got, once those MRI's were done and you went to see a doctor about those results -- and I'm not that sure which one it would have been -- did any of those doctors ever suggest to you that you needed to have surgery as a result of the findings on the MRI?",q,MR. NOLTE,start_answer
+383,1115,47,2,No.  No one mentioned anything about surgery at all.,a,THE WITNESS,start_question
+384,1117,47,4,And were you ever asked by any of the doctors that were treating you to go see either an orthopedic or a neurologic surgeon related to the MRI results?,q,MR. NOLTE,start_answer
+385,1121,47,8,Unsure.  I don't remember.,a,THE WITNESS,start_question
+386,1122,47,9,"Did any of your doctors that treated you, whether it was Dr. Chesney or any of the other doctors, ever talk to you about the findings, the specific findings on the MRI's?",q,MR. NOLTE,start_answer
+387,1127,47,14,"I think someone did.  Now what it was, I can't say.",a,THE WITNESS,start_question
+388,1129,47,16,Okay.  Did anyone ever suggest to you that the findings on your cervical MRI and the findings on your daughter's cervical MRI looked to be very consistent or similar?,q,MR. NOLTE,start_answer
+389,1134,47,21,No one talked to me about my daughter's test.,a,THE WITNESS,start_question
+390,1136,47,23,"So as far as you know, none of the treating physicians that you ever were seen by ever suggested to you that the results of your MRI, your cervical MRI was very similar to the results of your daughter's cervical MRI?",q,MR. NOLTE,start_answer
+391,1143,48,5,No.,a,THE WITNESS,start_question
+392,1144,48,6,Okay.  Did it appear to you in any way that any of the doctors that were treating you changed the course of your medical care as a result of the MRI findings to either of your neck or your lumbar spine?,q,MR. NOLTE,start_answer
+393,1150,48,12,"As far as I know, they changed because of the two different accidents.",a,THE WITNESS,start_question
+394,1152,48,14,"So, ma'am, I just want to be clear for the record.  What you indicated was they changed your care because of the two different accidents, not because of the two different diagnostic results, not the MRI's?",q,MR. NOLTE,start_answer
+395,1158,48,20,Because of the accidents.,a,THE WITNESS,start_chat
+396,1159,48,21,"That's all of the questions I have, ma'am.  Thank you very much.",side_chat,MR. NOLTE,start_chat
+397,1162,48,24,I don't have any questions. And we'll read.,side_chat,MR. RAHAIM,is brackets
+398,1166,49,3,(Deposition concluded at 11:10 a.m.),brackets,,symbols
+399,1168,49,5,-  -  -  -  - I N D E X,symbols,,is brackets
+400,1195,50,5,"(There were no exhibits marked ERRATA SHEET                       PAGE 50 READING AND SIGNING INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason therefor on the errata sheet that appears on the following page. DO NOT MAKE ANY MARKS OR NOTATIONS ON THE TRANSCRIPT ITSELF.  Please sign and date the errata sheet and return it to our office at the address indicated below.  Our office will distribute copies of the executed errata sheet to all counsel.  If necessary, you can make additional copies of the errata sheet. Rule 30(e) governing this procedure provides the deposition may be filed as transcribed if you do not return a signed errata sheet within 30 days. RETURN ORIGINAL ERRATA SHEET TO: Wilcox & Fetzer, Ltd. 1330 King Street, Wilmington, DE  19801 depos@wilfet.com - 302-655-0477 DEPONENT:  JACQUELINE DIXON CASE:      Dixon/Moore v Chen ERRATA SHEET",brackets,,symbols
+401,1255,52,5,----/----/-----------------------------------,symbols,,symbols
+402,1257,52,6,----/----/-----------------------------------,symbols,,symbols
+403,1259,52,7,----/----/-----------------------------------,symbols,,symbols
+404,1261,52,8,----/----/-----------------------------------,symbols,,symbols
+405,1263,52,9,----/----/-----------------------------------,symbols,,symbols
+406,1265,52,10,----/----/-----------------------------------,symbols,,symbols
+407,1267,52,11,----/----/-----------------------------------,symbols,,symbols
+408,1269,52,12,----/----/-----------------------------------,symbols,,symbols
+409,1271,52,13,----/----/-----------------------------------,symbols,,symbols
+410,1273,52,14,----/----/-----------------------------------,symbols,,symbols
+411,1275,52,15,----/----/-----------------------------------,symbols,,symbols
+412,1277,52,16,----/----/-----------------------------------,symbols,,symbols
+413,1279,52,17,"----/----/----------------------------------- deposition and, except for any corrections to the transcript as an accurate record of Signature of Deponent State of Delaware    )",symbols,,symbols
+414,1294,53,2,") I, Kurt A. Fetzer, Registered Diplomate certify that there came before me on herein, JACQUELINE DIXON, who was duly counsel for the respective parties; that the answers given were taken down by me in by use of computer-aided transcription and a true and correct transcript of the witness. I further certify that I am not party, or otherwise interested in the event",symbols,,end

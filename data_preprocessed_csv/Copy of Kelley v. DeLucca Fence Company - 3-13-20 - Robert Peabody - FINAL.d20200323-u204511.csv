@@ -1,0 +1,259 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," Massachusetts Driver's License and duly sworn by the Notary Public, was examined and testified as follows: EXAMINATION CONDUCTED",,,start_question
+1,114,4,12,"Good morning.  My name is Mallarie Charbonneau, as I've already said.",q,MS. CHARBONNEAU,start_chat
+2,116,4,14,"Just to get it on the record, usual stipulations?",side_chat,MS. CHARBONNEAU,start_chat
+3,118,4,16,Yes.,side_chat,MR. KATSARAS,start_chat
+4,119,4,17,"So all objections, except to form, will be waived until trial, including motions to strike.  The witness will have 30 days upon reading the transcript to sign the transcript.  And notary waived.",side_chat,MS. CHARBONNEAU,start_question
+5,124,4,22,So could you please state your name and date of birth for the record?,q,MS. CHARBONNEAU,start_answer
+6,126,4,24,"Robert Peabody, 8/21/71.",a,THE WITNESS,start_question
+7,128,5,1,All right.  And have you ever been deposed before?,q,MS. CHARBONNEAU,start_answer
+8,130,5,3,What?,a,THE WITNESS,start_question
+9,131,5,4,Have you ever been deposed before?,q,MS. CHARBONNEAU,start_answer
+10,132,5,5,No.,a,THE WITNESS,start_question
+11,133,5,6,"Okay.  I'm just going to go over a couple of quick rules so you understand a little bit more how this process works.  So the first and foremost, it's important to answer audibly.  She is taking down everything we say for the record, so things like uh-huhs and uh-uh, shoulder shrugs aren't going to come across clear.  So if you do use those answers, I might gently remind you just to get a verbal record of what your response is.",q,MS. CHARBONNEAU,start_answer
+12,143,5,16,Okay.,a,THE WITNESS,start_question
+13,144,5,17,"And because she's typing, it's really hard for her to do that when we're speaking over each other.  If you could just wait until I'm finished asking the questioning, so that way she gets everything down correctly. If you don't understand a question, please let me know.  I'm happy to clarify and make sure that you're clear.  Please don't guess when you're answering.  If you don't know or you can't remember, just let us know.  And at the end of this or at some point at the end of this deposition you will be given a transcript, and you'll be able to review that and make any notes, if you think something is misstated, in an errata sheet at the end.  And then you'll be asked to sign and get that back to us within 30 days of receipt.",q,MS. CHARBONNEAU,start_answer
+14,162,6,10,Okay.,a,THE WITNESS,start_question
+15,163,6,11,Could you please state your current address?,q,MS. CHARBONNEAU,start_answer
+16,165,6,13,My home or my work?,a,THE WITNESS,start_question
+17,166,6,14,"Your work, please?",q,MS. CHARBONNEAU,start_answer
+18,167,6,15,"90 Hampshire Street, Methuen, Mass.",a,THE WITNESS,start_question
+19,168,6,16,Are you married?,q,MS. CHARBONNEAU,start_answer
+20,169,6,17,Yes.,a,THE WITNESS,start_question
+21,170,6,18,Any kids?,q,MS. CHARBONNEAU,start_answer
+22,171,6,19,Yes.,a,THE WITNESS,start_question
+23,172,6,20,How many?,q,MS. CHARBONNEAU,start_answer
+24,173,6,21,"I have one that's my son, and I have two stepsons and a stepdaughter.",a,THE WITNESS,start_question
+25,175,6,23,"And just to get a brief educational background, did you finish high school?",q,MS. CHARBONNEAU,start_answer
+26,178,7,1,Yes.,a,THE WITNESS,start_question
+27,179,7,2,And did you have any postsecondary education?,q,MS. CHARBONNEAU,start_answer
+28,181,7,4,I just had some college.,a,THE WITNESS,start_question
+29,182,7,5,"Okay.  About a semester, more than a semester?",q,MS. CHARBONNEAU,start_answer
+30,184,7,7,More.,a,THE WITNESS,start_question
+31,185,7,8,Okay.  Did you get an associate's degree?,q,MS. CHARBONNEAU,start_answer
+32,187,7,10,No.,a,THE WITNESS,start_question
+33,188,7,11,Just some classes.  Did you spend any time in the military?,q,MS. CHARBONNEAU,start_answer
+34,190,7,13,Yes.,a,THE WITNESS,start_question
+35,191,7,14,"We appreciate your service.  Are you part of any labor unions, any trade groups?",q,MS. CHARBONNEAU,start_answer
+36,193,7,16,Just the police union.,a,THE WITNESS,start_question
+37,194,7,17,Okay.  And where are you currently employed?,q,MS. CHARBONNEAU,start_answer
+38,196,7,19,City of Methuen.,a,THE WITNESS,start_question
+39,197,7,20,And for how long?,q,MS. CHARBONNEAU,start_answer
+40,198,7,21,"Eight years, almost nine years.",a,THE WITNESS,start_question
+41,199,7,22,And what is your position there?,q,MS. CHARBONNEAU,start_answer
+42,200,7,23,Police officer.,a,THE WITNESS,start_question
+43,201,7,24,And what is just a brief description of your duties there?,q,MS. CHARBONNEAU,start_answer
+44,204,8,2,To protect and serve the community and patrol the areas.,a,THE WITNESS,start_question
+45,206,8,4,Do you have any prior positions with the state of -- with Methuen?,q,MS. CHARBONNEAU,start_answer
+46,208,8,6,No.,a,THE WITNESS,start_question
+47,209,8,7,Were you aware of this lawsuit before receiving --,q,MS. CHARBONNEAU,start_answer
+48,211,8,9,No.,a,THE WITNESS,start_question
+49,212,8,10,#NAME?,q,MS. CHARBONNEAU,start_answer
+50,214,8,12,"Well, I am aware of it.",a,THE WITNESS,start_question
+51,215,8,13,"Okay.  Did you know the plaintiff in this action, Daniel Kelley, at all?",q,MS. CHARBONNEAU,start_answer
+52,217,8,15,Just when I went to the call.,a,THE WITNESS,start_question
+53,218,8,16,Did you do anything to prepare for this deposition?,q,MS. CHARBONNEAU,start_answer
+54,220,8,18,No.,a,THE WITNESS,start_question
+55,221,8,19,And did you speak with Daniel Kelley any time before the accident and after the accident?,q,MS. CHARBONNEAU,start_answer
+56,224,8,22,"Just during, just when I went to the call.",a,THE WITNESS,start_question
+57,226,8,24,"Okay.  Do you remember responding to an incident at DeLucca Fence Company on September 19, 2017?",q,MS. CHARBONNEAU,start_answer
+58,230,9,3,Yes.,a,THE WITNESS,start_question
+59,231,9,4,When were you made aware of that incident?,q,MS. CHARBONNEAU,start_answer
+60,233,9,6,What do you mean as far as when?  I don't remember exact time.,a,THE WITNESS,start_question
+61,235,9,8,Do you remember the time of day?,q,MS. CHARBONNEAU,start_answer
+62,236,9,9,It was during the daytime.,a,THE WITNESS,start_question
+63,237,9,10,Would you say before noon?,q,MS. CHARBONNEAU,start_answer
+64,238,9,11,"I'm not sure.  I mean, I had my report, but, like I said, I was involved in an accident.  My report was in my truck.",a,THE WITNESS,start_question
+65,241,9,14,Okay.,q,MS. CHARBONNEAU,start_answer
+66,242,9,15,I can get it faxed if you need me to do that.,a,THE WITNESS,start_question
+67,244,9,17,"Okay.  I actually have a copy here. We'll go over it.  Actually, I'll do that now. Do you recognize the title of this report, Methuen Police Department?",q,MS. CHARBONNEAU,start_answer
+68,248,9,21,Yes.,a,THE WITNESS,start_question
+69,249,9,22,And then I'm going to direct you to the second to last page.  Is that your name listed as the reporting officer?,q,MS. CHARBONNEAU,start_answer
+70,253,10,1,"Yes, it is.",a,THE WITNESS,start_chat
+71,254,10,2,I'll mark that as Exhibit 1.,side_chat,MS. CHARBONNEAU,is brackets
+72,256,10,4,"(Exhibit No. 1, Police Report so marked)",brackets,,start_question
+73,258,10,6,"If you look at that second to last page, again, the second paragraph says you were alerted at about 10:24 hours in the morning. Do you remember that to be correct?",q,MS. CHARBONNEAU,start_answer
+74,262,10,10,Correct.,a,THE WITNESS,start_question
+75,263,10,11,So do you recall about what time you arrived on the scene?,q,MS. CHARBONNEAU,start_answer
+76,265,10,13,Within minutes.,a,THE WITNESS,start_question
+77,266,10,14,Okay.,q,MS. CHARBONNEAU,start_answer
+78,267,10,15,Within minutes I was right down the street.,a,THE WITNESS,start_question
+79,269,10,17,Did anyone else arrive with you?,q,MS. CHARBONNEAU,start_answer
+80,270,10,18,Later my supervisor arrived on scene and Methuen Fire.,a,THE WITNESS,start_question
+81,272,10,20,What's his name?,q,MS. CHARBONNEAU,start_answer
+82,273,10,21,"Sergeant DeLano, Sergeant John DeLano.",a,THE WITNESS,start_question
+83,274,10,22,And about how long after you arrived did he arrive?,q,MS. CHARBONNEAU,start_answer
+84,276,10,24,"Probably 15, 20 minutes.",a,THE WITNESS,start_question
+85,278,11,1,Did anyone else arrive on the scene?,q,MS. CHARBONNEAU,start_answer
+86,279,11,2,Methuen Fire.,a,THE WITNESS,start_question
+87,280,11,3,And what did you observe when you got to the scene?,q,MS. CHARBONNEAU,start_answer
+88,282,11,5,I observed -- I forgot his name --,a,THE WITNESS,start_question
+89,283,11,6,Mr. Kelley?,q,MS. CHARBONNEAU,start_answer
+90,284,11,7,"-- Mr. Kelley laying inside of a dumpster.  I told him not to move, you know, because of possible injury, and I didn't want to harm him any more.  When we do that, it's typically we let the fire department so that way we don't harm them, you know, cause him any more physical harm.",a,THE WITNESS,start_question
+91,291,11,14,Did you speak to him at all other than that?,q,MS. CHARBONNEAU,start_answer
+92,293,11,16,Yes.,a,THE WITNESS,start_question
+93,294,11,17,What did you say?,q,MS. CHARBONNEAU,start_answer
+94,295,11,18,"I asked him what happened, and I remember him saying that he was dropping off an empty dumpster and picking up a full dumpster. He said once he dropped off the empty dumpster, he stood on top of the dumpster, the side, and was pushing material down so he could pull the dumpster away.  And he said that he slipped and fell into the empty dumpster.",a,THE WITNESS,start_question
+95,304,12,2,Okay.  I'll have you take a look at this.  Do you recall this scene when you arrived?,q,MS. CHARBONNEAU,start_answer
+96,307,12,5,Yes.,a,THE WITNESS,start_question
+97,308,12,6,Okay.  And are these the two dumpsters you were talking about?,q,MS. CHARBONNEAU,start_answer
+98,310,12,8,Correct.,a,THE WITNESS,start_chat
+99,311,12,9,We're going to mark this as Exhibit 2.,side_chat,MS. CHARBONNEAU,is brackets
+100,313,12,11,"(Exhibit No. 2, Photocopy of Photograph so marked)",brackets,,start_question
+101,315,12,13,Was the ambulance there when you arrived?,q,MS. CHARBONNEAU,start_answer
+102,317,12,15,"No, I was there first.",a,THE WITNESS,start_question
+103,318,12,16,Okay.  The ambulance arrived sometime after?,q,MS. CHARBONNEAU,start_answer
+104,320,12,18,Correct.,a,THE WITNESS,start_question
+105,321,12,19,"About how long after, would you say?",q,MS. CHARBONNEAU,start_answer
+106,322,12,20,Five minutes.,a,THE WITNESS,start_question
+107,323,12,21,"And so the dumpster to the right with the Crescio label, is that where Mr. Kelley was found?",q,MS. CHARBONNEAU,start_answer
+108,326,12,24,Correct.,a,THE WITNESS,start_question
+109,328,13,1,"By your recollection, he would have dropped off that empty dumpster?",q,MS. CHARBONNEAU,start_answer
+110,330,13,3,First.,a,THE WITNESS,start_question
+111,331,13,4,And then repositioned the blue truck to pick up the full dumpster to the left?,q,MS. CHARBONNEAU,start_answer
+112,333,13,6,Correct.,a,THE WITNESS,start_question
+113,334,13,7,Take a look at this.  Do you remember seeing this when you reported to the scene?,q,MS. CHARBONNEAU,start_answer
+114,336,13,9,"Yes.  I actually took these pictures, just so you know.",a,THE WITNESS,start_question
+115,338,13,11,Okay.  And those are the same two dumpsters we were talking about before?,q,MS. CHARBONNEAU,start_answer
+116,340,13,13,Correct.,a,THE WITNESS,start_question
+117,341,13,14,Do you see your blue truck in that photo?,q,MS. CHARBONNEAU,start_answer
+118,343,13,16,"As far as I can tell, that's my truck on the right.",a,THE WITNESS,start_question
+119,345,13,18,Okay.  Perfect.,side_chat,MS. CHARBONNEAU,start_chat
+120,346,13,19,Mark that as Exhibit 3.,side_chat,MS. CHARBONNEAU,is brackets
+121,348,13,21,"(Exhibit No. 3, Photocopy of Photograph so marked)",brackets,,start_question
+122,350,13,23,Is that your police vehicle on the right there?,q,MS. CHARBONNEAU,start_answer
+123,353,14,1,"No, that truck belongs to my supervisor.",a,THE WITNESS,start_question
+124,355,14,3,Okay.  Do you know who the person in the hard hat is next to that vehicle?,q,MS. CHARBONNEAU,start_answer
+125,357,14,5,No.  I don't recall who it is.,a,THE WITNESS,start_question
+126,358,14,6,Okay.  Do you know who the person to the left of the truck is?,q,MS. CHARBONNEAU,start_answer
+127,360,14,8,I don't recall that either.,a,THE WITNESS,start_question
+128,361,14,9,Okay.  Is there anything that stands out to you about this photo?,q,MS. CHARBONNEAU,start_answer
+129,363,14,11,"I mean, I've seen dumpsters drop off. I mean, nothing that really stands out.  I've seen the same scene before in the past.",a,THE WITNESS,start_question
+130,366,14,14,Nothing that strikes your attention?,q,MS. CHARBONNEAU,start_answer
+131,367,14,15,"Well, I mean, not really, honestly.",a,THE WITNESS,start_question
+132,368,14,16,"When you were there, did you speak to anyone besides Mr. Kelley?",q,MS. CHARBONNEAU,start_answer
+133,370,14,18,Yes.  I spoke with several people.,a,THE WITNESS,start_question
+134,371,14,19,Okay.  Who did you speak with?,q,MS. CHARBONNEAU,start_answer
+135,372,14,20,I spoke with this Chris Stephens and Daniel Shanahan.,a,THE WITNESS,start_question
+136,374,14,22,Okay.  Do you remember what you spoke to Chris Stephens about?,q,MS. CHARBONNEAU,start_answer
+137,376,14,24,"I asked him what happened because they were the ones that called.  One of them called. And they said they stopped -- they were operating forklifts, and when they stopped to talk to each other, they shut off the fork lifts.  They could hear someone yelling inside the dumpster for help.",a,THE WITNESS,start_question
+138,384,15,7,Do you remember which of those two individuals said that to you?,q,MS. CHARBONNEAU,start_answer
+139,386,15,9,"Well, they both said they heard it, they heard someone yelling for help.",a,THE WITNESS,start_question
+140,388,15,11,Is this the dumpster that you recall seeing Mr. Kelley in?,q,MS. CHARBONNEAU,start_answer
+141,390,15,13,Yes.,a,THE WITNESS,start_chat
+142,391,15,14,We're going to mark this as Exhibit 4.,side_chat,MS. CHARBONNEAU,is brackets
+143,393,15,16,"(Exhibit No. 4, Photocopy of Photograph so marked)",brackets,,start_question
+144,395,15,18,"When you saw Mr. Kelley in there, how was he positioned?",q,MS. CHARBONNEAU,start_answer
+145,397,15,20,I have to refer -- he was laying on his left side.,a,THE WITNESS,start_question
+146,399,15,22,Okay.  And do you remember which way he was facing in that image?,q,MS. CHARBONNEAU,start_answer
+147,401,15,24,"I think kind of at an angle.  I mean, I don't remember exactly, no.",a,THE WITNESS,start_question
+148,404,16,2,Do you remember if his feet were closer to the door or closer towards the back wall?,q,MS. CHARBONNEAU,start_answer
+149,407,16,5,To the side wall.,a,THE WITNESS,start_question
+150,408,16,6,To the side wall.  And do you mean the right side wall?,q,MS. CHARBONNEAU,start_answer
+151,410,16,8,"If I'm looking at it, the side with the door on it.",a,THE WITNESS,start_question
+152,412,16,10,Okay.  His head would have been closer towards the back wall?,q,MS. CHARBONNEAU,start_answer
+153,414,16,12,Uh-huh.,a,THE WITNESS,start_question
+154,415,16,13,He would have been positioned on his left side?,q,MS. CHARBONNEAU,start_answer
+155,417,16,15,Yes.,a,THE WITNESS,start_question
+156,418,16,16,Okay.  Did you see him try to move at all?,q,MS. CHARBONNEAU,start_answer
+157,420,16,18,No.,a,THE WITNESS,start_question
+158,421,16,19,Is that how he landed?,q,MS. CHARBONNEAU,start_answer
+159,422,16,20,"Well, he said -- well, he did say he tried to catch himself when he fell, but he landed on his left hip first on the bottom of the dumpster.",a,THE WITNESS,start_question
+160,426,16,24,Did you notice anything else when you saw him in the dumpster?,q,MS. CHARBONNEAU,start_answer
+161,429,17,2,"He had on no kind of safety gear at all, you know.  I mean, that's the only thing I noticed.",a,THE WITNESS,start_question
+162,432,17,5,Did you notice what kind of shoes he was wearing?,q,MS. CHARBONNEAU,start_answer
+163,434,17,7,"I think -- I don't remember, but I think it was work boots, leather work boots.",a,THE WITNESS,start_question
+164,436,17,9,I'll have you take a look at this. Are these the two dumpsters that you recall seeing on the date of the incident?,q,MS. CHARBONNEAU,start_answer
+165,439,17,12,Correct.,a,THE WITNESS,start_question
+166,440,17,13,And the dumpster to the left is the one you saw Mr. Kelley in?,q,MS. CHARBONNEAU,start_answer
+167,442,17,15,Correct.,a,THE WITNESS,start_chat
+168,443,17,16,We'll mark that as Exhibit 5.,side_chat,MS. CHARBONNEAU,is brackets
+169,445,17,18,"(Exhibit No. 5, Photocopy of Photograph so marked)",brackets,,start_question
+170,447,17,20,Is the dumpster on the left the one Mr. Kelley was found in?,q,MS. CHARBONNEAU,start_answer
+171,449,17,22,Yes.,a,THE WITNESS,start_question
+172,450,17,23,"And so that would be the dumpster he told you he dropped off, correct?",q,MS. CHARBONNEAU,start_answer
+173,453,18,1,Correct.,a,THE WITNESS,start_question
+174,454,18,2,"And then the dumpster to the right, that would be the full one he was there to pick up, correct?",q,MS. CHARBONNEAU,start_answer
+175,457,18,5,"Yeah, correct.",a,THE WITNESS,start_question
+176,458,18,6,"So to your knowledge, where was he standing when he fell?",q,MS. CHARBONNEAU,start_chat
+177,460,18,8,Objection.,side_chat,MR. KATSARAS,start_answer
+178,461,18,9,"Yeah.  I didn't see him fall, and I didn't see any video.  So, I mean, I only went on what I was told by witnesses when I was on scene.",a,THE WITNESS,start_question
+179,465,18,13,"When he told you he was standing on the top, do you know if he meant the top rail there?",q,MS. CHARBONNEAU,start_answer
+180,468,18,16,"Yes, along the top.",a,THE WITNESS,start_question
+181,469,18,17,Did you notice how wide that rail was?,q,MS. CHARBONNEAU,start_answer
+182,470,18,18,I want to say approximately 4 to 5 inches.,a,THE WITNESS,start_question
+183,472,18,20,Do you remember how much space is in between those dumpsters?,q,MS. CHARBONNEAU,start_answer
+184,474,18,22,"I don't remember exactly but approximately, you know, 2 to 3 feet.",a,THE WITNESS,start_question
+185,476,18,24,Would it have been wide enough for someone to walk in between?,q,MS. CHARBONNEAU,start_answer
+186,479,19,2,It would have been tight for someone big like me.  I probably wouldn't have fit between there with all my gear on but...,a,THE WITNESS,start_question
+187,482,19,5,I'm going to have you go back to the incident report and flip over to the photo with the images.,q,MS. CHARBONNEAU,start_answer
+188,485,19,8,(Witness complies),a,THE WITNESS,start_question
+189,486,19,9,It's on the third page.  And just so it's right side up.  Are these the photos that you took?,q,MS. CHARBONNEAU,start_answer
+190,489,19,12,Yes.,a,THE WITNESS,start_question
+191,490,19,13,And earlier you said the photos I just showed you were also photos you took?,q,MS. CHARBONNEAU,start_answer
+192,492,19,15,Yes.,a,THE WITNESS,start_question
+193,493,19,16,"So are these five photos in the report similar, or are they the same photos I just showed you, or are they different?",q,MS. CHARBONNEAU,start_answer
+194,496,19,19,They're different than the ones I added.,a,THE WITNESS,start_question
+195,498,19,21,Okay.  Is there anything that stands out to you in the photos in the incident report?,q,MS. CHARBONNEAU,start_answer
+196,501,19,24,"I don't see -- well, I don't see the ambulance in this one.",a,THE WITNESS,start_question
+197,504,20,2,"Looking at the top left photo in the incident report holding it horizontally, is that the dumpster where Mr. Kelley was found?",q,MS. CHARBONNEAU,start_answer
+198,507,20,5,Yes.,a,THE WITNESS,start_question
+199,508,20,6,"And one photo to the right, so the top middle photo, does that show the dumpster he was found?",q,MS. CHARBONNEAU,start_answer
+200,511,20,9,I'm making sure this is the one you're talking about.,a,THE WITNESS,start_question
+201,513,20,11,Yes.  The top middle?,q,MS. CHARBONNEAU,start_answer
+202,514,20,12,Yes.,a,THE WITNESS,start_question
+203,515,20,13,"And to the right, is that the dumpster, adjacent picture there?",q,MS. CHARBONNEAU,start_answer
+204,517,20,15,Yes.,a,THE WITNESS,start_question
+205,518,20,16,Do you remember when you saw the truck if there was any kind of fixtures attached with a tarp?  It's not -- sorry.  You can answer.,q,MS. CHARBONNEAU,start_answer
+206,521,20,19,I didn't -- I don't recall it.,a,THE WITNESS,start_question
+207,522,20,20,"It would have been -- it's not pictured in these, but it would have been attached to the back and able -- you would have been able to roll it out.  Do you recall seeing anything like that?",q,MS. CHARBONNEAU,start_answer
+208,528,21,1,"No.  No, but I'm familiar with the process, so I'm sure it had -- I mean, once a dumpster is up, they usually cover it to secure the load from flying on the highway, debris from falling out.",a,THE WITNESS,start_question
+209,533,21,6,"When you got to the scene, do you remember speaking with Jackie DeLucca at all?",q,MS. CHARBONNEAU,start_answer
+210,535,21,8,Yes.,a,THE WITNESS,start_question
+211,536,21,9,What did you speak to her about?,q,MS. CHARBONNEAU,start_answer
+212,537,21,10,"Well, I asked ask her, you know, if she seen -- or I asked about the video that was on because they do have cameras.  I'm aware of that.  I've been there for many other calls for crime, people stealing product off there.  So I asked her about the cameras.  And she said in the camera footage, she can see him walking along the top of the dumpster, but as it oscillated, she didn't see the actual fall.",a,THE WITNESS,start_question
+213,546,21,19,Did you view this footage?,q,MS. CHARBONNEAU,start_answer
+214,547,21,20,No.,a,THE WITNESS,start_question
+215,548,21,21,Do you know if anyone else did?,q,MS. CHARBONNEAU,start_answer
+216,549,21,22,Not that I know of.  She did.  She said she viewed it and saw it.,a,THE WITNESS,start_question
+217,551,21,24,Do you remember if any of the other reporting officers saw it?,q,MS. CHARBONNEAU,start_answer
+218,554,22,2,Not that I know of.,a,THE WITNESS,start_question
+219,555,22,3,Okay.  Do you remember any other witnesses to the incident?,q,MS. CHARBONNEAU,start_answer
+220,557,22,5,"There was another male party, Jimmy. I can't even say his name but.  I can't even say it.  Down at the bottom.",a,THE WITNESS,start_question
+221,560,22,8,"Georgoulakos, does that sound right?",q,MS. CHARBONNEAU,start_answer
+222,561,22,9,Yeah.,a,THE WITNESS,start_question
+223,562,22,10,And what did he say?,q,MS. CHARBONNEAU,start_answer
+224,563,22,11,"He said he saw someone.  He actually -- he was parked outside the property, so there's Ferry Road.  It borders the property of DeLucca Fence, and he said he was parked outside there.  And he observed out of the corner of his eye what appears someone had fallen into the dumpster.  He only saw the hips and the legs go up and over, but he didn't actually see his head go in, but he saw...",a,THE WITNESS,start_question
+225,572,22,20,Okay.  Did you speak with anyone else at the incident scene?,q,MS. CHARBONNEAU,start_answer
+226,574,22,22,Just my supervisor.  Other than that...,a,THE WITNESS,start_question
+227,576,22,24,What did you two talk about?,q,MS. CHARBONNEAU,start_answer
+228,578,23,1,"I asked him what -- is this something I should get OSHA involved in, you know, because it is like an industrial place, so occasionally we would contact OSHA.  And he said -- he advised me to contact OSHA, and I did.",a,THE WITNESS,start_question
+229,584,23,7,Did he advise you to do anything else?,q,MS. CHARBONNEAU,start_answer
+230,585,23,8,Take pictures.,a,THE WITNESS,start_question
+231,586,23,9,Okay.  Did you take any video at all?,q,MS. CHARBONNEAU,start_answer
+232,587,23,10,"Well, my body camera.  I believe my body camera was working at the time as well.",a,THE WITNESS,start_question
+233,589,23,12,Is that something you still have access to?,q,MS. CHARBONNEAU,start_answer
+234,591,23,14,"The department might have it.  You have to -- it has to be a request to the department to obtain that photo or that, if it's still there.  I don't know.",a,THE WITNESS,start_question
+235,595,23,18,"And then the photos in the incident report, were those also taken with your body camera?",q,MS. CHARBONNEAU,start_answer
+236,598,23,21,"They were taken with an iPod.  We were issued department-issued iPods, and I took them with the iPod and uploaded it to evidence.com.",a,THE WITNESS,start_chat
+237,601,23,24,That's all the questions I have.  Thank you so much. EXAMINATION CONDUCTED,side_chat,MS. CHARBONNEAU,start_question
+238,606,24,4,"Good morning.  My name is Alex Katsaras.  I represent the plaintiff in the matter.  I have, I think, just one or two quick questions.  In Exhibit 1 the narrative, there's some pictures.  There's five pictures.  The one on the top middle that was referenced previously has two dumpsters in it?",q,MR. KATSARAS,start_answer
+239,613,24,11,Correct.,a,THE WITNESS,start_question
+240,614,24,12,"That dumpster with the wood, do you remember at that time if that wood was above the seams of the dumpster?",q,MR. KATSARAS,start_answer
+241,617,24,15,"Slightly.  I kind of remember slightly, yes.",a,THE WITNESS,start_question
+242,619,24,17,"Okay.  Did it look more full than any other dumpster there, if you remember?",q,MR. KATSARAS,start_answer
+243,621,24,19,"I mean, the empty one beside it.",a,THE WITNESS,start_question
+244,622,24,20,Besides the empty one?,q,MR. KATSARAS,start_answer
+245,623,24,21,I didn't really pay attention to any other dumpster besides those two.,a,THE WITNESS,start_question
+246,625,24,23,Okay.  You said you were familiar with the process.  Do you know if that looked too full for you compared to other dumpsters you've seen?,q,MR. KATSARAS,start_chat
+247,630,25,3,Objection.,side_chat,MS. CHARBONNEAU,start_answer
+248,631,25,4,Do I answer?,a,THE WITNESS,start_chat
+249,632,25,5,You still answer.,side_chat,MS. CHARBONNEAU,start_answer
+250,633,25,6,"Being familiar with the process, I know that this is typically done where they go up and they help level a load off before they pick up the dumpster, and then they tarp it, like I said, for safety, public safety.  I mean, for the roadway too because you don't want the debris falling out or blowing out. I've seen this happen, you know.  This isn't the first time, I mean, I've seen somebody walk on the dumpster.",a,THE WITNESS,start_question
+251,643,25,16,Yeah.  Was this the first time you had a call to this place for this type of injury?,q,MR. KATSARAS,start_answer
+252,645,25,18,Yes.,a,THE WITNESS,start_question
+253,646,25,19,Okay.,q,MR. KATSARAS,start_chat
+254,647,25,20,I think that's all I have.,side_chat,MR. KATSARAS,start_chat
+255,649,25,22,Okay.,side_chat,MS. CHARBONNEAU,is brackets
+256,650,25,23,"(Whereupon, the deposition concluded at 10:20 a.m.) C E R T I F I C A T E COMMONWEALTH OF MASSACHUSETTS COUNTY OF MIDDLESEX, ss. I, Darlene Caiazzo Sousa, a Certified Shorthand Reporter, Licensed Court Reporter NH #139, Registered Professional Reporter and Notary Public in and for the Commonwealth of Massachusetts, do hereby certify that the foregoing transcript of the deposition of ROBERT PEABODY, having been duly sworn, on Friday, March 13, 2020, is true and accurate to the best of my knowledge, skill and ability. IN WITNESS WHEREOF, I have hereunto set my hand and seal this 23rd day of March, 2020.",brackets,,symbols
+257,672,26,20,"_________________________________ Darlene Caiazzo Sousa, Notary Public My commission expires:  November 5, 2021 DEPONENT'S ERRATA SHEET AND SIGNATURE INSTRUCTIONS The original of the Errata Sheet has been delivered to Mallarie Charbonneau, Esq. When the Errata Sheet has been completed by the deponent and signed, a copy thereof should be delivered to each party of record and the ORIGINAL delivered to Mallarie Charbonneau, Esq. to whom the original deposition transcript was delivered. INSTRUCTIONS TO DEPONENT After reading this volume of your deposition, indicate any corrections or changes to your testimony and the reasons therefor on the Errata Sheet supplied to you and sign it. DO NOT make marks or notations on the transcript volume itself. REPLACE THIS PAGE OF THE TRANSCRIPT WITH THE COMPLETED AND SIGNED ERRATA SHEET WHEN RECEIVED. ATTACH TO THE DEPOSITION OF ROBERT PEABODY your deposition, note any change or correction this sheet.  DO NOT make any marks or notations this errata sheet (before a Notary Public, if for errata sheet distribution instructions. PAGE     LINE REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ REASON:__________________________ I have read the foregoing transcript of my changes noted above, I hereby subscribe to the statements made by me. ROBERT PEABODY           DATE",symbols,,end

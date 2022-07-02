@@ -1,0 +1,330 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0, and testified as follows:,,,symbols
+1,74,13,4,------ EXAMINATION,symbols,,symbols
+2,76,13,6,------,symbols,,start_question
+3,78,13,8,"Sir, what is your full name?",q,MR. HEDRICK,start_answer
+4,79,13,9,Robert Brian McCleary.,a,THE WITNESS,start_question
+5,80,13,10,How do you spell your last name?,q,MR. HEDRICK,start_answer
+6,81,13,11,M-c-C-L-E-A-R-Y.,a,THE WITNESS,start_question
+7,82,13,12,I apologize that we're starting late.  I appreciate you sticking around a bit.,q,MR. HEDRICK,start_answer
+8,85,13,15,It's okay.,a,THE WITNESS,start_question
+9,86,13,16,"Sir, have you been deposed before?",q,MR. HEDRICK,start_answer
+10,87,13,17,No.,a,THE WITNESS,start_question
+11,88,13,18,"I'm just going to go through some quick guidelines that will help speed the process along, but again, I don't think we're going to be here that long based upon what Mr. McTaggart told me. First of all, your responses have to be verbal, yes, no, give an explanation.  You can't nod your head or say uh-huh or uh-uh, because they read the same on the transcript.  If I ask you if it's a yes or no, I'm not picking on you. I just want to make sure the record is clear.  Okay?",q,MR. HEDRICK,start_answer
+12,102,14,7,Yes.,a,THE WITNESS,start_question
+13,103,14,8,"You need to wait for me to finish my question before you give an answer, and I'll do my best not to interrupt you, because the court reporter cannot take down more than one person at a time.",q,MR. HEDRICK,start_answer
+14,108,14,13,Okay.,a,THE WITNESS,start_question
+15,109,14,14,"Lastly, if you don't understand the question, let me know.  If you answer a question, I'm going to assume you understood it, unless you tell me otherwise. Is that fair?",q,MR. HEDRICK,start_answer
+16,115,14,20,Yes.,a,THE WITNESS,start_question
+17,116,14,21,"Now, to shortcut things, am I correct that you don't know anything about the Dover Toll Plaza?",q,MR. HEDRICK,start_answer
+18,119,14,24,The Dover Toll Plaza?,a,THE WITNESS,start_question
+19,121,15,1,Yes.,q,MR. HEDRICK,start_answer
+20,122,15,2,"Um, I know things about the Dover Toll Plaza.",a,THE WITNESS,start_question
+21,124,15,4,"Okay.  Well, then, maybe it's not going to be as clear-cut as I thought it was going to be.",q,MR. HEDRICK,start_answer
+22,127,15,7,The Dover Toll Plaza on State Route 1?,a,THE WITNESS,start_question
+23,129,15,9,Yes.,q,MR. HEDRICK,start_answer
+24,130,15,10,Okay.  I was under the impression this was about the Delaware Memorial Bridge.,a,THE WITNESS,start_question
+25,133,15,13,There are two cases that your deposition has been noticed in.  One involves the Delaware Memorial Bridge and the other involves the Dover Toll Plaza.,q,MR. HEDRICK,start_answer
+26,137,15,17,Okay.,a,THE WITNESS,start_question
+27,138,15,18,"I was trying to get away from the Dover Toll Plaza if you didn't know anything about it, but it does sound like you do.  So, I'm going to have to ask you questions about it.",q,MR. HEDRICK,start_answer
+28,143,15,23,That's fine.,a,THE WITNESS,start_question
+29,144,15,24,"If you don't know, though, please tell me you don't know and that will help move things along.  Okay?",q,MR. HEDRICK,start_answer
+30,148,16,3,Okay. MR. McTAGGART:  Could I just ask a question?,a,THE WITNESS,start_chat
+31,151,16,6,Sure. MR. McTAGGART,side_chat,MR. HEDRICK,start_chat
+32,155,16,10,Correct. MR. McTAGGART,side_chat,MR. HEDRICK,start_chat
+33,158,16,13,That's correct. MR. McTAGGART,side_chat,MR. HEDRICK,start_chat
+34,161,16,16,"Correct, and it's not going to be any different than I did with Miss Lawhead, but I just wanted to skip the Dover Toll Plaza.  But, it doesn't sound like I can do that. MR. McTAGGART",side_chat,MR. HEDRICK,start_chat
+35,169,16,24,Okay.  I'm not there yet. MR. McTAGGART,side_chat,MR. HEDRICK,start_chat
+36,174,17,4,"I understand, thanks.  I appreciated it.  I know I need it.",side_chat,MR. HEDRICK,start_question
+37,178,17,8,"With respect to the Dover Toll Plaza, do you have anything to do with procurement of insurance policies?",q,MR. HEDRICK,start_answer
+38,181,17,11,No.,a,THE WITNESS,start_question
+39,182,17,12,Do you have anything to do with procurement of insurance policies for the Delaware Memorial Bridge?,q,MR. HEDRICK,start_answer
+40,185,17,15,No.,a,THE WITNESS,start_question
+41,186,17,16,Do you have any particular knowledge about whether or not there's insurance policies for the Delaware Memorial Bridge?,q,MR. HEDRICK,start_answer
+42,190,17,20,No.,a,THE WITNESS,start_question
+43,191,17,21,Do you know why you had been provided as a witness with respect to insurance coverage for the Delaware Memorial Bridge or the Dover Toll Plaza?,q,MR. HEDRICK,start_answer
+44,196,18,1,No.,a,THE WITNESS,start_question
+45,197,18,2,"Okay.  So, can you tell me what you know about -- Let me try it this way. At the Dover Toll Plaza, are there State employees that work there?",q,MR. HEDRICK,start_answer
+46,201,18,6,Yes.,a,THE WITNESS,start_question
+47,202,18,7,And what kind of employees work there that work for the State of Delaware?,q,MR. HEDRICK,start_answer
+48,204,18,9,They are toll takers.,a,THE WITNESS,start_question
+49,205,18,10,What is your job at DelDOT?,q,MR. HEDRICK,start_answer
+50,206,18,11,I am the Chief Engineer and the Director of Transportation Solutions.,a,THE WITNESS,start_question
+51,208,18,13,And how long have you been employed by DelDOT?,q,MR. HEDRICK,start_answer
+52,210,18,15,Continuously since August of 1993.,a,THE WITNESS,start_question
+53,211,18,16,Does that mean you worked for them before?,q,MR. HEDRICK,start_answer
+54,213,18,18,Yes.,a,THE WITNESS,start_question
+55,214,18,19,When?,q,MR. HEDRICK,start_answer
+56,215,18,20,"As a summer intern in the summers of 1984, '85, and '86.",a,THE WITNESS,start_question
+57,217,18,22,How long have you been the Chief Engineer?,q,MR. HEDRICK,start_answer
+58,219,18,24,Since October of 2013.,a,THE WITNESS,start_question
+59,221,19,1,And how about the Director of Transportation Solutions?,q,MR. HEDRICK,start_answer
+60,223,19,3,Since October of 2013.,a,THE WITNESS,start_question
+61,224,19,4,What were you prior to that?,q,MR. HEDRICK,start_answer
+62,225,19,5,I was an Assistant Director in charge of Engineering Support.,a,THE WITNESS,start_question
+63,227,19,7,And how long were you the Assistant Director of Engineering Support?,q,MR. HEDRICK,start_answer
+64,229,19,9,"Approximately six years.  Close to seven, I think.",a,THE WITNESS,start_question
+65,231,19,11,Okay.  And how about prior to that?,q,MR. HEDRICK,start_answer
+66,232,19,12,Prior to that I was a Program Manager II in Project Management South.,a,THE WITNESS,start_question
+67,234,19,14,For how long?,q,MR. HEDRICK,start_answer
+68,235,19,15,"Four years, 2002 to 2006.",a,THE WITNESS,start_question
+69,236,19,16,How about prior to 2002?,q,MR. HEDRICK,start_answer
+70,237,19,17,I was the Field Services Engineer.,a,THE WITNESS,start_question
+71,238,19,18,For how long?,q,MR. HEDRICK,start_answer
+72,239,19,19,Approximately two years.,a,THE WITNESS,start_question
+73,240,19,20,How about prior to that?,q,MR. HEDRICK,start_answer
+74,241,19,21,"Prior to that I was, I was an Engineer V, and my job was, I was the Manager of State Route 1 Design Project for the U.S. 13 Relief Route Project.",a,THE WITNESS,start_question
+75,246,20,1,And how long did you have that position?,q,MR. HEDRICK,start_answer
+76,248,20,3,Two years.,a,THE WITNESS,start_question
+77,249,20,4,"All right.  As Chief Engineer and Director of Transportation -- Are Chief Engineer and Director of Transportation Solutions two different positions that you happen to have, or is it all combined into one person?",q,MR. HEDRICK,start_answer
+78,255,20,10,"It's all combined into one person. At some point in the past, they were two separate positions that were combined.  The reason I carry both titles is because the Delaware Code requires DelDOT to have a Chief Engineer.  So, I am the designated Chief Engineer.",a,THE WITNESS,start_question
+79,262,20,17,Okay.  What do you do as the Chief Engineer?,q,MR. HEDRICK,start_answer
+80,264,20,19,"I sign contracts.  I handle, um, anything that would deviate from standard engineering practice.  Those would be the primary functions.",a,THE WITNESS,start_question
+81,268,20,23,When you say deviations from the standard -- Deviation practice?  Is that what you said?,q,MR. HEDRICK,start_answer
+82,272,21,2,"Engineering requires a standard of care which involves following the standards and all the rules, regulations, guidance documents that deal with engineering. So, there are instances when my staff cannot follow those and they have to go through a process to get an exception or a waiver from a design standard.  So, they would prepare a document and submit it to me for consideration. And if they can make a strong enough case for an exception from a design standard, then I can approve that as the Chief Engineer.",a,THE WITNESS,start_question
+83,286,21,16,"The design standards, though, that you're applying are engineering standards?",q,MR. HEDRICK,start_answer
+84,288,21,18,Correct.,a,THE WITNESS,start_question
+85,289,21,19,Nothing else?,q,MR. HEDRICK,start_answer
+86,290,21,20,"Some engineering standards are embodied in state regulation and federal regulation.  So, to --",a,THE WITNESS,start_question
+87,293,21,23,"Other than overlapping, though, your field is strictly engineering?",q,MR. HEDRICK,start_answer
+88,296,22,1,That's true.,a,THE WITNESS,start_question
+89,297,22,2,"As the Director of Transportation Solutions, what is that and what do you do?",q,MR. HEDRICK,start_answer
+90,299,22,4,"That would be personnel issues. The capital budget primarily for all of our projects.  Managing the capital program, any capital project that would be coming through, and then managing the operating dollars for my division.  So, that would be personnel costs, pens, papers, lights, travel requests, just managing staff, and handling everything that goes along with that.",a,THE WITNESS,start_question
+91,309,22,14,"As part of that in the capital budget, do you have anything to do with procurement of insurance for DelDOT?",q,MR. HEDRICK,start_answer
+92,312,22,17,No.,a,THE WITNESS,start_question
+93,313,22,18,Do you have any knowledge about insurance policies that DelDOT has?,q,MR. HEDRICK,start_answer
+94,315,22,20,No.,a,THE WITNESS,start_question
+95,316,22,21,Do you have any knowledge about whether DelDOT is an insured under any particular policy or whether the State of Delaware is?,q,MR. HEDRICK,start_answer
+96,321,23,1,"I do not know anything about insurance.  If anything, I've been told that we don't buy insurance and we don't -- we go to great lengths not to be named on insurance policies.  That's my understanding.",a,THE WITNESS,start_question
+97,327,23,7,Why do you have that understanding?,q,MR. HEDRICK,start_answer
+98,328,23,8,"My understanding is that the State of Delaware has sovereign immunity, and if we buy insurance, it potentially jeopardizes that, that condition.",a,THE WITNESS,start_question
+99,332,23,12,And who told you that?,q,MR. HEDRICK,start_answer
+100,333,23,13,"A Deputy Attorney General, more than one, over the years over my career.",a,THE WITNESS,start_question
+101,335,23,15,How would that come up whether or not there's been insurance in place in your job?,q,MR. HEDRICK,start_answer
+102,338,23,18,"When I review contracts, there's often indemnification language in contracts.  And sometimes depending on who generates the contract, if it's an outside entity, they will sometimes either say that we have to indemnify them, or that we would name them on an insurance policy. So, I have taken those to our Deputy Attorney General and asked for their review and opinion, and that's what I've been told.",a,THE WITNESS,start_question
+103,350,24,5,Okay.  Are you familiar with the Dover Toll Plaza and where the bathrooms are for the public to use?,q,MR. HEDRICK,start_answer
+104,353,24,8,I am not familiar with where the bathrooms are.,a,THE WITNESS,start_question
+105,355,24,10,Okay.  Are you -- Do you have any knowledge about who's responsible for cleaning the bathrooms or maintaining the bathrooms?,q,MR. HEDRICK,start_answer
+106,359,24,14,"I do not, no.",a,THE WITNESS,start_question
+107,360,24,15,Do you know if there are any DelDOT employees that do that?,q,MR. HEDRICK,start_answer
+108,362,24,17,I don't know.,a,THE WITNESS,start_question
+109,363,24,18,Okay.  Who would know that?,q,MR. HEDRICK,start_answer
+110,364,24,19,It would be the Toll Operations Manager at DelDOT.,a,THE WITNESS,start_question
+111,366,24,21,Who is that?,q,MR. HEDRICK,start_answer
+112,367,24,22,"That's a good question.  The person who had that job recently retired, and there's a new person and I don't recall the name.  I believe it's a woman, and it's in a different operating division of DelDOT. The Toll Operations fall under the Department of Motor Vehicles.",a,THE WITNESS,start_question
+113,375,25,5,"So, she's employed in the Department of Motor Vehicles?",q,MR. HEDRICK,start_answer
+114,377,25,7,Which is an operating division of DelDOT.,a,THE WITNESS,start_question
+115,379,25,9,"Okay.  So, there is a new person but you don't know the name?",q,MR. HEDRICK,start_answer
+116,381,25,11,Correct.,a,THE WITNESS,start_question
+117,382,25,12,"And prior to this woman, who was it?",q,MR. HEDRICK,start_answer
+118,384,25,14,A gentleman by the name of --,a,THE WITNESS,start_question
+119,385,25,15,Is that Bruno [sic]?,q,MR. HEDRICK,start_answer
+120,386,25,16,"Yeah, Victor Buono.",a,THE WITNESS,start_question
+121,387,25,17,Spell Buono?,q,MR. HEDRICK,start_answer
+122,388,25,18,It's like B-U-O-N-O.,a,THE WITNESS,start_question
+123,389,25,19,Buono?,q,MR. HEDRICK,start_answer
+124,390,25,20,"Buono, yeah.",a,THE WITNESS,start_question
+125,391,25,21,And do you know how long he was the Toll Operations manager?,q,MR. HEDRICK,start_answer
+126,393,25,23,No.,a,THE WITNESS,start_question
+127,394,25,24,Was he there for a significant period of time since you've been at DelDOT?,q,MR. HEDRICK,start_answer
+128,397,26,2,He was there six years.,a,THE WITNESS,start_question
+129,398,26,3,Would you have any input or anything to do with any contracts that were entered into between DelDOT and a third party regarding the Dover Toll Plaza?,q,MR. HEDRICK,start_answer
+130,402,26,7,No.  Nothing I can think of.,a,THE WITNESS,start_question
+131,403,26,8,Do you have any involvement with the Delaware Transportation Authority?,q,MR. HEDRICK,start_answer
+132,405,26,10,Not officially.,a,THE WITNESS,start_question
+133,406,26,11,What does that mean?,q,MR. HEDRICK,start_answer
+134,407,26,12,"The Delaware Transportation Authority, as I understand it, is a short list of people within DelDOT, and I'm not one of them.",a,THE WITNESS,start_question
+135,411,26,16,Do you know who's on the short list?,q,MR. HEDRICK,start_answer
+136,413,26,18,I believe it's the secretary of the department.,a,THE WITNESS,start_question
+137,415,26,20,Who's that?,q,MR. HEDRICK,start_answer
+138,416,26,21,Jennifer Cohen.,a,THE WITNESS,start_question
+139,417,26,22,Who else?,q,MR. HEDRICK,start_answer
+140,418,26,23,I believe it's somebody in our Division of Finance.,a,THE WITNESS,start_question
+141,421,27,1,Do you know who?,q,MR. HEDRICK,start_answer
+142,422,27,2,I'm not certain of who that is.,a,THE WITNESS,start_question
+143,423,27,3,Okay.,q,MR. HEDRICK,start_answer
+144,424,27,4,"And that, I think, is the extent of it.",a,THE WITNESS,start_question
+145,426,27,6,Two people?,q,MR. HEDRICK,start_answer
+146,427,27,7,"I think that's what it is. As I said, I'm not part of that, but I know a little bit about it.",a,THE WITNESS,start_question
+147,430,27,10,What does the Delaware Transportation Authority do?,q,MR. HEDRICK,start_answer
+148,432,27,12,"To my knowledge, they -- it's -- I don't know.  In all honesty, I don't know what they do.",a,THE WITNESS,start_question
+149,435,27,15,Okay.  Fair enough. Do they have any employees?,q,MR. HEDRICK,start_answer
+150,437,27,17,Not to my knowledge.,a,THE WITNESS,start_question
+151,438,27,18,And what's that based on?,q,MR. HEDRICK,start_answer
+152,439,27,19,That they don't have employees?,a,THE WITNESS,start_question
+153,440,27,20,Correct.,q,MR. HEDRICK,start_answer
+154,441,27,21,"So, my understanding is the Delaware Transportation Authority was established a very long time ago for the construction of the Delaware Turnpike, I-95, and that entity existed for quite a few years and was absorbed into DelDOT. So, any -- and I don't remember exactly when it was absorbed into DelDOT, but it's been a long time now.  If I had to venture a guess, it was probably in the 1990's. And when it got absorbed, all of those employees that were Turnpike Authority employees became DelDOT employees.  So, they don't -- The Transportation Authority exists in statute only but not as really an operating division.  They're just DelDOT employees.",a,THE WITNESS,start_question
+155,460,28,15,And what is your knowledge based on as to how they were created or why?  What is that knowledge?,q,MR. HEDRICK,start_answer
+156,463,28,18,I read Title 2 of the Delaware Code.,a,THE WITNESS,start_question
+157,465,28,20,For this case or for something else?,q,MR. HEDRICK,start_answer
+158,467,28,22,Just for other business purposes.,a,THE WITNESS,start_question
+159,468,28,23,"Okay.  So, other than reading what it says in the statute about the Delaware Transportation Authority, do you have any independent knowledge of --",q,MR. HEDRICK,start_answer
+160,473,29,3,No.,a,THE WITNESS,start_question
+161,474,29,4,And do you know how many employees there were before they became part of DelDOT?,q,MR. HEDRICK,start_answer
+162,477,29,7,No.,a,THE WITNESS,start_question
+163,478,29,8,And are there employees in DelDOT that are still considered employees of the Delaware Transportation Authority?,q,MR. HEDRICK,start_answer
+164,481,29,11,Not to my knowledge.,a,THE WITNESS,start_question
+165,482,29,12,And what's that based on?,q,MR. HEDRICK,start_answer
+166,483,29,13,I used to see trucks driving around that had a Turnpike Authority emblem on the side and there aren't any anymore.,a,THE WITNESS,start_question
+167,486,29,16,Is the Turnpike Authority the same thing as Delaware Transportation Authority?,q,MR. HEDRICK,start_answer
+168,488,29,18,I thought it was.,a,THE WITNESS,start_question
+169,489,29,19,"Other than that, is there any basis?",q,MR. HEDRICK,start_answer
+170,491,29,21,No.,a,THE WITNESS,start_question
+171,492,29,22,Do you know whether the State of Delaware has any insurance relating to the Dover Toll Plaza?,q,MR. HEDRICK,start_answer
+172,496,30,1,I do not know.,a,THE WITNESS,start_question
+173,497,30,2,Do you know whether DelDOT does?,q,MR. HEDRICK,start_answer
+174,498,30,3,I do not know.,a,THE WITNESS,start_question
+175,499,30,4,"And Delaware Transportation Authority, same answer?",q,MR. HEDRICK,start_answer
+176,501,30,6,Correct.,a,THE WITNESS,start_question
+177,502,30,7,"Okay.  In preparation for your deposition, can you tell me what you reviewed?",q,MR. HEDRICK,start_answer
+178,505,30,10,I reviewed what DelDOT's maintenance authority is on I-95 and I-295.,a,THE WITNESS,start_question
+179,507,30,12,And that's relating to the Delaware Memorial Bridge?  That's why you were looking at that?,q,MR. HEDRICK,start_answer
+180,510,30,15,Correct.,a,THE WITNESS,start_question
+181,511,30,16,And what did you look at regarding that name?  What was the document called?,q,MR. HEDRICK,start_answer
+182,513,30,18,"It was -- I reached out to colleagues and asked them do you know where the boundary is between what DRBA maintains and what DelDOT maintains, and I received a map that told me where that breakpoint was.",a,THE WITNESS,start_question
+183,518,30,23,Did you bring it with you?,q,MR. HEDRICK,start_answer
+184,519,30,24,Yes.,a,THE WITNESS,start_question
+185,521,31,1,"Oh, could I see it?",q,MR. HEDRICK,start_answer
+186,522,31,2,Yes.,a,THE WITNESS,start_question
+187,523,31,3,Thank you.,q,MR. HEDRICK,start_answer
+188,524,31,4,"It didn't print very well.  So, I drew on the map so you can see where the breakpoint is.",a,THE WITNESS,start_question
+189,527,31,7,Great. Do you mind if we mark this as an exhibit to your deposition?,q,MR. HEDRICK,start_answer
+190,530,31,10,I have no problem with that. Each side with the beginning and ending of the ramps that connect to I-95.  That is what I was told and that was what was marked on there.,a,THE WITNESS,start_question
+191,535,31,15,I see.,q,MR. HEDRICK,start_answer
+192,536,31,16,"So, I-295 comes over the Delaware Memorial Bridge, it makes a connection to I-95, but where the ramp -- you know, there's an on ramp and an off ramp.  So, where those ramps terminate, that's the boundary. So, DelDOT retains everything that's to the west of that point.",a,THE WITNESS,start_chat
+193,544,31,24,"Let's mark this as Exhibit 1 if we could, which is the aerial map provided by the witness with some handwriting on it.  Which is yours?",side_chat,MR. HEDRICK,start_chat
+194,549,32,4,Yes.,side_chat,THE WITNESS,is brackets
+195,550,32,5,(Exhibit 1 was marked for identification.),brackets,,start_question
+196,553,32,8,"Now, is DelDOT responsible for the side of the line where 495 is? MR. McTAGGART:  Can you show him the map?",q,MR. HEDRICK,start_chat
+197,557,32,12,Sure.,side_chat,MR. HEDRICK,start_chat
+198,558,32,13,Where do you mean?,side_chat,THE WITNESS,start_question
+199,561,32,16,I'm pointing to north of 95 where it says 495.  Is DelDOT responsible for that?,q,MR. HEDRICK,start_answer
+200,564,32,19,DelDOT is responsible for the roadway on 495.,a,THE WITNESS,start_question
+201,566,32,21,"Okay.  So, everything on the side of this line DelDOT is responsible for; is that correct?",q,MR. HEDRICK,start_answer
+202,569,32,24,"No, because there's some municipally maintained streets in Wilmington, but....",a,THE WITNESS,start_question
+203,573,33,3,I'm looking specifically as the interstate 95 and the highway 495.,q,MR. HEDRICK,start_answer
+204,575,33,5,That's correct.  We maintain I-95 and 495.,a,THE WITNESS,start_question
+205,577,33,7,"Okay.  On the other side of the line where you have written DRBA, that means that the Delaware River and Bay Authority is responsible for that side of the roadway?",q,MR. HEDRICK,start_chat
+206,582,33,12,I object to the form.,side_chat,MS. BURLEIGH,start_chat
+207,584,33,14,Yes.,side_chat,THE WITNESS,start_question
+208,586,33,16,That side being 495 or 295?,q,MR. HEDRICK,start_answer
+209,587,33,17,Everything east of the mark I made on that map on I-295 is maintained by DRBA.,a,THE WITNESS,start_question
+210,589,33,19,Okay.,q,MR. HEDRICK,start_answer
+211,590,33,20,On I-295.,a,THE WITNESS,start_question
+212,591,33,21,And where did you get this information from where to put the line?,q,MR. HEDRICK,start_answer
+213,593,33,23,"I got that information from a woman named LaTonya Gilliam, and she is our District Engineer for North District.  She is in charge of staffing and maintaining I-95 and 495.",a,THE WITNESS,start_question
+214,599,34,4,Is she in Dover?,q,MR. HEDRICK,start_answer
+215,600,34,5,She is -- Her office is at Chapman Road in New Castle County.  I'm not sure what that area of New Castle County is called.  I don't think it's incorporated.,a,THE WITNESS,start_question
+216,604,34,9,Do you know what she based where to put the line on?,q,MR. HEDRICK,start_answer
+217,606,34,11,"It would be based on her understanding of our maintenance obligations.  So, I don't know if she has any separate documents that, you know, explain where that line falls, but the folks who work in maintenance understand where their maintenance and limits are. So, when I ask them where is the breakpoint, they tell me.",a,THE WITNESS,start_question
+218,615,34,20,How did she describe the breakpoints so you would know where to put the line?,q,MR. HEDRICK,start_answer
+219,618,34,23,"This is hers right here (indicating).  The DelDOT DRBA maintenance limits are at the end/beginning of the ramps to the Delaware Turnpike. And then the map itself was highlighted in red and yellow, but the red and yellow didn't come through when I printed it.",a,THE WITNESS,start_question
+220,627,35,7,I see.  Who highlighted red?,q,MR. HEDRICK,start_answer
+221,628,35,8,I assume that LaTonya did.,a,THE WITNESS,start_question
+222,629,35,9,And who highlighted yellow?,q,MR. HEDRICK,start_answer
+223,630,35,10,I assume LaTonya did.,a,THE WITNESS,start_question
+224,631,35,11,But you put the black line there?,q,MR. HEDRICK,start_answer
+225,632,35,12,"I put the black line there, yes.",a,THE WITNESS,start_question
+226,633,35,13,Did she review it after you put the black line?,q,MR. HEDRICK,start_answer
+227,635,35,15,No.  The black line was simply because the highlighting didn't print.,a,THE WITNESS,start_question
+228,637,35,17,"Oh, I see, okay. But it's in the same place where the red line met the yellow line; correct?",q,MR. HEDRICK,start_answer
+229,641,35,21,Correct.,a,THE WITNESS,start_question
+230,642,35,22,And that was explained to you by LaTonya that that's where the demarcation line is between what DelDOT's responsible for and what Delaware River and Bay Authority is responsible for; correct?,q,MR. HEDRICK,start_chat
+231,648,36,3,I object.,side_chat,MS. BURLEIGH,start_chat
+232,649,36,4,Correct.,side_chat,THE WITNESS,start_question
+233,651,36,6,Okay.  And in terms of -- You talked about maintenance.  What do you mean for the roadway?,q,MR. HEDRICK,start_answer
+234,654,36,9,"Maintenance of a roadway would include plowing snow, patching potholes, sealing cracks, picking up litter, mowing grass, replacing down signs, repairing guardrail, and other traffic control devices on the side of the road.  That sort of thing.",a,THE WITNESS,start_question
+235,661,36,16,"Other than telling us where the line is, can you tell me anything about the side that the Delaware River and Bay Authority is responsible for about how they maintain it, who they contract with, or anything about work that was done or being done on 295 either approaching the Delaware Memorial Bridge or on the Delaware Memorial Bridge at any time?",q,MR. HEDRICK,start_chat
+236,671,37,1,I object to the form. MR. McTAGGART,side_chat,MS. BURLEIGH,start_chat
+237,675,37,5,"Um, so, I don't, I don't have any knowledge.  I have knowledge about their bridge because they have to provide information to Delaware about the condition of the bridge that we pass through and give to the federal government.",side_chat,THE WITNESS,start_question
+238,683,37,13,What makes them required to report the condition of the bridge to DelDOT?,q,MR. HEDRICK,start_chat
+239,685,37,15,I object to form.,side_chat,MS. BURLEIGH,start_chat
+240,687,37,17,I don't understand -- MR. McTAGGART,side_chat,THE WITNESS,start_chat
+241,691,37,21,"So, um -- Can you ask the question again?",side_chat,THE WITNESS,start_question
+242,694,37,24,"Sure. You talked about that DelDOT has to report the condition of the bridge -- No, that's not right. Delaware River and Bay Authority has to report the condition of the bridge to DelDOT.  That's what you testified to; correct?",q,MR. HEDRICK,start_chat
+243,703,38,8,I object to the form. MR. McTAGGART,side_chat,MS. BURLEIGH,start_chat
+244,706,38,11,"So, yes, they have to report their -- the condition of the bridge to Delaware.",side_chat,THE WITNESS,start_question
+245,710,38,15,But my question is what requires that?,q,MR. HEDRICK,start_answer
+246,712,38,17,"I believe it is a federal regulation, but I've not actually read the federal regulation that requires it.",a,THE WITNESS,start_question
+247,715,38,20,Okay.  And what types of conditions are they required to report to DelDOT?  And they meaning Delaware River and Bay Authority.,q,MR. HEDRICK,start_answer
+248,719,38,24,"The information is standardized through the National Bridge Inventory, so there is an actual set of criteria that they have to report.  I don't know all of them off the top of my head, but they are typically the condition of the bridge deck, the condition of any steel elements. So, on that particular bridge, there would be suspension cables and the towers.  They would have to report on any structural element of the bridge, and it would include photographs and some assessment of, you know, a rating between zero and nine as to the condition, yeah.",a,THE WITNESS,start_question
+249,734,39,14,"Okay.  Let me ask a couple of questions in follow-up to that.  The National Bridge Inventory where's that located, or what kind of document is that in?",q,MR. HEDRICK,start_answer
+250,739,39,19,"It's housed by FHWA, the Federal Highway Administration.  The data that Delaware keeps is in a computer program called AASHTO Ware, A-A-S-H-T-O, which is an acronym that stands for the American Association of State Highway and Transportation Officials. So, AASHTO Ware is the software.  And within that umbrella software there's a subset called AASHTO bridge, and that's where it's held in that software.  It's a database.",a,THE WITNESS,start_question
+251,752,40,7,Does the National Bridge Inventory also dictate how often the Delaware River and Bay Authority is to report the conditions?,q,MR. HEDRICK,start_chat
+252,756,40,11,I object to the form.,side_chat,MS. BURLEIGH,start_chat
+253,758,40,13,"I don't know if the inventory dictates it, but there is a federal requirement.  I would assume it's a federal regulation, but I have not read that federal regulation. But, my bridge inspection staff tells me what that frequency is, so I know what the frequency is for my bridges.  I don't know what the frequency is for that bridge.  It's not my bridge.",side_chat,THE WITNESS,start_question
+254,769,40,24,Do you have any idea how frequently the Delaware River and Bay Authority report the conditions? Do you know what the frequency is?,q,MR. HEDRICK,start_answer
+255,775,41,5,"I do not know.  That's easily retrievable, but I don't know off the top of my head.",a,THE WITNESS,start_question
+256,778,41,8,Do you know what triggers their reporting requirement?,q,MR. HEDRICK,start_answer
+257,780,41,10,"I believe it's just time.  It's, you know, at a certain predetermined frequency they are supposed to report.",a,THE WITNESS,start_question
+258,783,41,13,"So, every so often there's a schedule?",q,MR. HEDRICK,start_answer
+259,785,41,15,Yes.,a,THE WITNESS,start_question
+260,786,41,16,"What if there's some event or problem that occurs, are they under a requirement to report that even if it doesn't fall in the schedule?",q,MR. HEDRICK,start_chat
+261,790,41,20,I object to the form.,side_chat,MS. BURLEIGH,start_chat
+262,792,41,22,"I don't, I don't know.  I know how we handle our bridges, and if there is an event that damages a bridge and the bridge is structurally compromised, then we do more frequent inspections.",side_chat,THE WITNESS,start_question
+263,800,42,5,"The reporting of the conditions of the Delaware Memorial Bridge, who do those reports go to?",q,MR. HEDRICK,start_answer
+264,803,42,8,"They go to one of my employees. His name is Jason Arndt, and he's in charge of all bridge management for DelDOT.",a,THE WITNESS,start_question
+265,806,42,11,A-R-N-D-T?,q,MR. HEDRICK,start_answer
+266,807,42,12,"Very good.  A-R-N-D-T, yeah.",a,THE WITNESS,start_question
+267,808,42,13,How long has he had that position?,q,MR. HEDRICK,start_answer
+268,809,42,14,"I don't know, but it's been a long time.  Over five years.  It's been longer than I've been in my current position.",a,THE WITNESS,start_question
+269,812,42,17,"Okay.  When he gets the reports from the Delaware River and Bay Authority about the conditions of the Delaware Memorial Bridge, what does he do with them?",q,MR. HEDRICK,start_answer
+270,816,42,21,"The information goes into our database, and then our database is reported to the Federal Highway Administration.  So, it's really just received and passed through.",a,THE WITNESS,start_question
+271,822,43,2,Why do you have to report it to the Federal Highway Administration and not the Delaware River and Bay Authority?,q,MR. HEDRICK,start_chat
+272,825,43,5,Can we stop. We're going way beyond insurance coverage here.  We're going way beyond what these depositions are supposed to be about.,side_chat,MS. BURLEIGH,start_chat
+273,829,43,9,Okay.,side_chat,MR. HEDRICK,start_chat
+274,830,43,10,"This has nothing to do with you, but that's what we were supposed to be talking about.",side_chat,MS. BURLEIGH,start_chat
+275,833,43,13,Right.,side_chat,MR. HEDRICK,start_chat
+276,834,43,14,This has nothing to do with insurance coverage whatsoever. Right?  Can we agree on that?,side_chat,MS. BURLEIGH,start_chat
+277,837,43,17,Are you instructing him not to answer?,side_chat,MR. HEDRICK,start_chat
+278,839,43,19,I'm asking you.,side_chat,MS. BURLEIGH,start_chat
+279,840,43,20,I don't have a whole lot more questions on this.  I just want to -- I'm getting to what his knowledge is and what his knowledge isn't.,side_chat,MR. HEDRICK,start_chat
+280,844,43,24,"Well, he said he knows nothing about insurance coverage and that's what these depositions were supposed to be about.",side_chat,MS. BURLEIGH,start_chat
+281,849,44,4,Are you instructing him not to answer those?,side_chat,MR. HEDRICK,start_chat
+282,851,44,6,I can't instruct him not to.,side_chat,MS. BURLEIGH,start_chat
+283,853,44,8,"I understand that.  So, can we go back to --",side_chat,MR. HEDRICK,start_chat
+284,855,44,10,Move on.,side_chat,MS. BURLEIGH,start_chat
+285,856,44,11,Okay.,side_chat,MR. HEDRICK,start_question
+286,858,44,13,"Sir, do you know why -- If the answer is you don't know, just tell me that.  Do you know why the Delaware River and Bay Authority doesn't report to the Federal Highway Administration and DelDOT does?",q,MR. HEDRICK,start_chat
+287,864,44,19,I object to the form.,side_chat,MS. BURLEIGH,start_chat
+288,866,44,21,I don't know why.,side_chat,THE WITNESS,start_question
+289,868,44,23,Okay.  And I gather from your testimony you're not the person that would go to look at any of those reports or photographs?,q,MR. HEDRICK,start_answer
+290,873,45,3,On occasion I look at that information for my own bridges.  I never look at it for Delaware Memorial Bridge.,a,THE WITNESS,start_question
+291,876,45,6,"Okay.  Right.  So, although Jason may get that information, you don't have any reason to go look at it?",q,MR. HEDRICK,start_answer
+292,879,45,9,No.,a,THE WITNESS,start_question
+293,880,45,10,Do you have any interaction with the Delaware River and Bay Authority?,q,MR. HEDRICK,start_answer
+294,882,45,12,"On occasion, yes.",a,THE WITNESS,start_question
+295,883,45,13,Who is your contact there?,q,MR. HEDRICK,start_answer
+296,884,45,14,"Their Chief Engineer is a gentleman by the name of Dave Hoppenjans, and there is a Project --",a,THE WITNESS,start_question
+297,887,45,17,Do you know how to spell that?,q,MR. HEDRICK,start_answer
+298,888,45,18,"H-O-P-P-E-N-J-A-N-S. -- and a Project Engineer that I deal with on occasion named Greg Pawlowski, PA-W-L-O-W-S-K-I.",a,THE WITNESS,start_question
+299,892,45,22,"Dave Hoppenjans, what's his title?",q,MR. HEDRICK,start_answer
+300,893,45,23,I believe he's the Chief Engineer. That's my understanding.,a,THE WITNESS,start_question
+301,896,46,1,And you have no knowledge of insurance coverage that Delaware River and Bay Authority may have?,q,MR. HEDRICK,start_answer
+302,899,46,4,I do not.,a,THE WITNESS,start_question
+303,900,46,5,"Other than looking at some maintenance documents and speaking to the woman who provided the information for Exhibit 1 where to put the line, did you look at any other documents for purposes of today?",q,MR. HEDRICK,start_answer
+304,906,46,11,No.,a,THE WITNESS,start_chat
+305,907,46,12,Those are all the questions that I have. MR. McTAGGART,side_chat,MR. HEDRICK,start_chat
+306,911,46,16,No questions.,side_chat,MR. WYNN,start_chat
+307,912,46,17,No questions. MR. McTAGGART,side_chat,MR. EKINER,symbols
+308,915,46,20,------ EXAMINATION,symbols,,symbols
+309,917,46,22,------,symbols,,start_question
+310,919,46,24,"Mr. McCleary, I have a couple questions.  Just so you know, I represent the Delaware River and Bay Authority. Okay?",q,MS. BURLEIGH,start_answer
+311,924,47,4,Okay.,a,THE WITNESS,start_question
+312,925,47,5,"With respect to the black line that you marked on Exhibit 1, did you have any communications with anyone at the Delaware River and Bay Authority to determine where to put that line?",q,MS. BURLEIGH,start_answer
+313,930,47,10,I did not.,a,THE WITNESS,start_question
+314,931,47,11,"Okay.  And with respect to any maintenance obligations the Delaware River and Bay Authority might have with respect to the Delaware Memorial Bridge, you have no idea where those are, correct?",q,MS. BURLEIGH,start_answer
+315,936,47,16,Correct.,a,THE WITNESS,start_chat
+316,937,47,17,I'm just going to reserve the right to bring this witness back should we need to do that for other purposes with respect to the other issues in the case. We weren't expecting you to testify with regard to maintenance or anything else with regard to the bridge. Okay?,side_chat,MS. BURLEIGH,start_chat
+317,947,48,2,Yes.,side_chat,THE WITNESS,start_chat
+318,948,48,3,Thanks. MR. McTAGGART,side_chat,MS. BURLEIGH,start_chat
+319,951,48,6,"No, thank you. MR. McTAGGART",side_chat,MS. SACK,start_chat
+320,954,48,9,No. MR. McTAGGART,side_chat,MR. HEDRICK,is brackets
+321,957,48,12,"(Witness was excused at 4:35 p.m.) INDEX DEPONENT:  ROBERT BRIAN McCLEARY   PAGE Examination by Mr. Hedrick        3 Examination by Ms. Burleigh      35 EXHIBITS NUMBER         DESCRIPTION          PAGE Exhibit 1   Aerial map               21 READING AND SIGNING INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason therefor on the errata sheet that appears on the following page.  DO NOT MAKE ANY MARKS OR NOTATIONS ON THE TRANSCRIPT ITSELF.  Please sign and date the errata sheet and return it to your office that the address indicated below. Our office will distribute copies of the executed errata sheet to all counsel.  If necessary, you can make additional copies of the errata sheet. Rule 30(e) governing this procedure proves the deposition may be filed as transcribed if you do not return a signed errata sheet within 30 days. RETURN ORIGINAL ERRATA SHEET TO: Wilcox & Fetzer, Ltd. 1330 King Street Wilmington DE  19801 deops@wilfet.com (302) 655-0477 DEPONENT:  ROBERT BRIAN McCLEARY Id NO      N18C-08-099 PRW PAGE/LINE    CHANGE OR CORRECTION AND",brackets,,symbols
+322,1028,51,5,---/---     -------------------------------,symbols,,symbols
+323,1030,51,6,---/---     -------------------------------,symbols,,symbols
+324,1032,51,7,---/---     -------------------------------,symbols,,symbols
+325,1034,51,8,---/---     -------------------------------,symbols,,symbols
+326,1036,51,9,---/---     -------------------------------,symbols,,symbols
+327,1038,51,10,---/---     -------------------------------,symbols,,symbols
+328,1040,51,11,"---/---     ------------------------------- I have read the foregoing any corrections or changes noted above, I accurate record of the statements made by ROBERT BRIAN McCLEARY STATE OF DELAWARE ) hereby certify that there came before me on ROBERT BRIAN McCLEARY, who was duly sworn for the respective parties; that the answers given were taken down by me in by use of computer-aided transcription and I further certify that the of the testimony given at said examination I further certify that I am not party, or otherwise interested in the event Patrick J. O'Hare, RPR",symbols,,end

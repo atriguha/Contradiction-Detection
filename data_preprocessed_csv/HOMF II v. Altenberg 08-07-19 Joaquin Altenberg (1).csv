@@ -1,0 +1,1153 @@
+,indice,page_number,line_number,text,text_type,speaker,time_added
+0,0,0,0," JOAQUIN ALTENBERG, the witness herein, having first been duly sworn on oath, was examined and testified as follows:",,,start_question
+1,107,8,13,"Joaquin, we've been through this a few times.  I'll go through the instructions just because I normally do at the beginning. If your lawyer makes an objection, just stop talking.  Let the objection be made.  She and I will talk and then you'll be instructed one way or the other. If you want to take a break at any time, let me know.  It's not going to be a problem, we'll stop.  We'll take a break. If you don't understand a question that I ask, just tell me you don't understand.  I'll rephrase it. If you give me an answer, I'll assume you heard the question, you understand it and you're giving me the best, most truthful possible answer. Do you understand those instructions?",q,MR. LIEBESMAN,start_answer
+2,128,9,9,Yes.,a,THE WITNESS,start_question
+3,129,9,10,"Just remember, too, the court reporter sitting in between us is taking everything we say verbatim, so I'd ask that you let me finish a question before you answer and also respond verbally as opposed to a shaking or nodding of the head.  Okay?",q,MR. LIEBESMAN,start_answer
+4,135,9,16,Yes.,a,THE WITNESS,start_question
+5,136,9,17,Are you aware that there was a hearing on July 23rd here in the Chancery Court concerning the last deposition that we took of you on June 21 in Houston?,q,MR. LIEBESMAN,start_answer
+6,140,9,21,Yes.,a,THE WITNESS,start_question
+7,141,9,22,You understand that it related to instructions and refusals not to answer certain questions?,q,MR. LIEBESMAN,start_answer
+8,145,10,1,Yes.,a,THE WITNESS,start_question
+9,146,10,2,Did you read the transcript of that hearing?,q,MR. LIEBESMAN,start_answer
+10,148,10,4,No.,a,THE WITNESS,start_question
+11,149,10,5,So the oath that was given to you at the beginning of this deposition has the same weight as one that would be given in a court of law.  It has the same obligation to tell the truth here today as if we were sitting in a court of law.  Do you understand that?,q,MR. LIEBESMAN,start_answer
+12,156,10,12,Yes.,a,THE WITNESS,start_question
+13,157,10,13,"Now, is there still no operating agreement for Clean Energy?",q,MR. LIEBESMAN,start_answer
+14,159,10,15,"Correct, there is none.",a,THE WITNESS,start_question
+15,160,10,16,How many employees as we sit here today?,q,MR. LIEBESMAN,start_answer
+16,162,10,18,Two.,a,THE WITNESS,start_question
+17,163,10,19,You and Daniel Gonzalez?,q,MR. LIEBESMAN,start_answer
+18,164,10,20,Yes.,a,THE WITNESS,start_question
+19,165,10,21,Any plans to hire any new employees?,q,MR. LIEBESMAN,start_answer
+20,166,10,22,Yes.,a,THE WITNESS,start_question
+21,167,10,23,What are those plans?,q,MR. LIEBESMAN,start_answer
+22,168,10,24,"We want to grow the business, so we'll obviously have to hire people.",a,THE WITNESS,start_question
+23,171,11,2,Are there imminent plans to hire a technical person or is it just --,q,MR. LIEBESMAN,start_answer
+24,173,11,4,"Oh, no, no.  We have nobody specific in mind right now.",a,THE WITNESS,start_question
+25,175,11,6,"You formed Clean Energy Nexus, LLC; correct?",q,MR. LIEBESMAN,start_answer
+26,177,11,8,Yes.,a,THE WITNESS,start_question
+27,178,11,9,Did you also at any time form any other entities with the name Clean Energy in it?,q,MR. LIEBESMAN,start_answer
+28,181,11,12,"I don't think so, no.  Oh.  Well, no, not legally.",a,THE WITNESS,start_question
+29,183,11,14,"Okay.  So when you say not ""legally,"" what are you referring to?",q,MR. LIEBESMAN,start_answer
+30,185,11,16,"Like originally, I formed Clean Energy Nexus and misspelled it.  And so I got the URL for N-E-X-I-S instead of N-E-X-U-S.  So I have the URL for Clean Energy N-E-X-I-S and, obviously, N-E-X-U-S, but that wasn't a legal formation.",a,THE WITNESS,start_question
+31,191,11,22,I've seen references to a Clean Energy Ventures.  Is that a separate entity that you formed?,q,MR. LIEBESMAN,start_answer
+32,195,12,1,No.,a,THE WITNESS,start_question
+33,196,12,2,Is VERT Investment Group still the sole owner of Clean Energy?,q,MR. LIEBESMAN,start_answer
+34,198,12,4,Yes.,a,THE WITNESS,start_question
+35,199,12,5,And you're the sole owner of VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+36,201,12,7,Yes.,a,THE WITNESS,start_question
+37,202,12,8,"Has -- so we've received unredacted copies of bank statements of Clean Energy. Just so the record is clear.  When I say ""Clean Energy"" or ""CEN,"" I'm referring to Clean Energy Nexus, LLC.  Okay?  Just so you understand when I say ""Clean Energy"" or ""CEN,"" that's the entity I'm referring to.",q,MR. LIEBESMAN,start_answer
+38,209,12,15,Yes.  Understood.,a,THE WITNESS,start_question
+39,210,12,16,Did VERT Investment Group pay -- does that entity pay any money into CEN?,q,MR. LIEBESMAN,start_answer
+40,212,12,18,"Yes.  They formed it, spent that capital to initially set it up and supported the operations.",a,THE WITNESS,start_question
+41,215,12,21,How much capital did VERT Investment Group pay into CEN?,q,MR. LIEBESMAN,start_answer
+42,217,12,23,I don't know.,a,THE WITNESS,start_question
+43,218,12,24,Can you approximate how much?,q,MR. LIEBESMAN,start_answer
+44,220,13,1,Not really.,a,THE WITNESS,start_question
+45,221,13,2,"Are we talking hundreds, thousands, tens of thousands or more?",q,MR. LIEBESMAN,start_answer
+46,223,13,4,"We're talking maybe thousands, not --",a,THE WITNESS,start_question
+47,225,13,6,Okay.  There was discussion that when the -- that there was originally a hundred dollars put into CEN.,q,MR. LIEBESMAN,start_answer
+48,228,13,9,Yes.,a,THE WITNESS,start_question
+49,229,13,10,Who or what entity paid that hundred dollars?,q,MR. LIEBESMAN,start_answer
+50,231,13,12,"I did in cash, went to the bank and deposited a hundred dollars.",a,THE WITNESS,start_question
+51,233,13,14,"The money that cam into CEN from VERT Investment Group, how was that money brought in?  Was it a check, a wire transfer into CEN's bank account or was it handled some other way?",q,MR. LIEBESMAN,start_answer
+52,238,13,19,"It was really just paying expenses for the company until the checking account got formed and then -- and then if money came in, it was wired into the checking account for the company.",a,THE WITNESS,start_question
+53,243,13,24,So the bank account was opened with Bank of America for CEN in January of 2019; correct?,q,MR. LIEBESMAN,start_answer
+54,247,14,3,That sounds right.,a,THE WITNESS,start_question
+55,248,14,4,"All right.  So when you say VERT Investment Group was paying expenses, you said up to the point where the bank account was formed for CEN?",q,MR. LIEBESMAN,start_answer
+56,252,14,8,Correct.,a,THE WITNESS,start_question
+57,253,14,9,Are those expenses memorialized anywhere?,q,MR. LIEBESMAN,start_answer
+58,255,14,11,Not yet.,a,THE WITNESS,start_question
+59,256,14,12,VERT Investment Group has its own bank account; correct?,q,MR. LIEBESMAN,start_answer
+60,258,14,14,Yes.,a,THE WITNESS,start_question
+61,259,14,15,With which bank?,q,MR. LIEBESMAN,start_answer
+62,260,14,16,Chase.,a,THE WITNESS,start_question
+63,261,14,17,Do you get bank statements for VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+64,263,14,19,"Yes, we do.",a,THE WITNESS,start_question
+65,264,14,20,Why is it that VERT Investment Group paid the expenses for CEN?,q,MR. LIEBESMAN,start_answer
+66,266,14,22,To start the company.,a,THE WITNESS,start_question
+67,267,14,23,"Since the bank account was opened for CEN, has VERT Investment Group paid any expenses for CEN?",q,MR. LIEBESMAN,start_answer
+68,271,15,2,"I am sure, yeah.",a,THE WITNESS,start_question
+69,272,15,3,"And when the expenses were paid by VERT Investment Group, were they done by writing a check and/or using a wire transfer and/or like a check card that you may have, like you get at --",q,MR. LIEBESMAN,start_answer
+70,277,15,8,Yes.,a,THE WITNESS,start_question
+71,278,15,9,All three or did you not write checks?  Was it mostly --,q,MR. LIEBESMAN,start_answer
+72,280,15,11,I don't write checks.,a,THE WITNESS,start_question
+73,281,15,12,So it was mostly money transfers and then using a check card?,q,MR. LIEBESMAN,start_answer
+74,283,15,14,Yes.,a,THE WITNESS,start_question
+75,284,15,15,Did you personally pay any expenses of CEN at any time?,q,MR. LIEBESMAN,start_answer
+76,286,15,17,Yes.,a,THE WITNESS,start_question
+77,287,15,18,Can you give me an example of what expenses you personally paid for?,q,MR. LIEBESMAN,start_answer
+78,289,15,20,"Telephone, rent.  You know, all kinds of registrations that we have on the Internet, URL, website, email services. Things like that.",a,THE WITNESS,start_question
+79,293,15,24,Were there expenses for CEN that -- strike that. So you personally paid expenses for CEN and VERT Investment Group paid expenses for CEN.  Was there some process in your mind that dictated which would be paid by you personally and which would be paid by VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+80,302,16,8,"No, I don't -- not a process, per se.  It's sort of whatever account had the money to keep the business going.",a,THE WITNESS,start_question
+81,305,16,11,And were there any other bank accounts that were used to pay CEN expenses like prior to VERT Solar Finance filing bankruptcy?  Did VERT Solar Finance pay any expenses that related to CEN?,q,MR. LIEBESMAN,start_answer
+82,310,16,16,No.,a,THE WITNESS,start_question
+83,311,16,17,Were there ever any transfers of money from CEN to VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+84,313,16,19,I don't know.,a,THE WITNESS,start_question
+85,314,16,20,Were there ever any transfers of money from CEN to you personally?,q,MR. LIEBESMAN,start_answer
+86,316,16,22,Yes.,a,THE WITNESS,start_question
+87,317,16,23,"How many transfers of money have there been from CEN to you personally, approximately?",q,MR. LIEBESMAN,start_answer
+88,321,17,2,Probably about five.,a,THE WITNESS,start_question
+89,322,17,3,Were there ever any transfers of money from CEN to any immediate family member of yours?,q,MR. LIEBESMAN,start_answer
+90,325,17,6,Yes.,a,THE WITNESS,start_question
+91,326,17,7,To whom?,q,MR. LIEBESMAN,start_answer
+92,327,17,8,To my mother-in-law.,a,THE WITNESS,start_question
+93,328,17,9,Anybody else?  Any other family members?,q,MR. LIEBESMAN,start_answer
+94,330,17,11,No.,a,THE WITNESS,start_question
+95,331,17,12,Okay.  Were there ever any transfers of moneys from CEN to any entity in which you have an ownership interest other than VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+96,335,17,16,I don't think so.,a,THE WITNESS,start_question
+97,336,17,17,"Were there ever any transfers of money from CEN into any trust or estate account that was created for the benefit of, let's say, not you but an immediate family member, including your children?",q,MR. LIEBESMAN,start_answer
+98,341,17,22,No.,a,THE WITNESS,start_question
+99,342,17,23,"So at the last deposition on June 21, you had mentioned 180 Devex.  Do you recall that?",q,MR. LIEBESMAN,start_answer
+100,346,18,2,"Not really, but --",a,THE WITNESS,start_question
+101,347,18,3,Do you --,q,MR. LIEBESMAN,start_answer
+102,348,18,4,"They do work for us, yes.",a,THE WITNESS,start_question
+103,349,18,5,I asked you what the name of the CEO was.  Do you now recall what his or her name is?,q,MR. LIEBESMAN,start_answer
+104,352,18,8,Yes.  José Garza.,a,THE WITNESS,start_question
+105,353,18,9,And where is 180 Devex located?,q,MR. LIEBESMAN,start_answer
+106,354,18,10,"They have offices in Mexico, Monterey, and I believe Miami and, obviously, Houston.",a,THE WITNESS,start_question
+107,357,18,13,"Where is José Garza located, which office?",q,MR. LIEBESMAN,start_answer
+108,359,18,15,"He's the president, I believe.  So he oversees them all.  He oversees them all.",a,THE WITNESS,start_question
+109,361,18,17,Out of where?  Where does he work out of?,q,MR. LIEBESMAN,start_answer
+110,363,18,19,"I don't know.  He's in Houston. He's in Monterey.  He just had a child, so I know he's in Monterey a lot.  I'm not sure where his home base is.",a,THE WITNESS,start_question
+111,367,18,23,How many projects is CEN involved in at the current time?,q,MR. LIEBESMAN,start_answer
+112,370,19,1,A lot.  More than ten.,a,THE WITNESS,start_question
+113,371,19,2,Less than 20?,q,MR. LIEBESMAN,start_answer
+114,372,19,3,Less than 50.,a,THE WITNESS,start_question
+115,373,19,4,Between ten and 50?,q,MR. LIEBESMAN,start_answer
+116,374,19,5,Yes.,a,THE WITNESS,start_question
+117,375,19,6,Can you sort of narrow that a little bit?,q,MR. LIEBESMAN,start_answer
+118,377,19,8,"I'm not being vague.  It's -- I -- by ""involved,"" that's a pretty broad term, so we're looking and intend to be involved in probably ten to 20.  We're actively involved right now in probably 30, 50. Somewhere in there.",a,THE WITNESS,start_question
+119,383,19,14,So there's a process that CEN follows with respect to a project; correct?,q,MR. LIEBESMAN,start_answer
+120,385,19,16,Yes.,a,THE WITNESS,start_question
+121,386,19,17,"Let's say, then, how many projects is CEN involved in where you would say you are close to NTP?  That's the initials NTP.",q,MR. LIEBESMAN,start_answer
+122,389,19,20,Probably around ten.,a,THE WITNESS,start_question
+123,390,19,21,"For those ten projects, how many clients are involved?  Is it one per project or is there one client that has multiple projects?",q,MR. LIEBESMAN,start_answer
+124,395,20,1,One client has multiple projects.,a,THE WITNESS,start_question
+125,396,20,2,So which client are you referring to that has these around ten that are ready for NTP?,q,MR. LIEBESMAN,start_answer
+126,399,20,5,"So in my head, I'm thinking of multiple clients.",a,THE WITNESS,start_question
+127,401,20,7,Okay.  I thought you said that it was one client that had those ten -- that were --,q,MR. LIEBESMAN,start_answer
+128,404,20,10,"No.  You said is it possible that one client has multiple, and I said yes.",a,THE WITNESS,start_question
+129,406,20,12,"I was asking you if that was the case, that for the ten projects you have in your mind that are near NTP, how many clients of CEN are we talking about?",q,MR. LIEBESMAN,start_answer
+130,410,20,16,Around three.,a,THE WITNESS,start_question
+131,411,20,17,Which are those three?,q,MR. LIEBESMAN,start_answer
+132,412,20,18,"Srinergy, Seaboard Solar, and Bliss Solar.",a,THE WITNESS,start_question
+133,414,20,20,What was that last one?,q,MR. LIEBESMAN,start_answer
+134,415,20,21,"Bliss, B-L-I-S-S, Solar.",a,THE WITNESS,start_question
+135,416,20,22,The second was seaboard?,q,MR. LIEBESMAN,start_answer
+136,417,20,23,"Seaboard, S-E-A-B-O-A-R-D.  Seaboard Solar.",a,THE WITNESS,start_question
+137,420,21,1,And Srinergy is located where?,q,MR. LIEBESMAN,start_answer
+138,421,21,2,Michigan.,a,THE WITNESS,start_question
+139,422,21,3,"Now, had VERT Solar Finance had a prior relationship with Srinergy?",q,MR. LIEBESMAN,start_answer
+140,424,21,5,"I've had a relationship with Prasad, the CEO, for a number of years, yes.",a,THE WITNESS,start_question
+141,426,21,7,Did VERT Solar Finance have a business relationship with Srinergy?,q,MR. LIEBESMAN,start_answer
+142,428,21,9,No.  We've been in conversations with them over the years.  We never executed an agreement with them.,a,THE WITNESS,start_question
+143,431,21,12,Have you ever done work with them? VERT Solar Finance ever do work with Srinergy?,q,MR. LIEBESMAN,start_answer
+144,434,21,15,"We attempted to, but it didn't come to fruition.",a,THE WITNESS,start_question
+145,436,21,17,"When you say you attempted to, what do you mean?",q,MR. LIEBESMAN,start_answer
+146,438,21,19,"So the first project they brought us was the Ford Performing Arts Center project, I believe.  And so that's in Detroit, outside of Detroit, or one of the, I guess has a big -- it's their big performing arts center.  So they wanted to put solar on the rooftop and car canopies in the parking lot. We originally reviewed that.  If memory serves me correct, we made them an offer.  I do recall that the project didn't perform according to the offer once we started diving into it, and so we backed out and politely said thanks, but no thanks.  So once we did the due diligence, we realized their numbers were wrong and it wasn't going to be a good yielding project.  So we declined the offer.",a,THE WITNESS,start_question
+147,456,22,12,Were there any other projects other than that Ford Performing Arts?,q,MR. LIEBESMAN,start_answer
+148,458,22,14,Yeah.  Yes.,a,THE WITNESS,start_question
+149,459,22,15,Which other?,q,MR. LIEBESMAN,start_answer
+150,460,22,16,"I don't recall, but they've brought us projects consistently over the last three or five years.  Prasad probably calls me once a month for business advice, if not more.",a,THE WITNESS,start_question
+151,465,22,21,So the projects you're doing with Srinergy -- and it's actually SRIenergy.,q,MR. LIEBESMAN,start_answer
+152,467,22,23,It's actually Srinergy.,a,THE WITNESS,start_question
+153,468,22,24,Srinergy.,q,MR. LIEBESMAN,start_answer
+154,470,23,1,Yes.,a,THE WITNESS,start_question
+155,471,23,2,"For the projects that you're doing, how many are you doing for that company that are near NTP?",q,MR. LIEBESMAN,start_answer
+156,474,23,5,Probably three.,a,THE WITNESS,start_question
+157,475,23,6,Where are those three projects?,q,MR. LIEBESMAN,start_answer
+158,476,23,7,"Upper Michigan, UP.  That's it.",a,THE WITNESS,start_question
+159,477,23,8,Upper Michigan?,q,MR. LIEBESMAN,start_answer
+160,478,23,9,Yes.,a,THE WITNESS,start_chat
+161,479,23,10,Off the record at 10:27.,side_chat,THE VIDEOGRAPHER,symbols
+162,481,23,12,--  --  --  --,symbols,,start_chat
+163,482,23,13,And we're on the record at 10:28. BY MR.,side_chat,THE VIDEOGRAPHER,start_question
+164,485,23,16,So the three projects for Srinergy are all in Upper Michigan?,q,MR. LIEBESMAN,start_answer
+165,487,23,18,Yes.  The UP it's called.  Upper Peninsula.,a,THE WITNESS,start_question
+166,489,23,20,Those three projects are close to NTP?,q,MR. LIEBESMAN,start_answer
+167,491,23,22,Yes.,a,THE WITNESS,start_question
+168,492,23,23,"Seaboard Solar, where is it located?",q,MR. LIEBESMAN,start_answer
+169,493,23,24,Massachusetts.,a,THE WITNESS,start_question
+170,495,24,1,And how many projects are you doing with Seaboard that are close to NTP?,q,MR. LIEBESMAN,start_answer
+171,497,24,3,Five.,a,THE WITNESS,start_question
+172,498,24,4,Where are those projects located?,q,MR. LIEBESMAN,start_answer
+173,499,24,5,Massachusetts.,a,THE WITNESS,start_question
+174,500,24,6,"Bliss Solar, where is it located?",q,MR. LIEBESMAN,start_answer
+175,501,24,7,New York.,a,THE WITNESS,start_question
+176,502,24,8,How many projects are close to NTP on that?,q,MR. LIEBESMAN,start_answer
+177,504,24,10,One.,a,THE WITNESS,start_question
+178,505,24,11,Where is it located?,q,MR. LIEBESMAN,start_answer
+179,506,24,12,"Right here, Philadelphia.",a,THE WITNESS,start_question
+180,507,24,13,Had you had any prior relationships prior to forming CEN with Seaboard Solar?,q,MR. LIEBESMAN,start_answer
+181,509,24,15,No.,a,THE WITNESS,start_question
+182,510,24,16,How is it that you learned of an opportunity to do work with Seaboard or CEN to do work with Seaboard?,q,MR. LIEBESMAN,start_answer
+183,513,24,19,"I've known -- I've been in this business for 15 years, so people know me and they call me.",a,THE WITNESS,start_question
+184,516,24,22,So how is it that the relationship between CEN and Seaboard started?,q,MR. LIEBESMAN,start_answer
+185,518,24,24,"The CEO of Seaboard reached out to me and said, I've got these projects I need some help on.",a,THE WITNESS,start_question
+186,522,25,3,Did CEN provide help to Seaboard?,q,MR. LIEBESMAN,start_answer
+187,523,25,4,Not yet.  We're in negotiations right now.,a,THE WITNESS,start_question
+188,525,25,6,So CEN hasn't done any work yet for Seaboard?,q,MR. LIEBESMAN,start_answer
+189,527,25,8,"Not for them, no.",a,THE WITNESS,start_question
+190,528,25,9,Okay.  Has CEN done any work for Srinergy in connection with the three projects in the Upper Peninsula?,q,MR. LIEBESMAN,start_answer
+191,531,25,12,Yes.,a,THE WITNESS,start_question
+192,532,25,13,What kind of work did CEN perform for Srinergy?,q,MR. LIEBESMAN,start_answer
+193,534,25,15,"We have supported them through the development process from site layouts to site walks, to negotiating contracts to reviewing contracts, filing for permit, filing for interconnect.  The entire development process we've been instructive.",a,THE WITNESS,start_question
+194,540,25,21,So what is CEN intending to do with Seaboard if it hasn't done anything yet and the project is taking place?,q,MR. LIEBESMAN,start_answer
+195,543,25,24,"We're expecting to go in construction on their projects in the next 40 to 60 days, assuming you don't reach out to them and cause me any grief.",a,THE WITNESS,start_question
+196,548,26,4,Bliss Solar has the one project in Philadelphia.  Has CEN done any work for Bliss Solar?,q,MR. LIEBESMAN,start_answer
+197,551,26,7,Yes.,a,THE WITNESS,start_question
+198,552,26,8,What has CEN done for Bliss Solar?,q,MR. LIEBESMAN,start_answer
+199,553,26,9,"We've filed their FAA review because they're right near the airport.  So we recommended to them.  They didn't even realize there was such a thing.  We walked them through the filing -- I walked them through the filing, filed it for them. We've done a roof walk.  We are doing a roof survey right now.  We've given them all the documentation to get the contract with the client.  So we've given them the proposal, the lease, the PPA.  They've used all our templates.  They've used our lawyers.  And we're getting ready to finalize the architectural design once we get feedback from the structural engineer.  So we've pretty much helped them throughout the entire development life cycle and will continue.",a,THE WITNESS,start_question
+200,572,27,3,When did the development life cycle for this Bliss Solar project start?,q,MR. LIEBESMAN,start_answer
+201,574,27,5,Probably a month ago.,a,THE WITNESS,start_question
+202,575,27,6,And how is it that the opportunity to work with Bliss Solar came to CEN?,q,MR. LIEBESMAN,start_answer
+203,577,27,8,"Again, Nitin Dascha, the CEO, I met him -- I can't recall exactly, but about a year ago I was in New York and I met him for drinks and talked to him about his business, and he was trying to grow into the solar space from the LED lighting business.  So he was trying to make the transition.  He brought us some projects last year.  We reviewed them.  We made offers on them. When it came down to actually funding them and doing work on them, we withdrew and requested that he file his own interconnects because we didn't believe in the location of two of his projects.  And so, unfortunately, those interconnects came back negative.  So the projects were dead.  And he showed us multiple projects like that, and unfortunately, they didn't come -- they didn't work out, but...",a,THE WITNESS,start_question
+204,597,28,3,"When you say -- you were using the word ""us"" in that answer.  When you say ""us,"" who are you talking about, VERT Solar Finance?",q,MR. LIEBESMAN,start_answer
+205,601,28,7,Clean Energy Nexus.  I'm pretty sure that we only started looking at his projects late last year.,a,THE WITNESS,start_question
+206,604,28,10,What was the circumstances that had you in New York you said a year ago to meet the CEO for drinks?,q,MR. LIEBESMAN,start_answer
+207,607,28,13,I was there for a conference.,a,THE WITNESS,start_question
+208,608,28,14,Which conference?,q,MR. LIEBESMAN,start_answer
+209,609,28,15,The -- I think it's the Green Bonds Conference.  I'm pretty sure it was that one.,a,THE WITNESS,start_question
+210,612,28,18,The Green?,q,MR. LIEBESMAN,start_answer
+211,613,28,19,Green Bonds.,a,THE WITNESS,start_question
+212,614,28,20,Bond?,q,MR. LIEBESMAN,start_answer
+213,615,28,21,B-O-N-D.  Bonds.,a,THE WITNESS,start_question
+214,616,28,22,"Now, do you recall when the Green Bonds Conference was held, were you attending in your capacity as a VERT Solar Finance representative or a Clean Energy representative?",q,MR. LIEBESMAN,start_answer
+215,622,29,3,Clean Energy Nexus.,a,THE WITNESS,start_question
+216,623,29,4,"So at whatever time that conference was, Clean Energy had been formed?",q,MR. LIEBESMAN,start_answer
+217,625,29,6,Right.,a,THE WITNESS,start_question
+218,626,29,7,What is the size of the project that you're talking about for Bliss Solar in Philadelphia?,q,MR. LIEBESMAN,start_answer
+219,629,29,10,3.8 megawatts.,a,THE WITNESS,start_question
+220,630,29,11,It's a roof mount?,q,MR. LIEBESMAN,start_answer
+221,631,29,12,It's a roof mount.,a,THE WITNESS,start_question
+222,632,29,13,What's the size of the three projects that you're working with Srinergy in Michigan?,q,MR. LIEBESMAN,start_answer
+223,635,29,16,6.8 megawatts.,a,THE WITNESS,start_question
+224,636,29,17,Are those also roof mount?,q,MR. LIEBESMAN,start_answer
+225,637,29,18,"No, they're all ground mount.",a,THE WITNESS,start_question
+226,638,29,19,"Ground.  And the project with Seaboard Solar, what's the size?",q,MR. LIEBESMAN,start_answer
+227,640,29,21,30 megawatts.,a,THE WITNESS,start_question
+228,641,29,22,30?,q,MR. LIEBESMAN,start_answer
+229,642,29,23,Yes.,a,THE WITNESS,start_question
+230,643,29,24,And is that a ground mount?,q,MR. LIEBESMAN,start_answer
+231,645,30,1,All ground mount.,a,THE WITNESS,start_question
+232,646,30,2,"For each of these projects you mentioned, have there been a PARS prepared?",q,MR. LIEBESMAN,start_answer
+233,648,30,4,Yes.,a,THE WITNESS,start_question
+234,649,30,5,"Now, I know -- we'll talk about it in more detail later -- that there was a project that CEN was involved in in Puerto Rico.  Is that project over?",q,MR. LIEBESMAN,start_answer
+235,653,30,9,No.,a,THE WITNESS,start_question
+236,654,30,10,All right.  So that's another project that CEN is involved in?,q,MR. LIEBESMAN,start_answer
+237,656,30,12,Yes.,a,THE WITNESS,start_question
+238,657,30,13,How large is that project?,q,MR. LIEBESMAN,start_answer
+239,658,30,14,Five megawatts.,a,THE WITNESS,start_question
+240,659,30,15,Is that a ground mount as well?,q,MR. LIEBESMAN,start_answer
+241,660,30,16,That's a ground mount.,a,THE WITNESS,start_question
+242,661,30,17,What's the status of that project? Is it NTP or is it ready --,q,MR. LIEBESMAN,start_answer
+243,663,30,19,It's in construction.,a,THE WITNESS,start_question
+244,664,30,20,So it's in construction?,q,MR. LIEBESMAN,start_answer
+245,665,30,21,Yes.,a,THE WITNESS,start_question
+246,666,30,22,Where in Puerto Rico is that project?,q,MR. LIEBESMAN,start_answer
+247,668,30,24,In Juncos.,a,THE WITNESS,start_question
+248,670,31,1,J-U-N-C-O-S?,q,MR. LIEBESMAN,start_answer
+249,671,31,2,Yes.,a,THE WITNESS,start_question
+250,672,31,3,What exactly is CEN doing for that project?,q,MR. LIEBESMAN,start_answer
+251,674,31,5,At this moment?,a,THE WITNESS,start_question
+252,675,31,6,Yes.,q,MR. LIEBESMAN,start_answer
+253,676,31,7,We're just construction managing.,a,THE WITNESS,start_question
+254,677,31,8,So CEN is overseeing the construction?,q,MR. LIEBESMAN,start_answer
+255,679,31,10,Yes.,a,THE WITNESS,start_question
+256,680,31,11,And who at CEN is overseeing the construction of that project?,q,MR. LIEBESMAN,start_answer
+257,682,31,13,I am.,a,THE WITNESS,start_question
+258,683,31,14,At what point do you expect that project to -- the construction to be completed and it to be producing energy?,q,MR. LIEBESMAN,start_answer
+259,686,31,17,By the end of the year.,a,THE WITNESS,start_question
+260,687,31,18,Who is the client for that project?,q,MR. LIEBESMAN,start_answer
+261,688,31,19,Srinergy.,a,THE WITNESS,start_question
+262,689,31,20,"So when I asked earlier if there were any projects CEN was involved in.  You said Srinergy, that they're all in Upper Peninsula of Michigan.  Why didn't you mention this one?",q,MR. LIEBESMAN,start_answer
+263,695,32,1,You said at NTP.,a,THE WITNESS,start_question
+264,696,32,2,Okay.,q,MR. LIEBESMAN,start_answer
+265,697,32,3,This project is beyond NTP.,a,THE WITNESS,start_question
+266,698,32,4,"Okay.  All right.  Are there any other projects that CEN is working on that are beyond NTP, other than this one?",q,MR. LIEBESMAN,start_answer
+267,701,32,7,No.,a,THE WITNESS,start_question
+268,702,32,8,When did this project in Puerto Rico get to NTP?,q,MR. LIEBESMAN,start_answer
+269,704,32,10,Last week.,a,THE WITNESS,start_question
+270,705,32,11,So the construction just started?,q,MR. LIEBESMAN,start_answer
+271,706,32,12,"Construction started about actually May 17th.  So we -- it was a facility that was damaged in the hurricane, Hurricane Maria, 2017.  So a system that currently exists there is destroyed but still there physically.  So the first part, sort of prior to construction, is clearing, cleaning, kind of like marking and grading. So that was -- we don't call it construction because it was more remediation.  But I don't know what you call -- I've never removed a project before until now, so it's kind of -- we first had to clean the place up before we could build on the site.  So that's what we've done.",a,THE WITNESS,start_question
+272,722,33,3,Are there any codevelopers on that project?,q,MR. LIEBESMAN,start_answer
+273,724,33,5,"Srinergy, I believe is calling themselves possibly codeveloper, yes.",a,THE WITNESS,start_question
+274,726,33,7,But you also consider them the client?,q,MR. LIEBESMAN,start_answer
+275,728,33,9,"They are the client, yeah.  They -- our clients are developers.",a,THE WITNESS,start_question
+276,730,33,11,So who owns the facility involved?,q,MR. LIEBESMAN,start_answer
+277,731,33,12,Clean Energy Nexus.,a,THE WITNESS,start_question
+278,732,33,13,"I mean, who owns the -- who has the lease?",q,MR. LIEBESMAN,start_answer
+279,734,33,15,"CEN Juncos Solar, LLC.",a,THE WITNESS,start_question
+280,735,33,16,So there is a Clean Energy related entity that has been formed?,q,MR. LIEBESMAN,start_answer
+281,737,33,18,"There is a company, a project company, called CEN Juncos Solar that was formed, yes.",a,THE WITNESS,start_question
+282,740,33,21,"So it's CEN Juncos Solar, LLC?",q,MR. LIEBESMAN,start_answer
+283,741,33,22,Yes.,a,THE WITNESS,start_question
+284,742,33,23,When was that formed?,q,MR. LIEBESMAN,start_answer
+285,743,33,24,"I would say like around March, early February of this year.",a,THE WITNESS,start_question
+286,746,34,2,And did you form it?,q,MR. LIEBESMAN,start_answer
+287,747,34,3,Yes.,a,THE WITNESS,start_question
+288,748,34,4,Under what state was it formed?,q,MR. LIEBESMAN,start_answer
+289,749,34,5,Delaware.,a,THE WITNESS,start_question
+290,750,34,6,It's a limited liability company; correct?,q,MR. LIEBESMAN,start_answer
+291,752,34,8,Yes.,a,THE WITNESS,start_question
+292,753,34,9,Does it have an operating agreement?,q,MR. LIEBESMAN,start_answer
+293,754,34,10,Yes.,a,THE WITNESS,start_question
+294,755,34,11,Does it have members?,q,MR. LIEBESMAN,start_answer
+295,756,34,12,"Just one member, Clean Energy Nexus.",a,THE WITNESS,start_question
+296,757,34,13,Who prepared the operating agreement for that entity?,q,MR. LIEBESMAN,start_answer
+297,759,34,15,I did.,a,THE WITNESS,start_question
+298,760,34,16,Why does that entity have an operating agreement and Clean Energy Nexus doesn't?,q,MR. LIEBESMAN,start_answer
+299,763,34,19,"Because that company is anticipated to be sold the project.  Versus Clean Energy Nexus is not going anywhere, so I haven't gotten around to it.",a,THE WITNESS,start_question
+300,767,34,23,"Are there any other Clean Energy Nexus entities that have been formed other than the company itself, Clean Energy Nexus, LLC, and the CEN Juncos Solar, LLC?",q,MR. LIEBESMAN,start_answer
+301,772,35,3,No.,a,THE WITNESS,start_question
+302,773,35,4,"Does CEN Juncos Solar, LLC have a bank account?",q,MR. LIEBESMAN,start_answer
+303,775,35,6,Yes.,a,THE WITNESS,start_question
+304,776,35,7,With which bank?,q,MR. LIEBESMAN,start_answer
+305,777,35,8,Bank of America.,a,THE WITNESS,start_question
+306,778,35,9,Does it have any money in that account?,q,MR. LIEBESMAN,start_answer
+307,780,35,11,Yes.,a,THE WITNESS,start_question
+308,781,35,12,Approximately how much?,q,MR. LIEBESMAN,start_answer
+309,782,35,13,"I'm not sure.  20,000'ish.",a,THE WITNESS,start_question
+310,783,35,14,And what is the use of that entity having its own bank account?,q,MR. LIEBESMAN,start_answer
+311,785,35,16,Just for bookkeeping.  So we pay vendors out of that account.  So it's good to -- it's easier to track if it has its own bank account.  That way I'm not going back and forth trying to figure out what -- who was paid by what entity.,a,THE WITNESS,start_question
+312,791,35,22,But you also used the Clean Energy Nexus bank account to pay vendors; correct?,q,MR. LIEBESMAN,start_answer
+313,793,35,24,I do.,a,THE WITNESS,start_question
+314,795,36,1,For that project as well?,q,MR. LIEBESMAN,start_answer
+315,796,36,2,I have.,a,THE WITNESS,start_question
+316,797,36,3,So what distinguishes which bank account you use to pay vendors on that project?,q,MR. LIEBESMAN,start_answer
+317,800,36,6,"So I've just set up that account recently, and going forward, we're going to be using that account exclusively to pay vendors.",a,THE WITNESS,start_question
+318,804,36,10,When was that bank account formed?,q,MR. LIEBESMAN,start_answer
+319,805,36,11,It's been the last four weeks.  I'd say in the last month.,a,THE WITNESS,start_question
+320,807,36,13,"So when you were deposed last on June 21st, had it been formed by then?",q,MR. LIEBESMAN,start_answer
+321,809,36,15,I don't think so.,a,THE WITNESS,start_question
+322,810,36,16,Has -- would you consider that bank account for CEN Juncos Solar to have been active during the four weeks or so it's been opened?,q,MR. LIEBESMAN,start_answer
+323,814,36,20,Active meaning taking in deposits and making payments?,a,THE WITNESS,start_question
+324,816,36,22,Yes.,q,MR. LIEBESMAN,start_answer
+325,817,36,23,Yes.,a,THE WITNESS,start_question
+326,818,36,24,How much money has been deposited into the bank account for CEN Juncos Solar?,q,MR. LIEBESMAN,start_answer
+327,821,37,2,"Probably about 200,000.",a,THE WITNESS,start_question
+328,822,37,3,And have you transferred money between the bank account for CEN and the bank account for CEN Juncos Solar?,q,MR. LIEBESMAN,start_answer
+329,825,37,6,Yes.,a,THE WITNESS,start_question
+330,826,37,7,It was always money was coming into CEN from CEN Juncos Solar or did it go both ways?,q,MR. LIEBESMAN,start_answer
+331,829,37,10,It went both ways.,a,THE WITNESS,start_question
+332,830,37,11,Why were there transfers both ways between those two accounts?,q,MR. LIEBESMAN,start_answer
+333,832,37,13,"Because some moneys were sent to us, to Clean Energy Nexus's bank account, and so, again, to try to create that trail, we moved the money into Clean -- CEN Juncos then started paying out of that and some invoices got sort of just high pressure needed to pay, so we paid them directly out of Clean Energy Nexus.  We should have been paying them out of CEN Juncos.",a,THE WITNESS,start_question
+334,841,37,22,Were there any transfers of money out of CEN Juncos Solar to you personally?,q,MR. LIEBESMAN,start_answer
+335,843,37,24,No.,a,THE WITNESS,start_question
+336,845,38,1,Were there any transfers from CEN Juncos Solar to VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+337,847,38,3,No.,a,THE WITNESS,start_question
+338,848,38,4,So the only transfers going -- or payments coming out of CEN Juncos Solar's bank account were to vendors?,q,MR. LIEBESMAN,start_answer
+339,851,38,7,"Or Clean Energy Nexus as a vendor, yes.",a,THE WITNESS,start_question
+340,853,38,9,"For the Srinergy projects in Michigan, do you intend then to form a special entity LLC like you did for Juncos?",q,MR. LIEBESMAN,start_answer
+341,856,38,12,Yes.,a,THE WITNESS,start_question
+342,857,38,13,And when will you be doing that?,q,MR. LIEBESMAN,start_answer
+343,858,38,14,It's already been done.,a,THE WITNESS,start_question
+344,859,38,15,You formed an LLC?,q,MR. LIEBESMAN,start_answer
+345,860,38,16,Yes.,a,THE WITNESS,start_question
+346,861,38,17,What's that LLC called?,q,MR. LIEBESMAN,start_answer
+347,862,38,18,"Something like Sault Tribe Holdings. I didn't form it, but that's what it's called.",a,THE WITNESS,start_question
+348,865,38,21,Sioux as in the Indian name Sioux?,q,MR. LIEBESMAN,start_answer
+349,866,38,22,Exactly.  But is not spelled S-O-I-U-X or whatever it is.  It's S-A-U-L-T.  French pronunciation.  Sault Ste. Marie of the Chippewas.,a,THE WITNESS,start_question
+350,871,39,2,Who created that LLC?,q,MR. LIEBESMAN,start_answer
+351,872,39,3,Prasad did.  Srinergy.,a,THE WITNESS,start_question
+352,873,39,4,Do you know when that LLC was created?,q,MR. LIEBESMAN,start_answer
+353,875,39,6,"Not exactly, no.",a,THE WITNESS,start_question
+354,876,39,7,"Do you have a sense of was it weeks, months?",q,MR. LIEBESMAN,start_answer
+355,878,39,9,February.,a,THE WITNESS,start_question
+356,879,39,10,Of this year?,q,MR. LIEBESMAN,start_answer
+357,880,39,11,Yeah.,a,THE WITNESS,start_question
+358,881,39,12,Is there a similar type of special purpose entity for the Seaboard Solar project?,q,MR. LIEBESMAN,start_answer
+359,884,39,15,No.,a,THE WITNESS,start_question
+360,885,39,16,What about for the Bliss Solar project here in Philly?,q,MR. LIEBESMAN,start_answer
+361,887,39,18,Yes.,a,THE WITNESS,start_question
+362,888,39,19,What's the name of that entity?,q,MR. LIEBESMAN,start_answer
+363,889,39,20,I don't know.  The developer is forming it literally as we speak.,a,THE WITNESS,start_question
+364,891,39,22,So how did you hear first about the opportunity to be involved in this Srinergy project in Puerto Rico?,q,MR. LIEBESMAN,start_answer
+365,895,40,1,"Prasad calls me, like I said, every month telling me what his business is and requesting business advice.",a,THE WITNESS,start_question
+366,898,40,4,So are you saying so that he called you and told you about this opportunity?,q,MR. LIEBESMAN,start_answer
+367,900,40,6,Yes.,a,THE WITNESS,start_question
+368,901,40,7,When was that call made?,q,MR. LIEBESMAN,start_answer
+369,902,40,8,Probably around January or December of last year.,a,THE WITNESS,start_question
+370,904,40,10,"At the time you had that first conversation with the CEO from Srinergy, what was the status of that project?",q,MR. LIEBESMAN,start_answer
+371,907,40,13,"It was an RFP, so it was in the middle of going through this process.  And he was a bidder, and so he was asking if we would go with him if he won the bid.",a,THE WITNESS,start_question
+372,911,40,17,Who issued the RFP?,q,MR. LIEBESMAN,start_answer
+373,912,40,18,I believe it was Medtronic.,a,THE WITNESS,start_question
+374,913,40,19,What type of facility is involved with that Juncos project?,q,MR. LIEBESMAN,start_answer
+375,915,40,21,It's an industrial manufacturing plant.,a,THE WITNESS,start_question
+376,917,40,23,Just one plant or is it multiple?,q,MR. LIEBESMAN,start_answer
+377,918,40,24,It's just one.  It's a large one.,a,THE WITNESS,start_question
+378,920,41,1,What type of manufacturing?,q,MR. LIEBESMAN,start_answer
+379,921,41,2,Medical devices.,a,THE WITNESS,start_question
+380,922,41,3,Did you ever see the RFP?,q,MR. LIEBESMAN,start_answer
+381,923,41,4,I saw it.,a,THE WITNESS,start_question
+382,924,41,5,"When was it issued, do you remember?",q,MR. LIEBESMAN,start_answer
+383,925,41,6,No.  It was sometime last year.,a,THE WITNESS,start_question
+384,926,41,7,Was Clean Energy involved in the response to the RFP or did you just support Srinergy in their response?,q,MR. LIEBESMAN,start_answer
+385,929,41,10,I just supported them in their response.,a,THE WITNESS,start_question
+386,931,41,12,What was the offer by CEN to Srinergy in connection with the response to the RFP?  What were you agreeing to do?,q,MR. LIEBESMAN,start_answer
+387,934,41,15,To pay them 15 cents a watt.,a,THE WITNESS,start_question
+388,935,41,16,Did anyone show you the RFP?,q,MR. LIEBESMAN,start_answer
+389,936,41,17,No.,a,THE WITNESS,start_question
+390,937,41,18,Per watt?,q,MR. LIEBESMAN,start_answer
+391,938,41,19,"So 5 megawatts is $750,000.",a,THE WITNESS,start_question
+392,939,41,20,So Srinergy submits the response RFP and they're awarded the project?,q,MR. LIEBESMAN,start_answer
+393,941,41,22,Yes.,a,THE WITNESS,start_question
+394,942,41,23,Do you recall when they were awarded the project?,q,MR. LIEBESMAN,start_answer
+395,945,42,1,In February.,a,THE WITNESS,start_question
+396,946,42,2,"By what point, then, did CEN become actively involved in that project?",q,MR. LIEBESMAN,start_answer
+397,948,42,4,Immediately after they won.,a,THE WITNESS,start_question
+398,949,42,5,What was the first thing that CEN did in connection with that project?,q,MR. LIEBESMAN,start_answer
+399,951,42,7,We gave them our form contracts for PPA and site lease.,a,THE WITNESS,start_question
+400,953,42,9,"What else, then, did CEN do for that project of Juncos?",q,MR. LIEBESMAN,start_answer
+401,955,42,11,"We've done everything, the entire development process into construction.",a,THE WITNESS,start_question
+402,957,42,13,Is Srinergy involved in the project themselves actively?,q,MR. LIEBESMAN,start_answer
+403,959,42,15,No.,a,THE WITNESS,start_question
+404,960,42,16,Is Srinergy getting paid by Medtronics --,q,MR. LIEBESMAN,start_answer
+405,962,42,18,No.,a,THE WITNESS,start_question
+406,963,42,19,-- for the project?,q,MR. LIEBESMAN,start_answer
+407,964,42,20,No.,a,THE WITNESS,start_question
+408,965,42,21,Is Medtronics paying for any of the work CEN is doing?,q,MR. LIEBESMAN,start_answer
+409,967,42,23,No.,a,THE WITNESS,start_question
+410,968,42,24,Who is paying for the work that CEN is doing on that project?,q,MR. LIEBESMAN,start_answer
+411,971,43,2,Our investors.,a,THE WITNESS,start_question
+412,972,43,3,"When you say your investors, who are you referring to?",q,MR. LIEBESMAN,start_answer
+413,974,43,5,REA.,a,THE WITNESS,start_question
+414,975,43,6,What's -- so what is REA?,q,MR. LIEBESMAN,start_answer
+415,976,43,7,They're the investor.,a,THE WITNESS,start_question
+416,977,43,8,"I know, but who is REA?  What is --",q,MR. LIEBESMAN,start_answer
+417,978,43,9,They're a Renewable Energy investment company.,a,THE WITNESS,start_question
+418,980,43,11,Where are they out of?,q,MR. LIEBESMAN,start_answer
+419,981,43,12,Missouri.,a,THE WITNESS,start_question
+420,982,43,13,Did you have a relationship with them prior to Srinergy responding to the RFP by Medtronics?,q,MR. LIEBESMAN,start_answer
+421,985,43,16,Yes.,a,THE WITNESS,start_question
+422,986,43,17,How long had you had a relationship with REA?,q,MR. LIEBESMAN,start_answer
+423,988,43,19,"So they were the tax equity on the Blue Sky projects.  There is a gentleman there called -- his name is Marc Natividad. And I knew him when he used to work for Zions Bank, and -- let's see.  I met him -- I met him even before I started VERT Solar Finance.  I met him back when I was VERT Investment Group.",a,THE WITNESS,start_question
+424,997,44,3,Did REA ever do business with VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+425,999,44,5,"I don't think REA existed when I was just working for VERT Investment Group, no.",a,THE WITNESS,start_question
+426,1001,44,7,Did REA do any work with VERT Solar Finance?,q,MR. LIEBESMAN,start_answer
+427,1003,44,9,No.,a,THE WITNESS,start_question
+428,1004,44,10,But you said that they were the equity investors in the Blue Sky?,q,MR. LIEBESMAN,start_answer
+429,1006,44,12,"They're the tax equity, correct.",a,THE WITNESS,start_question
+430,1007,44,13,So that was a VERT Solar Finance project; right?,q,MR. LIEBESMAN,start_answer
+431,1009,44,15,Correct.,a,THE WITNESS,start_question
+432,1010,44,16,So they did have involvement with VERT Solar Finance?,q,MR. LIEBESMAN,start_answer
+433,1012,44,18,"So this was kind of one of those funny situations where Marc reached out to me, asked me if we wanted to do any projects.  I said, Yes, we need help on these two projects, the Blue Sky, the North State Grocery ones.  And at the same time, Barend or Ran, the two guys from Blue Sky Utility, had reached out to Mike Mills, their CEO.  So we both came at them from two different people in the organization.  The guys that -- the Blue Sky guys were saying I was interfering with their business.  I said, No, I'm not.  Marc is an old friend. I just wanted to help the business. So we stepped back and said, We're not going to engage.  You guys do whatever it takes to get this deal done. Glad you're looking at it.  We're out. And so even though they financed it, they -- and they used our material, which we're fine with, technically, we never signed a contract with them, Blue Sky did. We let Blue Sky handle that process.  So we weren't involved.  I wasn't involved at all in that negotiation.",a,THE WITNESS,start_question
+434,1038,45,19,This goes back a few years what you're describing just now?,q,MR. LIEBESMAN,start_answer
+435,1040,45,21,"This goes back to 2017, the end of December of 2017 when we were building those projects and getting them funded, recapitalized.",a,THE WITNESS,start_question
+436,1045,46,1,So you're handling the construction of that project in Puerto Rico.  Are you then interacting with Medtronics at the same time so they know what's going on or are they disinterested?,q,MR. LIEBESMAN,start_answer
+437,1050,46,6,"No, they're very interested.",a,THE WITNESS,start_question
+438,1051,46,7,But you wouldn't consider Medtronics a client?,q,MR. LIEBESMAN,start_answer
+439,1053,46,9,"Ultimately, they're the client of the project.  They're just not the client of Clean Energy Nexus.  The project company is my client plus the developer who brought us that.  That's how we look at it.  We're here to serve Medtronic, of course, but my actual client and contract is with Srinergy.",a,THE WITNESS,start_question
+440,1060,46,16,Do you provide updates on the construction of the project?,q,MR. LIEBESMAN,start_answer
+441,1062,46,18,Absolutely.,a,THE WITNESS,start_question
+442,1063,46,19,To whom do you provide that information?,q,MR. LIEBESMAN,start_answer
+443,1065,46,21,"To all the people on the team, Medtronics, facility owners, facility managers, all the way up to their headquarters.  Our construction site manager, our construction personnel, our engineering support staff, engineering design staff.  Everybody in and around the project is informed on a weekly basis.",a,THE WITNESS,start_question
+444,1074,47,5,Has CEN outsourced any of the construction work at that project?,q,MR. LIEBESMAN,start_answer
+445,1076,47,7,All of it.,a,THE WITNESS,start_question
+446,1077,47,8,"So you're just managing -- you're overseeing the work, but CEN is not actively doing any construction?",q,MR. LIEBESMAN,start_answer
+447,1080,47,11,Correct.  We're not a construction company.,a,THE WITNESS,start_question
+448,1082,47,13,Right.  How many construction companies are involved in that project?,q,MR. LIEBESMAN,start_answer
+449,1084,47,15,"Including subs, or...",a,THE WITNESS,start_question
+450,1085,47,16,"Well, so that may be a way to approach it.  No.  Let's say did you hire one general contractor to handle the entire project or do you have multiple general contractors?",q,MR. LIEBESMAN,start_answer
+451,1090,47,21,"Right now, we have one, but there's a second engineering firm that's responsible for the parking lot design and engineering, and they report to Medtronic.  We report to them to make sure that they have what they need and really to support Medtronic in getting what they ultimately want, which is a power plant and a parking lot.",a,THE WITNESS,start_question
+452,1099,48,5,Who then is the general contractor for the power plant construction?,q,MR. LIEBESMAN,start_answer
+453,1101,48,7,"AG -- AEG, Arico Energy Group.",a,THE WITNESS,start_question
+454,1102,48,8,Where are they based out of?,q,MR. LIEBESMAN,start_answer
+455,1103,48,9,Puerto Rico.,a,THE WITNESS,start_question
+456,1104,48,10,"Do you have anybody helping CEN oversee the construction work or is it something you feel you're entirely capable of handling the construction, engineering and everything related to the construction yourself?",q,MR. LIEBESMAN,start_answer
+457,1110,48,16,"Yes, we have somebody.",a,THE WITNESS,start_question
+458,1111,48,17,Who is that person?,q,MR. LIEBESMAN,start_answer
+459,1112,48,18,Frank Bucceri.,a,THE WITNESS,start_question
+460,1113,48,19,What's the name of his company?,q,MR. LIEBESMAN,start_answer
+461,1114,48,20,Bucceri Company.,a,THE WITNESS,start_question
+462,1115,48,21,Where is that based out of?,q,MR. LIEBESMAN,start_answer
+463,1116,48,22,"Baltimore, I believe, or Bethesda.",a,THE WITNESS,start_question
+464,1117,48,23,Was he ever an employee of Clean Energy?,q,MR. LIEBESMAN,start_answer
+465,1120,49,1,No.,a,THE WITNESS,start_question
+466,1121,49,2,How far back does your relationship go with him?,q,MR. LIEBESMAN,start_answer
+467,1123,49,4,Frank?  Not too far back.  I think maybe a year.,a,THE WITNESS,start_question
+468,1125,49,6,How is it that you came about to meet him?,q,MR. LIEBESMAN,start_answer
+469,1127,49,8,"One of our advisors, Claire Broido Johnson, co-founder of SunEdison.  She's been a classmate of mine from Harvard Business School and a good friend and advisor over the years, and she said -- at one point we were talking about setting up a company together, and she asked me to interview Frank and see what I thought of him.  He's solid.",a,THE WITNESS,start_chat
+470,1136,49,17,Okay.  Let's take a break and then I'll get into exhibits.,side_chat,MR. LIEBESMAN,start_chat
+471,1139,49,20,Okay.  Off record 11:02.,side_chat,THE VIDEOGRAPHER,symbols
+472,1141,49,22,--  --  --  --,symbols,,start_chat
+473,1142,49,23,We are on the record at 11:14.,side_chat,THE VIDEOGRAPHER,start_question
+474,1146,50,2,I'm going to hand you a document marked JA 25.  And just so the record is clear.  We're continuing using exhibit numbers from the deposition taken on June 21st of you. I'll represent to you that this is a printout of the CEN website yesterday. Does that appear to be accurate?,q,MR. LIEBESMAN,start_answer
+475,1154,50,10,Yes.,a,THE WITNESS,start_question
+476,1155,50,11,"I don't have too many questions on this, but do you see where it says, ""Get to NTP in 90 Days""?",q,MR. LIEBESMAN,start_answer
+477,1158,50,14,"Yes, on the first page.",a,THE WITNESS,start_question
+478,1159,50,15,"Yeah.  Then right below it in a smaller font it says, ""CEN provides the capital, expertise, and network to complete commercial solar projects."" Do you see that?",q,MR. LIEBESMAN,start_answer
+479,1164,50,20,No.,a,THE WITNESS,start_question
+480,1165,50,21,"Right below ""Get to NTP in 90 Days""?",q,MR. LIEBESMAN,start_answer
+481,1166,50,22,"I don't have ""Get to NTP in 90 Days.""",a,THE WITNESS,start_chat
+482,1168,50,24,I don't have that either.,side_chat,MS. BROOKS,start_answer
+483,1171,51,2,I know that's the heading in our website.,a,THE WITNESS,start_question
+484,1173,51,4,Yeah.,q,MR. LIEBESMAN,start_answer
+485,1174,51,5,I think this is the second page.,a,THE WITNESS,start_question
+486,1175,51,6,"Yeah, that's the second page.  I'm going to hand you JS 26.  You can hold them together, 25 and 26.",q,MR. LIEBESMAN,start_answer
+487,1178,51,9,Okay.,a,THE WITNESS,start_question
+488,1179,51,10,This is also a printout of the CEN website yesterday.,q,MR. LIEBESMAN,start_answer
+489,1181,51,12,Okay.,a,THE WITNESS,start_question
+490,1182,51,13,"So if you'll look at JA 26 where it says get to NTP in 90 days, then below that is the sentence I had read:  ""CEN provides the capital, expertise, and network to complete commercial solar projects."" Do you see that sentence?",q,MR. LIEBESMAN,start_answer
+491,1188,51,19,Yes.,a,THE WITNESS,start_question
+492,1189,51,20,"Where it says, ""CEN provides the capital,"" what is meant by ""the capital""?",q,MR. LIEBESMAN,start_answer
+493,1191,51,22,The money.,a,THE WITNESS,start_question
+494,1192,51,23,Do you distinguish that from financing?,q,MR. LIEBESMAN,start_answer
+495,1195,52,1,No.,a,THE WITNESS,start_question
+496,1196,52,2,"And then ""expertise.""  Whose expertise are you referring to there?",q,MR. LIEBESMAN,start_answer
+497,1198,52,4,Mine.,a,THE WITNESS,start_question
+498,1199,52,5,Anybody else?,q,MR. LIEBESMAN,start_answer
+499,1200,52,6,Not specifically.  I'm sufficiently capable of developing all these projects.,a,THE WITNESS,start_question
+500,1202,52,8,"Like Daniel Gonzalez, do you include him as CEN's expertise?",q,MR. LIEBESMAN,start_answer
+501,1204,52,10,Absolutely.,a,THE WITNESS,start_question
+502,1205,52,11,"""And network.""  What do you mean when you say later in that sentence ""network to complete solar projects""?",q,MR. LIEBESMAN,start_answer
+503,1208,52,14,"So as we've learned the hard way, you know, you have to be very careful who you do business with in this industry, being an emerging industry that has a lot of surreptitious players.  So knowing who to do business with is just as important as knowing how to do it.  Frankly, it's been a challenge for everybody.",a,THE WITNESS,start_question
+504,1216,52,22,"Okay.  And then it says, ""Race to Profitability"" below that.  Do you see that?",q,MR. LIEBESMAN,start_answer
+505,1218,52,24,Yes.,a,THE WITNESS,start_question
+506,1220,53,1,"It says, ""We give you the capital tools and people to get your solar projects commercially on-line."" Are you basically referring to the same as the sentence we just went through?",q,MR. LIEBESMAN,start_answer
+507,1226,53,7,Yes.,a,THE WITNESS,start_question
+508,1227,53,8,"And then the sentence goes on to say, ""Check out our proven process below."" Do you see that sentence?",q,MR. LIEBESMAN,start_answer
+509,1230,53,11,Yes.,a,THE WITNESS,start_question
+510,1231,53,12,"When you say it's a proven process, how is it proven?  What do you mean by ""proven""?",q,MR. LIEBESMAN,start_answer
+511,1234,53,15,"So I developed this process 12, 15 years ago in developing solar -- wind farms. So we used a similar approach and sold the company and developed a lot of projects.  So it's been proven.  It works.  It's --",a,THE WITNESS,start_question
+512,1239,53,20,"But not proven limited to wind, you also include solar, your experience with solar?",q,MR. LIEBESMAN,start_answer
+513,1242,53,23,Yes.  It works in both.  Development is based on the tenets we've laid out in our process.,a,THE WITNESS,start_question
+514,1246,54,2,"If you turn to the second page in, it talks about ""The CEN Advantage.""",q,MR. LIEBESMAN,start_answer
+515,1248,54,4,Mm-hmm.,a,THE WITNESS,start_question
+516,1249,54,5,"The ""100 mega watt"" reference there, CEN itself hasn't done a hundred megawatts worth of business project development; correct?",q,MR. LIEBESMAN,start_answer
+517,1253,54,9,We have a hundred megawatts contracted across the nation.  That's what it says.  That's what we have.,a,THE WITNESS,start_question
+518,1256,54,12,Are you including VERT Solar Finance projects?,q,MR. LIEBESMAN,start_answer
+519,1258,54,14,"No, I'm not.  We have over a hundred megawatts.",a,THE WITNESS,start_question
+520,1260,54,16,Clean Energy Network does?,q,MR. LIEBESMAN,start_answer
+521,1261,54,17,Yes.,a,THE WITNESS,start_question
+522,1262,54,18,Nexus?,q,MR. LIEBESMAN,start_answer
+523,1263,54,19,Yes.,a,THE WITNESS,start_question
+524,1264,54,20,And where are those hundred megawatts?,q,MR. LIEBESMAN,start_answer
+525,1266,54,22,"Just like it shows, California, Georgia, Maryland, North Carolina, Texas and more.",a,THE WITNESS,start_question
+526,1270,55,1,"This means the projects online; correct?  Where you're talking about they may be in development, not online yet?",q,MR. LIEBESMAN,start_answer
+527,1273,55,4,Correct.,a,THE WITNESS,start_question
+528,1274,55,5,So not that you have a hundred megawatts online?,q,MR. LIEBESMAN,start_answer
+529,1276,55,7,Correct.,a,THE WITNESS,start_question
+530,1277,55,8,"Turn to page 3.  We touched an this the last deposition.  The quote from the southeast developer, you have it in quotations.  But there is no southeast developer that gave you that quote verbatim; correct?",q,MR. LIEBESMAN,start_answer
+531,1283,55,14,Correct.,a,THE WITNESS,start_question
+532,1284,55,15,"If you'd turn to JA 25, the one that says ""Our Proven Process.""  The only question I have here is that, on this first page, it references ""the critical items we will accomplish together"" and then there are eight items listed.  Are there any of those eight items that Clean Energy has on its website that VERT Solar Finance did not do?",q,MR. LIEBESMAN,start_answer
+533,1292,55,23,"VERT Solar Finance did not do the revenue contracting, the resource assessment.  Really didn't do any of the interconnection applications.  Didn't do any environmental.  Didn't do engineering construction.",a,THE WITNESS,start_question
+534,1299,56,5,Did VERT Solar Finance advertise itself as being able to do these eight items?,q,MR. LIEBESMAN,start_answer
+535,1302,56,8,"I don't know if we advertised that we could do those eight items, but this process, like I said, I had developed from years ago.  So these headings are all critical.  They're critical elements of every project.  This is nothing novel.  If truth be told, I think anybody would come to these if they worked long enough in this business.",a,THE WITNESS,start_question
+536,1311,56,17,"I'm going to hand you what has been marked JA 27.  JA 27 is a multipage document.  On the first page it says ""Confidential Information Memorandum, Clean Energy Nexus, LLC.""  And it bears Bates number Altenberg 000513 on the first page. This exhibit was marked at your prior deposition as JA 17, but it was in redacted form.  Subsequent to that deposition, we were provided unredacted copies of certain documents, including this.  Is this the unredacted version of what had been produced previously?",q,MR. LIEBESMAN,start_answer
+537,1325,57,6,Yes.,a,THE WITNESS,start_question
+538,1326,57,7,"You'll see on this first page it says ""Clean Energy Ventures,"" and that was one of the questions I asked you at the beginning.  What is Clean Energy Ventures? Was it an existing company?",q,MR. LIEBESMAN,start_answer
+539,1331,57,12,Yes.,a,THE WITNESS,start_question
+540,1332,57,13,Who formed that company?,q,MR. LIEBESMAN,start_answer
+541,1333,57,14,I don't know.,a,THE WITNESS,start_question
+542,1334,57,15,Was this a document that was provided by Clean Energy Nexus to Clean Energy Ventures?,q,MR. LIEBESMAN,start_answer
+543,1337,57,18,Yes.,a,THE WITNESS,start_question
+544,1338,57,19,It was actually provided to them?,q,MR. LIEBESMAN,start_answer
+545,1339,57,20,Yes.,a,THE WITNESS,start_question
+546,1340,57,21,And it's dated March 2019.  Is that about when it was provided to them?,q,MR. LIEBESMAN,start_answer
+547,1342,57,23,Yes.,a,THE WITNESS,start_question
+548,1343,57,24,Clean Energy Ventures has no affiliation with Clean Energy Nexus; correct?,q,MR. LIEBESMAN,start_answer
+549,1347,58,3,Correct.,a,THE WITNESS,start_question
+550,1348,58,4,"If you'd turn to page 3.  I'm really going to touch upon the information that had been redacted that now is not.  In the original production of this document, you had Elwyn Tompson's name and contact information redacted.  On this document, Elwyn Tompson is referred to as the ""Chief Technology Officer of Clean Energy Nexus."" Was he in fact the chief technology officer of Clean Energy Nexus?",q,MR. LIEBESMAN,start_answer
+551,1358,58,14,"He's never been active.  We were trying to get his assistance and support, but he never joined the team.",a,THE WITNESS,start_question
+552,1361,58,17,So why would you include him in this Confidential Information Memorandum of Clean Energy Ventures?,q,MR. LIEBESMAN,start_answer
+553,1364,58,20,"At the time, we were hopeful it was -- I was hoping he would be a supporting member.",a,THE WITNESS,start_question
+554,1367,58,23,You also had redacted the phone numbers for you and Daniel.  What was the reason for redacting your phone numbers?,q,MR. LIEBESMAN,start_answer
+555,1371,59,2,"I think the way the redaction worked is it just highlighted.  It grabs whatever it grabs.  There was no sort of, you know, kind of not redact one thing over the other.",a,THE WITNESS,start_question
+556,1375,59,6,"The phone numbers for you and Daniel that are on this document, they're the same phone number that was used for VERT Solar Finance; correct?",q,MR. LIEBESMAN,start_answer
+557,1379,59,10,"I believe so, yeah.",a,THE WITNESS,start_question
+558,1380,59,11,Is the phone number for you also the same number that you use for VERT Investment Group?,q,MR. LIEBESMAN,start_answer
+559,1383,59,14,Yes.,a,THE WITNESS,start_question
+560,1384,59,15,"If you'd turn to page 8 of the document.  At the very bottom of that chart in the middle it says, ""Green Solar Rama Projects.""",q,MR. LIEBESMAN,start_answer
+561,1388,59,19,Yes.,a,THE WITNESS,start_question
+562,1389,59,20,Is that the Seaboard Solar projects?,q,MR. LIEBESMAN,start_answer
+563,1390,59,21,No.,a,THE WITNESS,start_question
+564,1391,59,22,"What projects are referred to in this chart, then, in the middle here?",q,MR. LIEBESMAN,start_answer
+565,1393,59,24,So Green Solar Rama is a developer that we have a contract with that has projects in Massachusetts.,a,THE WITNESS,start_question
+566,1397,60,3,What's the status of those projects?,q,MR. LIEBESMAN,start_answer
+567,1398,60,4,They're in development.,a,THE WITNESS,start_question
+568,1399,60,5,Do you expect those projects to go to NTP?,q,MR. LIEBESMAN,start_answer
+569,1401,60,7,Not really.,a,THE WITNESS,start_question
+570,1402,60,8,"Above those boxes, there's a ""CEN Solar DevCo LLC.""  Has that entity been formed?",q,MR. LIEBESMAN,start_answer
+571,1405,60,11,No.,a,THE WITNESS,start_question
+572,1406,60,12,"There is a ""CEN Holdings LLC.""  Has that entity been formed?",q,MR. LIEBESMAN,start_answer
+573,1408,60,14,No.,a,THE WITNESS,start_question
+574,1409,60,15,"Then above that, there is ""CEN Solar Debt Fund LLC.""  Has that entity been formed?",q,MR. LIEBESMAN,start_answer
+575,1412,60,18,No.,a,THE WITNESS,start_question
+576,1413,60,19,"Turn to page 15.  Under the flow chart there it says, ""CEN is leveraging technology.""  Do you see that?",q,MR. LIEBESMAN,start_answer
+577,1416,60,22,Mm-hmm.  Yes.,a,THE WITNESS,start_question
+578,1417,60,23,"In the originally produced document, ""leveraging technology"" was redacted.  Can you tell me why you redacted ""leveraging technology""?  That phrase.",q,MR. LIEBESMAN,start_chat
+579,1422,61,3,"I'm sorry.  Oh, okay.  I didn't realize what page we were on.",side_chat,MS. BROOKS,start_answer
+580,1425,61,6,I have no idea why.,a,THE WITNESS,start_question
+581,1426,61,7,"All right.  What is meant by ""leveraging technology"" in that sentence on page 15?",q,MR. LIEBESMAN,start_answer
+582,1429,61,10,That we're doing -- that we're creating technology to satisfy this process.,a,THE WITNESS,start_question
+583,1431,61,12,"If you'd turn to page 17.  It says, ""Business Relationships,"" and there are different categories of entities.  Under ""Developers"" it says, ""Beltline Energy."" Has CEN had a relationship with Beltline Energy?",q,MR. LIEBESMAN,start_answer
+584,1437,61,18,Yes.,a,THE WITNESS,start_question
+585,1438,61,19,Since the formation of CEN?,q,MR. LIEBESMAN,start_answer
+586,1439,61,20,Yes.  I have -- I personally have a relationship with Steve Elkind and his colleagues.,a,THE WITNESS,start_question
+587,1442,61,23,So you mean by putting these entities here that also it includes a personal not a business relationship; correct?,q,MR. LIEBESMAN,start_answer
+588,1447,62,3,They're all business relation -- I don't personally go hang out with Steve Elkind.  I know him via business.,a,THE WITNESS,start_question
+589,1450,62,6,So Morgan Stanley as a lender. Morgan Stanley hasn't lent CEN any money; correct?,q,MR. LIEBESMAN,start_answer
+590,1453,62,9,Correct.,a,THE WITNESS,start_question
+591,1454,62,10,"If you'd turn to page 18, you have a project portfolio there.  You list 14 projects?",q,MR. LIEBESMAN,start_answer
+592,1457,62,13,Yes.,a,THE WITNESS,start_question
+593,1458,62,14,"""Dans Mountain Solar"" is number 5. What's the current status of the Dans Mountain Solar project?  Has it changed from when you were deposed on June 21?",q,MR. LIEBESMAN,start_answer
+594,1462,62,18,No.,a,THE WITNESS,start_question
+595,1463,62,19,What's the likelihood of that project getting to NTP?,q,MR. LIEBESMAN,start_answer
+596,1465,62,21,Twenty percent.,a,THE WITNESS,start_question
+597,1466,62,22,"And you have the COD dates, which are when the project begins to produce energy; correct?",q,MR. LIEBESMAN,start_answer
+598,1470,63,1,Yes.,a,THE WITNESS,start_question
+599,1471,63,2,"And for all of those, it's January 1, 2019.  Let me first ask:  Have any of those 14 projects gotten to COD?",q,MR. LIEBESMAN,start_answer
+600,1474,63,5,"None.  And that's an error.  That's obviously not the case.  Because that predates the date of this document.  Sort of saying they're all construction ready. This page comes out of a model. And we start the model -- the best way to show all the projects' economics is to start them all on the same day hypothetically.  So we should take out that line because this model works best when you lay all these projects side by side, but that's not an accurate depiction of the expected COD date.",a,THE WITNESS,start_question
+601,1486,63,17,Do you expect any of those projects to get to COD this year?,q,MR. LIEBESMAN,start_answer
+602,1488,63,19,Yes.,a,THE WITNESS,start_question
+603,1489,63,20,Which ones?,q,MR. LIEBESMAN,start_answer
+604,1490,63,21,"Medtronic; Solar Woman; Kewadin Casino-St. Ignace; Kewadin Casino Sault Ste. Marie; Kewadin -- Chi Mukwa Ice Rink. I believe State Land Community Solar is in construction.  We didn't win that contract, ultimately.  Solar Lane will be operational. That's it.",a,THE WITNESS,start_question
+605,1498,64,4,"Turn to page 25.  So when this document was originally produced, Erica Engle's name, photo and information had been redacted.  Did Erica Engle ever serve as CEN's chief operating officer?",q,MR. LIEBESMAN,start_answer
+606,1503,64,9,No.,a,THE WITNESS,start_question
+607,1504,64,10,Did Erica Engle ever receive any compensation from CEN?,q,MR. LIEBESMAN,start_answer
+608,1506,64,12,No.,a,THE WITNESS,start_question
+609,1507,64,13,Why is Erica Engle included in the team biography on page 25?,q,MR. LIEBESMAN,start_answer
+610,1509,64,15,"If we were going to secure this capital from Clean Energy Ventures, we were going to hire her in that capacity.",a,THE WITNESS,start_question
+611,1512,64,18,She would have accepted that position?,q,MR. LIEBESMAN,start_answer
+612,1514,64,20,Gladly.,a,THE WITNESS,start_question
+613,1515,64,21,How big is Clean Energy Ventures? Does it have a certain amount of money under management or --,q,MR. LIEBESMAN,start_answer
+614,1518,64,24,I don't know.  You'd have to ask them.,a,THE WITNESS,start_question
+615,1521,65,2,Where are they located?,q,MR. LIEBESMAN,start_answer
+616,1522,65,3,I don't know.,a,THE WITNESS,start_question
+617,1523,65,4,But it would have been a big deal to CEN if Clean Energy Ventures invested in the company?,q,MR. LIEBESMAN,start_answer
+618,1526,65,7,Absolutely.,a,THE WITNESS,start_question
+619,1527,65,8,"Turn to page 26.  It describes CEN's engineering partners, and it has Kenwood Energy.  Does CEN do business with Kenwood Energy?",q,MR. LIEBESMAN,start_answer
+620,1531,65,12,"Currently, no.",a,THE WITNESS,start_question
+621,1532,65,13,Did it ever?,q,MR. LIEBESMAN,start_answer
+622,1533,65,14,No.,a,THE WITNESS,start_question
+623,1534,65,15,So why are they included in this Confidential Information Memorandum?,q,MR. LIEBESMAN,start_answer
+624,1536,65,17,Because we've reached out to them to partner on projects and them being our engineering support.,a,THE WITNESS,start_question
+625,1539,65,20,"Turn to page 27, the last page.  It has ""Advisory Board Biographies.""  When originally produced, Rudy Garza and David Heitzer were redacted.  Are they part of an advisory board that CEN has?",q,MR. LIEBESMAN,start_answer
+626,1545,66,1,"They are advisors.  And we are putting together the advisory board right now.  They have been our -- my advisors at VERT Solar Finance.  And the reason I redacted Rudy and David is those were the two people you hadn't harassed, so I didn't want them to get harassing phone calls.",a,THE WITNESS,start_question
+627,1552,66,8,"Ankur Laroia, have I contacted him?",q,MR. LIEBESMAN,start_answer
+628,1553,66,9,Yes.,a,THE WITNESS,start_question
+629,1554,66,10,I guess I have to contact David and Rudy next.  But --,q,MR. LIEBESMAN,start_answer
+630,1556,66,12,That's exactly what I didn't want to have happened.,a,THE WITNESS,start_question
+631,1558,66,14,"Well, if you read the transcript, you see I have the right to do this.  You should read the transcript.",q,MR. LIEBESMAN,start_answer
+632,1561,66,17,"Sure, harass --",a,THE WITNESS,start_chat
+633,1562,66,18,Okay.,side_chat,MS. BROOKS,start_question
+634,1563,66,19,"Joaquin, I highly suggest you read the transcript and see what the judge had to say.",q,MR. LIEBESMAN,start_answer
+635,1566,66,22,I have.,a,THE WITNESS,start_question
+636,1567,66,23,"When I asked you if you read the transcript, you said you didn't.",q,MR. LIEBESMAN,start_answer
+637,1570,67,1,"I haven't read the entire transcript, but I have read the motion that you sent, the piece of paper.",a,THE WITNESS,start_question
+638,1573,67,4,But then you haven't read the transcript?,q,MR. LIEBESMAN,start_answer
+639,1575,67,6,I have not read the entire transcript.,a,THE WITNESS,start_chat
+640,1577,67,8,"Andrea, you can let him answer the question.",side_chat,MR. LIEBESMAN,start_chat
+641,1579,67,10,I didn't answer.,side_chat,MS. BROOKS,start_chat
+642,1580,67,11,No.  You're shaking your head no.,side_chat,MR. LIEBESMAN,start_question
+643,1583,67,14,"So you've read the motion, you have not read the transcript?",q,MR. LIEBESMAN,start_answer
+644,1585,67,16,Correct.,a,THE WITNESS,start_question
+645,1586,67,17,"Messrs. Garza, Heitzer and Laroia were advisors to you at VERT Solar Finance; correct?",q,MR. LIEBESMAN,start_answer
+646,1589,67,20,Yes.,a,THE WITNESS,start_question
+647,1590,67,21,"Joaquin, you've been handed a document marked JA 28.  It was JA 18 at the June 21st deposition.  It is a ""Notice of Intent to Hold an Auction for the Sale of Long-Term Solar Power Purchase Agreement 'PJM-MD. Solar Project,' prepared by Clean Energy Nexus.""  Do you see this?",q,MR. LIEBESMAN,start_answer
+648,1598,68,4,Yes.,a,THE WITNESS,start_question
+649,1599,68,5,Was this document in this form given to anybody?,q,MR. LIEBESMAN,start_answer
+650,1601,68,7,Yes.,a,THE WITNESS,start_question
+651,1602,68,8,How many people received this document from you or anyone else at Clean Energy?,q,MR. LIEBESMAN,start_answer
+652,1605,68,11,I'm not sure.,a,THE WITNESS,start_question
+653,1606,68,12,Was the PPA ever signed for that project?,q,MR. LIEBESMAN,start_answer
+654,1608,68,14,No.,a,THE WITNESS,start_question
+655,1609,68,15,"If you'd turn to page 2, the second page in, there is a Table of Contents.  Were any intent to bids provided to CEN as a result of this notice?",q,MR. LIEBESMAN,start_answer
+656,1613,68,19,I believe we received two.,a,THE WITNESS,start_question
+657,1614,68,20,Did those two bidders get into due diligence?,q,MR. LIEBESMAN,start_answer
+658,1616,68,22,We're still in conversation with them.  The project is having issues that we didn't foresee.,a,THE WITNESS,start_question
+659,1620,69,1,Is this the connectivity issues we discussed last time?,q,MR. LIEBESMAN,start_answer
+660,1622,69,3,"It's more than interconnection, but, yes, it's definitely still interconnect.  We don't have the interconnection on this.",a,THE WITNESS,start_question
+661,1625,69,6,"So if you'd turn to page 7.  The reason why I asked is, if this was provided to other people, I mean, is this how you understand it was provided to individuals with the no information put in in that chart that's on page 7?",q,MR. LIEBESMAN,start_answer
+662,1631,69,12,"Of course.  This is an intent to bid.  They need to fill that in.  That's their -- they're bidding, so they put those numbers in.",a,THE WITNESS,start_question
+663,1635,69,16,You've been handed a document marked JA 29.  It is a Bank of America bank statement for CEN for the month of May 2019. It was marked in redacted form at the June 21 deposition as JA 24. This is the bank account statement from Bank of America for Clean Energy Nexus; correct?,q,MR. LIEBESMAN,start_answer
+664,1643,69,24,Correct.,a,THE WITNESS,start_question
+665,1645,70,1,"And there are a number of entries that I want to, all of which were redacted, that I want to go through with you.  Turn to page 3.  On May 6th, 2019, there was a wire transfer from Leonard Weisman in the amount of $25,000 into CEN's account; correct?",q,MR. LIEBESMAN,start_answer
+666,1651,70,7,Correct.,a,THE WITNESS,start_question
+667,1652,70,8,What was the purpose of that wire transfer?,q,MR. LIEBESMAN,start_answer
+668,1654,70,10,"I asked for a loan from my mother-in-law, and she gave it to me.",a,THE WITNESS,start_question
+669,1656,70,12,And Leonard Weisman is your father-in-law; correct?,q,MR. LIEBESMAN,start_answer
+670,1658,70,14,Correct.,a,THE WITNESS,start_question
+671,1659,70,15,So did the money come from your father-in-law or your mother-in-law?,q,MR. LIEBESMAN,start_answer
+672,1661,70,17,My mother-in-law.,a,THE WITNESS,start_question
+673,1662,70,18,Is there a loan agreement?,q,MR. LIEBESMAN,start_answer
+674,1663,70,19,Yes.,a,THE WITNESS,start_question
+675,1664,70,20,What does the loan agreement provide as far as the amount to be loaned and when repayment would be made?,q,MR. LIEBESMAN,start_answer
+676,1667,70,23,It's exactly the amount of the loan and when repayment would be made.,a,THE WITNESS,start_question
+677,1670,71,1,Was there any terms about interest rate?,q,MR. LIEBESMAN,start_answer
+678,1672,71,3,Yes.,a,THE WITNESS,start_question
+679,1673,71,4,And who is that loan between?  Who are the parties to that loan agreement?,q,MR. LIEBESMAN,start_answer
+680,1675,71,6,Clean Energy Nexus and some trust of Eileen's.,a,THE WITNESS,start_question
+681,1677,71,8,Why is it that you were dealing with your mother-in-law as opposed to your father-in-law for this loan?,q,MR. LIEBESMAN,start_answer
+682,1680,71,11,"Well, she's -- she controls the purse.",a,THE WITNESS,start_question
+683,1682,71,13,Did your father-in-law know about this loan?,q,MR. LIEBESMAN,start_answer
+684,1684,71,15,I don't know.,a,THE WITNESS,start_question
+685,1685,71,16,Did you discuss this loan with your father-in-law at any time?,q,MR. LIEBESMAN,start_answer
+686,1687,71,18,No.,a,THE WITNESS,start_question
+687,1688,71,19,"So after the 25,000 is wired into CEN, if you look at the withdrawals just below it, there's a payment to Daniel Gonzalez in the amount of $5,000.  Do you see that?",q,MR. LIEBESMAN,start_answer
+688,1693,71,24,Yes.,a,THE WITNESS,start_question
+689,1695,72,1,What was that payment for?,q,MR. LIEBESMAN,start_answer
+690,1696,72,2,For services rendered.  For working for us.,a,THE WITNESS,start_question
+691,1698,72,4,That's compensation for his work?,q,MR. LIEBESMAN,start_answer
+692,1699,72,5,Yes.,a,THE WITNESS,start_question
+693,1700,72,6,"And was he -- were any taxes taken out, any Social Security taken out of that money, or was that something he'd have to deal with?",q,MR. LIEBESMAN,start_answer
+694,1704,72,10,That's something he has to deal with.,a,THE WITNESS,start_question
+695,1706,72,12,At some point Gusto is retained to provide payroll services; correct?,q,MR. LIEBESMAN,start_answer
+696,1708,72,14,Yes.,a,THE WITNESS,start_question
+697,1709,72,15,But that hadn't happened yet?,q,MR. LIEBESMAN,start_answer
+698,1710,72,16,Correct.,a,THE WITNESS,start_question
+699,1711,72,17,"And then the next entry shows a payment of 5,000 going to Bucceri Company. Do you see that?",q,MR. LIEBESMAN,start_answer
+700,1714,72,20,Yes.,a,THE WITNESS,start_question
+701,1715,72,21,What was that payment for?,q,MR. LIEBESMAN,start_answer
+702,1716,72,22,Services rendered.,a,THE WITNESS,start_question
+703,1717,72,23,In connection with what?,q,MR. LIEBESMAN,start_answer
+704,1718,72,24,I don't know.  I'd have to go back and check.,a,THE WITNESS,start_question
+705,1721,73,2,"Well, how many projects is CEN working with bow cherry company on?",q,MR. LIEBESMAN,start_answer
+706,1723,73,4,Almost every one.,a,THE WITNESS,start_question
+707,1724,73,5,Does Bucceri Company have one contract with CEN for the services it provides or are there multiple for each project?,q,MR. LIEBESMAN,start_answer
+708,1728,73,9,They're multiple.,a,THE WITNESS,start_question
+709,1729,73,10,"And then there's a wire, the next one.  May 10th, there's a wire going out in the amount of a thousand dollars to you at USAA Federal Savings; correct?",q,MR. LIEBESMAN,start_answer
+710,1733,73,14,Yes.,a,THE WITNESS,start_question
+711,1734,73,15,What's that payment for?,q,MR. LIEBESMAN,start_answer
+712,1735,73,16,I'm not sure.,a,THE WITNESS,start_question
+713,1736,73,17,That's your personal savings account?,q,MR. LIEBESMAN,start_answer
+714,1738,73,19,Correct.  Or bank -- checking account probably.,a,THE WITNESS,start_question
+715,1740,73,21,It's a personal account; correct?,q,MR. LIEBESMAN,start_answer
+716,1741,73,22,Correct.,a,THE WITNESS,start_question
+717,1742,73,23,What did your mother-in-law understand the loan proceeds to be used for? Did she think it was business or did she know that you'd be taking some money out yourself?,q,MR. LIEBESMAN,start_answer
+718,1748,74,4,I don't recall us even talking about it.  There is no stipulation.,a,THE WITNESS,start_question
+719,1750,74,6,"On these withdrawals that we've been talking about and all the others, who besides you can effectuate a withdrawal or a transfer from this bank account?",q,MR. LIEBESMAN,start_answer
+720,1754,74,10,Nobody.,a,THE WITNESS,start_question
+721,1755,74,11,Is there anyone that has access to this bank account other than you?  Check signing?,q,MR. LIEBESMAN,start_answer
+722,1758,74,14,Bookkeeping -- we don't have checks. We don't have check signing.  Bookkeepers and my wife has access.,a,THE WITNESS,start_question
+723,1761,74,17,There was at least at one point one card issued for this account; correct?,q,MR. LIEBESMAN,start_answer
+724,1763,74,19,A what card?,a,THE WITNESS,start_question
+725,1764,74,20,A bank card.,q,MR. LIEBESMAN,start_answer
+726,1765,74,21,Yes.,a,THE WITNESS,start_question
+727,1766,74,22,Like a debit card?,q,MR. LIEBESMAN,start_answer
+728,1767,74,23,Yes.,a,THE WITNESS,start_question
+729,1768,74,24,How many debit cards are out for this account?,q,MR. LIEBESMAN,start_answer
+730,1771,75,2,Two.,a,THE WITNESS,start_question
+731,1772,75,3,And who holds those cards?,q,MR. LIEBESMAN,start_answer
+732,1773,75,4,I do.,a,THE WITNESS,start_question
+733,1774,75,5,You hold both?,q,MR. LIEBESMAN,start_answer
+734,1775,75,6,"Well, one was compromised, so I had to get another one.",a,THE WITNESS,start_question
+735,1777,75,8,That happened more recently; correct?,q,MR. LIEBESMAN,start_answer
+736,1779,75,10,Right.,a,THE WITNESS,start_question
+737,1780,75,11,So but how many actual -- so --,q,MR. LIEBESMAN,start_answer
+738,1781,75,12,There is only one card.,a,THE WITNESS,start_question
+739,1782,75,13,There is only one debit card?,q,MR. LIEBESMAN,start_answer
+740,1783,75,14,That I hold.,a,THE WITNESS,start_question
+741,1784,75,15,"Even when -- in May when we're looking at these later, we'll see some debit card transactions.  Are they all yours?",q,MR. LIEBESMAN,start_answer
+742,1787,75,18,Yes.,a,THE WITNESS,start_question
+743,1788,75,19,"Like medical spas and Chick-fil-A, it's all you?",q,MR. LIEBESMAN,start_answer
+744,1790,75,21,Yes.,a,THE WITNESS,start_question
+745,1791,75,22,"The next wire after the one to you for a thousand is for -- it just says ""Texas IOLTA Trust Account, $2500.""  Is that the payment to a law firm?",q,MR. LIEBESMAN,start_answer
+746,1796,76,2,Yes.,a,THE WITNESS,start_question
+747,1797,76,3,Which firm is that a payment to?  Is that your bankruptcy firm?,q,MR. LIEBESMAN,start_answer
+748,1799,76,5,Yes.,a,THE WITNESS,start_question
+749,1800,76,6,"Then on the 15th, there is another wire transfer to you at your USAA account, correct, in the amount of $2,000?",q,MR. LIEBESMAN,start_answer
+750,1803,76,9,Yes.,a,THE WITNESS,start_question
+751,1804,76,10,And what was that for?,q,MR. LIEBESMAN,start_answer
+752,1805,76,11,I don't know.,a,THE WITNESS,start_question
+753,1806,76,12,"Five days earlier, you had taken out -- you had transferred to yourself a thousand dollars to that account; right?",q,MR. LIEBESMAN,start_answer
+754,1809,76,15,Yes.,a,THE WITNESS,start_question
+755,1810,76,16,"Any reason why you just didn't transfer the 3,000 when you transferred the money to yourself?",q,MR. LIEBESMAN,start_answer
+756,1813,76,19,Probably low on funds.,a,THE WITNESS,start_question
+757,1814,76,20,So you just take it as needed type of a thing?,q,MR. LIEBESMAN,start_answer
+758,1816,76,22,"I'm not sure what was behind that, but yeah, we're being pretty frugal.",a,THE WITNESS,start_question
+759,1818,76,24,Then there is another transfer to you on the 17th for a thousand dollars.  Do you see that?,q,MR. LIEBESMAN,start_answer
+760,1822,77,3,Yes.,a,THE WITNESS,start_question
+761,1823,77,4,Do you know where that money went? It doesn't appear to go into the USAA account?,q,MR. LIEBESMAN,start_answer
+762,1826,77,7,It probably went into my personal account.,a,THE WITNESS,start_question
+763,1828,77,9,Is that the account that you have at Chase?,q,MR. LIEBESMAN,start_answer
+764,1830,77,11,Yes.,a,THE WITNESS,start_question
+765,1831,77,12,So what would distinguish in your mind between why you would wire money to your USAA account as opposed to your Chase account?,q,MR. LIEBESMAN,start_answer
+766,1835,77,16,"If there were some bills that I was paying and felt we needed to be reimbursed and I used my USAA account, then I would reimburse USAA.  If it was something that I paid from my personal checking account, then I would reimburse that account.",a,THE WITNESS,start_question
+767,1841,77,22,Are you saying that these are reimbursements of expenses?,q,MR. LIEBESMAN,start_answer
+768,1843,77,24,"In all likelihood, yes.",a,THE WITNESS,start_question
+769,1845,78,1,Does CEN have a bookkeeper?,q,MR. LIEBESMAN,start_answer
+770,1846,78,2,"Not currently, no.",a,THE WITNESS,start_question
+771,1847,78,3,Did it ever?,q,MR. LIEBESMAN,start_answer
+772,1848,78,4,No.,a,THE WITNESS,start_question
+773,1849,78,5,"And then -- I don't want to jump around too much because I want to try to do this in sort of chronological order.  If you'd turn to page 4, the next page, you'll see in the middle and bottom that these are transactions using the debit card for that account.  Correct?",q,MR. LIEBESMAN,start_answer
+774,1856,78,12,Yes.,a,THE WITNESS,start_question
+775,1857,78,13,"So, I mean, I see, you know, the first few entries, it's ""Petromart, Subway, Cask and Larder, JR Grill.""  Those are all expenses that you used the card to pay; correct?",q,MR. LIEBESMAN,start_answer
+776,1862,78,18,Correct.,a,THE WITNESS,start_question
+777,1863,78,19,And then it looks like -- did you travel to Puerto Rico at some point early in May?,q,MR. LIEBESMAN,start_answer
+778,1866,78,22,Yes.,a,THE WITNESS,start_question
+779,1867,78,23,"Then I see ""Github.com,"" the very last entry on that page.  Do you see that?",q,MR. LIEBESMAN,start_answer
+780,1870,79,1,Yes.,a,THE WITNESS,start_question
+781,1871,79,2,What do you use Github.com for?,q,MR. LIEBESMAN,start_answer
+782,1872,79,3,It's a repository for software.,a,THE WITNESS,start_question
+783,1873,79,4,So what exactly do you use it for?,q,MR. LIEBESMAN,start_answer
+784,1874,79,5,I don't use it at all.,a,THE WITNESS,start_question
+785,1875,79,6,"Well, there is a $7 charge.  Is it a regular charge for access?",q,MR. LIEBESMAN,start_answer
+786,1877,79,8,It's a repository for software. That's exactly what GitHub is.  It's an online service.  You buy and they store your software.,a,THE WITNESS,start_question
+787,1881,79,12,"If you look at the next page, page 5, the third entry down for May 6th, there is a charge on the card for Google G Suite. Do you see that?",q,MR. LIEBESMAN,start_answer
+788,1885,79,16,Yes.,a,THE WITNESS,start_question
+789,1886,79,17,What is that?,q,MR. LIEBESMAN,start_answer
+790,1887,79,18,That's our email service on Google.,a,THE WITNESS,start_question
+791,1888,79,19,So that's just part of a standard fee to maintain the service?,q,MR. LIEBESMAN,start_answer
+792,1890,79,21,Right.,a,THE WITNESS,start_question
+793,1891,79,22,"Okay.  And then I see ""Kroger."" There is a small charge there, ""Kroger, Houston.""  So do you use there debit card for personal purchases as well?",q,MR. LIEBESMAN,start_answer
+794,1896,80,2,No.,a,THE WITNESS,start_question
+795,1897,80,3,So do you recall what you would have gotten at Kroger in Houston for $7.24?,q,MR. LIEBESMAN,start_answer
+796,1899,80,5,"Yeah.  I had a meeting, and we just went to Kroger and got a sandwich, so...",a,THE WITNESS,start_question
+797,1901,80,7,"Okay.  There is an entry on May 9th for ""WeWork""?",q,MR. LIEBESMAN,start_answer
+798,1903,80,9,Yes.,a,THE WITNESS,start_question
+799,1904,80,10,Is that the office space that you use?,q,MR. LIEBESMAN,start_answer
+800,1906,80,12,Yes.,a,THE WITNESS,start_question
+801,1907,80,13,"The next one is ""RingCentral."" What's RingCentral?",q,MR. LIEBESMAN,start_answer
+802,1909,80,15,That's the telephone services that we use.,a,THE WITNESS,start_question
+803,1911,80,17,For CEN?,q,MR. LIEBESMAN,start_answer
+804,1912,80,18,Yes.,a,THE WITNESS,start_question
+805,1913,80,19,"""Prosperworks.""  What's that?",q,MR. LIEBESMAN,start_answer
+806,1914,80,20,"That's the CRM solution called Copper.  It's now termed ""Copper.""  Their former name was Prosperworks.",a,THE WITNESS,start_question
+807,1917,80,23,Is that to help track sales?,q,MR. LIEBESMAN,start_answer
+808,1918,80,24,Yes.,a,THE WITNESS,start_question
+809,1920,81,1,"Then down on May 13 there is ""Randalls Store.""  That's a supermarket; correct?",q,MR. LIEBESMAN,start_answer
+810,1923,81,4,Correct.,a,THE WITNESS,start_question
+811,1924,81,5,What did you buy that was CEN related for $79.46 from there?,q,MR. LIEBESMAN,start_answer
+812,1926,81,7,Let's see.  5/13.  Probably just waters and Cokes and stuff for the office. Nothing --,a,THE WITNESS,start_question
+813,1929,81,10,All right.,q,MR. LIEBESMAN,start_answer
+814,1930,81,11,Nothing too major.,a,THE WITNESS,start_question
+815,1931,81,12,"If you go down two more, there is $75 to Camp Gladiator.  That's a boot camp; right?",q,MR. LIEBESMAN,start_answer
+816,1934,81,15,"Boot camp, yeah.",a,THE WITNESS,start_question
+817,1935,81,16,Why is that being charged to CEN?,q,MR. LIEBESMAN,start_answer
+818,1936,81,17,"So we were going to start encouraging people to work out.  The idea was we could either buy them a trial membership and create a healthy competition between Daniel and myself to get in shape or -- it didn't quite work.  We're all still kind of fat and slow, but...",a,THE WITNESS,start_question
+819,1943,81,24,Was there anyone else who used the services of Camp Gladiator as a result of that $75 fee?,q,MR. LIEBESMAN,start_answer
+820,1947,82,3,Other than me?,a,THE WITNESS,start_question
+821,1948,82,4,Other than you.,q,MR. LIEBESMAN,start_answer
+822,1949,82,5,And Daniel?,a,THE WITNESS,start_question
+823,1950,82,6,Did Daniel use it?,q,MR. LIEBESMAN,start_answer
+824,1951,82,7,I don't think so.,a,THE WITNESS,start_question
+825,1952,82,8,Lodestone Legal is the next one for 2500?,q,MR. LIEBESMAN,start_answer
+826,1954,82,10,Yes.,a,THE WITNESS,start_question
+827,1955,82,11,What services did Lodestone Legal provide?,q,MR. LIEBESMAN,start_answer
+828,1957,82,13,"They provided all kinds of legal services around PPAs and contracts, everything to do with project development. They're a solar-focused legal firm.",a,THE WITNESS,start_question
+829,1961,82,17,"All right.  How about the last entry on that page, Helioscope Folsom?",q,MR. LIEBESMAN,start_answer
+830,1963,82,19,Yes.,a,THE WITNESS,start_question
+831,1964,82,20,That's software as well?,q,MR. LIEBESMAN,start_answer
+832,1965,82,21,Yes.,a,THE WITNESS,start_question
+833,1966,82,22,For CEN?,q,MR. LIEBESMAN,start_answer
+834,1967,82,23,Yes.,a,THE WITNESS,start_question
+835,1968,82,24,What type of software is Helioscope?,q,MR. LIEBESMAN,start_answer
+836,1970,83,1,Helioscope is the design software to lay out a system on a rooftop or ground mount.,a,THE WITNESS,start_question
+837,1973,83,4,Had CEN used Helioscope prior to this purchase?,q,MR. LIEBESMAN,start_answer
+838,1975,83,6,Yes.,a,THE WITNESS,start_question
+839,1976,83,7,So this is just an ongoing service fee?,q,MR. LIEBESMAN,start_answer
+840,1978,83,9,"A monthly fee, yes.",a,THE WITNESS,start_question
+841,1979,83,10,"At the top of page 6, there's a charge of $55 for Topside.  What is Topside?",q,MR. LIEBESMAN,start_answer
+842,1981,83,12,"What is Top -- oh, they're a t-shirt company.  That's right.",a,THE WITNESS,start_question
+843,1983,83,14,What was the purpose of that?,q,MR. LIEBESMAN,start_answer
+844,1984,83,15,We wanted them to design some logo T-shirts and marketing material.,a,THE WITNESS,start_question
+845,1986,83,17,"Then if you go back to page 3 on the 20th of May comes a wire deposit in the amount of $500,707.  Do you see that?",q,MR. LIEBESMAN,start_answer
+846,1989,83,20,Yes.,a,THE WITNESS,start_question
+847,1990,83,21,"And for the originator, it says, is ""State TC Fund 9, LLC.""  Do you see that?",q,MR. LIEBESMAN,start_answer
+848,1992,83,23,Yes.,a,THE WITNESS,start_question
+849,1993,83,24,Who's State TC Fund 9?,q,MR. LIEBESMAN,start_answer
+850,1995,84,1,I don't know.,a,THE WITNESS,start_question
+851,1996,84,2,Who was behind CEN getting this particular wire transfer?,q,MR. LIEBESMAN,start_answer
+852,1998,84,4,REA.,a,THE WITNESS,start_question
+853,1999,84,5,"And how was it that that amount was determined that it would be wired to CEN, that specific amount?",q,MR. LIEBESMAN,start_answer
+854,2002,84,8,That's in our contract.,a,THE WITNESS,start_question
+855,2003,84,9,"And is it triggered off an event, that payment?",q,MR. LIEBESMAN,start_answer
+856,2005,84,11,Yes.,a,THE WITNESS,start_question
+857,2006,84,12,What's the event that it's triggered off of?,q,MR. LIEBESMAN,start_answer
+858,2008,84,14,The signing of the contract.,a,THE WITNESS,start_question
+859,2009,84,15,"So after that money comes in, again, there is a number of withdrawals.  If you'll look, still on page 3, there is a wire that goes out in the amount of a little bit over $19,000 to Bucceri Company?",q,MR. LIEBESMAN,start_answer
+860,2014,84,20,Yes.,a,THE WITNESS,start_question
+861,2015,84,21,Do you know what that was for?,q,MR. LIEBESMAN,start_answer
+862,2016,84,22,"Invoices, services rendered.",a,THE WITNESS,start_question
+863,2017,84,23,"Then there is, the next one there below it, is a wire to McConnell Valdes?",q,MR. LIEBESMAN,start_answer
+864,2020,85,1,Yes.,a,THE WITNESS,start_question
+865,2021,85,2,"$5,000?",q,MR. LIEBESMAN,start_answer
+866,2022,85,3,Yes.,a,THE WITNESS,start_question
+867,2023,85,4,That's the law firm in Puerto Rico?,q,MR. LIEBESMAN,start_answer
+868,2024,85,5,Yes.,a,THE WITNESS,start_question
+869,2025,85,6,Is that related to the project there in Puerto Rico?,q,MR. LIEBESMAN,start_answer
+870,2027,85,8,Yes.  It's the retainer.,a,THE WITNESS,start_question
+871,2028,85,9,"And then if you go to page 4 at the top, there's a wire that goes out to you in the amount of $100,000.  Right?",q,MR. LIEBESMAN,start_answer
+872,2031,85,12,Yes.,a,THE WITNESS,start_question
+873,2032,85,13,"And it's at that time that May 20th that you also paid the retainer to Andrea's law firm in the amount of $50,000; correct?",q,MR. LIEBESMAN,start_answer
+874,2035,85,16,Yes.,a,THE WITNESS,start_question
+875,2036,85,17,"On your prior deposition, we looked at that wire, and that came from your personal account to Andrea's firm; correct?",q,MR. LIEBESMAN,start_answer
+876,2039,85,20,That sounds right.,a,THE WITNESS,start_question
+877,2040,85,21,"And then also that day, there is a wire in excess of $150,000 to Srinergy; correct?",q,MR. LIEBESMAN,start_answer
+878,2043,85,24,Correct.,a,THE WITNESS,start_question
+879,2045,86,1,What was that transfer for?,q,MR. LIEBESMAN,start_answer
+880,2046,86,2,That was the first payment on their development fee.,a,THE WITNESS,start_question
+881,2048,86,4,What's the total amount of Srinergy's development fee?,q,MR. LIEBESMAN,start_answer
+882,2050,86,6,"Around $750,000.",a,THE WITNESS,start_question
+883,2051,86,7,How much of that have they been paid?,q,MR. LIEBESMAN,start_answer
+884,2053,86,9,Probably around 40 percent.,a,THE WITNESS,start_question
+885,2054,86,10,The next is a transfer to Zhongli New Energy?,q,MR. LIEBESMAN,start_answer
+886,2056,86,12,Yes.,a,THE WITNESS,start_question
+887,2057,86,13,"In the amount of $20,000.  What's that entity?",q,MR. LIEBESMAN,start_answer
+888,2059,86,15,It's a panel manufacturer.,a,THE WITNESS,start_question
+889,2060,86,16,What's the purpose of that transfer?,q,MR. LIEBESMAN,start_answer
+890,2061,86,17,Deposit for her modules.,a,THE WITNESS,start_question
+891,2062,86,18,For any particular project?,q,MR. LIEBESMAN,start_answer
+892,2063,86,19,"Yeah, for CEN Juncos.  These are all CEN Juncos.",a,THE WITNESS,start_question
+893,2065,86,21,"So the CSA Architects & Engineers, also for that project?",q,MR. LIEBESMAN,start_answer
+894,2067,86,23,Yes.,a,THE WITNESS,start_question
+895,2068,86,24,Elevation Mechanics?,q,MR. LIEBESMAN,start_answer
+896,2070,87,1,No.,a,THE WITNESS,start_question
+897,2071,87,2,What is Elevation Mechanics for?,q,MR. LIEBESMAN,start_answer
+898,2072,87,3,"Our website design, redesign and...",a,THE WITNESS,start_question
+899,2073,87,4,"The next one is ""WritingWorks."" What's that for?",q,MR. LIEBESMAN,start_answer
+900,2075,87,6,"That's a gentleman, Matt Cordis, who writes for grants.  And we hired him to file a grant for the Sault Tribe portfolio.",a,THE WITNESS,start_question
+901,2078,87,9,The which portfolio?,q,MR. LIEBESMAN,start_answer
+902,2079,87,10,Sault Tribe.,a,THE WITNESS,start_question
+903,2080,87,11,Okay.,q,MR. LIEBESMAN,start_answer
+904,2081,87,12,The one we spoke about in the UP.,a,THE WITNESS,start_question
+905,2082,87,13,"The next one is a wire transfer to Daniel in the amount of $13,000.  Is that compensation to him?",q,MR. LIEBESMAN,start_answer
+906,2085,87,16,Yes.,a,THE WITNESS,start_question
+907,2086,87,17,"And if you look down, there's to -- on May 22nd, there is a wire to you again at Chase in the amount of $10,000.  Do you see that?",q,MR. LIEBESMAN,start_answer
+908,2090,87,21,Yes.,a,THE WITNESS,start_question
+909,2091,87,22,And what's that for?,q,MR. LIEBESMAN,start_answer
+910,2092,87,23,I'm not sure.,a,THE WITNESS,start_question
+911,2093,87,24,Then it looks like -- does Gusto -- I'm looking at the withdrawals just below that.  Does Gusto then get involved to provide payroll services to CEN?,q,MR. LIEBESMAN,start_answer
+912,2098,88,4,Yes.,a,THE WITNESS,start_question
+913,2099,88,5,"So the payments that we saw being made to Daniel out of CEN's account, why hadn't that been done through Gusto?",q,MR. LIEBESMAN,start_answer
+914,2102,88,8,"We didn't have money in the company to actually satisfy payroll, so we didn't start payroll.",a,THE WITNESS,start_question
+915,2105,88,11,"Then towards the middle of the page, May 31, there is another transfer to you in the amount of $25,000; correct?",q,MR. LIEBESMAN,start_answer
+916,2108,88,14,Yes.,a,THE WITNESS,start_question
+917,2109,88,15,What was that for?,q,MR. LIEBESMAN,start_answer
+918,2110,88,16,"I believe that was to repay this loan.  I think that $25,000 was kicked back. I think there was something off with the transaction.",a,THE WITNESS,start_question
+919,2114,88,20,Yeah.  What was kicked back was the one to your mother-in-law.,q,MR. LIEBESMAN,start_answer
+920,2116,88,22,Oh.  Is that the one that -- there was some complication around that whole issue.,a,THE WITNESS,start_question
+921,2120,89,1,"Right.  From this, it look like on May 31, there is a transfer to you in the amount of 25,000 and then a transfer to Eileen Weisman in the amount of 25-5?",q,MR. LIEBESMAN,start_answer
+922,2124,89,5,Right.  That's the interest.,a,THE WITNESS,start_question
+923,2125,89,6,The additional 500 being interest?,q,MR. LIEBESMAN,start_answer
+924,2126,89,7,Yes.,a,THE WITNESS,start_question
+925,2127,89,8,"And we'll see that that's what gets kicked back.  I think that's the next statement. And then back to the debit card withdrawals, page 6.  So there's an entry dated May 20th for $149 to Restore Cryothera.  That's a medical spa; correct?",q,MR. LIEBESMAN,start_answer
+926,2134,89,15,Yes.,a,THE WITNESS,start_question
+927,2135,89,16,What was that payment for?,q,MR. LIEBESMAN,start_answer
+928,2136,89,17,"I was having a lot of lower back pain from sitting at the -- you know, at my desk all day and working.  And so I went to this place hoping they'd give me some therapy around, around that, so...",a,THE WITNESS,start_question
+929,2141,89,22,Was it for a massage?,q,MR. LIEBESMAN,start_answer
+930,2142,89,23,No.  It was for that cold -- it's like a frozen treatment.  It's supposed to shock your muscles.  It's like low temperature.  Real cold.,a,THE WITNESS,start_question
+931,2147,90,3,Did it work?,q,MR. LIEBESMAN,start_answer
+932,2148,90,4,"A bit, but not -- it was temporary. It worked for about a week or two, but it came back from sitting down so much.",a,THE WITNESS,start_question
+933,2151,90,7,"The payments to DEVEX towards the bottom there, May 21st, what were those payments for?  There's three.",q,MR. LIEBESMAN,start_answer
+934,2154,90,10,"Software development.  There's probably -- oh.  Those are back pay that we owed them, invoices.",a,THE WITNESS,start_question
+935,2157,90,13,There are a number of these debit card uses at like Chick-fil-A.  Is that just you grabbing lunch?,q,MR. LIEBESMAN,start_answer
+936,2160,90,16,"Yeah, meetings.  There happens to be a Chic-fil-A in the mall, so I do meetings at the mall with various people.  And you get to go to Chick-fil-A if you go with me.",a,THE WITNESS,start_question
+937,2164,90,20,You've been handed a document marked JA 30.  It's a Bank of America statement for CEN for the month of June 2019.,q,MR. LIEBESMAN,start_answer
+938,2167,90,23,Yes.,a,THE WITNESS,start_question
+939,2168,90,24,"So according to this, you begin the month of June with $71,124.96 in the account, and you end the month with $4,395.10; correct?",q,MR. LIEBESMAN,start_answer
+940,2173,91,4,Correct.,a,THE WITNESS,start_question
+941,2174,91,5,"So if you'll look at page 3 at the very top, deposits, it shows the reversal of the wire to your mother-in-law; correct?",q,MR. LIEBESMAN,start_answer
+942,2177,91,8,Yes.,a,THE WITNESS,start_question
+943,2178,91,9,And so that money comes back into the CEN account; right?,q,MR. LIEBESMAN,start_answer
+944,2180,91,11,Correct.,a,THE WITNESS,start_question
+945,2181,91,12,What was the reason for the reversal?  Was it a bank error?  Was it a decision on your part to recall it?,q,MR. LIEBESMAN,start_answer
+946,2184,91,15,"No, it was, I believe I had used the ACH routing number versus the wire number, so it was an error in what I did to effectuate this transfer.  So I was not aware of this.  So I made the mistake.  And so they took awhile, but they basically sent me back the money and then I sent it back again.",a,THE WITNESS,start_question
+947,2192,91,23,"All right.  If you look under withdrawals on this page -- well, there is another payment to Bucceri and Srinergy; correct?",q,MR. LIEBESMAN,start_answer
+948,2197,92,3,Yes.,a,THE WITNESS,start_question
+949,2198,92,4,And then another payment to the Texas IOLTA Trust Account.  That's to the bankruptcy lawyer?,q,MR. LIEBESMAN,start_answer
+950,2201,92,7,Yes.,a,THE WITNESS,start_question
+951,2202,92,8,"And then on June 7th, there are two transfers going out of the account, and all it says is -- it looks like it's another Bank of America checking account, possibly. It says, for the first one, ""CHK 219"" in the amount of ""10,000,"" and then the next one, the same day, ""CHK 206 for $20,000.""  What accounts are those that the money is being transferred to?",q,MR. LIEBESMAN,start_answer
+952,2211,92,17,"One is an operating account, and the other one I think is a savings account.",a,THE WITNESS,start_question
+953,2213,92,19,But for whom?,q,MR. LIEBESMAN,start_answer
+954,2214,92,20,"For Clean Energy Nexus.  I want to start putting money into a payroll account, and that way we don't have delays in payroll, but...  It's going to take awhile to build that up, so we're just starting slowly.",a,THE WITNESS,start_question
+955,2221,93,2,"So besides this account that ends in 8911, CEN has two other bank accounts at Bank of America?",q,MR. LIEBESMAN,start_answer
+956,2224,93,5,I think we have just one now.  One of them was closed for inactivity.  Yes.,a,THE WITNESS,start_question
+957,2226,93,7,You have one other account?,q,MR. LIEBESMAN,start_answer
+958,2227,93,8,One other.,a,THE WITNESS,start_question
+959,2228,93,9,So you're saying 219 and 206 are both CEN accounts?,q,MR. LIEBESMAN,start_answer
+960,2230,93,11,Yes.,a,THE WITNESS,start_question
+961,2231,93,12,Do you remember which one is the operating and which one was the savings?,q,MR. LIEBESMAN,start_answer
+962,2233,93,14,"I don't.  I would guess the bigger one, the $20,000 probably was to operations, but I'm guessing.",a,THE WITNESS,start_question
+963,2236,93,17,Do you know which one was closed for inactivity?,q,MR. LIEBESMAN,start_answer
+964,2238,93,19,I don't.,a,THE WITNESS,start_question
+965,2239,93,20,"Was it the savings, not the operating one?",q,MR. LIEBESMAN,start_answer
+966,2241,93,22,Yes.,a,THE WITNESS,start_question
+967,2242,93,23,You just don't know which number was which?,q,MR. LIEBESMAN,start_answer
+968,2245,94,1,Correct.,a,THE WITNESS,start_question
+969,2246,94,2,"So on June 7th, money is transferred to those two accounts in the amount of 10 and 20,000?",q,MR. LIEBESMAN,start_answer
+970,2249,94,5,Mm-hmm.,a,THE WITNESS,start_question
+971,2250,94,6,"And then if you'll go back to the top of that page, on June 10th and 11th, money is transferred from those accounts back into this account that we're looking at.",q,MR. LIEBESMAN,start_answer
+972,2255,94,11,Hmm.  Yes.,a,THE WITNESS,start_question
+973,2256,94,12,"So on June 7, you transfer out 20,000, but on June 10 and 11, the 20,000 comes right back into this account; correct?",q,MR. LIEBESMAN,start_answer
+974,2259,94,15,Yes.,a,THE WITNESS,start_question
+975,2260,94,16,Why was that done?,q,MR. LIEBESMAN,start_answer
+976,2261,94,17,I imagine to pay bills.  I don't know.,a,THE WITNESS,start_question
+977,2263,94,19,"And then the same question for the 10,000 from account number 219 that was paid out on June 7th.  On June 11th, that same amount comes right back into this account. Correct?",q,MR. LIEBESMAN,start_answer
+978,2268,94,24,Yes.,a,THE WITNESS,start_chat
+979,2270,95,1,"The DVD is about to end, so let's just take a break so they can take care of that.",side_chat,MR. LIEBESMAN,start_chat
+980,2273,95,4,Off the record at 12:16.,side_chat,THE VIDEOGRAPHER,symbols
+981,2275,95,6,--  --  --  --,symbols,,start_chat
+982,2276,95,7,We are on the record at 12:26.  This is DVD No. 2 of Joaquin Altenberg's deposition.,side_chat,THE VIDEOGRAPHER,start_question
+983,2280,95,11,"Okay.  Again, we're looking at the June 2019 bank statement for CEN.  Under withdrawals, where we left off, there are two to Gusto on June 11th.  Is that now indicative of Gusto taking over payroll services for the company?",q,MR. LIEBESMAN,start_answer
+984,2286,95,17,Yes.,a,THE WITNESS,start_question
+985,2287,95,18,"And then if you go back up to deposits, the next day, June 12, it looks like CEN was refunded the 20,000 paid to Zhonli Energy?",q,MR. LIEBESMAN,start_answer
+986,2291,95,22,Yes.,a,THE WITNESS,start_question
+987,2292,95,23,What was the purpose of that refund?,q,MR. LIEBESMAN,start_answer
+988,2293,95,24,"They canceled the order, our order.",a,THE WITNESS,start_question
+989,2295,96,1,Why did they cancel your order?,q,MR. LIEBESMAN,start_answer
+990,2296,96,2,Welcome to doing business with the Chinese.  They got a better offer.  They've been doing that all year.  Everybody has been having a terrible time with canceled orders.  We weren't the only one. Everybody's order got canceled.,a,THE WITNESS,start_question
+991,2302,96,8,"And then if you look at the bottom entry on that page for withdrawals, on June 12, there is a wire out to Eileen Weisman, your mother-in-law, for 15,000; right?",q,MR. LIEBESMAN,start_answer
+992,2306,96,12,Yes.,a,THE WITNESS,start_question
+993,2307,96,13,"And then if you turn the page, on June 17, there is another one to her in the amount of 10,500.  Do you see that?  The very top of the page.",q,MR. LIEBESMAN,start_answer
+994,2311,96,17,"Oh, yes.",a,THE WITNESS,start_question
+995,2312,96,18,4.,q,MR. LIEBESMAN,start_answer
+996,2313,96,19,Yes.,a,THE WITNESS,start_question
+997,2314,96,20,"Your mother-in-law loaned the company 25,000, the company repaid her 25-5, but because of the mistake, that was returned.  So it looks like you ended up paying her the 25-5 in two separate wires one on June 12 and one on June 17; right?",q,MR. LIEBESMAN,start_answer
+998,2321,97,2,Yes.,a,THE WITNESS,start_question
+999,2322,97,3,Totaling the 25-5?,q,MR. LIEBESMAN,start_answer
+1000,2323,97,4,Yes.,a,THE WITNESS,start_question
+1001,2324,97,5,Why were they done by separate wires?,q,MR. LIEBESMAN,start_answer
+1002,2326,97,7,I don't recall.  I don't know.,a,THE WITNESS,start_question
+1003,2327,97,8,"And then on page 4 still, there is another withdrawal to Blue Cross/Blue Shield Health on June 18th.",q,MR. LIEBESMAN,start_answer
+1004,2330,97,11,Yes.,a,THE WITNESS,start_question
+1005,2331,97,12,What's that payment for?,q,MR. LIEBESMAN,start_answer
+1006,2332,97,13,Insurance for Daniel and myself.,a,THE WITNESS,start_question
+1007,2333,97,14,Anyone else or just the two of you?,q,MR. LIEBESMAN,start_answer
+1008,2334,97,15,Just the two of us.,a,THE WITNESS,start_question
+1009,2335,97,16,For what period of time?,q,MR. LIEBESMAN,start_answer
+1010,2336,97,17,"Going forward from that month, June.",a,THE WITNESS,start_question
+1011,2337,97,18,So CEN is providing Daniel Gonzalez healthcare coverage?,q,MR. LIEBESMAN,start_answer
+1012,2339,97,20,Yes.,a,THE WITNESS,start_question
+1013,2340,97,21,"As far as the debit card, we've talked about what some of the vendors are. Energy Toolbase on June 7th for $150. What's Energy Toolbase?",q,MR. LIEBESMAN,start_answer
+1014,2345,98,1,"That's another subscription software tool to analyze bills for the client, for the host site, and come up with an analysis that relates -- this technology in conjunction with Helioscope technology, they bolt into each other, and you can then take your design and the bill side and match them up with the offset of energy production to the facility.",a,THE WITNESS,start_question
+1015,2354,98,10,"Then if you'd look at page 5, there's another charge at Restore Cryothera. Is that you making another attempt at that treatment?",q,MR. LIEBESMAN,start_answer
+1016,2358,98,14,"Yeah.  No, I don't think it was -- it was on a -- I signed up for a rolling program for treatment series.  So some discount they're offering to get a certain number of treatments.  And it bills over the month.",a,THE WITNESS,start_question
+1017,2364,98,20,And that treatment was for you personally?,q,MR. LIEBESMAN,start_answer
+1018,2366,98,22,Yeah.,a,THE WITNESS,start_question
+1019,2367,98,23,"Just below that, there are some charges using the card at -- in Cabo.",q,MR. LIEBESMAN,start_answer
+1020,2370,99,1,Yes.,a,THE WITNESS,start_question
+1021,2371,99,2,Were you in Cabo?,q,MR. LIEBESMAN,start_answer
+1022,2372,99,3,Yes.,a,THE WITNESS,start_question
+1023,2373,99,4,Was that vacation or business?,q,MR. LIEBESMAN,start_answer
+1024,2374,99,5,"No, that was business.",a,THE WITNESS,start_question
+1025,2375,99,6,What was the business in Cabo?,q,MR. LIEBESMAN,start_answer
+1026,2376,99,7,"I was looking at a power plant there that, in development, that needs some development capital and some development expertise to finish.",a,THE WITNESS,start_question
+1027,2380,99,11,"You've been handed a document marked JA 31.  It's a Bank of America bank statement for CEN for the month of July 2019.  And we see that you -- the account starts the month with $4,395.10, and it ends at the end of July with $68.70; is that correct?",q,MR. LIEBESMAN,start_answer
+1028,2387,99,18,Yes.,a,THE WITNESS,start_question
+1029,2388,99,19,"If you'll look at page 3, there are a number of deposits that -- it says, ""Bank of America Mobile.""  What deposits are those?  How are those being made?",q,MR. LIEBESMAN,start_answer
+1030,2392,99,23,They must be checks deposited into the account.,a,THE WITNESS,start_question
+1031,2395,100,1,Do you use your phone?  Do you take pictures of checks to deposit?,q,MR. LIEBESMAN,start_answer
+1032,2397,100,3,"Oh, yeah.  I do actually do that, yes.",a,THE WITNESS,start_question
+1033,2399,100,5,And do you know what those payments -- who they're from?,q,MR. LIEBESMAN,start_answer
+1034,2401,100,7,They're probably loans from my inlaws.,a,THE WITNESS,start_question
+1035,2403,100,9,Was there a new loan agreement or it's just a small amount --,q,MR. LIEBESMAN,start_answer
+1036,2405,100,11,I think these were just small amounts.,a,THE WITNESS,start_question
+1037,2407,100,13,Why did you need these amounts from your inlaws?,q,MR. LIEBESMAN,start_answer
+1038,2409,100,15,The company was low on money.,a,THE WITNESS,start_question
+1039,2410,100,16,"On July 1, there is a wire transfer to you in your USAA account in the amount of $2,000; correct?",q,MR. LIEBESMAN,start_answer
+1040,2413,100,19,Yes.,a,THE WITNESS,start_question
+1041,2414,100,20,What was that money for?,q,MR. LIEBESMAN,start_answer
+1042,2415,100,21,I would guess living expenses.,a,THE WITNESS,start_question
+1043,2416,100,22,"And then on July 9, there is another transfer to you that's the same account in the amount of $2,000 again; correct?",q,MR. LIEBESMAN,start_answer
+1044,2420,101,1,Yes.,a,THE WITNESS,start_question
+1045,2421,101,2,"So this is money, basically, that you you've got loans from your inlaws, as we've looked at above, and then you were wiring yourself $2,000 twice.",q,MR. LIEBESMAN,start_chat
+1046,2425,101,6,Objection to form.,side_chat,MS. BROOKS,start_question
+1047,2426,101,7,Correct?,q,MR. LIEBESMAN,start_answer
+1048,2427,101,8,Yes.,a,THE WITNESS,start_question
+1049,2428,101,9,"Then after we see those two wire transfers to you on July 1 and July 9, there are a few Zelle transfers to Alison Altenberg.  Do you see those?",q,MR. LIEBESMAN,start_answer
+1050,2432,101,13,Yes.,a,THE WITNESS,start_question
+1051,2433,101,14,What was the purpose for those transfers to Alison Altenberg?,q,MR. LIEBESMAN,start_answer
+1052,2435,101,16,"We did not issue a salary, a payment, so this is in lieu of that.  Just basically reimbursing myself for salary expenses unpaid.",a,THE WITNESS,start_question
+1053,2439,101,20,"But it says it's to Alison Altenberg, your wife; right?",q,MR. LIEBESMAN,start_answer
+1054,2441,101,22,"My wife carries the purse. Everything goes to our joint account.  So, yes, it says to her, but it's actually to that USAA account.",a,THE WITNESS,start_question
+1055,2446,102,2,Who initiated that transfer?,q,MR. LIEBESMAN,start_answer
+1056,2447,102,3,I did.,a,THE WITNESS,start_question
+1057,2448,102,4,"And if you turn to page 4, there are a few more transfers.",q,MR. LIEBESMAN,start_answer
+1058,2450,102,6,"Yeah.  They're all small amounts, but, yes.",a,THE WITNESS,start_question
+1059,2452,102,8,"All right.  Then there's a new account, card account number.  Is that the new card that you testified about earlier?",q,MR. LIEBESMAN,start_answer
+1060,2455,102,11,"Yes, that's the one that was -- the prior one was compromised, so they issued me a new one.",a,THE WITNESS,start_question
+1061,2458,102,14,"I'm handing you a document marked JA 32.  It is a printout of CEN's bank statement from Bank of America for -- well, it covers a good part of July, but it also covers from the beginning of August until, it looks like, August 5th, 2019.  You printed this out?",q,MR. LIEBESMAN,start_answer
+1062,2465,102,21,Yes.,a,THE WITNESS,start_question
+1063,2466,102,22,"If you'll look at page 2, and I'm only looking at the August entries, the first entry on August 2nd is a transfer to CEN in the amount of $180,000.",q,MR. LIEBESMAN,start_answer
+1064,2471,103,2,Correct.,a,THE WITNESS,start_question
+1065,2472,103,3,"From account number 219.  Does that help you figure out what account 219 was then, whether it was the operating or savings?",q,MR. LIEBESMAN,start_answer
+1066,2476,103,7,Yes.,a,THE WITNESS,start_question
+1067,2477,103,8,So 219 was the operating account?,q,MR. LIEBESMAN,start_answer
+1068,2478,103,9,219 is the operating account related to CEN Juncos Solar.,a,THE WITNESS,start_question
+1069,2480,103,11,So it's Juncos Solar?,q,MR. LIEBESMAN,start_answer
+1070,2481,103,12,"CEN Juncos Solar, yes.",a,THE WITNESS,start_question
+1071,2482,103,13,"All right.  So then on August 2nd, $180,000 is transferred to CEN from CEN Juncos Solar; correct?",q,MR. LIEBESMAN,start_answer
+1072,2485,103,16,Correct.,a,THE WITNESS,start_question
+1073,2486,103,17,What was the purpose of that transfer?,q,MR. LIEBESMAN,start_answer
+1074,2488,103,19,Meaning why did we pay?  It's payments owed.,a,THE WITNESS,start_question
+1075,2490,103,21,Payments owed to CEN by CEN Juncos?,q,MR. LIEBESMAN,start_answer
+1076,2491,103,22,"Clean Energy Nexus, correct.",a,THE WITNESS,start_question
+1077,2492,103,23,"How did you come up with that amount, $180,000 even?",q,MR. LIEBESMAN,start_answer
+1078,2495,104,1,It's a partial payment.  It's basically what we could afford to pay ourselves of the fees we're owed.,a,THE WITNESS,start_question
+1079,2498,104,4,Were there any payments made to CEN Juncos Solar's bank account that came from a source other than CEN's bank account?,q,MR. LIEBESMAN,start_answer
+1080,2501,104,7,Yes.,a,THE WITNESS,start_question
+1081,2502,104,8,And who paid money to CEN Juncos Solar's bank account?,q,MR. LIEBESMAN,start_answer
+1082,2504,104,10,REA.,a,THE WITNESS,start_question
+1083,2505,104,11,"So we saw one payment from REA in the amount of over $500,000.  There were more payments made?",q,MR. LIEBESMAN,start_answer
+1084,2508,104,14,Yes.,a,THE WITNESS,start_question
+1085,2509,104,15,And those went directly to CEN Juncos Solar?,q,MR. LIEBESMAN,start_answer
+1086,2511,104,17,"Those will continue, yes.",a,THE WITNESS,start_question
+1087,2512,104,18,"Then if you look at page 1, on August 2nd, at the bottom, there is a transfer to Daniel Gonzalez in the amount of $5,000.",q,MR. LIEBESMAN,start_answer
+1088,2516,104,22,Yes.,a,THE WITNESS,start_question
+1089,2517,104,23,What was that for?,q,MR. LIEBESMAN,start_answer
+1090,2518,104,24,"Unpaid salary.  We didn't pay salaries in July.  So he was getting desperate for money, so I wired him some money.",a,THE WITNESS,start_question
+1091,2523,105,4,Was -- why wasn't this run through Gusto?,q,MR. LIEBESMAN,start_answer
+1092,2525,105,6,"Because Gusto charges a fee and takes out the taxes, so it would have been more money than we could afford to pay him at the time.",a,THE WITNESS,start_question
+1093,2529,105,10,But this was compensation to Mr. Gonzalez?,q,MR. LIEBESMAN,start_answer
+1094,2531,105,12,Correct.,a,THE WITNESS,start_question
+1095,2532,105,13,"All right.  Then there are a few wire transfers.  On August 2nd, there's three of them.  And I had asked because it wasn't showing on this document for the full description.  And I believe you provided that as well; correct?",q,MR. LIEBESMAN,start_answer
+1096,2538,105,19,Yes.,a,THE WITNESS,start_question
+1097,2539,105,20,"So just to speed this up.  I'm going to hand you the three at the same time.  I'm handing you JA 33, JA 34, JA 35. All right.  So if you'll look at JA 33, it shows that there was a wire transfer in the amount of $2500 on August 2nd to the Texas IOLTA Trust Account. Is that the bankruptcy lawyer again?",q,MR. LIEBESMAN,start_answer
+1098,2548,106,4,Yes.,a,THE WITNESS,start_question
+1099,2549,106,5,"And then JA 34 shows a transfer on August 2nd as well, $75,000 to Andrea's firm; correct?",q,MR. LIEBESMAN,start_answer
+1100,2552,106,8,Correct.,a,THE WITNESS,start_question
+1101,2553,106,9,And this was the second retainer payment that you made to the firm?,q,MR. LIEBESMAN,start_answer
+1102,2555,106,11,Correct.,a,THE WITNESS,start_question
+1103,2556,106,12,"So in the retainer agreement, I recall it being another $50,000 that was supposed to be paid by early June, that that wasn't paid and that became this $75,000 payment?",q,MR. LIEBESMAN,start_answer
+1104,2561,106,17,Correct.,a,THE WITNESS,start_question
+1105,2562,106,18,"Why was that payment that we're looking at, that $75,000 payment, why was that paid out of the CEN account?",q,MR. LIEBESMAN,start_answer
+1106,2565,106,21,It shouldn't have been.,a,THE WITNESS,start_question
+1107,2566,106,22,"And then if you'll look at JA 35, it shows that on the same day, you also wire transferred to yourself $50,000 to your USAA account; correct?",q,MR. LIEBESMAN,start_answer
+1108,2571,107,2,Correct.,a,THE WITNESS,start_question
+1109,2572,107,3,"And what was that $50,000 transfer for?",q,MR. LIEBESMAN,start_answer
+1110,2574,107,5,"Just personal expenses, back pay. It was all personal debts and so forth.",a,THE WITNESS,start_question
+1111,2576,107,7,"Back to the printout for the August -- we're almost done.  So also on August 2nd, there is a transfer to a law firm, Culhane Meadows.",q,MR. LIEBESMAN,start_answer
+1112,2580,107,11,"Culhane Meadows, yes.",a,THE WITNESS,start_question
+1113,2581,107,12,What services did that law FIRM provide to CEN?,q,MR. LIEBESMAN,start_answer
+1114,2583,107,14,"Legal services around the projects. They're the attorney there, Scott Gerhardt, is a former Sun -- not Sun Power, First Solar attorney.  And he locked in Culhane and is providing legal services to us now.",a,THE WITNESS,start_question
+1115,2588,107,19,"The one right above it, PayPal KingMi, purchase for $2,000?",q,MR. LIEBESMAN,start_answer
+1116,2590,107,21,That's to Daniel.,a,THE WITNESS,start_question
+1117,2591,107,22,What is that?  That's lighting or something?,q,MR. LIEBESMAN,start_answer
+1118,2593,107,24,That's his name.  I don't know. King Mishmosh or some silliness.  I don't know.  That's his own personal account.,a,THE WITNESS,start_question
+1119,2597,108,3,So that's a payment to Daniel?,q,MR. LIEBESMAN,start_answer
+1120,2598,108,4,Correct.,a,THE WITNESS,start_question
+1121,2599,108,5,As compensation?,q,MR. LIEBESMAN,start_answer
+1122,2600,108,6,Yes.,a,THE WITNESS,start_question
+1123,2601,108,7,So is it the plan to use Gusto going forward or not?,q,MR. LIEBESMAN,start_answer
+1124,2603,108,9,"Yes, we're back on track.  As you see up top, we're going back and repaying back pay.",a,THE WITNESS,start_chat
+1125,2606,108,12,"Just give me a minute, I think.  I've been bypassing things so we can get done and you can get out of here.",side_chat,MR. LIEBESMAN,start_chat
+1126,2610,108,16,Thank you.,side_chat,THE WITNESS,start_chat
+1127,2611,108,17,"Give me a minute, all right?",side_chat,MR. LIEBESMAN,start_chat
+1128,2613,108,19,Do you want to go off the record?,side_chat,THE COURT REPORTER,start_chat
+1129,2615,108,21,You might as well go off the record.,side_chat,MR. LIEBESMAN,start_chat
+1130,2617,108,23,Off the record at 12:47.,side_chat,THE VIDEOGRAPHER,start_chat
+1131,2620,109,1,No further questions.,side_chat,MR. LIEBESMAN,start_chat
+1132,2622,109,3,Do counsel want to order a transcript?,side_chat,THE COURT REPORTER,start_chat
+1133,2624,109,5,Read and sign. Thank you.  Electronic.,side_chat,MS. BROOKS,start_chat
+1134,2626,109,7,Electronic.,side_chat,MR. LIEBESMAN,symbols
+1135,2627,109,8,"--  --  --  -- I N D E X WITNESS:  JOAQUIN ALTENBERG           PAGE E X H I B I T S JA DEPOSITION EXHIBITS NO.                                   MARKED Exhibit 25  Document titled ""Get to NTP in 90 Days""......................     3 Exhibit 26 Document titled ""Our Proven Process"".............................     3 Exhibit 27  Document stamped Altenberg 513 through 539......................     3 Exhibit 28  Document stamped Altenberg 494 through 503......................     3 Exhibit 29  Document stamped Altenberg 486 through 493......................     3 Exhibit 30  Clean Energy Nexus, LLC bank account statement for June 1, 2019 to June 30, 2019........     3 Exhibit 31 Clean Energy Nexus, LLC bank account statement for July 1, 2019 to July 31, 2019........     3 E X H I B I T S JA DEPOSITION EXHIBITS NO.                                   MARKED Exhibit 32  Document titled ""CEN Checking Account: Account Activity"" for 7/1/2019 - 8/2/2019..............     3 Exhibit 33  Document showing ""CEN Checking Account: Account Activity, Post Date:  8/2/2019, Texas IOLTA Trust Account"".............................     3 Exhibit 34  Document showing ""Bank of America Online Banking, CEN Checking Account: Account Activity, Post Date: 8/2/2019, David Wilks................     3 Exhibit 35  Document showing Bank of America Online Banking, CEN Checking Account: Account Activity, Post Date: 8/2/2019, Joaquin Altenberg..........     3 READING AND SIGNING INSTRUCTIONS - PAGE 108 ERRATA SHEET/WITNESS' SIGNATURE - PAGE 109 CERTIFICATE OF REPORTER - PAGE 110 READING AND SIGNING INSTRUCTIONS After reading the transcript of your deposition, please note any change or correction and the reason therefor on the errata sheet that appears on the following page. DO NOT MAKE ANY MARKS OR NOTATIONS ON THE TRANSCRIPT ITSELF.  Please sign and date the errata sheet and return it to our office at the address indicated below.  Our office will distribute copies of the executed errata sheet to all counsel.  If necessary, you can make additional copies of the errata sheet. Rule 30(e) governing this procedure provides the deposition may be filed as transcribed if you do not return a signed errata sheet within 30 days. RETURN ORIGINAL ERRATA SHEET TO: Wilcox & Fetzer, Ltd. 1330 King Street, Wilmington, DE  19801 depos@wilfet.com - 302-655-0477 DEPONENT:  JOAQUIN ALTENBERG CASE:    HOMF II Investment Corp., et al., PAGE/LINE/   CHANGE OR CORRECTION AND REASON",symbols,,symbols
+1136,2727,113,5,----/----/----------------------------------,symbols,,symbols
+1137,2728,113,6,----/----/----------------------------------,symbols,,symbols
+1138,2729,113,7,----/----/----------------------------------,symbols,,symbols
+1139,2730,113,8,----/----/----------------------------------,symbols,,symbols
+1140,2731,113,9,----/----/----------------------------------,symbols,,symbols
+1141,2732,113,10,----/----/----------------------------------,symbols,,symbols
+1142,2733,113,11,----/----/----------------------------------,symbols,,symbols
+1143,2734,113,12,----/----/----------------------------------,symbols,,symbols
+1144,2735,113,13,----/----/----------------------------------,symbols,,symbols
+1145,2736,113,14,----/----/----------------------------------,symbols,,symbols
+1146,2737,113,15,----/----/----------------------------------,symbols,,symbols
+1147,2738,113,16,----/----/----------------------------------,symbols,,symbols
+1148,2739,113,17,----/----/----------------------------------,symbols,,symbols
+1149,2740,113,18,----/----/----------------------------------,symbols,,symbols
+1150,2741,113,19,"----/----/---------------------------------- deposition and, except for any corrections to the transcript as an accurate record of Signature of Deponent State of Delaware  )",symbols,,symbols
+1151,2753,114,2,") I, Lucinda M. Reeder, Registered hereby certify that there came before me on JOAQUIN ALTENBERG, who was duly sworn by me respective parties; that the questions asked taken down by me in Stenotype notes and computer-aided transcription and computer is a true and correct transcript of the witness. I further certify that I am not party, or otherwise interested in the event",symbols,,end
